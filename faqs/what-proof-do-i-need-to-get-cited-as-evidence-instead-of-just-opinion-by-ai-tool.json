@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-proof-do-i-need-to-get-cited-as-evidence-instead-of-just-opinion-by-ai-tool",
+  "name": "What proof do I need to get cited as evidence instead of just opinion by AI tools?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What proof do I need to get cited as evidence instead of just opinion by AI tools?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI-generated citations often lack real evidence, so ask: “Could this page be cited as evidence, or only summarized as opinion?” before publishing. Strong claims must be backed by visible proof like product docs, benchmarks, or public references—not vague authority language. Key factors: ensure the first screen answers the query directly, add extractable blocks (tables, checklists), and verify every factual claim. Practical guidance: draft around claims you can prove, remove invented examples, and include short answer blocks that AI can extract. If skeptical buyers can’t see why to trust the page, it won’t be cited as evidence.",
+        "@type": "Answer",
+        "description": "Back strong claims with visible proof like docs, benchmarks, or screenshots; answer the query directly on the first screen; and verify every factual claim."
+      }
+    }
+  ],
+  "description": "Back strong claims with visible proof like docs, benchmarks, or screenshots; answer the query directly on the first screen; and verify every factual claim."
+}

@@ -1,0 +1,54 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Making Your Website AI-Citable: A Practical Checklist",
+  "publisher": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Getting your website recognized and cited by AI systems like Google AI Overviews and Perplexity can feel a bit like cracking a secret code, but it doesn't have to be! Here's a practical checklist to help you get started on making your content AI-citable. First, make important content easy to access. Think clear headings, concise paragraphs, and a logical flow. If a human can't find it quickly, an AI bot probably won't either. Second, add structured data! This is huge. Using schema markup like FAQ or HowTo helps AI understand exactly what specific pieces of information on your page mean. Third, get into the habit of using question-and-answer formatting, especially for common customer queries. This directly mirrors how AI often delivers information. Fourth, make sure your answers are clear, concise, and ideally placed near the top of your relevant pages. Don't make AI dig for the gold! Finally, remember that consistency is key. AI systems love fresh, accurate content, so plan for regular updates. If this feels like too much, sometimes getting a professional involved can really streamline the process and ensure you're hitting all the right notes for AI visibility.",
+  "datePublished": "2026-07-19"
+}

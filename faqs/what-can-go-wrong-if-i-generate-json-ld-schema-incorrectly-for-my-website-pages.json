@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-can-go-wrong-if-i-generate-json-ld-schema-incorrectly-for-my-website-pages",
+  "name": "What can go wrong if I generate JSON-LD schema incorrectly for my website pages?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong if I generate JSON-LD schema incorrectly for my website pages?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common mistakes include using the same schema on every page, mismatching schema with visible content, stacking incompatible types (like HowTo + Product on one URL), placing schema in the body instead of the head, and failing to validate with Google's Rich Results Test. These errors can block rich results or trigger manual penalties.",
+        "@type": "Answer",
+        "description": "Same schema on all pages, content mismatches, stacking incompatible types, body placement instead of head, and no validation. These block rich results or cause penalties."
+      }
+    }
+  ],
+  "description": "Same schema on all pages, content mismatches, stacking incompatible types, body placement instead of head, and no validation. These block rich results or cause"
+}

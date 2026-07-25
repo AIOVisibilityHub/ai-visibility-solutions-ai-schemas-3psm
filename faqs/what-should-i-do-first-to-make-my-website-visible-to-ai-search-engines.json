@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-should-i-do-first-to-make-my-website-visible-to-ai-search-engines",
+  "name": "What should I do first to make my website visible to AI search engines?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first to make my website visible to AI search engines?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by ensuring your critical content is in plain HTML, not hidden behind JavaScript or logins, and update your robots.txt to allow AI crawlers. These technical fixes are the foundation; without them, AI models cannot read or cite your site regardless of how good your content is.",
+        "@type": "Answer",
+        "description": "Put critical content in plain HTML, remove JavaScript barriers, and allow AI crawlers in robots.txt."
+      }
+    }
+  ],
+  "description": "Put critical content in plain HTML, remove JavaScript barriers, and allow AI crawlers in robots.txt."
+}

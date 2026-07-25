@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/how-do-i-get-my-website-cited-by-ai-search-tools-like-google-ai-overviews",
+  "name": "How do I get my website cited by AI search tools like Google AI Overviews?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I get my website cited by AI search tools like Google AI Overviews?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You cannot guarantee AI tools will cite your page, but you can significantly increase the odds by structuring content with question-format headings, direct answers in the first 2–3 sentences, and structured elements like tables or lists. AI systems prefer content that is specific, credible, and easily crawlable, so include clear “what is” and “how to” headers plus FAQ schema markup. Key factors: use H2s as real questions, write answer-first paragraphs, add FAQPage/HowTo schema, and build topical clusters with internal links. Practically, draft short paragraphs with 1 supporting source per claim and verify every factual statement before publishing. While no method guarantees a citation, this approach aligns your content with how AI answer engines select and paraphrase sources.",
+        "@type": "Answer",
+        "description": "Use question-format headings, answer in the first 2–3 sentences, add FAQ/HowTo schema, and include tables or lists to match AI search preferences."
+      }
+    }
+  ],
+  "description": "Use question-format headings, answer in the first 2–3 sentences, add FAQ/HowTo schema, and include tables or lists to match AI search preferences."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-s-the-first-step-i-should-take-when-implementing-aeo-with-new-software",
+  "name": "What's the first step I should take when implementing AEO with new software?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the first step I should take when implementing AEO with new software?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by researching question-type queries your audience asks using tools like AnswerThePublic, SEMrush, or Google's People Also Ask. Then structure content with explicit question headings (H2/H3), place direct 40–60-word answers upfront, add FAQ sections, and implement JSON-LD schema markup validated via Google's Rich Results Test.",
+        "@type": "Answer",
+        "description": "Research question-type queries with AnswerThePublic or SEMrush, then structure content with question headings, 40–60-word upfront answers, FAQ sections, and validated JSON-LD schema markup."
+      }
+    }
+  ],
+  "description": "Research question-type queries with AnswerThePublic or SEMrush, then structure content with question headings, 40–60-word upfront answers, FAQ sections, and val"
+}

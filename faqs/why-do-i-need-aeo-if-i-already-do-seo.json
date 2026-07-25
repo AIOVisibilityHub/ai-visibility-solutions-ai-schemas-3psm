@@ -1,0 +1,26 @@
+{
+  "url": "aiovisibility.com/faq/why-do-i-need-aeo-if-i-already-do-seo",
+  "name": "Why do I need AEO if I already do SEO?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do I need AEO if I already do SEO?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI models don&#x27;t crawl and index websites the same way traditional search engines do. They require highly structured, explicit data to understand your business, offerings, and expertise accurately. Without AEO, even a well-SEO&#x27;d site may be invisible to AI, meaning your competitors could be cited while you&#x27;re ignored. AEO ensures your business is present in the answers users receive from AI, which is becoming a primary way people find information and make decisions.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "AI models don&#x27;t crawl and index websites the same way traditional search engines do. They require highly structured, explicit data to understand your busin"
+}

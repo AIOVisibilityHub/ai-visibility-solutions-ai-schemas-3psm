@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-generate-json-ld-schema-for-all-pages-on-my-website",
+  "name": "How long does it take to generate JSON-LD schema for all pages on my website?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to generate JSON-LD schema for all pages on my website?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process takes 2–7 days for a 20-page site done manually, 1–2 hours with automated generators, or 1–3 weeks for enterprise custom implementation. You need your page URLs, content details (prices, FAQs, reviews), and schema type goals before starting.",
+        "@type": "Answer",
+        "description": "2–7 days manually for 20 pages, 1–2 hours with automation, or 1–3 weeks for enterprise custom work. Prepare URLs, content details, and schema goals first."
+      }
+    }
+  ],
+  "description": "2–7 days manually for 20 pages, 1–2 hours with automation, or 1–3 weeks for enterprise custom work. Prepare URLs, content details, and schema goals first."
+}

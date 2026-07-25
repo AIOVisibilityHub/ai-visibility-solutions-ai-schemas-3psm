@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-happens-if-i-use-ai-generated-citations-without-checking-them-first",
+  "name": "What happens if I use AI-generated citations without checking them first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I use AI-generated citations without checking them first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Never rely on AI-generated references without rigorous verification—spot-check 20–30% randomly and reconstruct your bibliography if you find even one fabricated source. Ask AI for verifiable sources only, require DOI/ISBN/URL, specify the citation style, and manually verify every reference before using it. Key risks: AI may invent fake authors, journals, or URLs, and hallucinate DOIs that don’t exist. Practical guidance: use tools like Citely AI to batch-check references, and only include sources you can confirm with a direct link or official identifier. Even one inaccurate citation suggests more errors exist, so treat AI citations as drafts, not final references.",
+        "@type": "Answer",
+        "description": "AI often invents fake sources, authors, or DOIs—always verify 20–30% of references manually and reconstruct your bibliography if any are inaccurate."
+      }
+    }
+  ],
+  "description": "AI often invents fake sources, authors, or DOIs—always verify 20–30% of references manually and reconstruct your bibliography if any are inaccurate."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/how-exactly-does-the-knowledge-graph-and-entity-file-generation-process-work-ste",
+  "name": "How exactly does the Knowledge Graph and Entity File generation process work step-by-step?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How exactly does the Knowledge Graph and Entity File generation process work step-by-step?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process involves five core steps: preprocessing raw data, performing Named Entity Recognition (NER) to identify entities, extracting relationships between them, resolving ambiguity through disambiguation, and post-processing to validate and enrich the graph structure.",
+        "@type": "Answer",
+        "description": "It involves preprocessing data, Named Entity Recognition (NER), relationship extraction, disambiguation, and post-processing validation to build the graph."
+      }
+    }
+  ],
+  "description": "It involves preprocessing data, Named Entity Recognition (NER), relationship extraction, disambiguation, and post-processing validation to build the graph."
+}

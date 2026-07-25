@@ -1,0 +1,52 @@
+{
+  "name": "What to Stop Doing If You Want More AI Citations",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "It's easy to get caught up in old habits when trying to get AI to recommend your business, but some common practices actually hurt your chances. First off, stop using vague marketing fluff. AI systems are looking for direct answers, not flowery language. If your content is full of buzzwords that don't actually explain what you do concisely, AI will likely skip right over it. Second, don't write super long answers without getting to the point quickly. AI loves a direct answer, and then you can elaborate. If you bury the key information, it's less likely to be extracted and cited. Third, avoid only targeting topics based on generic keyword tools. While keywords are still important for traditional search, AI is often looking for answers to specific customer questions. These questions might not always show up as high-volume keywords, but they're critical for AI citations. Finally, definitely don't skip out on structured data or schema markup. This tells AI exactly what your content is about and makes it much easier for it to understand and cite. If you're struggling to implement structured data effectively or identify those real customer questions, that's a good sign it's time to bring in professional help to ensure your technical content architecture is spot on. If you're ready to make your content AI-citation friendly, we can help transform your data into AI-citable content today.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    }
+  ],
+  "description": "What to Stop Doing If You Want More AI Citations"
+}

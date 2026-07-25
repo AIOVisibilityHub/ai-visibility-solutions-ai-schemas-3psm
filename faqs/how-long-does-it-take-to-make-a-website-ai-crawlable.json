@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-make-a-website-ai-crawlable",
+  "name": "How long does it take to make a website AI-crawlable?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to make a website AI-crawlable?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full AI crawlability audit takes 3–7 days for small sites, 1–3 weeks for large enterprises, depending on complexity and access to logs. Fixes can be immediate or take weeks if CMS migrations are needed.\n\nTimelines extend if you lack documentation, have prior bad experiences with vendors, or need custom schema for niche products. Quarterly audits are recommended for large brands.\n\nKey factors: site size, JavaScript dependency, availability of server logs, and whether you need staging environment testing.\n\nStart with a full audit using professional SEO tools, then prioritize HTML cleanup and schema implementation before major redesigns.\n\nOur team in San Diego and nationwide delivers audits in 5 days for most mid-sized businesses.",
+        "@type": "Answer",
+        "description": "3–7 days for small sites; 1–3 weeks for large enterprises. Depends on complexity and documentation."
+      }
+    }
+  ],
+  "description": "3–7 days for small sites; 1–3 weeks for large enterprises. Depends on complexity and documentation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/how-much-does-an-ai-visibility-audit-and-optimization-service-actually-cost",
+  "name": "How much does an AI visibility audit and optimization service actually cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does an AI visibility audit and optimization service actually cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI visibility audits typically cost between $500 and $2,500 depending on site size, while ongoing optimization services range from $1,000 to $5,000 monthly. The investment is justified because AI Overviews now capture significant traffic that traditional SEO once dominated, making visibility in these responses critical for modern lead generation.",
+        "@type": "Answer",
+        "description": "Audits: $500–$2,500; Monthly optimization: $1,000–$5,000."
+      }
+    }
+  ],
+  "description": "Audits: $500–$2,500; Monthly optimization: $1,000–$5,000."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-common-mistakes-or-risks-should-i-avoid-when-using-aeo-software",
+  "name": "What common mistakes or risks should I avoid when using AEO software?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common mistakes or risks should I avoid when using AEO software?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest AEO risks include over-optimizing for short phrases (AI prefers 160-character answer blocks), using generic content that LLMs already know, and ignoring multimodal formats like video and images. AI engines also favor fresh, authoritative content, so outdated or link-heavy pages get cited less frequently.",
+        "@type": "Answer",
+        "description": "Avoid over-optimizing short phrases, using generic content LLMs already know, and ignoring video/images. AI favors fresh, authoritative content in 160-character blocks and multimodal formats."
+      }
+    }
+  ],
+  "description": "Avoid over-optimizing short phrases, using generic content LLMs already know, and ignoring video/images. AI favors fresh, authoritative content in 160-character"
+}

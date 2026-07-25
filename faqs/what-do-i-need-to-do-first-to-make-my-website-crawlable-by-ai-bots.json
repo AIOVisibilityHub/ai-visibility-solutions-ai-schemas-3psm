@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-do-i-need-to-do-first-to-make-my-website-crawlable-by-ai-bots",
+  "name": "What do I need to do first to make my website crawlable by AI bots?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What do I need to do first to make my website crawlable by AI bots?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You must ensure critical content is in clean HTML, allow AI crawlers in robots.txt, and implement granular schema markup like Article, FAQ, and Product types. These steps let AI agents access, render, and extract facts from your pages without JavaScript barriers.\n\nAI crawlers often fail when content is hidden in scripts or blocked by default directives. Modern 2026 standards demand entity-based schema and server-rendered HTML for full visibility.\n\nKey factors include: serving text in HTML, removing robots.txt blocks for GPTBot/ClaudeBot, and using schema.org to label intent.\n\nStart by auditing your site with SEO tools to fix broken links and schema errors, then simplify HTML and test with real AI prompts.\n\nOur team in Los Angeles and nationwide handles these technical audits and implementations for businesses ready for generative search.",
+        "@type": "Answer",
+        "description": "Put critical content in clean HTML, allow AI crawlers in robots.txt, and add granular schema markup (Article, FAQ, Product)."
+      }
+    }
+  ],
+  "description": "Put critical content in clean HTML, allow AI crawlers in robots.txt, and add granular schema markup (Article, FAQ, Product)."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/how-can-i-measure-if-my-ai-visibility-optimization-is-actually-working",
+  "name": "How can I measure if my AI visibility optimization is actually working?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I measure if my AI visibility optimization is actually working?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Track your appearance in Google AI Overviews, LLM citation frequency, and brand mention volume across AI-generated responses using specialized tools like AI bot analytics or Cloudflare's crawler insights. Unlike traditional SEO which tracks keyword rankings, AI visibility requires monitoring whether your brand is actually being cited in generated answers.",
+        "@type": "Answer",
+        "description": "Monitor AI Overview appearances, LLM citation frequency, and brand mentions in AI-generated responses."
+      }
+    }
+  ],
+  "description": "Monitor AI Overview appearances, LLM citation frequency, and brand mentions in AI-generated responses."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/how-many-json-ld-script-elements-should-i-put-on-each-page-and-where-do-they-go",
+  "name": "How many JSON-LD script elements should I put on each page and where do they go?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How many JSON-LD script elements should I put on each page and where do they go?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need one primary JSON-LD script per page in the <head>, containing only the schema type that matches that page's main content (Product, Article, FAQPage, etc.). Use @graph to include multiple related entities if needed, but never duplicate declarations or mix microdata with JSON-LD on the same page.",
+        "@type": "Answer",
+        "description": "One primary JSON-LD script per page in the <head>. Match schema type to page content. Use @graph for multiple entities. Never duplicate or mix with microdata."
+      }
+    }
+  ],
+  "description": "One primary JSON-LD script per page in the <head>. Match schema type to page content. Use @graph for multiple entities. Never duplicate or mix with microdata."
+}

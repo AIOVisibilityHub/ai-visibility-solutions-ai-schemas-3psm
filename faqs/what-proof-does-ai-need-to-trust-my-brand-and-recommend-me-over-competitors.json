@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-proof-does-ai-need-to-trust-my-brand-and-recommend-me-over-competitors",
+  "name": "What proof does AI need to trust my brand and recommend me over competitors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What proof does AI need to trust my brand and recommend me over competitors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You must be mentioned by third-party websites, included in \"best of\" lists, and have 100+ recent reviews with proper schema markup. AI relies heavily on external corroboration to verify trust; without third-party citations and reviews, your brand is often seen as unverified even if your site is technically perfect.",
+        "@type": "Answer",
+        "description": "Third-party citations, inclusion in comparison lists, and 100+ recent reviews with schema markup."
+      }
+    }
+  ],
+  "description": "Third-party citations, inclusion in comparison lists, and 100+ recent reviews with schema markup."
+}

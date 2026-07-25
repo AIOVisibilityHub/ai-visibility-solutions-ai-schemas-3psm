@@ -1,0 +1,26 @@
+{
+  "url": "aiovisibility.com/faq/what-are-ai-visibility-files",
+  "name": "What are AI Visibility Files?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are AI Visibility Files?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI Visibility Files are a collection of machine-readable files and structured data designed specifically for AI models. This includes JSON-LD structured data, llms.txt, ai-plugin.json, ai-sitemap.xml, FAQPage schema, Knowledge Graph files, and help articles formatted for RAG systems and LLM ingestion. These files tell AI exactly who you are, what you do, and where you serve, enabling them to confidently cite your business.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "AI Visibility Files are a collection of machine-readable files and structured data designed specifically for AI models. This includes JSON-LD structured data, l"
+}

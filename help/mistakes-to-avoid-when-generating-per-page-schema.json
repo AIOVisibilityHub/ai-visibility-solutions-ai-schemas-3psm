@@ -1,0 +1,54 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Generating Per-Page Schema",
+  "publisher": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Getting your per-page JSON-LD schema right for AI engines can be a bit tricky, and there are some common pitfalls to watch out for. Avoiding these can really boost your site's AI visibility:\n\n1.  **Using the wrong schema types:** A big mistake is just slapping a generic `WebPage` type on everything. **How to avoid:** Carefully audit each page's primary intent – is it an article, a product, an FAQ, a how-to? Then, select the most specific and accurate Schema.org type (e.g., `Article`, `Product`, `FAQPage`, `HowTo`). This helps AI truly understand your content.\n\n2.  **Schema that doesn't match content:** Embedding schema that lists information not visibly present on the page can actually harm your credibility. **How to avoid:** Always ensure your JSON-LD accurately mirrors the visible content. If you're describing FAQs in schema, those FAQs should be clearly displayed on the page itself.\n\n3.  **Omitting key properties:** Things like `author`, `publisher`, `organization`, or `mainEntity` provide crucial context to AI. **How to avoid:** Include all required and recommended properties for your chosen schema type. This helps LLMs determine expertise and relevance.\n\n4.  **Implementing schema inconsistently:** Just doing a few pages here and there won't cut it for AI. **How to avoid:** Plan to apply schema systematically across all high-impact sections of your site – services, products, key articles, important FAQs. Consistency is key for AI understanding.\n\n5.  **Failing to test your JSON-LD:** Invalid markup won't be picked up by crawlers. **How to avoid:** Always use structured data testing tools to validate your schema before it goes live. This catches errors early and ensures your efforts aren't wasted. If your site has a lot of diverse content, or you want to be a top-tier source for AI, automating this process or getting professional help for templating can be incredibly beneficial.",
+  "datePublished": "2026-07-19"
+}

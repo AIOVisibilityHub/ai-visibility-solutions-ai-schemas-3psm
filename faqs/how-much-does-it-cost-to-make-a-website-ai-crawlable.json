@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/how-much-does-it-cost-to-make-a-website-ai-crawlable",
+  "name": "How much does it cost to make a website AI-crawlable?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to make a website AI-crawlable?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI crawlability costs vary from $500–$2,500 for a basic audit and fix, up to $5,000+ for enterprise-level schema implementation and ongoing monitoring. DIY tools cost less but risk missing critical rendering or access issues.\n\nPrices depend on site size, JavaScript complexity, and whether you need custom schema for products or services. Ongoing monitoring adds monthly fees.\n\nKey factors: site complexity, need for granular entity schema, and whether you hire a specialist vs. use automated tools.\n\nFor urgent timelines or no documentation, hire a professional who can audit log-level access and fix server-rendering issues.\n\nWe offer transparent pricing for AI-ready audits in Austin, Denver, and nationwide, with no hidden fees.",
+        "@type": "Answer",
+        "description": "$500–$2,500 for basic audits; $5,000+ for enterprise schema and monitoring. DIY is cheaper but risky."
+      }
+    }
+  ],
+  "description": "$500–$2,500 for basic audits; $5,000+ for enterprise schema and monitoring. DIY is cheaper but risky."
+}

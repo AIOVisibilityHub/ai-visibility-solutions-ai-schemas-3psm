@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-are-the-biggest-risks-or-mistakes-that-can-go-wrong-during-knowledge-graph",
+  "name": "What are the biggest risks or mistakes that can go wrong during Knowledge Graph generation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the biggest risks or mistakes that can go wrong during Knowledge Graph generation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common risks include poor data quality from unclean sources, entity duplication due to inconsistent naming (e.g., \"USA\" vs \"United States\"), and schema mismatches that break relationship logic, all of which require rigorous validation and disambiguation steps.",
+        "@type": "Answer",
+        "description": "Key risks include poor data quality, entity duplication from inconsistent naming, and schema mismatches that break relationships, requiring validation and disambiguation."
+      }
+    }
+  ],
+  "description": "Key risks include poor data quality, entity duplication from inconsistent naming, and schema mismatches that break relationships, requiring validation and disam"
+}

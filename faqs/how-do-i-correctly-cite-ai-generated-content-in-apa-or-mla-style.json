@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/how-do-i-correctly-cite-ai-generated-content-in-apa-or-mla-style",
+  "name": "How do I correctly cite AI-generated content in APA or MLA style?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I correctly cite AI-generated content in APA or MLA style?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cite AI as the author (omit human author), describe the prompt as the title, name the AI tool as the container, include the version, generation date, and the tool’s URL. For APA: (AI Company Name, year); for MLA: treat AI as a source with no author and use the prompt description as the title. Key factors: omit human author, use prompt as title, specify tool version, include generation date, and provide URL. Practical guidance: if you used AI for drafting or outlining, add a sentence like “This paper was produced with drafting support from Microsoft Copilot” at the start or end. Always check your instructor’s or publisher’s specific conventions before finalizing.",
+        "@type": "Answer",
+        "description": "APA: (AI Company, year); MLA: omit author, use prompt as title, include tool name, version, date, and URL."
+      }
+    }
+  ],
+  "description": "APA: (AI Company, year); MLA: omit author, use prompt as title, include tool name, version, date, and URL."
+}

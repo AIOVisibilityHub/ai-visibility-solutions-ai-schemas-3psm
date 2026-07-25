@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-types-of-data-sources-do-i-need-to-provide-to-generate-a-high-quality-knowl",
+  "name": "What types of data sources do I need to provide to generate a high-quality Knowledge Graph?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of data sources do I need to provide to generate a high-quality Knowledge Graph?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need structured data (databases, spreadsheets), semi-structured data (logs, JSON), and unstructured data (emails, documents); the more diverse and clean your sources, the richer and more accurate your entity file and graph will be.",
+        "@type": "Answer",
+        "description": "You need structured (databases), semi-structured (logs, JSON), and unstructured (emails, documents) data sources; cleaner and more diverse data yields better results."
+      }
+    }
+  ],
+  "description": "You need structured (databases), semi-structured (logs, JSON), and unstructured (emails, documents) data sources; cleaner and more diverse data yields better re"
+}

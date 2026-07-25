@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-can-go-wrong-if-my-website-isn-t-ai-crawlable",
+  "name": "What can go wrong if my website isn't AI-crawlable?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong if my website isn't AI-crawlable?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common risks include AI bots being blocked by robots.txt, content hidden in JavaScript, broken schema, or slow Core Web Vitals that reduce AI processing budgets. These lead to missing citations, inaccurate answers, or zero visibility.\n\nOther issues: rate-limiting at the CDN/WAF layer, login screens blocking crawlers, and inconsistent entity naming across pages. Without monitoring, problems persist unnoticed.\n\nKey factors: robots.txt rules, JavaScript rendering, schema accuracy, and performance scores.\n\nRun ongoing crawlability checks with real-time monitoring, audit for broken links, and test AI prompts after every major change.\n\nWe prevent these risks with log-level proof and automated regression checks for clients in Salt Lake City and nationwide.",
+        "@type": "Answer",
+        "description": "AI bots get blocked, content stays hidden in JS, schema breaks, and slow speed reduces AI visibility. Results: no citations or wrong answers."
+      }
+    }
+  ],
+  "description": "AI bots get blocked, content stays hidden in JS, schema breaks, and slow speed reduces AI visibility. Results: no citations or wrong answers."
+}

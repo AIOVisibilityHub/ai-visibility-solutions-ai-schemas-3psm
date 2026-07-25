@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/how-much-does-it-cost-to-generate-a-knowledge-graph-and-entity-file-for-a-mid-si",
+  "name": "How much does it cost to generate a Knowledge Graph and Entity File for a mid-sized company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to generate a Knowledge Graph and Entity File for a mid-sized company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs vary significantly based on data volume, complexity, and whether you use automated LLM-driven tools or custom engineering; small projects may cost a few thousand dollars while enterprise-grade graphs can exceed $50,000 depending on customization and ongoing maintenance needs.",
+        "@type": "Answer",
+        "description": "Costs range from a few thousand dollars for small projects to over $50,000 for enterprise-grade graphs, depending on data volume, complexity, and customization."
+      }
+    }
+  ],
+  "description": "Costs range from a few thousand dollars for small projects to over $50,000 for enterprise-grade graphs, depending on data volume, complexity, and customization."
+}

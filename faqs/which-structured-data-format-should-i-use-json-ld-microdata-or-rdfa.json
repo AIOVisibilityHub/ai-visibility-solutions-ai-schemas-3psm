@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/which-structured-data-format-should-i-use-json-ld-microdata-or-rdfa",
+  "name": "Which structured data format should I use: JSON-LD, Microdata, or RDFa?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which structured data format should I use: JSON-LD, Microdata, or RDFa?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Compare JSON-LD (recommended, easiest to maintain), Microdata, and RDFa; Google accepts all three if valid, but JSON-LD is the industry standard. JSON-LD is preferred because it's embedded in <script> tags, keeps markup stable as content changes, and is easiest for developers. Key differences: JSON-LD is clean and script-based, Microdata uses HTML attributes, and RDFa is more complex. Use Google's Markup Helper or Schema.org generators for JSON-LD; plugins like Yoast support all formats. For most sites, JSON-LD is the best choice due to simplicity and tool support.",
+        "@type": "Answer",
+        "description": "Use JSON-LD—it's the industry standard, easiest to maintain, embedded in <script> tags, and supported by all major tools and plugins."
+      }
+    }
+  ],
+  "description": "Use JSON-LD—it's the industry standard, easiest to maintain, embedded in <script> tags, and supported by all major tools and plugins."
+}

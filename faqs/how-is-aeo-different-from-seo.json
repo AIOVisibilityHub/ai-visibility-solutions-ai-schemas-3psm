@@ -1,0 +1,26 @@
+{
+  "url": "aiovisibility.com/faq/how-is-aeo-different-from-seo",
+  "name": "How is AEO different from SEO?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is AEO different from SEO?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Traditional SEO focuses on optimizing for search engine crawlers (like Googlebot) to rank well in organic search results. AEO focuses on optimizing for AI models to ensure your business is included and cited in AI-generated answers. While there&#x27;s overlap (e.g., structured data helps both), AEO addresses the specific needs of AI for structured, machine-readable information.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Traditional SEO focuses on optimizing for search engine crawlers (like Googlebot) to rank well in organic search results. AEO focuses on optimizing for AI model"
+}

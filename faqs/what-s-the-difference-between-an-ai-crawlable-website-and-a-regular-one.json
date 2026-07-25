@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-s-the-difference-between-an-ai-crawlable-website-and-a-regular-one",
+  "name": "What's the difference between an AI-crawlable website and a regular one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between an AI-crawlable website and a regular one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Compare AI-crawlable sites by checking HTML clarity, schema depth (entity-based vs. basic), Core Web Vitals scores, and whether robots.txt allows GPTBot/ClaudeBot. AI-ready sites also use llms.txt and have fast, server-rendered content.\n\nDIY tools miss log-level access issues and granular schema needs. Professionals offer staging tests, CI/CD automation, and quarterly audits.\n\nKey factors: rendering method, schema type, performance scores, and crawler permissions.\n\nUse SEO crawling tools to audit broken links and schema errors, then simplify HTML and implement entity-based schema beyond Article/Product.\n\nWe compare options for businesses in San Francisco and nationwide, focusing on real visibility gains over marketing claims.",
+        "@type": "Answer",
+        "description": "AI-crawlable sites use clean HTML, granular entity schema, fast Core Web Vitals, and allow AI crawlers in robots.txt. Regular sites often block bots or hide content in JS."
+      }
+    }
+  ],
+  "description": "AI-crawlable sites use clean HTML, granular entity schema, fast Core Web Vitals, and allow AI crawlers in robots.txt. Regular sites often block bots or hide con"
+}

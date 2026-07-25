@@ -1,0 +1,54 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Your Website Isn't Showing Up in AI Search Results",
+  "publisher": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Feeling frustrated because your website isn't showing up when people ask Google AI Overviews or Perplexity a question about your business? You're not alone! This is a common challenge as AI search evolves. One big reason could be that your content isn't optimized for how AI systems process information. We're talking beyond traditional SEO keywords here. AI needs structured data and specific signals to understand what your website is truly about and whether it's authoritative. If your site lacks these AI visibility files, or if your content isn’t presented in a clear, question-and-answer format, AI algorithms might just pass over it. Think of it like trying to read a book with no chapters or index; it's hard for anyone, especially an AI, to find specific answers quickly. Another issue can be a lack of an 'authority network.' AI platforms look for businesses that are consistently cited and recommended across trusted sources. If your digital footprint isn't strong in this regard, AI might not see you as a reliable source. Luckily, these are all solvable issues with the right approach to Answer Engine Optimization.",
+  "datePublished": "2026-07-19"
+}

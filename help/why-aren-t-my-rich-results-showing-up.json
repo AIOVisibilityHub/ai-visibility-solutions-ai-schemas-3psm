@@ -1,0 +1,54 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Aren't My Rich Results Showing Up?",
+  "publisher": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's totally frustrating when you put in the effort to add structured data, but those shiny rich results just aren't appearing in search. Let's dig into some common reasons why this might be happening. Often, one big issue is using FAQ schema on pages where users can submit their own answers or if the content is mainly promotional. Google's pretty clear on their guidelines for this, and breaking them can get your rich results removed. Another frequent problem is marking up content that isn't actually visible on the page. If you're adding FAQs to your JSON-LD that don't literally show up for users, Google won't use it. You've got to make sure your structured data accurately reflects what's on the page. Also, duplicating the same FAQ schema across a bunch of pages instead of pointing to a single, canonical instance is a no-go. Google advises against that. And finally, simple technical errors in your JSON-LD, like missing required properties or messed-up JSON, can stop rich results in their tracks. It's like a typo in a recipe – it just won't work! If you're running into these issues and can't quite pinpoint the problem, it might be time to bring in someone who specializes in structured data. They can audit your implementation and get you back on track.",
+  "datePublished": "2026-07-19"
+}

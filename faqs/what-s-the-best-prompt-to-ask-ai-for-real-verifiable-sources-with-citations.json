@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-s-the-best-prompt-to-ask-ai-for-real-verifiable-sources-with-citations",
+  "name": "What’s the best prompt to ask AI for real, verifiable sources with citations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What’s the best prompt to ask AI for real, verifiable sources with citations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Use this repeatable process: define the exact claim, ask AI for real verifiable sources only, require DOI/URL/ISBN, specify citation style, verify every source manually, then use AI only to format or review. Key factors: tell AI not to guess and to state uncertainty, request both formatted citation and raw metadata, and include publisher/journal/author details. Practical guidance: prompt AI with “Find 5 credible sources… only include sources you are confident are real” and require a 1-sentence relevance summary for each. If unsure about any detail, ask AI to say so instead of hallucinating. This workflow minimizes fake citations while leveraging AI for efficiency.",
+        "@type": "Answer",
+        "description": "Ask AI to find 5 credible sources, require DOI/URL/ISBN, specify style, demand a 1-sentence relevance summary, and tell it to say “unsure” instead of guessing."
+      }
+    }
+  ],
+  "description": "Ask AI to find 5 credible sources, require DOI/URL/ISBN, specify style, demand a 1-sentence relevance summary, and tell it to say “unsure” instead of guessing."
+}

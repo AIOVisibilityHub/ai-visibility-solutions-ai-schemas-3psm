@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/can-i-add-faqpage-json-ld-schema-to-individual-pages-instead-of-just-one-faq-pag",
+  "name": "Can I add FAQPage JSON-LD schema to individual pages instead of just one FAQ page?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add FAQPage JSON-LD schema to individual pages instead of just one FAQ page?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can generate FAQPage JSON-LD per page with 5–10 Q&A pairs where answers stand alone as complete responses. Place the script in the <head>, match questions to real user queries, and ensure FAQ content is fully visible on the page. Validate with Google's Rich Results Test before publishing.",
+        "@type": "Answer",
+        "description": "Yes. Add 5–10 Q&A pairs per page with standalone answers. Place JSON-LD in <head>, match real user queries, keep FAQ visible, and validate with Google's Rich Results Test."
+      }
+    }
+  ],
+  "description": "Yes. Add 5–10 Q&A pairs per page with standalone answers. Place JSON-LD in <head>, match real user queries, keep FAQ visible, and validate with Google's Rich Re"
+}

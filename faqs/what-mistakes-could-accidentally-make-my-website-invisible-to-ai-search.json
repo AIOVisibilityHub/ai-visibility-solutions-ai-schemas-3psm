@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-mistakes-could-accidentally-make-my-website-invisible-to-ai-search",
+  "name": "What mistakes could accidentally make my website invisible to AI search?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What mistakes could accidentally make my website invisible to AI search?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common risks include blocking AI crawlers via robots.txt, hiding content behind heavy JavaScript, or publishing outdated information that AI flags as low-quality. If your site has these issues, AI models will skip your content entirely, leading to zero visibility even if you have strong traditional SEO rankings.",
+        "@type": "Answer",
+        "description": "Blocking crawlers, hiding content in JavaScript, or publishing outdated/low-quality content."
+      }
+    }
+  ],
+  "description": "Blocking crawlers, hiding content in JavaScript, or publishing outdated/low-quality content."
+}

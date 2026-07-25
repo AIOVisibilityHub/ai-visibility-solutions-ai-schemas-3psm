@@ -1,0 +1,52 @@
+{
+  "name": "Choosing the Right Structured Data for Your Site",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Figuring out which types of structured data are right for your site can feel a bit overwhelming, right? There are so many options – FAQ, HowTo, Product, Article, Organization, LocalBusiness, and more! The best way to start is by taking inventory of your site's content. Think about what information you want search engines, and ultimately AI, to understand about your business. Do you have a bunch of common questions your customers ask? Then `FAQPage` schema is probably a good fit. Are you sharing step-by-step instructions? `HowTo` might be perfect. Selling products? Then `Product` schema is essential! Next, think about the format. While there are a few options like JSON-LD, Microdata, or RDFa, Google really prefers JSON-LD and it's generally the easiest to implement. It’s embedded directly into your page's head or body without changing the visual layout. The most important thing is that the schema accurately reflects the visible content on your page. Don't hide information in your structured data that users can't see. And once you've drafted your content and encoded it, always validate it with Google's Rich Results Test. This is like a spell-check for your structured data. If you have a complex site or just want to ensure you're getting it right from the start, a professional can help map out the best schema strategy for you.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    }
+  ],
+  "description": "Choosing the Right Structured Data for Your Site"
+}

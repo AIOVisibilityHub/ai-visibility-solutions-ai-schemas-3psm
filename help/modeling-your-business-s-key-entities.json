@@ -1,0 +1,52 @@
+{
+  "name": "Modeling Your Business's Key Entities",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Getting your knowledge graph off the ground starts with a crucial step: figuring out which entities are most important to your business and how they relate to each other. It’s like drawing a family tree for your company’s data! First, you’ll want to assess all your existing data sources – that could be anything from your transactional systems to your content repositories and even those trusty spreadsheets. Identify your core entities: who are your customers? What are your products or services? Where are your locations? Next, define these entities and their properties. For instance, a 'product' entity might have properties like 'name,' 'category,' 'price,' and 'brand.' But it doesn't stop there. You also need to define the *relationships* between these entities. Does a 'customer' 'purchase' a 'product'? Does a 'product' 'belong to' a 'category'? These relationships are really the magic of a knowledge graph. This process helps you design a data model that answers your key business questions. You'll create master records, or 'entity files,' for each core entity, ensuring unique IDs and standardized attributes. This ensures consistency and accuracy across all your systems. It’s a pretty detailed process, and sometimes having an expert guide you through this initial modeling can save a lot of headaches down the line.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    }
+  ],
+  "description": "Modeling Your Business's Key Entities"
+}

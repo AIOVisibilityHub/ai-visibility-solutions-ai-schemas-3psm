@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/do-i-need-json-ld-schema-on-every-page-of-my-website-or-just-the-homepage",
+  "name": "Do I need JSON-LD schema on every page of my website or just the homepage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need JSON-LD schema on every page of my website or just the homepage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You don't need JSON-LD on every page, but you should add unique, page-specific schema to every page you want to rank. The home page needs Organization schema, while product pages need Product schema, blog posts need Article schema, and FAQ pages need FAQPage schema—each matching that page's visible content.",
+        "@type": "Answer",
+        "description": "No, but add unique, page-specific JSON-LD to every page you want to rank. Homepage gets Organization schema; product pages get Product; blogs get Article; FAQ pages get FAQPage."
+      }
+    }
+  ],
+  "description": "No, but add unique, page-specific JSON-LD to every page you want to rank. Homepage gets Organization schema; product pages get Product; blogs get Article; FAQ p"
+}

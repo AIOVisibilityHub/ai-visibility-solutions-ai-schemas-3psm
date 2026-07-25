@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/how-much-does-per-page-json-ld-website-schema-generation-cost-for-a-small-busine",
+  "name": "How much does per-page JSON-LD website schema generation cost for a small business?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does per-page JSON-LD website schema generation cost for a small business?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Per-page JSON-LD generation typically costs $5–$25 per page for manual services, $50–$200/month for automated tools, or $500–$2,000+ for full-site custom implementation. Small sites (10–30 pages) often pay $150–$600 total, while enterprise sites with 500+ pages use automation to keep costs under $300/month.",
+        "@type": "Answer",
+        "description": "$5–$25/page manually, $50–$200/month for tools, or $500–$2,000+ for full custom sites. Small 10–30 page sites: $150–$600 total."
+      }
+    }
+  ],
+  "description": "$5–$25/page manually, $50–$200/month for tools, or $500–$2,000+ for full custom sites. Small 10–30 page sites: $150–$600 total."
+}

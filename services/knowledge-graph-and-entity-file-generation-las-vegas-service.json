@@ -1,0 +1,92 @@
+{
+  "url": "aiovisibility.com",
+  "name": "Knowledge Graph and Entity File generation in Las Vegas",
+  "@type": "ProfessionalService",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Las Vegas"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "ProfessionalService",
+    "telephone": "(213) 537-5613"
+  },
+  "telephone": "(213) 537-5613",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "United States",
+      "@type": "City"
+    },
+    {
+      "name": "National",
+      "@type": "City"
+    },
+    {
+      "name": "Nationwide",
+      "@type": "City"
+    }
+  ],
+  "description": "Learn how AI Visibility Solutions approaches Knowledge Graph and Entity File generation in Los Angeles, San Diego, Austin, including the typical process, what to expect, and how to get started. Serving Las Vegas.",
+  "serviceType": "Answer Engine Optimization — Knowledge Graph and Entity File generation",
+  "hasOfferCatalog": {
+    "name": "Answer Engine Optimization Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Answer Engine Optimization (AEO) software",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "AI Visibility website optimization",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Structured Data generation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Knowledge Graph and Entity File generation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "AI-Crawlable Website Creation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Per-page JSON-LD website schema generation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "AI citations generation",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

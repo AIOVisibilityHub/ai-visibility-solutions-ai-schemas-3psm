@@ -1,0 +1,59 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "ProfessionalService",
+    "areaServed": [
+      {
+        "name": "Los Angeles",
+        "@type": "City"
+      },
+      {
+        "name": "San Diego",
+        "@type": "City"
+      },
+      {
+        "name": "Austin",
+        "@type": "City"
+      },
+      {
+        "name": "Denver",
+        "@type": "City"
+      },
+      {
+        "name": "Salt Lake City",
+        "@type": "City"
+      },
+      {
+        "name": "Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "San Francisco",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "My Website Uses React - Will AI Crawlers See My Content?",
+    "text": "My Website Uses React - Will AI Crawlers See My Content?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "You're probably wondering if your snazzy React or other JavaScript-heavy site is visible to AI. It’s a really common concern! Many AI crawlers, especially the newer ones, can struggle with client-side rendering (CSR). That means if your crucial text only loads after JavaScript executes in a browser, a lot of AI systems might just pass it over. They need to see that content directly in the raw HTML. So, a key process step is ensuring your critical content is delivered via server-side rendering (SSR) or static site generation (SSG). This makes sure the AI bots can read your amazing content without having to fully render the page. Think about it: if an AI can’t read it, it can’t recommend it. This is particularly important for pages you want AI to cite. If you’ve got a complex JavaScript setup, getting expert help to move to an SSR/SSG framework could be a game-changer for your AI visibility.",
+      "@type": "Answer",
+      "author": {
+        "name": "AI Visibility Solutions",
+        "@type": "Organization"
+      }
+    }
+  }
+}

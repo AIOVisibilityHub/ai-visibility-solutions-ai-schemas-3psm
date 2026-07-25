@@ -1,0 +1,59 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "ProfessionalService",
+    "areaServed": [
+      {
+        "name": "Los Angeles",
+        "@type": "City"
+      },
+      {
+        "name": "San Diego",
+        "@type": "City"
+      },
+      {
+        "name": "Austin",
+        "@type": "City"
+      },
+      {
+        "name": "Denver",
+        "@type": "City"
+      },
+      {
+        "name": "Salt Lake City",
+        "@type": "City"
+      },
+      {
+        "name": "Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "San Francisco",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Why Is My Website Schema Not Being Used by AI?",
+    "text": "Why Is My Website Schema Not Being Used by AI?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It’s frustrating when you put in the effort to add schema, but it doesn't seem to make a difference with AI. A big reason this happens is using overly generic or incorrect schema types. If you’re just marking everything as `WebPage` instead of something specific like `Article`, `FAQPage`, or `Product`, AI systems can't properly understand the page's purpose. It’s like giving someone a vague description instead of a detailed map. Another frequent mistake is when your schema doesn't perfectly match the visible content on your page. If you list FAQs in your schema but those questions and answers aren't actually visible, AI and search engines can lose trust in your data. They want consistency! Also, make sure you're not omitting important properties such as `author`, `publisher`, or `mainEntity` that help AI understand the credibility and context of your information. Always validate your JSON-LD using testing tools before deployment to catch any syntax errors. If you're finding it tricky to manage across many pages, that's often a signal it's time to bring in help from professionals who can systematically design and template your schema, ensuring it's always accurate and optimized for AI.",
+      "@type": "Answer",
+      "author": {
+        "name": "AI Visibility Solutions",
+        "@type": "Organization"
+      }
+    }
+  }
+}

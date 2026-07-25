@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/which-technical-settings-or-files-do-i-need-to-add-for-ai-visibility-optimizatio",
+  "name": "Which technical settings or files do I need to add for AI visibility optimization?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which technical settings or files do I need to add for AI visibility optimization?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need to implement Schema.org markup (especially FAQ, Organization, and Product schemas) and create an llms.txt file to guide AI models. Structured data acts as a translation layer that helps AI understand your context, while llms.txt explicitly tells models which pages to prioritize for citation.",
+        "@type": "Answer",
+        "description": "Add Schema.org markup (FAQ, Organization, Product) and create an llms.txt file."
+      }
+    }
+  ],
+  "description": "Add Schema.org markup (FAQ, Organization, Product) and create an llms.txt file."
+}

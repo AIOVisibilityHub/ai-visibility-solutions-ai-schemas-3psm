@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/how-do-i-know-if-my-website-is-actually-being-crawled-by-ai",
+  "name": "How do I know if my website is actually being crawled by AI?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my website is actually being crawled by AI?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You’ll see AI systems citing your pages in generative search answers, higher citation rates in LLM outputs, and improved accuracy when bots pull your facts. Track via query sets, citation rate, and attribute recall benchmarks.\n\nEvidence includes log-level proof of crawler access, cleaner HTTP 200 responses, and schema validation passing. Visibility benchmarks show repeatable improvements over time.\n\nKey factors: HTML clarity, schema granularity, internal linking, and llms.txt accuracy.\n\nTest AI prompts regularly, review crawling directives, and monitor Core Web Vitals to confirm UX is optimized for answer engines.\n\nOur clients in Las Vegas and nationwide report 30–50% more AI citations after implementing these fixes.",
+        "@type": "Answer",
+        "description": "Check for AI citations in generative search, log-level crawler access, HTTP 200 responses, and schema validation. Test prompts and monitor benchmarks."
+      }
+    }
+  ],
+  "description": "Check for AI citations in generative search, log-level crawler access, HTTP 200 responses, and schema validation. Test prompts and monitor benchmarks."
+}

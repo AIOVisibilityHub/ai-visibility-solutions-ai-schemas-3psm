@@ -1,0 +1,54 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Isn't My Website Showing Up in AI Search?",
+  "publisher": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super frustrating when your site's not popping up in AI answers, right? A common reason this happens is how AI crawlers interact with your content. Unlike traditional search engines that are getting smarter, many AI systems still prefer good old HTML. If your critical content is hidden behind JavaScript, or if your site relies heavily on client-side rendering (think React or Vue), AI might just see a blank page. The trick is making sure your public pages use server-side rendering or static generation. This makes your content readable even without JavaScript, so AI bots can actually understand what your business is all about. You've also got to think about clear content structure with proper headings and maybe even a robust internal linking strategy. If your content isn't structured well or if AI crawlers are getting blocked, you're essentially invisible. Don't let your valuable content languish in the digital shadows; ensure it's built in a way that AI can truly consume. If you're scratching your head, it might be worth connecting with someone who specializes in AI crawlability and LLM indexing.",
+  "datePublished": "2026-07-19"
+}

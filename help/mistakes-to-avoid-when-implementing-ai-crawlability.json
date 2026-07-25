@@ -1,0 +1,54 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Implementing AI Crawlability",
+  "publisher": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Getting your website ready for AI crawlers like Google AI Overviews and ChatGPT requires attention to detail. Here are some common mistakes to sidestep:\n\n1.  **Relying purely on client-side rendering (CSR):** We see this all the time with sites built on frameworks like React or Vue. If your core content isn't visible in the raw HTML, many AI crawlers just can't see it. **How to avoid:** Opt for server-side rendering (SSR) or static site generation (SSG) for your public-facing pages. This ensures AI can read your content directly.\n\n2.  **Hiding critical info in dynamic content:** Carousels, accordions, tabs – these are great for user experience, but if AI crawlers can't access that content without user interaction, it’s lost. **How to avoid:** Make sure any essential information in these elements is also accessible in the source code or through other means that AI can discover.\n\n3.  **Blocking reputable AI bots:** Sometimes, site security tools or incorrect robots.txt configurations accidentally block AI crawlers. **How to avoid:** Regularly check your robots.txt and any security tools. Create explicit allowlists for known, reputable AI retrieval crawlers to ensure they can access your content without issue.\n\n4.  **Using vague headings:** Headings like “Overview” don't tell AI much about the content. **How to avoid:** Use clear, intent-driven headings that accurately describe the section's topic. This really helps AI systems summarize your information effectively.\n\n5.  **Neglecting ongoing maintenance:** Sitemaps, internal links, and schema aren't ",
+  "datePublished": "2026-07-19"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/when-should-i-cite-ai-output-versus-just-disclose-that-i-used-it",
+  "name": "When should I cite AI output versus just disclose that I used it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I cite AI output versus just disclose that I used it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cite AI output when you use direct quotes, paraphrased content, images, or data from it; disclose its use as a supportive tool (e.g., for editing or outlining) with a note in the paper. Key factors: include tool name, version, generation date, URL, and describe the prompt in text or a footnote. Practical guidance: if you created a shareable chat transcript link, use that instead of the tool’s general URL. For general AI tool references, use the software template: Author (Date). Tool Name (Version) [Large language model]. URL. Disclosure is generally more suitable than citation when AI acted only as a supportive tool.",
+        "@type": "Answer",
+        "description": "Cite for quotes, paraphrases, images, or data; disclose with a note when AI was only a supportive tool like for editing or outlining."
+      }
+    }
+  ],
+  "description": "Cite for quotes, paraphrases, images, or data; disclose with a note when AI was only a supportive tool like for editing or outlining."
+}
