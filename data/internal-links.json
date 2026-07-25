@@ -1,0 +1,825 @@
+{
+  "generatedAt": "2026-07-25T18:36:31.702Z",
+  "links": [
+    {
+      "path": "faqs/what-is-answer-engine-optimization.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-is-aeo-different-from-seo.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/why-do-i-need-aeo-if-i-already-do-seo.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-are-ai-visibility-files.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/is-ae-optimizer-a-one-time-purchase-or-subscription.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/do-i-need-a-developer-to-use-ae-optimizer.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-exactly-does-answer-engine-optimization-aeo-software-do-for-my-business.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-long-does-it-take-to-see-results-after-starting-with-aeo-software.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-s-the-real-cost-of-aeo-software-and-is-it-worth-the-investment.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-structured-data-or-schema-do-i-need-to-implement-for-aeo-software-to-work-p.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-common-mistakes-or-risks-should-i-avoid-when-using-aeo-software.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-features-should-i-look-for-when-comparing-aeo-software-vendors.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-s-the-first-step-i-should-take-when-implementing-aeo-with-new-software.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-should-i-do-first-to-make-my-website-visible-to-ai-search-engines.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/which-technical-settings-or-files-do-i-need-to-add-for-ai-visibility-optimizatio.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-do-i-build-the-right-kind-of-content-that-ai-will-actually-recommend.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-proof-does-ai-need-to-trust-my-brand-and-recommend-me-over-competitors.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-much-does-an-ai-visibility-audit-and-optimization-service-actually-cost.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-mistakes-could-accidentally-make-my-website-invisible-to-ai-search.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-can-i-measure-if-my-ai-visibility-optimization-is-actually-working.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-exactly-is-structured-data-generation-and-how-does-it-actually-work-for-my.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-steps-do-i-need-to-follow-to-generate-structured-data-for-my-site.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-much-does-it-cost-to-generate-structured-data-and-are-there-free-options.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-mistakes-or-risks-should-i-avoid-when-generating-structured-data.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-do-i-actually-create-and-add-structured-data-to-my-website-pages.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/will-generating-structured-data-actually-improve-my-seo-and-ai-search-visibility.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/which-structured-data-format-should-i-use-json-ld-microdata-or-rdfa.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-do-i-need-to-do-first-to-generate-a-knowledge-graph-and-entity-file-for-my.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-exactly-does-the-knowledge-graph-and-entity-file-generation-process-work-ste.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-much-does-it-cost-to-generate-a-knowledge-graph-and-entity-file-for-a-mid-si.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-are-the-biggest-risks-or-mistakes-that-can-go-wrong-during-knowledge-graph.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-types-of-data-sources-do-i-need-to-provide-to-generate-a-high-quality-knowl.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/can-ai-or-llms-automatically-generate-knowledge-graphs-and-entity-files-without.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-does-generating-a-knowledge-graph-actually-improve-my-ai-visibility-or-searc.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-do-i-need-to-do-first-to-make-my-website-crawlable-by-ai-bots.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-much-does-it-cost-to-make-a-website-ai-crawlable.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-long-does-it-take-to-make-a-website-ai-crawlable.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-can-go-wrong-if-my-website-isn-t-ai-crawlable.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-do-i-know-if-my-website-is-actually-being-crawled-by-ai.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-s-the-difference-between-an-ai-crawlable-website-and-a-regular-one.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/do-i-really-need-an-llms-txt-file-for-ai-crawlability.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/do-i-need-json-ld-schema-on-every-page-of-my-website-or-just-the-homepage.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-much-does-per-page-json-ld-website-schema-generation-cost-for-a-small-busine.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-long-does-it-take-to-generate-json-ld-schema-for-all-pages-on-my-website.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-can-go-wrong-if-i-generate-json-ld-schema-incorrectly-for-my-website-pages.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-many-json-ld-script-elements-should-i-put-on-each-page-and-where-do-they-go.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/should-i-manually-generate-json-ld-for-each-page-or-use-an-automated-tool-for-my.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/can-i-add-faqpage-json-ld-schema-to-individual-pages-instead-of-just-one-faq-pag.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-do-i-get-my-website-cited-by-ai-search-tools-like-google-ai-overviews.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-happens-if-i-use-ai-generated-citations-without-checking-them-first.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/how-do-i-correctly-cite-ai-generated-content-in-apa-or-mla-style.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/is-there-a-guaranteed-method-to-make-ai-tools-cite-my-business-page.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-proof-do-i-need-to-get-cited-as-evidence-instead-of-just-opinion-by-ai-tool.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/what-s-the-best-prompt-to-ask-ai-for-real-verifiable-sources-with-citations.json",
+      "category": "faqs"
+    },
+    {
+      "path": "faqs/when-should-i-cite-ai-output-versus-just-disclose-that-i-used-it.json",
+      "category": "faqs"
+    },
+    {
+      "path": "services/answer-engine-optimization-aeo-software-los-angeles-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/answer-engine-optimization-aeo-software-san-diego-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/answer-engine-optimization-aeo-software-austin-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/answer-engine-optimization-aeo-software-denver-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/answer-engine-optimization-aeo-software-salt-lake-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/answer-engine-optimization-aeo-software-las-vegas-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/answer-engine-optimization-aeo-software-san-francisco-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-visibility-website-optimization-los-angeles-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-visibility-website-optimization-san-diego-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-visibility-website-optimization-austin-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-visibility-website-optimization-denver-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-visibility-website-optimization-salt-lake-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-visibility-website-optimization-las-vegas-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-visibility-website-optimization-san-francisco-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/structured-data-generation-los-angeles-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/structured-data-generation-san-diego-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/structured-data-generation-austin-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/structured-data-generation-denver-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/structured-data-generation-salt-lake-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/structured-data-generation-las-vegas-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/structured-data-generation-san-francisco-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/knowledge-graph-and-entity-file-generation-los-angeles-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/knowledge-graph-and-entity-file-generation-san-diego-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/knowledge-graph-and-entity-file-generation-austin-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/knowledge-graph-and-entity-file-generation-denver-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/knowledge-graph-and-entity-file-generation-salt-lake-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/knowledge-graph-and-entity-file-generation-las-vegas-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/knowledge-graph-and-entity-file-generation-san-francisco-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-crawlable-website-creation-los-angeles-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-crawlable-website-creation-san-diego-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-crawlable-website-creation-austin-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-crawlable-website-creation-denver-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-crawlable-website-creation-salt-lake-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-crawlable-website-creation-las-vegas-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-crawlable-website-creation-san-francisco-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/per-page-json-ld-website-schema-generation-los-angeles-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/per-page-json-ld-website-schema-generation-san-diego-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/per-page-json-ld-website-schema-generation-austin-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/per-page-json-ld-website-schema-generation-denver-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/per-page-json-ld-website-schema-generation-salt-lake-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/per-page-json-ld-website-schema-generation-las-vegas-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/per-page-json-ld-website-schema-generation-san-francisco-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-citations-generation-los-angeles-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-citations-generation-san-diego-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-citations-generation-austin-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-citations-generation-denver-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-citations-generation-salt-lake-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-citations-generation-las-vegas-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/ai-citations-generation-san-francisco-service.json",
+      "category": "services"
+    },
+    {
+      "path": "help/why-your-ai-visibility-isn-t-cutting-through-the-noise.json",
+      "category": "help"
+    },
+    {
+      "path": "help/making-your-website-ai-citable-a-practical-checklist.json",
+      "category": "help"
+    },
+    {
+      "path": "help/top-mistakes-businesses-make-with-ai-visibility-optimization.json",
+      "category": "help"
+    },
+    {
+      "path": "help/when-to-bring-in-the-pros-for-answer-engine-optimization.json",
+      "category": "help"
+    },
+    {
+      "path": "help/the-step-by-step-guide-to-implementing-answer-engine-optimization.json",
+      "category": "help"
+    },
+    {
+      "path": "help/why-your-website-isn-t-showing-up-in-ai-search-results.json",
+      "category": "help"
+    },
+    {
+      "path": "help/why-aren-t-my-rich-results-showing-up.json",
+      "category": "help"
+    },
+    {
+      "path": "help/choosing-the-right-structured-data-for-your-site.json",
+      "category": "help"
+    },
+    {
+      "path": "help/keeping-your-schema-markup-current.json",
+      "category": "help"
+    },
+    {
+      "path": "help/what-exactly-is-a-knowledge-graph-for-businesses.json",
+      "category": "help"
+    },
+    {
+      "path": "help/modeling-your-business-s-key-entities.json",
+      "category": "help"
+    },
+    {
+      "path": "help/common-pitfalls-in-knowledge-graph-implementation.json",
+      "category": "help"
+    },
+    {
+      "path": "help/why-isn-t-my-website-showing-up-in-ai-search.json",
+      "category": "help"
+    },
+    {
+      "path": "help/my-website-uses-react-will-ai-crawlers-see-my-content.json",
+      "category": "help"
+    },
+    {
+      "path": "help/mistakes-to-avoid-when-implementing-ai-crawlability.json",
+      "category": "help"
+    },
+    {
+      "path": "help/why-is-my-website-schema-not-being-used-by-ai.json",
+      "category": "help"
+    },
+    {
+      "path": "help/mistakes-to-avoid-when-generating-per-page-schema.json",
+      "category": "help"
+    },
+    {
+      "path": "help/when-should-i-engage-professionals-for-my-website-schema.json",
+      "category": "help"
+    },
+    {
+      "path": "help/what-to-stop-doing-if-you-want-more-ai-citations.json",
+      "category": "help"
+    },
+    {
+      "path": "help/decoding-ai-citations-myths-vs-reality.json",
+      "category": "help"
+    },
+    {
+      "path": "help/why-isn-t-ai-citing-my-business-more-often.json",
+      "category": "help"
+    },
+    {
+      "path": "locations/ae-optimizer-office.json",
+      "category": "locations"
+    },
+    {
+      "path": "organization/ai-visibility-solutions-organization.json",
+      "category": "organization"
+    },
+    {
+      "path": "index.html",
+      "category": "public"
+    },
+    {
+      "path": "about.html",
+      "category": "public"
+    },
+    {
+      "path": "services.html",
+      "category": "public"
+    },
+    {
+      "path": "reviews.html",
+      "category": "public"
+    },
+    {
+      "path": "contact.html",
+      "category": "public"
+    },
+    {
+      "path": "faqs.html",
+      "category": "public"
+    },
+    {
+      "path": "articles.html",
+      "category": "public"
+    },
+    {
+      "path": "organization.jsonld",
+      "category": "entity"
+    },
+    {
+      "path": "professional-service.jsonld",
+      "category": "entity"
+    },
+    {
+      "path": "local-business.jsonld",
+      "category": "entity"
+    },
+    {
+      "path": "entity-profile.json",
+      "category": "entity"
+    },
+    {
+      "path": "business-overview.json",
+      "category": "entity"
+    },
+    {
+      "path": "brand-profile.json",
+      "category": "entity"
+    },
+    {
+      "path": "identifiers.json",
+      "category": "entity"
+    },
+    {
+      "path": "same-as.jsonld",
+      "category": "entity"
+    },
+    {
+      "path": "about.jsonld",
+      "category": "entity"
+    },
+    {
+      "path": "contact.jsonld",
+      "category": "entity"
+    },
+    {
+      "path": "knowledge-graph.json",
+      "category": "entity"
+    },
+    {
+      "path": "full-context.json",
+      "category": "entity"
+    },
+    {
+      "path": "full-context.yaml",
+      "category": "entity"
+    },
+    {
+      "path": "team.jsonld",
+      "category": "team"
+    },
+    {
+      "path": "professionals.jsonld",
+      "category": "team"
+    },
+    {
+      "path": "team.json",
+      "category": "team"
+    },
+    {
+      "path": "team-bios.md",
+      "category": "team"
+    },
+    {
+      "path": "team-bios.json",
+      "category": "team"
+    },
+    {
+      "path": "professionalservice-team.jsonld",
+      "category": "team"
+    },
+    {
+      "path": "locations.jsonld",
+      "category": "locations"
+    },
+    {
+      "path": "service-areas.jsonld",
+      "category": "locations"
+    },
+    {
+      "path": "location-pages.json",
+      "category": "locations"
+    },
+    {
+      "path": "city-service-areas.json",
+      "category": "locations"
+    },
+    {
+      "path": "geo-coverage.json",
+      "category": "locations"
+    },
+    {
+      "path": "services.jsonld",
+      "category": "services"
+    },
+    {
+      "path": "practice-areas.jsonld",
+      "category": "services"
+    },
+    {
+      "path": "specialties.jsonld",
+      "category": "services"
+    },
+    {
+      "path": "case-types.json",
+      "category": "services"
+    },
+    {
+      "path": "offer-catalog.jsonld",
+      "category": "services"
+    },
+    {
+      "path": "service-catalog.json",
+      "category": "services"
+    },
+    {
+      "path": "service-pages.json",
+      "category": "services"
+    },
+    {
+      "path": "faqs.jsonld",
+      "category": "faqs"
+    },
+    {
+      "path": "faq.md",
+      "category": "faqs"
+    },
+    {
+      "path": "qnas.jsonld",
+      "category": "qna"
+    },
+    {
+      "path": "qna.md",
+      "category": "qna"
+    },
+    {
+      "path": "help-articles.jsonld",
+      "category": "help"
+    },
+    {
+      "path": "help-articles.md",
+      "category": "help"
+    },
+    {
+      "path": "topical-hubs.jsonld",
+      "category": "hubs"
+    },
+    {
+      "path": "topical-hubs.md",
+      "category": "hubs"
+    },
+    {
+      "path": "semantic-authority-pages.json",
+      "category": "hubs"
+    },
+    {
+      "path": "reviews.jsonld",
+      "category": "reviews"
+    },
+    {
+      "path": "testimonials.jsonld",
+      "category": "reviews"
+    },
+    {
+      "path": "awards.jsonld",
+      "category": "awards"
+    },
+    {
+      "path": "licenses.jsonld",
+      "category": "awards"
+    },
+    {
+      "path": "associations.jsonld",
+      "category": "awards"
+    },
+    {
+      "path": "case-results.jsonld",
+      "category": "case-results"
+    },
+    {
+      "path": "media-mentions.jsonld",
+      "category": "press"
+    },
+    {
+      "path": "credentials.json",
+      "category": "awards"
+    },
+    {
+      "path": "about.html",
+      "category": "pages"
+    },
+    {
+      "path": "services.html",
+      "category": "pages"
+    },
+    {
+      "path": "locations.html",
+      "category": "pages"
+    },
+    {
+      "path": "team.html",
+      "category": "pages"
+    },
+    {
+      "path": "faqs.html",
+      "category": "pages"
+    },
+    {
+      "path": "qnas.html",
+      "category": "pages"
+    },
+    {
+      "path": "help.html",
+      "category": "pages"
+    },
+    {
+      "path": "topical-hubs.html",
+      "category": "pages"
+    },
+    {
+      "path": "reviews.html",
+      "category": "pages"
+    },
+    {
+      "path": "case-results.html",
+      "category": "pages"
+    },
+    {
+      "path": "contact.html",
+      "category": "pages"
+    },
+    {
+      "path": "data/entity.json",
+      "category": "data"
+    },
+    {
+      "path": "data/entity.yaml",
+      "category": "data"
+    },
+    {
+      "path": "data/entity.jsonl",
+      "category": "data"
+    },
+    {
+      "path": "data/services.json",
+      "category": "data"
+    },
+    {
+      "path": "data/locations.json",
+      "category": "data"
+    },
+    {
+      "path": "data/faqs.json",
+      "category": "data"
+    },
+    {
+      "path": "data/qnas.json",
+      "category": "data"
+    },
+    {
+      "path": "data/help-articles.json",
+      "category": "data"
+    },
+    {
+      "path": "data/team.json",
+      "category": "data"
+    },
+    {
+      "path": "data/reviews.json",
+      "category": "data"
+    },
+    {
+      "path": "data/case-results.json",
+      "category": "data"
+    },
+    {
+      "path": "data/knowledge-graph.json",
+      "category": "data"
+    }
+  ]
+}

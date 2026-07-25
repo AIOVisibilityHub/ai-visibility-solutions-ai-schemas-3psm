@@ -1,0 +1,1257 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-07-25T18:36:31.705Z",
+  "client": {
+    "name": "AI Visibility Solutions",
+    "canonicalUrl": "aiovisibility.com",
+    "pagesUrl": "https://AIOVisibilityHub.github.io/ai-visibility-solutions-ai-schemas-3psm",
+    "phone": "(213) 537-5613",
+    "email": "js@aiovisibility.com",
+    "locations": [
+      {
+        "zip": "90049",
+        "city": "Los Angeles",
+        "name": "AE Optimizer Office",
+        "email": "support@aeoptimizer.com",
+        "phone": "(213) 537-5613",
+        "state": "CA",
+        "address": "11177 San Vicente Blvd"
+      }
+    ],
+    "services": [
+      "Answer Engine Optimization (AEO) software",
+      "AI Visibility website optimization",
+      "Structured Data generation",
+      "Knowledge Graph and Entity File generation",
+      "AI-Crawlable Website Creation",
+      "Per-page JSON-LD website schema generation",
+      "AI citations generation"
+    ],
+    "cities": [
+      "Los Angeles",
+      "San Diego",
+      "Austin",
+      "Denver",
+      "Salt Lake City",
+      "Las Vegas",
+      "San Francisco"
+    ]
+  },
+  "package": {
+    "totalFiles": 230,
+    "totalBytes": 2631348,
+    "stats": {
+      "qna": 0,
+      "faqs": 55,
+      "press": 0,
+      "total": 127,
+      "awards": 0,
+      "reviews": 0,
+      "products": 0,
+      "research": 0,
+      "services": 49,
+      "webpages": 0,
+      "locations": 1,
+      "personnel": 0,
+      "caseStudies": 0,
+      "helpArticles": 21,
+      "organization": 1
+    }
+  },
+  "entrypoints": {
+    "aiData": "ai-data.html",
+    "index": "index.html",
+    "llms": "llms.txt",
+    "aiSitemap": "ai-sitemap.xml",
+    "sitemap": "sitemap.xml",
+    "manifest": "publishing-manifest.json",
+    "canonicalManifest": "data/publishing-manifest.json",
+    "readme": "README.md"
+  },
+  "categories": {
+    "faqs": [
+      {
+        "path": "faqs/what-is-answer-engine-optimization.json",
+        "bytes": 943,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-is-aeo-different-from-seo.json",
+        "bytes": 960,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-do-i-need-aeo-if-i-already-do-seo.json",
+        "bytes": 1088,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-ai-visibility-files.json",
+        "bytes": 1003,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-ae-optimizer-a-one-time-purchase-or-subscription.json",
+        "bytes": 612,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-developer-to-use-ae-optimizer.json",
+        "bytes": 802,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-exactly-does-answer-engine-optimization-aeo-software-do-for-my-business.json",
+        "bytes": 1249,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-see-results-after-starting-with-aeo-software.json",
+        "bytes": 1202,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-real-cost-of-aeo-software-and-is-it-worth-the-investment.json",
+        "bytes": 1238,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-structured-data-or-schema-do-i-need-to-implement-for-aeo-software-to-work-p.json",
+        "bytes": 1226,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-common-mistakes-or-risks-should-i-avoid-when-using-aeo-software.json",
+        "bytes": 1222,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-features-should-i-look-for-when-comparing-aeo-software-vendors.json",
+        "bytes": 1291,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-first-step-i-should-take-when-implementing-aeo-with-new-software.json",
+        "bytes": 1264,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-to-make-my-website-visible-to-ai-search-engines.json",
+        "bytes": 1042,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-technical-settings-or-files-do-i-need-to-add-for-ai-visibility-optimizatio.json",
+        "bytes": 1051,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-build-the-right-kind-of-content-that-ai-will-actually-recommend.json",
+        "bytes": 1094,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-proof-does-ai-need-to-trust-my-brand-and-recommend-me-over-competitors.json",
+        "bytes": 1087,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-an-ai-visibility-audit-and-optimization-service-actually-cost.json",
+        "bytes": 1045,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-mistakes-could-accidentally-make-my-website-invisible-to-ai-search.json",
+        "bytes": 1060,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-measure-if-my-ai-visibility-optimization-is-actually-working.json",
+        "bytes": 1121,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-exactly-is-structured-data-generation-and-how-does-it-actually-work-for-my.json",
+        "bytes": 1632,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-steps-do-i-need-to-follow-to-generate-structured-data-for-my-site.json",
+        "bytes": 1521,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-generate-structured-data-and-are-there-free-options.json",
+        "bytes": 1576,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-mistakes-or-risks-should-i-avoid-when-generating-structured-data.json",
+        "bytes": 1458,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-actually-create-and-add-structured-data-to-my-website-pages.json",
+        "bytes": 1468,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-generating-structured-data-actually-improve-my-seo-and-ai-search-visibility.json",
+        "bytes": 1504,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-structured-data-format-should-i-use-json-ld-microdata-or-rdfa.json",
+        "bytes": 1398,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-do-i-need-to-do-first-to-generate-a-knowledge-graph-and-entity-file-for-my.json",
+        "bytes": 1146,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-exactly-does-the-knowledge-graph-and-entity-file-generation-process-work-ste.json",
+        "bytes": 1190,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-generate-a-knowledge-graph-and-entity-file-for-a-mid-si.json",
+        "bytes": 1214,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-biggest-risks-or-mistakes-that-can-go-wrong-during-knowledge-graph.json",
+        "bytes": 1203,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-types-of-data-sources-do-i-need-to-provide-to-generate-a-high-quality-knowl.json",
+        "bytes": 1171,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-or-llms-automatically-generate-knowledge-graphs-and-entity-files-without.json",
+        "bytes": 1188,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-generating-a-knowledge-graph-actually-improve-my-ai-visibility-or-searc.json",
+        "bytes": 1195,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-do-i-need-to-do-first-to-make-my-website-crawlable-by-ai-bots.json",
+        "bytes": 1653,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-make-a-website-ai-crawlable.json",
+        "bytes": 1454,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-make-a-website-ai-crawlable.json",
+        "bytes": 1463,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-if-my-website-isn-t-ai-crawlable.json",
+        "bytes": 1549,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-my-website-is-actually-being-crawled-by-ai.json",
+        "bytes": 1565,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-difference-between-an-ai-crawlable-website-and-a-regular-one.json",
+        "bytes": 1637,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-really-need-an-llms-txt-file-for-ai-crawlability.json",
+        "bytes": 1370,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-json-ld-schema-on-every-page-of-my-website-or-just-the-homepage.json",
+        "bytes": 1216,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-per-page-json-ld-website-schema-generation-cost-for-a-small-busine.json",
+        "bytes": 1186,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-generate-json-ld-schema-for-all-pages-on-my-website.json",
+        "bytes": 1157,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-if-i-generate-json-ld-schema-incorrectly-for-my-website-pages.json",
+        "bytes": 1250,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-many-json-ld-script-elements-should-i-put-on-each-page-and-where-do-they-go.json",
+        "bytes": 1207,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-manually-generate-json-ld-for-each-page-or-use-an-automated-tool-for-my.json",
+        "bytes": 1179,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-add-faqpage-json-ld-schema-to-individual-pages-instead-of-just-one-faq-pag.json",
+        "bytes": 1227,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-get-my-website-cited-by-ai-search-tools-like-google-ai-overviews.json",
+        "bytes": 1661,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-if-i-use-ai-generated-citations-without-checking-them-first.json",
+        "bytes": 1548,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-correctly-cite-ai-generated-content-in-apa-or-mla-style.json",
+        "bytes": 1434,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-there-a-guaranteed-method-to-make-ai-tools-cite-my-business-page.json",
+        "bytes": 1599,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-proof-do-i-need-to-get-cited-as-evidence-instead-of-just-opinion-by-ai-tool.json",
+        "bytes": 1546,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-best-prompt-to-ask-ai-for-real-verifiable-sources-with-citations.json",
+        "bytes": 1585,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-cite-ai-output-versus-just-disclose-that-i-used-it.json",
+        "bytes": 1434,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs.jsonld",
+        "bytes": 91552,
+        "purpose": "FAQs ItemList"
+      },
+      {
+        "path": "faq.md",
+        "bytes": 29040,
+        "purpose": "FAQs (markdown)"
+      }
+    ],
+    "services": [
+      {
+        "path": "services/answer-engine-optimization-aeo-software-los-angeles-service.json",
+        "bytes": 1957,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/answer-engine-optimization-aeo-software-san-diego-service.json",
+        "bytes": 1949,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/answer-engine-optimization-aeo-software-austin-service.json",
+        "bytes": 1937,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/answer-engine-optimization-aeo-software-denver-service.json",
+        "bytes": 1937,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/answer-engine-optimization-aeo-software-salt-lake-city-service.json",
+        "bytes": 1969,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/answer-engine-optimization-aeo-software-las-vegas-service.json",
+        "bytes": 1949,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/answer-engine-optimization-aeo-software-san-francisco-service.json",
+        "bytes": 1965,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-visibility-website-optimization-los-angeles-service.json",
+        "bytes": 1634,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-visibility-website-optimization-san-diego-service.json",
+        "bytes": 1626,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-visibility-website-optimization-austin-service.json",
+        "bytes": 1614,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-visibility-website-optimization-denver-service.json",
+        "bytes": 1614,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-visibility-website-optimization-salt-lake-city-service.json",
+        "bytes": 1646,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-visibility-website-optimization-las-vegas-service.json",
+        "bytes": 1626,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-visibility-website-optimization-san-francisco-service.json",
+        "bytes": 1642,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/structured-data-generation-los-angeles-service.json",
+        "bytes": 1940,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/structured-data-generation-san-diego-service.json",
+        "bytes": 1932,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/structured-data-generation-austin-service.json",
+        "bytes": 1920,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/structured-data-generation-denver-service.json",
+        "bytes": 1920,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/structured-data-generation-salt-lake-city-service.json",
+        "bytes": 1952,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/structured-data-generation-las-vegas-service.json",
+        "bytes": 1932,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/structured-data-generation-san-francisco-service.json",
+        "bytes": 1948,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/knowledge-graph-and-entity-file-generation-los-angeles-service.json",
+        "bytes": 1649,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/knowledge-graph-and-entity-file-generation-san-diego-service.json",
+        "bytes": 1641,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/knowledge-graph-and-entity-file-generation-austin-service.json",
+        "bytes": 1629,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/knowledge-graph-and-entity-file-generation-denver-service.json",
+        "bytes": 1629,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/knowledge-graph-and-entity-file-generation-salt-lake-city-service.json",
+        "bytes": 1661,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/knowledge-graph-and-entity-file-generation-las-vegas-service.json",
+        "bytes": 1641,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/knowledge-graph-and-entity-file-generation-san-francisco-service.json",
+        "bytes": 1657,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-crawlable-website-creation-los-angeles-service.json",
+        "bytes": 1930,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-crawlable-website-creation-san-diego-service.json",
+        "bytes": 1922,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-crawlable-website-creation-austin-service.json",
+        "bytes": 1910,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-crawlable-website-creation-denver-service.json",
+        "bytes": 1910,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-crawlable-website-creation-salt-lake-city-service.json",
+        "bytes": 1942,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-crawlable-website-creation-las-vegas-service.json",
+        "bytes": 1922,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-crawlable-website-creation-san-francisco-service.json",
+        "bytes": 1938,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/per-page-json-ld-website-schema-generation-los-angeles-service.json",
+        "bytes": 1677,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/per-page-json-ld-website-schema-generation-san-diego-service.json",
+        "bytes": 1669,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/per-page-json-ld-website-schema-generation-austin-service.json",
+        "bytes": 1657,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/per-page-json-ld-website-schema-generation-denver-service.json",
+        "bytes": 1657,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/per-page-json-ld-website-schema-generation-salt-lake-city-service.json",
+        "bytes": 1689,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/per-page-json-ld-website-schema-generation-las-vegas-service.json",
+        "bytes": 1669,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/per-page-json-ld-website-schema-generation-san-francisco-service.json",
+        "bytes": 1685,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-citations-generation-los-angeles-service.json",
+        "bytes": 1903,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-citations-generation-san-diego-service.json",
+        "bytes": 1895,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-citations-generation-austin-service.json",
+        "bytes": 1883,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-citations-generation-denver-service.json",
+        "bytes": 1883,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-citations-generation-salt-lake-city-service.json",
+        "bytes": 1915,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-citations-generation-las-vegas-service.json",
+        "bytes": 1895,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-citations-generation-san-francisco-service.json",
+        "bytes": 1911,
+        "purpose": "schema"
+      },
+      {
+        "path": "services.jsonld",
+        "bytes": 153014,
+        "purpose": "Services ItemList"
+      },
+      {
+        "path": "practice-areas.jsonld",
+        "bytes": 153020,
+        "purpose": "Practice areas ItemList"
+      },
+      {
+        "path": "specialties.jsonld",
+        "bytes": 153017,
+        "purpose": "Specialties ItemList"
+      },
+      {
+        "path": "case-types.json",
+        "bytes": 361,
+        "purpose": "Case types"
+      },
+      {
+        "path": "offer-catalog.jsonld",
+        "bytes": 152127,
+        "purpose": "OfferCatalog JSON-LD"
+      },
+      {
+        "path": "service-catalog.json",
+        "bytes": 140570,
+        "purpose": "Service catalog data"
+      },
+      {
+        "path": "service-pages.json",
+        "bytes": 140575,
+        "purpose": "Service pages data"
+      }
+    ],
+    "help": [
+      {
+        "path": "help/why-your-ai-visibility-isn-t-cutting-through-the-noise.json",
+        "bytes": 1817,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-your-website-ai-citable-a-practical-checklist.json",
+        "bytes": 1891,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/top-mistakes-businesses-make-with-ai-visibility-optimization.json",
+        "bytes": 1805,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-the-pros-for-answer-engine-optimization.json",
+        "bytes": 1825,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/the-step-by-step-guide-to-implementing-answer-engine-optimization.json",
+        "bytes": 1798,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-website-isn-t-showing-up-in-ai-search-results.json",
+        "bytes": 1843,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-aren-t-my-rich-results-showing-up.json",
+        "bytes": 1969,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-structured-data-for-your-site.json",
+        "bytes": 1967,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/keeping-your-schema-markup-current.json",
+        "bytes": 2101,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-exactly-is-a-knowledge-graph-for-businesses.json",
+        "bytes": 1969,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/modeling-your-business-s-key-entities.json",
+        "bytes": 1939,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-pitfalls-in-knowledge-graph-implementation.json",
+        "bytes": 2233,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-website-showing-up-in-ai-search.json",
+        "bytes": 1821,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-website-uses-react-will-ai-crawlers-see-my-content.json",
+        "bytes": 1677,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-implementing-ai-crawlability.json",
+        "bytes": 2301,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-website-schema-not-being-used-by-ai.json",
+        "bytes": 1956,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-generating-per-page-schema.json",
+        "bytes": 2635,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-i-engage-professionals-for-my-website-schema.json",
+        "bytes": 2316,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-stop-doing-if-you-want-more-ai-citations.json",
+        "bytes": 2019,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/decoding-ai-citations-myths-vs-reality.json",
+        "bytes": 1202,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-ai-citing-my-business-more-often.json",
+        "bytes": 2181,
+        "purpose": "schema"
+      },
+      {
+        "path": "help-articles.jsonld",
+        "bytes": 56228,
+        "purpose": "Help articles ItemList"
+      },
+      {
+        "path": "help-articles.md",
+        "bytes": 20597,
+        "purpose": "Help articles (markdown)"
+      }
+    ],
+    "locations": [
+      {
+        "path": "locations/ae-optimizer-office.json",
+        "bytes": 318,
+        "purpose": "schema"
+      },
+      {
+        "path": "locations.jsonld",
+        "bytes": 687,
+        "purpose": "Locations ItemList"
+      },
+      {
+        "path": "service-areas.jsonld",
+        "bytes": 691,
+        "purpose": "Service areas ItemList"
+      },
+      {
+        "path": "location-pages.json",
+        "bytes": 535,
+        "purpose": "Location pages data"
+      },
+      {
+        "path": "city-service-areas.json",
+        "bytes": 189,
+        "purpose": "City service areas"
+      },
+      {
+        "path": "geo-coverage.json",
+        "bytes": 209,
+        "purpose": "Geographic coverage summary"
+      }
+    ],
+    "organization": [
+      {
+        "path": "organization/ai-visibility-solutions-organization.json",
+        "bytes": 1749,
+        "purpose": "schema"
+      }
+    ],
+    "public": [
+      {
+        "path": "index.html",
+        "bytes": 2167,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "about.html",
+        "bytes": 5081,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "services.html",
+        "bytes": 132644,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "reviews.html",
+        "bytes": 1554,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "contact.html",
+        "bytes": 2915,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "faqs.html",
+        "bytes": 58564,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles.html",
+        "bytes": 76369,
+        "purpose": "LLM-optimized public page"
+      }
+    ],
+    "entity": [
+      {
+        "path": "organization.jsonld",
+        "bytes": 2483,
+        "purpose": "Primary Organization JSON-LD"
+      },
+      {
+        "path": "professional-service.jsonld",
+        "bytes": 2490,
+        "purpose": "ProfessionalService JSON-LD"
+      },
+      {
+        "path": "local-business.jsonld",
+        "bytes": 2484,
+        "purpose": "LocalBusiness JSON-LD"
+      },
+      {
+        "path": "entity-profile.json",
+        "bytes": 3304,
+        "purpose": "Entity profile summary"
+      },
+      {
+        "path": "business-overview.json",
+        "bytes": 3304,
+        "purpose": "Business overview"
+      },
+      {
+        "path": "brand-profile.json",
+        "bytes": 279,
+        "purpose": "Brand profile"
+      },
+      {
+        "path": "identifiers.json",
+        "bytes": 256,
+        "purpose": "External identifiers & sameAs"
+      },
+      {
+        "path": "same-as.jsonld",
+        "bytes": 265,
+        "purpose": "sameAs graph for entity disambiguation"
+      },
+      {
+        "path": "about.jsonld",
+        "bytes": 2836,
+        "purpose": "AboutPage JSON-LD"
+      },
+      {
+        "path": "contact.jsonld",
+        "bytes": 304,
+        "purpose": "ContactPage JSON-LD"
+      },
+      {
+        "path": "knowledge-graph.json",
+        "bytes": 143836,
+        "purpose": "Combined Schema.org @graph"
+      },
+      {
+        "path": "full-context.json",
+        "bytes": 3304,
+        "purpose": "Full entity context (JSON)"
+      },
+      {
+        "path": "full-context.yaml",
+        "bytes": 2567,
+        "purpose": "Full entity context (YAML)"
+      }
+    ],
+    "team": [
+      {
+        "path": "team.jsonld",
+        "bytes": 153,
+        "purpose": "Aggregate team ItemList"
+      },
+      {
+        "path": "professionals.jsonld",
+        "bytes": 162,
+        "purpose": "Professionals ItemList"
+      },
+      {
+        "path": "team.json",
+        "bytes": 94,
+        "purpose": "Team data bundle"
+      },
+      {
+        "path": "team-bios.md",
+        "bytes": 51,
+        "purpose": "Team bios (markdown)"
+      },
+      {
+        "path": "team-bios.json",
+        "bytes": 80,
+        "purpose": "Team bios (JSON)"
+      },
+      {
+        "path": "professionalservice-team.jsonld",
+        "bytes": 183,
+        "purpose": "ProfessionalService team wrapper"
+      }
+    ],
+    "qna": [
+      {
+        "path": "qnas.jsonld",
+        "bytes": 149,
+        "purpose": "Q&A ItemList"
+      },
+      {
+        "path": "qna.md",
+        "bytes": 29,
+        "purpose": "Q&A (markdown)"
+      }
+    ],
+    "hubs": [
+      {
+        "path": "topical-hubs.jsonld",
+        "bytes": 158,
+        "purpose": "Topical hubs ItemList"
+      },
+      {
+        "path": "topical-hubs.md",
+        "bytes": 47,
+        "purpose": "Topical hubs (markdown)"
+      },
+      {
+        "path": "semantic-authority-pages.json",
+        "bytes": 52465,
+        "purpose": "Semantic authority pages"
+      }
+    ],
+    "reviews": [
+      {
+        "path": "reviews.jsonld",
+        "bytes": 153,
+        "purpose": "Reviews ItemList"
+      },
+      {
+        "path": "testimonials.jsonld",
+        "bytes": 158,
+        "purpose": "Testimonials ItemList"
+      }
+    ],
+    "awards": [
+      {
+        "path": "awards.jsonld",
+        "bytes": 152,
+        "purpose": "Awards ItemList"
+      },
+      {
+        "path": "licenses.jsonld",
+        "bytes": 154,
+        "purpose": "Licenses ItemList"
+      },
+      {
+        "path": "associations.jsonld",
+        "bytes": 158,
+        "purpose": "Associations ItemList"
+      },
+      {
+        "path": "credentials.json",
+        "bytes": 100,
+        "purpose": "Credentials summary"
+      }
+    ],
+    "case-results": [
+      {
+        "path": "case-results.jsonld",
+        "bytes": 158,
+        "purpose": "Case results ItemList"
+      }
+    ],
+    "press": [
+      {
+        "path": "media-mentions.jsonld",
+        "bytes": 160,
+        "purpose": "Media mentions ItemList"
+      }
+    ],
+    "pages": [
+      {
+        "path": "about.html",
+        "bytes": 4016,
+        "purpose": "About page"
+      },
+      {
+        "path": "services.html",
+        "bytes": 18782,
+        "purpose": "Services page"
+      },
+      {
+        "path": "locations.html",
+        "bytes": 1970,
+        "purpose": "Locations page"
+      },
+      {
+        "path": "team.html",
+        "bytes": 1812,
+        "purpose": "Team page"
+      },
+      {
+        "path": "faqs.html",
+        "bytes": 20888,
+        "purpose": "FAQs page"
+      },
+      {
+        "path": "qnas.html",
+        "bytes": 1824,
+        "purpose": "Q&A page"
+      },
+      {
+        "path": "help.html",
+        "bytes": 3608,
+        "purpose": "Help page"
+      },
+      {
+        "path": "topical-hubs.html",
+        "bytes": 1844,
+        "purpose": "Topical hubs page"
+      },
+      {
+        "path": "reviews.html",
+        "bytes": 1824,
+        "purpose": "Reviews page"
+      },
+      {
+        "path": "case-results.html",
+        "bytes": 1844,
+        "purpose": "Case results page"
+      },
+      {
+        "path": "contact.html",
+        "bytes": 1904,
+        "purpose": "Contact page"
+      }
+    ],
+    "data": [
+      {
+        "path": "data/entity.json",
+        "bytes": 3304,
+        "purpose": "Entity data (JSON)"
+      },
+      {
+        "path": "data/entity.yaml",
+        "bytes": 2567,
+        "purpose": "Entity data (YAML)"
+      },
+      {
+        "path": "data/entity.jsonl",
+        "bytes": 2272,
+        "purpose": "Entity data (JSONL)"
+      },
+      {
+        "path": "data/services.json",
+        "bytes": 140570,
+        "purpose": "Services data"
+      },
+      {
+        "path": "data/locations.json",
+        "bytes": 535,
+        "purpose": "Locations data"
+      },
+      {
+        "path": "data/faqs.json",
+        "bytes": 84752,
+        "purpose": "FAQs data"
+      },
+      {
+        "path": "data/qnas.json",
+        "bytes": 94,
+        "purpose": "Q&A data"
+      },
+      {
+        "path": "data/help-articles.json",
+        "bytes": 52451,
+        "purpose": "Help articles data"
+      },
+      {
+        "path": "data/team.json",
+        "bytes": 94,
+        "purpose": "Team data"
+      },
+      {
+        "path": "data/reviews.json",
+        "bytes": 97,
+        "purpose": "Reviews data"
+      },
+      {
+        "path": "data/case-results.json",
+        "bytes": 102,
+        "purpose": "Case results data"
+      },
+      {
+        "path": "data/knowledge-graph.json",
+        "bytes": 143836,
+        "purpose": "Knowledge graph @graph"
+      },
+      {
+        "path": "data/internal-links.json",
+        "bytes": 21989,
+        "purpose": "Internal links index"
+      },
+      {
+        "path": "data/source-map.json",
+        "bytes": 40519,
+        "purpose": "Source-map of all entity files"
+      },
+      {
+        "path": "data/research-sources.json",
+        "bytes": 269,
+        "purpose": "Approved research items with source attribution"
+      },
+      {
+        "path": "data/source-provenance.json",
+        "bytes": 341,
+        "purpose": "External source provenance for approved research"
+      }
+    ],
+    "compliance": [
+      {
+        "path": "ai-disclaimer.md",
+        "bytes": 457,
+        "purpose": "AI disclaimer"
+      },
+      {
+        "path": "legal-disclaimer.md",
+        "bytes": 419,
+        "purpose": "Legal disclaimer"
+      },
+      {
+        "path": "data-sources.md",
+        "bytes": 662,
+        "purpose": "Data sources"
+      },
+      {
+        "path": "content-review-status.json",
+        "bytes": 41561,
+        "purpose": "Content review status"
+      },
+      {
+        "path": "approval-log.json",
+        "bytes": 147,
+        "purpose": "Content approval log"
+      }
+    ],
+    "security": [
+      {
+        "path": "security.txt",
+        "bytes": 135,
+        "purpose": "Security.txt (RFC 9116)"
+      },
+      {
+        "path": "humans.txt",
+        "bytes": 141,
+        "purpose": "humans.txt"
+      }
+    ],
+    "root": [
+      {
+        "path": "robots.txt",
+        "bytes": 389,
+        "purpose": "Robots policy"
+      },
+      {
+        "path": "llms.txt",
+        "bytes": 1123,
+        "purpose": "LLM hint"
+      },
+      {
+        "path": ".nojekyll",
+        "bytes": 0,
+        "purpose": "Disable Jekyll on GitHub Pages"
+      },
+      {
+        "path": "index.html",
+        "bytes": 398,
+        "purpose": "Landing page (redirects to ai-data.html)"
+      },
+      {
+        "path": "manifest.json",
+        "bytes": 223,
+        "purpose": "Web app manifest"
+      },
+      {
+        "path": "related-destinations.json",
+        "bytes": 988,
+        "purpose": "Cross-Destination Index (Related AI Data Sources)"
+      },
+      {
+        "path": "ai-data.html",
+        "bytes": 100660,
+        "purpose": "Master AI data index"
+      },
+      {
+        "path": "llms-full.txt",
+        "bytes": 32826,
+        "purpose": "Extended LLM context"
+      },
+      {
+        "path": "llms-full.md",
+        "bytes": 32826,
+        "purpose": "Extended LLM context (markdown)"
+      },
+      {
+        "path": "full-context.md",
+        "bytes": 906,
+        "purpose": "Full markdown context"
+      },
+      {
+        "path": "README.md",
+        "bytes": 28049,
+        "purpose": "Repository README"
+      },
+      {
+        "path": "ai-sitemap.xml",
+        "bytes": 35780,
+        "purpose": "AI sitemap"
+      },
+      {
+        "path": "sitemap.xml",
+        "bytes": 3074,
+        "purpose": "Standard sitemap"
+      }
+    ]
+  },
+  "destinations": {}
+}
