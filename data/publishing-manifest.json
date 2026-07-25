@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-07-25T18:36:31.705Z",
+  "generatedAt": "2026-07-25T18:36:38.909Z",
   "client": {
     "name": "AI Visibility Solutions",
     "canonicalUrl": "aiovisibility.com",
@@ -39,7 +39,7 @@
   },
   "package": {
     "totalFiles": 230,
-    "totalBytes": 2631348,
+    "totalBytes": 2637062,
     "stats": {
       "qna": 0,
       "faqs": 55,
@@ -1193,7 +1193,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 1123,
+        "bytes": 1832,
         "purpose": "LLM hint"
       },
       {
@@ -1213,32 +1213,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 988,
+        "bytes": 1694,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 100660,
+        "bytes": 102123,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 32826,
+        "bytes": 33535,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 32826,
+        "bytes": 33535,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 906,
+        "bytes": 1615,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 28049,
+        "bytes": 28758,
         "purpose": "Repository README"
       },
       {
@@ -1253,5 +1253,11 @@
       }
     ]
   },
-  "destinations": {}
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm",
+      "pagesUrl": "https://AIOVisibilityHub.github.io/ai-visibility-solutions-ai-schemas-3psm/",
+      "repo": "AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm"
+    }
+  }
 }

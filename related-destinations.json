@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-07-25T18:36:31.703Z",
+  "generatedAt": "2026-07-25T18:36:38.906Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -24,7 +24,25 @@
       "role": "ai-data-hub",
       "label": "AI Visibility Solutions — AI Data Hub",
       "url": "https://AIOVisibilityHub.github.io/ai-visibility-solutions-ai-schemas-3psm/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "github",
+      "label": "GitHub — AI Data Hub mirror",
+      "url": "https://AIOVisibilityHub.github.io/ai-visibility-solutions-ai-schemas-3psm/ai-data.html"
     }
   ],
-  "destinations": {}
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm",
+      "pagesUrl": "https://AIOVisibilityHub.github.io/ai-visibility-solutions-ai-schemas-3psm/",
+      "repo": "AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm"
+    }
+  }
 }

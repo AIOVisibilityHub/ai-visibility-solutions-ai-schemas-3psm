@@ -12,6 +12,14 @@ Package contents:
 - 21 helpArticles
 - 1 organization
 
+## Cross-Destination Index — Related AI Data Sources
+- [canonical] AI Visibility Solutions — canonical website — aiovisibility.com
+- [ai-data-hub] AI Visibility Solutions — AI Data Hub — https://AIOVisibilityHub.github.io/ai-visibility-solutions-ai-schemas-3psm/ai-data.html
+- [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm
+- [mirror-pages] GitHub — AI Data Hub mirror — https://AIOVisibilityHub.github.io/ai-visibility-solutions-ai-schemas-3psm/ai-data.html
+
+Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
+
 Services offered:
 - Answer Engine Optimization (AEO) software
 - AI Visibility website optimization
