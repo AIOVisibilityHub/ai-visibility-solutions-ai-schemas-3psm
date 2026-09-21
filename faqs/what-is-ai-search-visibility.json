@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AI Search Visibility?",
+  "description": "AI Search Visibility optimizes your content for AI algorithms used by search engines, improving discoverability and ranking.",
+  "url": "aiovisibility.com/faq/what-is-ai-search-visibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AI Search Visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI Search Visibility refers to optimizing your online content and digital presence so that artificial intelligence algorithms, used by search engines and other platforms, can effectively understand, rank, and present your information to users. It involves adapting to how AI processes language, user intent, and contextual relevance to improve your discoverability in search results and AI-driven recommendations.",
+        "description": "AI Search Visibility optimizes your content for AI algorithms used by search engines, improving discoverability and ranking."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

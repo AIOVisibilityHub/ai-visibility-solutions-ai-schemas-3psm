@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does AI Search Optimization cost?",
+  "description": "Costs vary based on scope, website size, industry competition, and services needed. A customized quote after an assessment provides an accurate estimate.",
+  "url": "aiovisibility.com/faq/how-much-does-ai-search-optimization-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does AI Search Optimization cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AI Search Optimization services varies widely depending on the scope of work, the size and complexity of your website, the competitiveness of your industry, and the specific tools and level of human expertise involved. Pricing models can range from monthly retainers for ongoing services to project-based fees for specific implementations. It's best to request a customized quote after an initial assessment of your business needs, as a tailored strategy ensures you invest in the most impactful solutions for your specific goals.",
+        "description": "Costs vary based on scope, website size, industry competition, and services needed. A customized quote after an assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Your Business Isn't Showing Up in Google AI Overviews",
+  "publisher": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ever wonder why AI Overviews are citing your competitors but not you? It's a common head-scratcher for businesses these days! The truth is, AI systems like Google's AI Overviews, ChatGPT, and Perplexity don't just randomly pick sources. They're looking for very specific signals that tell them your business is reliable, relevant, and authoritative. One big reason you might be getting overlooked is your content structure. AI thrives on clear, concise, and question-based formatting. If your website has long, rambling paragraphs or generic headings, it's tougher for AI to extract quick answers. Think of it this way: AI wants to deliver a straightforward answer to a user's question, and if your site makes it work hard to find that answer, it's likely to move on. We often see businesses missing out on schema markup too. Things like FAQPage or Article schema act like a translator, telling AI exactly what your content is about and which parts are answers to common questions. Without it, your site is essentially speaking a foreign language to these advanced systems. Another factor is how consistent your business information is across the web. AI builds a picture of your business as an entity, so if your services, locations, or team aren't clearly and consistently stated everywhere, AI might be less confident recommending you. This isn't just about SEO anymore; it's about making your entire online presence AI-friendly. If you're consistently being passed over, it might be time to rethink how your content is built to really speak to these new answer engines.",
+  "datePublished": "2026-07-26"
+}

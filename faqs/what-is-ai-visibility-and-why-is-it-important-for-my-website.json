@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AI visibility and why is it important for my website?",
+  "description": "AI visibility helps your website be understood and ranked by AI systems, leading to better search performance and user engagement through voice search or AI pla",
+  "url": "aiovisibility.com/faq/what-is-ai-visibility-and-why-is-it-important-for-my-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AI visibility and why is it important for my website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI visibility refers to how easily artificial intelligence systems, like search engine algorithms and virtual assistants, can understand, process, and rank your website's content. It's crucial because these AI systems are increasingly dictating how users discover information online. Optimizing for AI visibility ensures your website is interpreted correctly by these algorithms, leading to better search rankings, increased organic traffic, and more effective communication with users interacting through voice search or AI-driven platforms. Without it, your site may be overlooked, even if it contains valuable information.",
+        "description": "AI visibility helps your website be understood and ranked by AI systems, leading to better search performance and user engagement through voice search or AI platforms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

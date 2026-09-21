@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI Search Visibility suitable for small businesses?",
+  "description": "Yes, AI Search Visibility helps small businesses compete by improving their appearance in local and voice searches and personalized recommendations.",
+  "url": "aiovisibility.com/faq/is-ai-search-visibility-suitable-for-small-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI Search Visibility suitable for small businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AI Search Visibility is highly beneficial for small businesses. In today's digital landscape, even local searches are influenced by AI. Optimizing for AI can help small businesses appear in relevant voice searches, local search results, and personalized recommendations, leveling the playing field against larger competitors. It allows small businesses to connect with customers precisely when they are searching for relevant products or services, regardless of budget size.",
+        "description": "Yes, AI Search Visibility helps small businesses compete by improving their appearance in local and voice searches and personalized recommendations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

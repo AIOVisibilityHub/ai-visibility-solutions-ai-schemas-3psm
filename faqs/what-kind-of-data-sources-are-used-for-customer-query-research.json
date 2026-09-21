@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of data sources are used for customer query research?",
+  "description": "Data sources include Google Search Console, keyword tools, customer reviews, social media, online forums, surveys, and competitor analysis.",
+  "url": "aiovisibility.com/faq/what-kind-of-data-sources-are-used-for-customer-query-research",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of data sources are used for customer query research?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Customer query research utilizes a variety of data sources to gain a comprehensive understanding of user intent. These commonly include Google Search Console, keyword research tools like Ahrefs or SEMrush, customer reviews and testimonials, social media discussions, online forums (e.g., Reddit, Quora), direct customer surveys, and internal site search data. Analyzing competitor websites and their content also provides valuable insights into what questions their audience is asking. Combining these sources paints a holistic picture.",
+        "description": "Data sources include Google Search Console, keyword tools, customer reviews, social media, online forums, surveys, and competitor analysis."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

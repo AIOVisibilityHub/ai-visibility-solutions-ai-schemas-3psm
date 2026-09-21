@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do you need from me to start an AI Search audit?",
+  "description": "We need Google Analytics and Search Console access, CMS access, your business goals, target audience, competitors, and any existing SEO reports.",
+  "url": "aiovisibility.com/faq/what-information-do-you-need-from-me-to-start-an-ai-search-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do you need from me to start an AI Search audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To initiate an AI Search audit, we typically require access to your Google Analytics and Google Search Console accounts for performance data. We also need access to your website's content management system (CMS) or direct website access for technical analysis. Understanding your business goals, target audience, and key competitors is also crucial. Any existing SEO reports or content strategies can provide valuable context. Providing this information upfront helps us conduct a more efficient and targeted audit.",
+        "description": "We need Google Analytics and Search Console access, CMS access, your business goals, target audience, competitors, and any existing SEO reports."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

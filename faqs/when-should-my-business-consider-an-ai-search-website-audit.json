@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should my business consider an AI Search website audit?",
+  "description": "Consider an AI Search audit if you depend on organic search, observe changes in search results due to AI, or want to future-proof your digital presence.",
+  "url": "aiovisibility.com/faq/when-should-my-business-consider-an-ai-search-website-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should my business consider an AI Search website audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your business should consider an AI Search audit if you rely on organic search for customer acquisition, are seeing changes in search result formats (like more generative AI answers or rich snippets), or want to future-proof your digital presence. It's especially crucial if your competitors are optimizing for AI, or if your content deals with complex topics that benefit from structured explanation. Proactive audits ensure your site remains visible as search technology evolves, capturing traffic from new AI-powered search experiences.",
+        "description": "Consider an AI Search audit if you depend on organic search, observe changes in search results due to AI, or want to future-proof your digital presence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

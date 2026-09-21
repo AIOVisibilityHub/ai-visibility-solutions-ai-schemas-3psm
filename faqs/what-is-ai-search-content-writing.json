@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AI search content writing?",
+  "description": "AI search content writing uses artificial intelligence to create and optimize content for search engines, aiming to improve visibility and attract organic traff",
+  "url": "aiovisibility.com/faq/what-is-ai-search-content-writing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AI search content writing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI search content writing uses artificial intelligence tools to generate, optimize, and enhance written content for search engines. These tools analyze search trends, keywords, and competitor content to produce material designed to rank higher in search results. The goal is to improve visibility, attract organic traffic, and engage target audiences more effectively. This process often combines AI generation with human editing to ensure accuracy, relevance, and a natural tone.",
+        "description": "AI search content writing uses artificial intelligence to create and optimize content for search engines, aiming to improve visibility and attract organic traffic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

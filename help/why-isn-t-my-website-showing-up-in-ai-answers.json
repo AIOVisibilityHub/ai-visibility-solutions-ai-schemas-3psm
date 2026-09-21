@@ -1,0 +1,54 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Isn't My Website Showing Up in AI Answers?",
+  "publisher": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a common frustration! You've got a great website, but when someone asks ChatGPT, Perplexity, or Google AI Overviews for recommendations, your business is nowhere to be found. What gives? A lot of times, your website is built for people, not necessarily for the complex systems that train and pull from AI models. That's a huge gap in visibility. AI models don't just crawl web pages like traditional search engines; they're looking at a much wider mix of sources like code repositories, open datasets, and structured data.\n\nOne big culprit is relying too heavily on client-side JavaScript for your core content. If critical information isn't directly available in the HTML, lots of AI crawlers will see a blank page. Another common issue is blocking AI or search crawlers accidentally in your robots.txt file, or disallowing access to important JSON-LD data. You might also have a fantastic site, but if your content isn't organized around explicit questions and answers, AI systems will struggle to extract precise information to use in their responses.\n\nYour site's internal linking structure matters too. If important content is 'orphan pages' or buried more than a few clicks from your homepage, it becomes really hard for AI to discover. Outdated or incomplete sitemaps can also cause problems, as AI uses these to prioritize and understand your content's recency. To really get cited by AI, you need a strategy that goes beyond traditional SEO and specifically addresses how AI systems learn and extract information. If it feels like your site is a maze to AI, it’s often time for a technical deep dive. Seriously, getting professional help here can make all the difference, especially with complex sites.",
+  "datePublished": "2026-07-26"
+}

@@ -1,0 +1,54 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Every Page Needs Its Own Schema TLC",
+  "publisher": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When it comes to boosting your business's presence with AI, you can't just slap a generic piece of JSON-LD schema on your homepage and call it a day. Every single page on your website has a unique story to tell, and AI systems like ChatGPT, Perplexity, and Google AI Overviews are much better at understanding and citing your business when that story is told clearly and specifically through structured data. Think of it like this: your homepage might need `Organization` or `LocalBusiness` schema, but your service pages? They might need `Service` or `Product` schema. A blog post needs `Article` or `BlogPosting` schema, ideally with `Person` as the author.\n\nIt’s all about mapping each page type to the most appropriate schema.org classes. You wouldn't use a wrench for every single repair, right? Same goes for schema. The goal is to generate *page-specific* JSON-LD that accurately reflects the primary content and purpose of that particular page. This isn't just about avoiding duplicated or conflicting data; it's about providing the most granular, precise information possible. For instance, if you have an FAQ section on a page, embedding `FAQPage` schema ensures that specific question-and-answer content is machine-readable and highly citable by AI.\n\nYou also need to use `@id` and `sameAs` to connect entities across your entire site. This helps AI understand the relationships between different pieces of information – for example, linking an author to their articles, or a local branch to the parent organization. Always define a single source of truth for key business details too, so your schema is consistent and reliable. This level of detail isn't always easy to manage, especially on larger sites or with custom content management systems. That's often when bringing in a specialist really pays off, ensuring your pages are speaking fluently to AI.",
+  "datePublished": "2026-07-26"
+}

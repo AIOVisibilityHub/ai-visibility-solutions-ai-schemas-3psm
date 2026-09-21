@@ -1,0 +1,54 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Common Mistakes That Make Your Site Invisible to AI",
+  "publisher": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s easy to unintentionally sideline your website from AI visibility, even if you think you’ve got strong SEO. Here are some common pitfalls that can make your site an AI ghost town, and how to avoid them. First, relying too much on client-side JavaScript for your main content is a huge one. Many AI systems, just like some older search crawlers, won't execute JavaScript. If your core messages and data aren't in the initial HTML, AI won't see them. The fix? Make sure critical content is server-rendered or prerendered.\n\nSecond, accidentally blocking AI or search engine crawlers in your robots.txt file. This is a classic. You might disallow access to parts of your site or even your JSON-LD files, thinking you're being efficient, but you're actually telling AI to stay away. Always double-check your robots.txt and ensure reputable crawlers are welcome. Third, omitting or misusing structured data. JSON-LD schema isn't just for rich snippets anymore; it's how AI truly understands your business. If you're using the wrong schema types or not connecting your entities with `@id`, you're missing a massive opportunity for AI to cite your business.\n\nFourth, having 'orphan pages' or deep link silos. If important content is buried more than 3-4 clicks from your homepage, it becomes hard for any crawler, AI or otherwise, to discover and value it. Improve your internal linking to expose these relationships. Fifth, outdated or incomplete sitemaps. AI uses sitemaps to understand your site's structure and content freshness. If yours are old or missing canonical URLs, AI systems will struggle to prioritize your best content. Staying on top of these technical details is critical. If your site has a complex structure or you’re unsure about audits, bringing in a specialist can save you a lot of headaches and boost your AI presence significantly.",
+  "datePublished": "2026-07-26"
+}

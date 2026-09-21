@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for conducting an AI Search website audit?",
+  "description": "The process involves technical analysis, content review for semantic relevance and structured data, competitor analysis, and a report with actionable recommenda",
+  "url": "aiovisibility.com/faq/what-is-the-process-for-conducting-an-ai-search-website-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for conducting an AI Search website audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The audit process typically begins with a technical analysis of your website's infrastructure, followed by an in-depth content review for semantic relevance, clarity, and structured data implementation (Schema markup). We analyze your existing content for accuracy and comprehensiveness, and identify opportunities for entity optimization. The audit includes competitor analysis in AI search, user intent mapping, and an assessment of your site's overall authority and trustworthiness. Finally, we provide a detailed report with actionable recommendations tailored to improve your AI search visibility.",
+        "description": "The process involves technical analysis, content review for semantic relevance and structured data, competitor analysis, and a report with actionable recommendations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

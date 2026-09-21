@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for Answer Engine Optimization services for a small business?",
+  "description": "AEO service costs for small businesses vary based on project scope, website complexity, and industry competitiveness. Pricing models include retainers or projec",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-for-answer-engine-optimization-services-for-a-small-bus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for Answer Engine Optimization services for a small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services for a small business can vary widely depending on the scope of work, the complexity of your website, and the competitiveness of your industry. Factors influencing cost include the number of keywords targeted, the extent of content optimization required, and ongoing monitoring and reporting. Pricing models might include monthly retainers, project-based fees, or hourly rates. It's best to consult with a provider to get a customized quote based on your specific business needs and goals, as each strategy is tailored.",
+        "description": "AEO service costs for small businesses vary based on project scope, website complexity, and industry competitiveness. Pricing models include retainers or project fees, requiring a custom quote."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

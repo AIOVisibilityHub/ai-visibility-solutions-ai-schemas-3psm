@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between AI Search Visibility and traditional SEO?",
+  "description": "AI Search Visibility expands traditional SEO by specifically targeting how AI algorithms understand user intent, context, and content semantics for search ranki",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-ai-search-visibility-and-traditional-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between AI Search Visibility and traditional SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While traditional SEO focuses on optimizing for search engine ranking factors like keywords, backlinks, and technical elements, AI Search Visibility takes a broader approach. It not only includes traditional SEO but also specifically targets how AI algorithms understand and interpret content, user intent, and context. AI Search Visibility emphasizes semantic relevance, user experience, and adapting to advanced machine learning models that influence search rankings and recommendations.",
+        "description": "AI Search Visibility expands traditional SEO by specifically targeting how AI algorithms understand user intent, context, and content semantics for search rankings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

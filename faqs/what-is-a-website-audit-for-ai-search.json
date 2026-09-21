@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a Website Audit for AI Search?",
+  "description": "It assesses your website's readiness for AI search engines, focusing on content, data structure, and technical SEO for AI interpretation.",
+  "url": "aiovisibility.com/faq/what-is-a-website-audit-for-ai-search",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Website Audit for AI Search?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Website Audit for AI Search evaluates your website's readiness for how AI-powered search engines process and understand information. This involves analyzing content structure, data schema, semantic relevance, and overall technical SEO. The goal is to ensure your site provides clear, concise, and structured data that AI models can easily interpret, enhancing your visibility in AI-driven search results, rich snippets, and generative AI summaries. It goes beyond traditional SEO to focus on semantic understanding and data quality.",
+        "description": "It assesses your website's readiness for AI search engines, focusing on content, data structure, and technical SEO for AI interpretation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

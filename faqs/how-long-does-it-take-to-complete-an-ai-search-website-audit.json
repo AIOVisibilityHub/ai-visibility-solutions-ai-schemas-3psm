@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to complete an AI Search website audit?",
+  "description": "An AI Search website audit usually takes 2 to 4 weeks, depending on the website's size, content volume, and the audit's specific scope.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-complete-an-ai-search-website-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to complete an AI Search website audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeframe for completing an AI Search website audit typically ranges from 2 to 4 weeks. This duration depends on the size and complexity of your website, the volume of content, and the specific scope of the audit. A more extensive site with numerous pages and diverse content types will naturally require more time for thorough analysis. We prioritize delivering comprehensive and actionable insights, so the focus is on depth and accuracy rather than speed, ensuring you receive a valuable and detailed report.",
+        "description": "An AI Search website audit usually takes 2 to 4 weeks, depending on the website's size, content volume, and the audit's specific scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

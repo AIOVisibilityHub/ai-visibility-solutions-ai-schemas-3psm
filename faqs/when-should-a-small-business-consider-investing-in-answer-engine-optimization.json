@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should a small business consider investing in Answer Engine Optimization?",
+  "description": "Invest in AEO if your audience asks direct questions or uses voice assistants, especially if you want to capture 'near me' searches or compete for featured snip",
+  "url": "aiovisibility.com/faq/when-should-a-small-business-consider-investing-in-answer-engine-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should a small business consider investing in Answer Engine Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small business should consider investing in Answer Engine Optimization when its target audience frequently uses search engines to ask direct questions or relies on voice assistants. If your business offers clear, definable products or services, or if you have competitors appearing in featured snippets, AEO can be a crucial strategy. It's particularly beneficial if you want to capture 'near me' searches or provide immediate answers to common customer inquiries, establishing your business as an authoritative source of information.",
+        "description": "Invest in AEO if your audience asks direct questions or uses voice assistants, especially if you want to capture 'near me' searches or compete for featured snippets."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

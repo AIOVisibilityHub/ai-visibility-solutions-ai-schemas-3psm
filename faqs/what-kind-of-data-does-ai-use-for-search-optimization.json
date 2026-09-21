@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of data does AI use for search optimization?",
+  "description": "AI uses keyword data, search queries, user intent, competitor strategies, content performance, technical SEO, backlinks, and social signals for optimization.",
+  "url": "aiovisibility.com/faq/what-kind-of-data-does-ai-use-for-search-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of data does AI use for search optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI for search optimization processes a wide array of data points. This includes extensive keyword data, search query patterns, and user intent signals. It also analyzes competitor strategies, content performance metrics (engagement, bounce rate, time on page), and technical SEO aspects of websites. Furthermore, AI considers backlink profiles, social media signals, and emerging trends in natural language processing to understand semantic relationships. This comprehensive data analysis enables AI to generate highly targeted and effective optimization strategies.",
+        "description": "AI uses keyword data, search queries, user intent, competitor strategies, content performance, technical SEO, backlinks, and social signals for optimization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can customer query research help with local SEO in New York City?",
+  "description": "Yes, it helps local SEO by identifying location-specific queries (e.g., \"AI solutions New York City\") to optimize local content and Google My Business listings.",
+  "url": "aiovisibility.com/faq/can-customer-query-research-help-with-local-seo-in-new-york-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can customer query research help with local SEO in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, customer query research is highly beneficial for local SEO, especially in competitive markets like New York City. By analyzing queries that include local modifiers (e.g., \"best pizza NYC,\" \"AI solutions Manhattan\"), businesses can tailor their content and Google My Business listings to directly answer these specific local needs. This helps target nearby customers searching for local services, improving visibility in local search results and driving foot traffic or local inquiries. Understanding local intent is key to dominating the local market.",
+        "description": "Yes, it helps local SEO by identifying location-specific queries (e.g., \"AI solutions New York City\") to optimize local content and Google My Business listings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

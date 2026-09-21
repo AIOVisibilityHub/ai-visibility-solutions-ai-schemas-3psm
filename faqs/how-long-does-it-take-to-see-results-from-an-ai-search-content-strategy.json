@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from an AI Search Content Strategy?",
+  "description": "Initial results from an AI Search Content Strategy may appear in weeks to months, but full benefits, including sustained authority, typically develop over sever",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-an-ai-search-content-strategy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from an AI Search Content Strategy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing results from an AI Search Content Strategy can vary. Initial foundational work, such as comprehensive content audits and schema implementation, might show early improvements within a few weeks to months, particularly for specific high-value queries. However, full realization of benefits, including significant shifts in AI recognition and sustained authority, is an ongoing process that typically unfolds over several months to a year. It's a continuous optimization effort, as AI algorithms evolve, and content needs regular refinement to maintain relevance and effectiveness.",
+        "description": "Initial results from an AI Search Content Strategy may appear in weeks to months, but full benefits, including sustained authority, typically develop over several months to a year."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

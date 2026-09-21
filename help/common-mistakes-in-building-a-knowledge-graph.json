@@ -1,0 +1,52 @@
+{
+  "name": "Common Mistakes in Building a Knowledge Graph",
+  "step": [
+    {
+      "name": "Step 1",
+      "text": "Building a robust knowledge graph is key for AI visibility, but it's easy to make a few missteps along the way. Here are some common mistakes and how to steer clear of them: Not clearly defining relationships: This is a big one! Don't just list entities; explicitly map how they connect to each other. For example, show that a 'product' is 'manufactured by' a 'company.' Omitting hierarchies: AI needs to understand the structure of your business. Make sure you're including parent-child relationships where they exist, like categories and subcategories, or departments within a company. Mixing descriptive fields with measures: Keep your data types clean. Don't put a numerical value into a descriptive text field, or vice-versa. Proper typing helps AI interpret the data correctly. Failing to assign ownership for validation and correction: Knowledge graphs aren't static. Someone needs to be responsible for ongoing accuracy checks and updates. Otherwise, your graph quickly becomes outdated. Forgetting security considerations: Especially when combining sensitive data, ignoring who has access and how the data is protected is a huge oversight. When your graph gets complex, especially if it combines several systems or supports critical AI use cases, professional help ensures it’s built right to scale and maintain integrity.",
+      "@type": "HowToStep",
+      "position": 1
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    }
+  ],
+  "description": "Common Mistakes in Building a Knowledge Graph"
+}

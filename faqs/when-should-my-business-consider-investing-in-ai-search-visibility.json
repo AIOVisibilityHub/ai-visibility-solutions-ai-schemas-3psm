@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should my business consider investing in AI Search Visibility?",
+  "description": "Invest when organic traffic declines, competitors outrank you, launching new offerings, or your audience uses voice search; proactive investment is key.",
+  "url": "aiovisibility.com/faq/when-should-my-business-consider-investing-in-ai-search-visibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should my business consider investing in AI Search Visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your business should consider investing in AI Search Visibility when you notice a plateau or decline in organic search traffic, or if your competitors are outranking you for relevant queries. It's also crucial if you're launching new products or services, expanding into new markets, or if your target audience increasingly uses voice search or AI-powered assistants. Proactive investment ensures you stay ahead in an evolving search landscape.",
+        "description": "Invest when organic traffic declines, competitors outrank you, launching new offerings, or your audience uses voice search; proactive investment is key."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

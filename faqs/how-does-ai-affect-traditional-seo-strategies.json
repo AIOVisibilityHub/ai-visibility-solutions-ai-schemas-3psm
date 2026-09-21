@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AI affect traditional SEO strategies?",
+  "description": "AI shifts SEO from keyword stuffing to natural language and user intent, prioritizing high-quality content that provides value and context.",
+  "url": "aiovisibility.com/faq/how-does-ai-affect-traditional-seo-strategies",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AI affect traditional SEO strategies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI significantly impacts traditional SEO by shifting focus from keyword stuffing to natural language understanding and user intent. AI-powered search engines prioritize high-quality, relevant content that directly answers user queries, even if specific keywords aren't present. This means SEO strategies must now emphasize creating comprehensive, authoritative content that provides value and context, moving beyond simple keyword matching to semantic understanding.",
+        "description": "AI shifts SEO from keyword stuffing to natural language and user intent, prioritizing high-quality content that provides value and context."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
