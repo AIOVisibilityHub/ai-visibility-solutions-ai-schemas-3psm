@@ -18,6 +18,14 @@ Package contents:
 - [ai-data-hub] AI Visibility Solutions — AI Data Hub — https://ai-data.aiovisibility.com/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm
 - [mirror-pages] GitHub — AI Data Hub mirror — http://ai-data.aiovisibility.com/ai-data.html
+- [mirror-repo] GitLab repository — https://gitlab.com/aiovisibilityhub/ai-visibility-solutions-ai-schemas-93iu
+- [mirror-pages] GitLab — AI Data Hub mirror — https://ai-visibility-solutions-ai-schemas-93iu-693b17.gitlab.io/ai-data.html
+- [mirror-repo] Hugging Face repository — https://huggingface.co/spaces/AIOVisibilityHub/ai-visibility-solutions-ai-schemas
+- [mirror-pages] Hugging Face — AI Data Hub mirror — https://aiovisibilityhub-ai-visibility-solutions-ai-schemas.static.hf.space/ai-data.html
+- [mirror-repo] Kaggle repository — https://www.kaggle.com/datasets/aiovisibilityhub/ai-visibility-solutions-ai-schemas
+- [mirror-repo] SourceHut repository — https://aiovisibilityhub.srht.site/
+- [mirror-pages] SourceHut — AI Data Hub mirror — https://aiovisibilityhub.srht.site/ai-data.html
+- [mirror-repo] Zenodo repository — https://zenodo.org/record/22884409
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
