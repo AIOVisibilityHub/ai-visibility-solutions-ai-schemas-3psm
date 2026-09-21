@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What content types are best for AEO in weight loss?",
+  "description": "FAQs, blog posts, service pages, \"how-to\" guides, and glossaries that directly answer common patient questions are best for AEO in weight loss.",
+  "url": "aiovisibility.com/faq/what-content-types-are-best-for-aeo-in-weight-loss",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What content types are best for AEO in weight loss?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For weight loss clinics, content types that directly answer common patient questions are ideal for AEO. This includes detailed FAQs on your services, blog posts addressing specific concerns like \"managing cravings\" or \"understanding metabolic rates,\" and service pages optimized with clear definitions and comparisons of treatment options (e.g., \"semaglutide vs. tirzepatide for weight loss\"). \"How-to\" guides, glossaries of terms, and structured data on clinic details (hours, services, location) also perform well, as they provide concise, scannable answers to common queries.",
+        "description": "FAQs, blog posts, service pages, \"how-to\" guides, and glossaries that directly answer common patient questions are best for AEO in weight loss."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

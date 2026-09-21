@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AEO help with local patient acquisition for weight loss clinics in New York City?",
+  "description": "AEO helps local patient acquisition in New York City by optimizing for location-specific queries and Google Business Profile, increasing visibility in local ans",
+  "url": "aiovisibility.com/faq/can-aeo-help-with-local-patient-acquisition-for-weight-loss-clinics-in-new-york",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AEO help with local patient acquisition for weight loss clinics in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AEO is highly effective for local patient acquisition, especially in competitive markets like New York City. People frequently use location-specific queries such as \"weight loss clinics NYC with phentermine\" or \"best medical weight loss near me.\" Optimizing your Google Business Profile with comprehensive information and creating content that answers these localized questions directly can help your clinic appear in local answer boxes and maps. This visibility is crucial for capturing the intent of potential patients actively searching for services in their immediate area, directing them straight to your facility.",
+        "description": "AEO helps local patient acquisition in New York City by optimizing for location-specific queries and Google Business Profile, increasing visibility in local answer boxes and maps."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

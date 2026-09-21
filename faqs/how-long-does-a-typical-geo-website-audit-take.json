@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical GEO website audit take?",
+  "description": "A typical GEO website audit can take 2 to 4 weeks, depending on website size and geographic targets.",
+  "url": "aiovisibility.com/faq/how-long-does-a-typical-geo-website-audit-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical GEO website audit take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a GEO website audit varies depending on the website's size, complexity, and the number of geographic targets. Generally, a comprehensive audit for a small to medium-sized business targeting a few cities can take between 2 to 4 weeks. This includes data collection, analysis, report generation, and presentation of findings. Larger websites or those with extensive local presence may require more time.",
+        "description": "A typical GEO website audit can take 2 to 4 weeks, depending on website size and geographic targets."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

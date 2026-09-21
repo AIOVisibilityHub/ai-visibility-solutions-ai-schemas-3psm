@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What content changes are needed to rank in Google AI Overviews?",
+  "description": "Content for AI Overviews needs to be clear, concise, authoritative, and structured with headings, lists, and tables to directly answer user questions.",
+  "url": "aiovisibility.com/faq/what-content-changes-are-needed-to-rank-in-google-ai-overviews",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What content changes are needed to rank in Google AI Overviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To rank in Google AI Overviews, focus on creating clear, concise, and authoritative content that directly answers specific questions. Use headings (H1, H2, H3) to structure information logically and break down complex topics. Incorporate bullet points, numbered lists, and tables for scannable data. Ensure your content is factually accurate and provides complete answers. Adopting a question-and-answer format where appropriate can also be highly effective.",
+        "description": "Content for AI Overviews needs to be clear, concise, authoritative, and structured with headings, lists, and tables to directly answer user questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

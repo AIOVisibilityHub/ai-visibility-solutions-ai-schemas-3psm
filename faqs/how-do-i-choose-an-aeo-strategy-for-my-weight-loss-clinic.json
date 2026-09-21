@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose an AEO strategy for my weight loss clinic?",
+  "description": "Choose an AEO strategy by researching common patient questions, analyzing competitors, and creating content that provides clear, concise answers. Monitor perfor",
+  "url": "aiovisibility.com/faq/how-do-i-choose-an-aeo-strategy-for-my-weight-loss-clinic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose an AEO strategy for my weight loss clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing an AEO strategy involves understanding your target patients' most common questions and unmet information needs. Start by conducting keyword research focused on question-based queries and identifying opportunities for featured snippets. Analyze competitor content and gaps in their answers. Then, develop a content plan that directly addresses these questions with clear, authoritative, and concise information. Prioritize content around your unique services and expertise. Regularly monitor your performance in answer boxes and voice search to refine your strategy based on what's working and evolving search trends.",
+        "description": "Choose an AEO strategy by researching common patient questions, analyzing competitors, and creating content that provides clear, concise answers. Monitor performance to refine your approach."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

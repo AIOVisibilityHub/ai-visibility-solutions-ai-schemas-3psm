@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AI Overview optimization differ from traditional SEO?",
+  "description": "AI Overview optimization focuses on structuring content for Google's AI to generate summaries, whereas traditional SEO primarily targets keyword rankings and si",
+  "url": "aiovisibility.com/faq/how-does-ai-overview-optimization-differ-from-traditional-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AI Overview optimization differ from traditional SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While traditional SEO focuses on ranking for keywords and gaining organic traffic, AI Overview optimization targets Google's understanding of content for summary generation. Traditional SEO aims for clicks to your site, whereas AI Overviews often provide answers directly, reducing clicks. AI optimization emphasizes clear, factual answers, structured data, and addressing user intent comprehensively, beyond just keyword density. It's an evolution, not a replacement, of core SEO principles.",
+        "description": "AI Overview optimization focuses on structuring content for Google's AI to generate summaries, whereas traditional SEO primarily targets keyword rankings and site clicks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

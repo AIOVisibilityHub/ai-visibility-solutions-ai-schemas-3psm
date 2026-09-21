@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What role does content quality play in AI SEO compared to keyword density?",
+  "description": "AI SEO prioritizes content quality, authority, and user intent over simple keyword density; AI understands semantic relationships, making valuable content more",
+  "url": "aiovisibility.com/faq/what-role-does-content-quality-play-in-ai-seo-compared-to-keyword-density",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What role does content quality play in AI SEO compared to keyword density?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In AI SEO, content quality plays a far more significant role than simple keyword density. Modern AI algorithms prioritize content that is comprehensive, authoritative, relevant, and truly answers a user's intent, rather than just containing a specific number of keywords. While keywords are still important for topic identification, AI can understand semantic relationships and context, meaning over-stuffing keywords can actually harm your rankings. The focus has shifted to creating valuable, well-researched content that demonstrates expertise and provides a superior user experience, which AI rewards.",
+        "description": "AI SEO prioritizes content quality, authority, and user intent over simple keyword density; AI understands semantic relationships, making valuable content more impactful."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

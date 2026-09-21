@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a GEO website audit help my business in New York City and Los Angeles?",
+  "description": "Yes, an audit can be tailored to improve local search visibility for businesses operating in specific cities like New York City and Los Angeles.",
+  "url": "aiovisibility.com/faq/can-a-geo-website-audit-help-my-business-in-new-york-city-and-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a GEO website audit help my business in New York City and Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a GEO website audit is highly effective for businesses operating in multiple major metropolitan areas like New York City and Los Angeles. The audit can be tailored to address the unique local search landscapes of each city. It will identify specific opportunities to optimize your online presence for local search queries originating from each region, ensuring your business is visible to potential customers in both locations.",
+        "description": "Yes, an audit can be tailored to improve local search visibility for businesses operating in specific cities like New York City and Los Angeles."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

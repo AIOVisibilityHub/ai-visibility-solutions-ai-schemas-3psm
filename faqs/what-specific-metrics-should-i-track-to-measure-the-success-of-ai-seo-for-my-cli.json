@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What specific metrics should I track to measure the success of AI SEO for my clinic?",
+  "description": "Track organic search traffic, keyword rankings, conversion rates, domain authority, backlink growth, and bounce rate to measure AI SEO success.",
+  "url": "aiovisibility.com/faq/what-specific-metrics-should-i-track-to-measure-the-success-of-ai-seo-for-my-cli",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What specific metrics should I track to measure the success of AI SEO for my clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure the success of AI SEO, focus on key metrics such as organic search traffic increases, improved keyword rankings for relevant terms (e.g., 'weight loss programs [your city]'), and higher conversion rates (e.g., more contact form submissions or appointment requests). Additionally, monitor your website's domain authority, backlink profile growth, and bounce rate. These indicators collectively demonstrate the effectiveness of your AI SEO strategy in driving patient acquisition and clinic growth.",
+        "description": "Track organic search traffic, keyword rankings, conversion rates, domain authority, backlink growth, and bounce rate to measure AI SEO success."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

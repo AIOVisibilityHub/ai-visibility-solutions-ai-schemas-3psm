@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of results can I expect after implementing audit recommendations?",
+  "description": "Expect improved local search rankings, increased local organic traffic, more qualified leads, and an optimized Google My Business profile.",
+  "url": "aiovisibility.com/faq/what-kind-of-results-can-i-expect-after-implementing-audit-recommendations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of results can I expect after implementing audit recommendations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After implementing the recommendations from a GEO website audit, businesses can expect improved local search engine rankings, increased organic traffic from local searches, and a higher quantity of qualified leads or calls from target geographic areas. You may also see an optimized Google My Business profile leading to more map views and direct customer engagement. Results typically begin to show within a few weeks to months, depending on the competitive landscape.",
+        "description": "Expect improved local search rankings, increased local organic traffic, more qualified leads, and an optimized Google My Business profile."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

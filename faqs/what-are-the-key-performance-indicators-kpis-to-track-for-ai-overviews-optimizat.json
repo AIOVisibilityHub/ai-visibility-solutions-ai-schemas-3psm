@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the key performance indicators (KPIs) to track for AI Overviews optimization?",
+  "description": "Track improved visibility in AI snippets, increased organic traffic and CTR, enhanced brand authority, and lead generation from optimized search placements.",
+  "url": "aiovisibility.com/faq/what-are-the-key-performance-indicators-kpis-to-track-for-ai-overviews-optimizat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key performance indicators (KPIs) to track for AI Overviews optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key performance indicators for AI Overviews optimization include improved visibility in AI-generated snippets, increased organic traffic to pages optimized for Overviews, higher click-through rates (CTR) from search results, and enhanced brand authority. Monitoring specific keyword rankings for which your content appears in Overviews, as well as lead generation and conversion rates originating from these improved search placements, is also important.",
+        "description": "Track improved visibility in AI snippets, increased organic traffic and CTR, enhanced brand authority, and lead generation from optimized search placements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

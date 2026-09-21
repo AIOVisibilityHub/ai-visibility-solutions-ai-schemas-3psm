@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeframe to see results from Generative Engine Optimization?",
+  "description": "Med spas typically see significant GEO results within 3 to 6 months, with initial improvements potentially appearing sooner.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-timeframe-to-see-results-from-generative-engine-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeframe to see results from Generative Engine Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeframe for seeing significant results from Generative Engine Optimization can vary, but most med spas begin to observe improvements within 3 to 6 months. Initial gains in search visibility and traffic may appear sooner, as AI-generated content quickly addresses search gaps. However, achieving sustained higher rankings and a noticeable increase in client inquiries typically requires consistent optimization and content generation over several months. Factors like market competition and the current online presence of the med spa also influence the timeline.",
+        "description": "Med spas typically see significant GEO results within 3 to 6 months, with initial improvements potentially appearing sooner."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider getting a GEO website audit?",
+  "description": "Consider an audit if your business targets local customers, your local search rankings are poor, or you're opening a new location.",
+  "url": "aiovisibility.com/faq/when-should-i-consider-getting-a-geo-website-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider getting a GEO website audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider a GEO website audit if your business relies on local customers, if you're experiencing a decline in local search traffic, or if you're not appearing in local pack results on Google. It's also beneficial when launching a new location, updating your website, or if competitors seem to be outranking you locally. Proactive audits can identify issues before they significantly impact your local visibility.",
+        "description": "Consider an audit if your business targets local customers, your local search rankings are poor, or you're opening a new location."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

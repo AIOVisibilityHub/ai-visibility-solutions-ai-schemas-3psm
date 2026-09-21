@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in a GEO website audit report?",
+  "description": "The report includes an analysis of local keywords, technical issues, Google My Business, local citations, and actionable recommendations.",
+  "url": "aiovisibility.com/faq/what-is-included-in-a-geo-website-audit-report",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a GEO website audit report?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A GEO website audit report typically includes an executive summary of key findings, a detailed analysis of local keyword performance, technical SEO issues affecting local rankings, and an assessment of your Google My Business profile. It also covers local citation accuracy, competitor analysis for target geographies, and content relevance for local searches. The report concludes with actionable recommendations prioritizing specific steps to improve local search visibility.",
+        "description": "The report includes an analysis of local keywords, technical issues, Google My Business, local citations, and actionable recommendations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

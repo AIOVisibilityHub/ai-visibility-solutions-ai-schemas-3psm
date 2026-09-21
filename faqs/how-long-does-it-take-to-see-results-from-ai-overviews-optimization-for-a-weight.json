@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AI Overviews optimization for a weight loss clinic?",
+  "description": "Results can begin in weeks to months, but sustained visibility from AI Overviews optimization requires continuous effort due to evolving AI models and search qu",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-ai-overviews-optimization-for-a-weight",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AI Overviews optimization for a weight loss clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing results from AI Overviews optimization can vary. Initial content adjustments and technical optimizations might show impact within a few weeks to a few months. However, consistent content creation, monitoring, and adaptation to AI model changes are ongoing efforts. Significant and sustained visibility often requires a continuous strategy, as AI Overviews evolve and search queries change over time.",
+        "description": "Results can begin in weeks to months, but sustained visibility from AI Overviews optimization requires continuous effort due to evolving AI models and search queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

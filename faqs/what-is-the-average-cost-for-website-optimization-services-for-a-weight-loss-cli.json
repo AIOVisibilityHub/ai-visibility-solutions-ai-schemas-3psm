@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the average cost for website optimization services for a weight loss clinic?",
+  "description": "Costs vary widely, from hundreds to thousands of dollars monthly, depending on service scope, market competitiveness, and agency expertise.",
+  "url": "aiovisibility.com/faq/what-is-the-average-cost-for-website-optimization-services-for-a-weight-loss-cli",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the average cost for website optimization services for a weight loss clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for website optimization services for a weight loss clinic can vary significantly based on the scope of work and the provider. It can range from a few hundred dollars per month for basic local SEO to several thousand for comprehensive national campaigns involving extensive content creation and technical SEO. Factors influencing cost include the number of services bundled (e.g., SEO, content, PPC), the market's competitiveness, and the expertise of the agency. It's best to request a customized quote based on your clinic's specific needs and goals.",
+        "description": "Costs vary widely, from hundreds to thousands of dollars monthly, depending on service scope, market competitiveness, and agency expertise."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

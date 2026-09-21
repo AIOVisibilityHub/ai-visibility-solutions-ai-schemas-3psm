@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Answer Engine Optimization (AEO) for weight loss clinics?",
+  "description": "AEO optimizes content to provide direct answers to search queries, making a weight loss clinic's information appear as featured snippets or voice search results",
+  "url": "aiovisibility.com/faq/what-is-answer-engine-optimization-aeo-for-weight-loss-clinics",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Answer Engine Optimization (AEO) for weight loss clinics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer Engine Optimization (AEO) focuses on making a weight loss clinic's content directly answer questions people ask on search engines and voice assistants. Unlike traditional SEO, which often aims for high rankings, AEO structures content to be easily extracted and presented as direct answers, featured snippets, or in voice search results. For weight loss clinics, this means optimizing for specific queries like \"how to choose a weight loss program\" or \"benefits of medical weight loss,\" ensuring your clinic's factual, concise information appears prominently when potential patients are seeking immediate answers.",
+        "description": "AEO optimizes content to provide direct answers to search queries, making a weight loss clinic's information appear as featured snippets or voice search results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

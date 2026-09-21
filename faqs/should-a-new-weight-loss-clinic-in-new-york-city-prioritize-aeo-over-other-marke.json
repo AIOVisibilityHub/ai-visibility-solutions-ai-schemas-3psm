@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should a new weight loss clinic in New York City prioritize AEO over other marketing channels?",
+  "description": "A new weight loss clinic in New York City should prioritize AEO alongside foundational SEO to capture high-intent traffic by directly answering patient question",
+  "url": "aiovisibility.com/faq/should-a-new-weight-loss-clinic-in-new-york-city-prioritize-aeo-over-other-marke",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should a new weight loss clinic in New York City prioritize AEO over other marketing channels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a new weight loss clinic in New York City, prioritizing AEO alongside a foundational SEO strategy is a highly effective approach. While traditional marketing builds brand awareness, AEO directly connects your clinic with users actively searching for solutions to their weight loss problems. Given the competitive market, AEO helps you stand out by appearing as a direct answer, capturing high-intent traffic. It complements other channels by driving qualified leads who are already seeking specific information your clinic provides.",
+        "description": "A new weight loss clinic in New York City should prioritize AEO alongside foundational SEO to capture high-intent traffic by directly answering patient questions and standing out in a competitive market."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

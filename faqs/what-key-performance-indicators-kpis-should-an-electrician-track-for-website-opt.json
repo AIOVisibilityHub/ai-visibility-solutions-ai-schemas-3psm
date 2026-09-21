@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What key performance indicators (KPIs) should an electrician track for website optimization?",
+  "description": "Key KPIs for electricians include organic traffic, keyword rankings, bounce rate, conversion rates, local pack rankings, Google Business Profile actions, and we",
+  "url": "aiovisibility.com/faq/what-key-performance-indicators-kpis-should-an-electrician-track-for-website-opt",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What key performance indicators (KPIs) should an electrician track for website optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Electricians should track several key performance indicators (KPIs) to measure the effectiveness of their website optimization efforts. Important metrics include organic search traffic (number of visitors from search engines), keyword rankings for relevant terms (e.g., 'electrical repair New York City'), bounce rate (percentage of visitors who leave after viewing one page), and conversion rates (calls, form submissions, appointment bookings). Also crucial are local pack rankings (visibility in Google Maps results), number of Google Business Profile actions (calls, directions), and website load speed. Monitoring these KPIs helps assess progress and identify areas for further improvement to drive more leads.",
+        "description": "Key KPIs for electricians include organic traffic, keyword rankings, bounce rate, conversion rates, local pack rankings, Google Business Profile actions, and website load speed to track optimization success."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

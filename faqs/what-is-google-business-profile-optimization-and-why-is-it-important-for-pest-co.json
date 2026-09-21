@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Google Business Profile optimization and why is it important for pest control?",
+  "description": "Google Business Profile optimization enhances your local search visibility and Google Maps presence for pest control, driving local customers by improving your",
+  "url": "aiovisibility.com/faq/what-is-google-business-profile-optimization-and-why-is-it-important-for-pest-co",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Google Business Profile optimization and why is it important for pest control?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google Business Profile (GBP) optimization involves enhancing your free Google listing to improve visibility in local search results and Google Maps. For pest control companies, this means accurately listing your services, hours, contact information, and service areas. Regularly posting updates, responding to reviews, and adding photos of your work are also key. A well-optimized GBP significantly increases your chances of appearing in the 'local pack' – the top three local business results – which is crucial for attracting nearby customers who need immediate pest control services, especially in competitive cities.",
+        "description": "Google Business Profile optimization enhances your local search visibility and Google Maps presence for pest control, driving local customers by improving your listing details and engagement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

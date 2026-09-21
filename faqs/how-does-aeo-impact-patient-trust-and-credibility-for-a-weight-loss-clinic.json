@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO impact patient trust and credibility for a weight loss clinic?",
+  "description": "AEO builds patient trust and credibility for a weight loss clinic by positioning it as a knowledgeable authority through direct, accurate answers in search resu",
+  "url": "aiovisibility.com/faq/how-does-aeo-impact-patient-trust-and-credibility-for-a-weight-loss-clinic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO impact patient trust and credibility for a weight loss clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO significantly enhances patient trust and credibility for a weight loss clinic by positioning it as a knowledgeable authority. When your clinic consistently provides direct, accurate, and helpful answers to common health questions, search engines recognize your expertise. Appearing in featured snippets or as a voice assistant's response conveys immediate authority. This builds confidence with potential patients who are seeking reliable information and expert guidance for their weight loss journey.",
+        "description": "AEO builds patient trust and credibility for a weight loss clinic by positioning it as a knowledgeable authority through direct, accurate answers in search results and voice assistants."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

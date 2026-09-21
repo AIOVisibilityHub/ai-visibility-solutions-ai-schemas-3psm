@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AI SEO for weight loss clinics?",
+  "description": "AI SEO uses artificial intelligence to optimize your weight loss clinic's website, improving search engine rankings and attracting more patients.",
+  "url": "aiovisibility.com/faq/what-is-ai-seo-for-weight-loss-clinics",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AI SEO for weight loss clinics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO for weight loss clinics uses artificial intelligence to analyze search data, identify patient search patterns, and optimize your website content. This helps your clinic rank higher in search engine results for relevant keywords, attracting more potential patients seeking weight loss solutions. AI tools can automate keyword research, content generation, and technical SEO adjustments, making your online presence more effective and efficient in reaching your target audience.",
+        "description": "AI SEO uses artificial intelligence to optimize your weight loss clinic's website, improving search engine rankings and attracting more patients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

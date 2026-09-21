@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do you need from my pest control business to start GEO?",
+  "description": "To start GEO, we need your service areas, pest specializations, unique selling points, target demographics, website analytics, and business goals to tailor the",
+  "url": "aiovisibility.com/faq/what-information-do-you-need-from-my-pest-control-business-to-start-geo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do you need from my pest control business to start GEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To start Generative Engine Optimization, we would need key information about your pest control business. This typically includes your primary service areas (e.g., specific neighborhoods in Dallas or cities like San Francisco), the types of pests you specialize in treating, your unique selling propositions, and details about your target customer demographics. We also require access to your current website analytics and any existing SEO data. Understanding your competitive landscape and business goals is crucial to tailor the GEO strategy effectively and ensure the generated content aligns with your brand and services.",
+        "description": "To start GEO, we need your service areas, pest specializations, unique selling points, target demographics, website analytics, and business goals to tailor the strategy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does optimizing for AI Overviews differ from traditional SEO for weight loss clinics?",
+  "description": "AI Overviews optimization prioritizes clear, structured content that AI can summarize directly, building on traditional SEO's focus on ranking and technical ele",
+  "url": "aiovisibility.com/faq/how-does-optimizing-for-ai-overviews-differ-from-traditional-seo-for-weight-loss",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does optimizing for AI Overviews differ from traditional SEO for weight loss clinics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional SEO focuses on keywords, backlinks, and technical aspects to rank pages. AI Overviews optimization, while still needing strong SEO foundations, emphasizes clear, concise, and structured content that directly answers user questions. It prioritizes semantic understanding, schema markup, and content that AI models can easily summarize accurately, rather than just ranking a page. The goal is to be the source for the AI-generated answer.",
+        "description": "AI Overviews optimization prioritizes clear, structured content that AI can summarize directly, building on traditional SEO's focus on ranking and technical elements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

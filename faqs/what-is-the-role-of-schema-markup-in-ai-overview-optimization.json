@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the role of schema markup in AI Overview optimization?",
+  "description": "Schema markup provides structured data to Google's AI, helping it understand content context and increasing the likelihood of your information appearing in AI O",
+  "url": "aiovisibility.com/faq/what-is-the-role-of-schema-markup-in-ai-overview-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the role of schema markup in AI Overview optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Schema markup plays a crucial role in AI Overview optimization by providing structured data to Google's AI. It helps search engines understand the context and relationships within your content, such as identifying FAQs, how-to guides, product details, or local business information. By explicitly tagging elements on your page, you make it easier for Google's AI to extract accurate, relevant information for inclusion in AI Overviews, improving your chances of being featured.",
+        "description": "Schema markup provides structured data to Google's AI, helping it understand content context and increasing the likelihood of your information appearing in AI Overviews."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

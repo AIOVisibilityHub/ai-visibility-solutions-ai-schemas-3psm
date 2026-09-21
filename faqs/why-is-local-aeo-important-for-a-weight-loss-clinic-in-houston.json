@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is local AEO important for a weight loss clinic in Houston?",
+  "description": "Local AEO helps weight loss clinics in cities like Houston appear in local search results and maps when patients search for nearby services, attracting geograph",
+  "url": "aiovisibility.com/faq/why-is-local-aeo-important-for-a-weight-loss-clinic-in-houston",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is local AEO important for a weight loss clinic in Houston?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local AEO is crucial for a weight loss clinic in Houston because many prospective patients search for services geographically, e.g., 'weight loss clinic near me' or 'medical weight loss Houston.' Optimizing your clinic's online presence to answer these local queries helps you appear in local search results, Google Maps, and voice assistant responses. This directly connects your clinic with patients actively seeking services within your service area, driving local traffic and appointments.",
+        "description": "Local AEO helps weight loss clinics in cities like Houston appear in local search results and maps when patients search for nearby services, attracting geographically relevant leads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

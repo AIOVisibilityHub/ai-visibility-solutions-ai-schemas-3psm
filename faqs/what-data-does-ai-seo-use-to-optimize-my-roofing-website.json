@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What data does AI SEO use to optimize my roofing website?",
+  "description": "AI SEO analyzes search queries, competitor data, user behavior, content, technical factors, and local signals to optimize your roofing website.",
+  "url": "aiovisibility.com/faq/what-data-does-ai-seo-use-to-optimize-my-roofing-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What data does AI SEO use to optimize my roofing website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO utilizes a diverse range of data points to optimize your roofing website effectively. This includes historical search query data, competitor website performance, backlink profiles, user behavior metrics (like click-through rates and bounce rates), website content quality, technical SEO factors (such as site speed and mobile-friendliness), and local search signals. AI algorithms process this information to identify patterns, predict optimal keywords, suggest content improvements, and recommend technical adjustments that will improve your search engine rankings and attract more relevant traffic to your site.",
+        "description": "AI SEO analyzes search queries, competitor data, user behavior, content, technical factors, and local signals to optimize your roofing website."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

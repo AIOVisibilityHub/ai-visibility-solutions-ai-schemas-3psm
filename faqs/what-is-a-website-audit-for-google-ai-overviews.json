@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a Website Audit for Google AI Overviews?",
+  "description": "It's an analysis to optimize your website for visibility and relevance within AI-generated search results like Google's AI Overviews.",
+  "url": "aiovisibility.com/faq/what-is-a-website-audit-for-google-ai-overviews",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Website Audit for Google AI Overviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Website Audit for Google AI Overviews is a specialized analysis of your website's content and technical structure to optimize its visibility and relevance for AI-generated search results, like Google's AI Overviews. This audit goes beyond traditional SEO to ensure your content is easily digestible, accurate, and authoritative for AI models. It identifies opportunities to structure data, refine language, and improve overall content quality so that AI systems can confidently extract and summarize information from your site, increasing your chances of appearing in these prominent search features.",
+        "description": "It's an analysis to optimize your website for visibility and relevance within AI-generated search results like Google's AI Overviews."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

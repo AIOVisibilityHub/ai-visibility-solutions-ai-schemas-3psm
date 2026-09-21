@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for implementing AI SEO at a weight loss clinic?",
+  "description": "The process involves an initial audit, AI-driven keyword research, content optimization, technical SEO improvements, and continuous monitoring and adjustments.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-implementing-ai-seo-at-a-weight-loss-clinic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for implementing AI SEO at a weight loss clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implementing AI SEO typically begins with an audit of your current online presence and target market. AI tools then analyze competitor strategies and identify high-opportunity keywords. Next, content optimization, including website text and blog posts, is performed using AI-driven insights. Technical SEO aspects like site speed and mobile-friendliness are also addressed. The process is ongoing, involving continuous monitoring and adjustment of strategies based on performance data to maintain and improve search rankings.",
+        "description": "The process involves an initial audit, AI-driven keyword research, content optimization, technical SEO improvements, and continuous monitoring and adjustments."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

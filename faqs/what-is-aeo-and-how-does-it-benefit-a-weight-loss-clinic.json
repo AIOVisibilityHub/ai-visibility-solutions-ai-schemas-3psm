@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AEO and how does it benefit a weight loss clinic?",
+  "description": "AEO (Answer Engine Optimization) helps weight loss clinics appear in search engine and voice assistant answers, increasing visibility and attracting patients se",
+  "url": "aiovisibility.com/faq/what-is-aeo-and-how-does-it-benefit-a-weight-loss-clinic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AEO and how does it benefit a weight loss clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO stands for Answer Engine Optimization. It's a digital marketing strategy focused on optimizing your clinic's online content to be directly answered by search engines and voice assistants. For weight loss clinics, AEO can help prospective patients find accurate information about your services, treatments, and expertise faster, leading to increased visibility and qualified leads. It ensures your clinic's solutions appear prominently when people ask specific questions about weight loss.",
+        "description": "AEO (Answer Engine Optimization) helps weight loss clinics appear in search engine and voice assistant answers, increasing visibility and attracting patients seeking specific information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

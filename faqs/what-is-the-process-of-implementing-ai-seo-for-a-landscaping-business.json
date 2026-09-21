@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process of implementing AI SEO for a landscaping business?",
+  "description": "AI SEO implementation involves an initial audit, AI-driven keyword and content strategy, optimization of web content and technical elements, then continuous mon",
+  "url": "aiovisibility.com/faq/what-is-the-process-of-implementing-ai-seo-for-a-landscaping-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process of implementing AI SEO for a landscaping business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The implementation process typically begins with a comprehensive audit of your current online presence and competitor analysis, powered by AI tools. Next, AI identifies high-potential keywords and content gaps. This is followed by optimizing existing website content and creating new, AI-driven content tailored to search intent. Technical SEO improvements, such as site speed and mobile-friendliness, are also addressed. The process includes continuous monitoring and adjustments based on performance data and evolving AI insights.",
+        "description": "AI SEO implementation involves an initial audit, AI-driven keyword and content strategy, optimization of web content and technical elements, then continuous monitoring and adjustment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

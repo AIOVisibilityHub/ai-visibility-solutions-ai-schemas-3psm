@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors determine the cost of a GEO website audit?",
+  "description": "Cost factors include website size, number of target locations, industry competitiveness, and required depth of analysis.",
+  "url": "aiovisibility.com/faq/what-factors-determine-the-cost-of-a-geo-website-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors determine the cost of a GEO website audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a GEO website audit is influenced by several factors: the size and complexity of your website, the number of geographic locations you wish to target, the competitiveness of your industry in those areas, and the depth of analysis required. Websites with more pages or those operating in multiple cities will naturally require more extensive work, thus impacting the overall investment.",
+        "description": "Cost factors include website size, number of target locations, industry competitiveness, and required depth of analysis."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

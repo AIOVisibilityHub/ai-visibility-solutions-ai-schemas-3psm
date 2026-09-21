@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Google AI Overview optimization?",
+  "description": "Google AI Overview optimization prepares your website content and SEO for Google's AI, helping your information appear in AI Overviews for concise search answer",
+  "url": "aiovisibility.com/faq/what-is-google-ai-overview-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Google AI Overview optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google AI Overview optimization is the process of structuring your website content and technical SEO to be easily understood and utilized by Google's AI models. This helps your site's information appear prominently in AI Overviews (formerly SGE), providing concise answers directly within search results. It involves techniques such as semantic SEO, clear content hierarchies, schema markup, and ensuring your content directly answers common user questions.",
+        "description": "Google AI Overview optimization prepares your website content and SEO for Google's AI, helping your information appear in AI Overviews for concise search answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

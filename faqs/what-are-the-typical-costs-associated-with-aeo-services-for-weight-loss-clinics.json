@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the typical costs associated with AEO services for weight loss clinics?",
+  "description": "Costs for AEO services vary, ranging from a few hundred to several thousand dollars monthly, depending on the scope of content creation, technical optimization,",
+  "url": "aiovisibility.com/faq/what-are-the-typical-costs-associated-with-aeo-services-for-weight-loss-clinics",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the typical costs associated with AEO services for weight loss clinics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services for weight loss clinics varies based on the scope of work, including content creation, technical optimization, and ongoing strategy. Pricing models can include project-based fees, monthly retainers, or hourly rates. Small clinics might start with a few hundred dollars per month for basic optimization, while comprehensive strategies for larger clinics could range from several thousand dollars monthly. A detailed proposal tailored to your clinic's needs provides the most accurate estimate.",
+        "description": "Costs for AEO services vary, ranging from a few hundred to several thousand dollars monthly, depending on the scope of content creation, technical optimization, and strategy required for the weight loss clinic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between SEO and PPC for weight loss clinic marketing?",
+  "description": "SEO earns organic traffic through improved search rankings over time, while PPC pays for immediate ad visibility; both can be used together.",
+  "url": "aiovisibility.com/faq/what-s-the-difference-between-seo-and-ppc-for-weight-loss-clinic-marketing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between SEO and PPC for weight loss clinic marketing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SEO (Search Engine Optimization) and PPC (Pay-Per-Click) are both digital marketing strategies, but they operate differently. SEO focuses on earning organic, unpaid traffic by improving your website's ranking in search results over time through content, technical, and off-page optimizations. PPC, on the other hand, involves paying for ad placements at the top of search results. While PPC offers immediate visibility, SEO builds long-term, sustainable traffic and authority. Many clinics use a combination of both for a balanced marketing approach.",
+        "description": "SEO earns organic traffic through improved search rankings over time, while PPC pays for immediate ad visibility; both can be used together."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

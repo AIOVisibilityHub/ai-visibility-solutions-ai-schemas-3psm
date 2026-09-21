@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does AI Overview optimization impact local search results?",
+  "description": "Yes, AI Overview optimization affects local search by helping your business's accurate, location-specific information appear in AI Overviews for local queries.",
+  "url": "aiovisibility.com/faq/does-ai-overview-optimization-impact-local-search-results",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does AI Overview optimization impact local search results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AI Overview optimization can significantly impact local search results. Google's AI Overviews often synthesize information to answer location-specific queries, such as 'best pizza near me' or 'plumbers in New York City.' For local businesses, ensuring your Google Business Profile is fully optimized, your website includes accurate location data, and your content answers common local questions can help your business be featured in relevant AI Overviews.",
+        "description": "Yes, AI Overview optimization affects local search by helping your business's accurate, location-specific information appear in AI Overviews for local queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

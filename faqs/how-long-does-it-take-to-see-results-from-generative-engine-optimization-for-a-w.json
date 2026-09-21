@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from Generative Engine Optimization for a weight loss clinic?",
+  "description": "Initial GEO results may appear in 2-4 months, with significant growth seen within 6-12 months. It's a long-term strategy for sustained performance.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-generative-engine-optimization-for-a-w",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from Generative Engine Optimization for a weight loss clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeframe to see noticeable results from Generative Engine Optimization can vary. Initial improvements in search rankings and website traffic may begin to appear within 2-4 months as new content gets indexed and starts ranking. However, significant and sustained growth often takes 6-12 months as the AI models refine their output and content accumulates authority over time. SEO is a long-term strategy, and consistent optimization efforts are crucial for maintaining and enhancing performance, especially in competitive markets.",
+        "description": "Initial GEO results may appear in 2-4 months, with significant growth seen within 6-12 months. It's a long-term strategy for sustained performance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

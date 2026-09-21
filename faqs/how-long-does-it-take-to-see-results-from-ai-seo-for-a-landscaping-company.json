@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AI SEO for a landscaping company?",
+  "description": "Results from AI SEO for landscapers typically appear within 3-6 months, influenced by website authority, market competition, and strategy consistency.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-ai-seo-for-a-landscaping-company",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AI SEO for a landscaping company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing significant results from AI SEO for a landscaping company can vary. While some initial improvements in rankings and traffic might be observed within a few weeks, substantial and sustained growth typically takes 3 to 6 months. Factors influencing this timeframe include your website's current authority, the competitiveness of your local market, and the thoroughness of the implemented AI SEO strategy. Consistent application and monitoring are key to long-term success.",
+        "description": "Results from AI SEO for landscapers typically appear within 3-6 months, influenced by website authority, market competition, and strategy consistency."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

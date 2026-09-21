@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right AI SEO provider for my landscaping business?",
+  "description": "Choose an AI SEO provider for your landscaping business by evaluating their local SEO expertise, AI tool proficiency, track record, transparent reporting, and a",
+  "url": "aiovisibility.com/faq/how-do-i-choose-the-right-ai-seo-provider-for-my-landscaping-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right AI SEO provider for my landscaping business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting an AI SEO provider for your landscaping business, look for one with a proven track record in digital marketing for service-based industries. Evaluate their understanding of local SEO, their expertise with AI tools, and their ability to demonstrate past successes. Request case studies or testimonials, and ensure they offer transparent reporting on progress and ROI. A good provider will also take the time to understand your specific business goals and tailor a strategy accordingly.",
+        "description": "Choose an AI SEO provider for your landscaping business by evaluating their local SEO expertise, AI tool proficiency, track record, transparent reporting, and ability to customize strategies."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Generative Engine Optimization help my weight loss clinic stand out in New York City?",
+  "description": "Yes, GEO helps weight loss clinics in New York City stand out by generating localized content, targeting specific neighborhoods, and improving local search rank",
+  "url": "aiovisibility.com/faq/can-generative-engine-optimization-help-my-weight-loss-clinic-stand-out-in-new-y",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Generative Engine Optimization help my weight loss clinic stand out in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Generative Engine Optimization (GEO) can significantly help your weight loss clinic stand out in a competitive market like New York City. By utilizing AI, GEO can generate highly localized and specific content that targets patients in different boroughs or neighborhoods, addressing their unique needs and concerns. This allows your clinic to rank for a wider range of hyper-local keywords, capturing search intent from individuals looking for 'weight loss clinic Upper East Side' or 'nutrition counseling Brooklyn.' This tailored approach enhances local search visibility, driving more relevant traffic to your clinic's website.",
+        "description": "Yes, GEO helps weight loss clinics in New York City stand out by generating localized content, targeting specific neighborhoods, and improving local search rankings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

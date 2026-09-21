@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I look for in an AEO provider for my weight loss clinic?",
+  "description": "Look for an AEO provider with healthcare marketing experience, a strong grasp of search algorithms, and a proven track record in generating direct answers, alon",
+  "url": "aiovisibility.com/faq/what-should-i-look-for-in-an-aeo-provider-for-my-weight-loss-clinic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I look for in an AEO provider for my weight loss clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing an AEO provider for your weight loss clinic, look for experience in healthcare marketing, a strong understanding of search engine algorithms, and a proven track record of generating direct answers and featured snippets. Ensure they emphasize content quality, technical optimization, and reporting on metrics relevant to AEO. They should also demonstrate knowledge of your target audience and the nuances of weight loss services. A good provider will outline a clear strategy and measurable goals.",
+        "description": "Look for an AEO provider with healthcare marketing experience, a strong grasp of search algorithms, and a proven track record in generating direct answers, alongside a clear strategy and measurable goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

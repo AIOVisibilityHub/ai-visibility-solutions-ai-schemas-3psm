@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common mistakes to avoid in AEO for weight loss clinics?",
+  "description": "Avoid overly promotional or verbose content, neglecting content structure, not updating information, ignoring voice search, and using unexplained medical jargon",
+  "url": "aiovisibility.com/faq/what-are-common-mistakes-to-avoid-in-aeo-for-weight-loss-clinics",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common mistakes to avoid in AEO for weight loss clinics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common mistakes in AEO for weight loss clinics include creating overly promotional content instead of factual answers, ignoring the conciseness required for answer boxes, and not structuring content for easy parsing by search engines. Other pitfalls include neglecting to update information, failing to optimize for voice search queries (which tend to be more conversational), and not addressing the specific concerns and questions of their target audience. Additionally, using medical jargon without clear explanations can hinder content from being easily understood and selected as a direct answer.",
+        "description": "Avoid overly promotional or verbose content, neglecting content structure, not updating information, ignoring voice search, and using unexplained medical jargon in AEO for weight loss clinics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

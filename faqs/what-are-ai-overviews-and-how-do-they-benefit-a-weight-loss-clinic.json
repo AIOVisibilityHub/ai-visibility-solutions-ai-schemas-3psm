@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are AI Overviews and how do they benefit a weight loss clinic?",
+  "description": "AI Overviews are AI-generated search summaries. Optimizing for them helps weight loss clinics gain visibility and attract qualified leads by appearing prominent",
+  "url": "aiovisibility.com/faq/what-are-ai-overviews-and-how-do-they-benefit-a-weight-loss-clinic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are AI Overviews and how do they benefit a weight loss clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI Overviews, previously known as Search Generative Experience (SGE), are AI-generated summaries appearing at the top of Google search results. For weight loss clinics, optimizing for AI Overviews means ensuring your website content is readily understandable and summarizable by AI. This helps your clinic appear prominently for relevant queries, driving more qualified leads by providing concise answers directly in the search results, increasing visibility and authority.",
+        "description": "AI Overviews are AI-generated search summaries. Optimizing for them helps weight loss clinics gain visibility and attract qualified leads by appearing prominently in search results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

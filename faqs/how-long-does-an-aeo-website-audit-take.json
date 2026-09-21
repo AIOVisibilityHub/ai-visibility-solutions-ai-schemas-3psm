@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does an AEO website audit take?",
+  "description": "An AEO website audit typically takes 2-8 weeks, depending on your website's size and complexity.",
+  "url": "aiovisibility.com/faq/how-long-does-an-aeo-website-audit-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does an AEO website audit take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an AEO website audit depends on the size and complexity of your website, as well as the depth of analysis required. For a typical small to medium-sized business website, an audit might take anywhere from 2 to 4 weeks. Larger, more complex sites with extensive content or intricate data structures could require 4 to 8 weeks. This timeframe includes data collection, analysis, and the preparation of a comprehensive report and actionable recommendations.",
+        "description": "An AEO website audit typically takes 2-8 weeks, depending on your website's size and complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

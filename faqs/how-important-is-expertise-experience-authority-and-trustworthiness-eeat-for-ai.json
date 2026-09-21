@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How important is expertise, experience, authority, and trustworthiness (EEAT) for AI Overviews optimization in health niches?",
+  "description": "EEAT is crucial in health niches; clinics must demonstrate expertise and trustworthiness through credible, evidence-based content to be featured in AI Overviews",
+  "url": "aiovisibility.com/faq/how-important-is-expertise-experience-authority-and-trustworthiness-eeat-for-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How important is expertise, experience, authority, and trustworthiness (EEAT) for AI Overviews optimization in health niches?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "EEAT is critically important for AI Overviews optimization, especially in the health niche like weight loss. Google's AI models prioritize content from credible, authoritative sources. Clinics must demonstrate their expertise through credentials, detailed patient success stories, and evidence-based information. High EEAT signals to AI that your content is reliable and trustworthy, increasing its likelihood of being selected for an AI Overview.",
+        "description": "EEAT is crucial in health niches; clinics must demonstrate expertise and trustworthiness through credible, evidence-based content to be featured in AI Overviews."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

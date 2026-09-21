@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of data does AI SEO analyze for garage door companies?",
+  "description": "AI SEO analyzes competitor strategies, local search queries, customer reviews, website traffic, keywords, backlinks, and technical SEO factors for garage door c",
+  "url": "aiovisibility.com/faq/what-kind-of-data-does-ai-seo-analyze-for-garage-door-companies",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of data does AI SEO analyze for garage door companies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO analyzes a wide range of data pertinent to garage door companies. This includes competitor websites and strategies, local search queries, customer reviews and sentiment, website traffic patterns, keyword performance, backlink profiles, and content engagement metrics. It also assesses technical SEO factors, mobile performance, and local listing accuracy. By processing these diverse data points, AI identifies opportunities for improvement and informs strategic adjustments.",
+        "description": "AI SEO analyzes competitor strategies, local search queries, customer reviews, website traffic, keywords, backlinks, and technical SEO factors for garage door companies."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

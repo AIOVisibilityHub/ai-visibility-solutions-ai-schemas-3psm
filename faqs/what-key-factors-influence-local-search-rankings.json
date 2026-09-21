@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What key factors influence local search rankings?",
+  "description": "Local search rankings are influenced by proximity, Google My Business relevance, and online prominence through reviews and local citations.",
+  "url": "aiovisibility.com/faq/what-key-factors-influence-local-search-rankings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What key factors influence local search rankings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Several key factors influence local search rankings. These include the proximity of the searcher to your business, the relevance of your Google My Business profile to the search query, and the overall prominence of your business online. Prominence considers factors like your online reviews, local citations, and links from local websites. Consistent and accurate business information across all online platforms is also vital for improving your local visibility.",
+        "description": "Local search rankings are influenced by proximity, Google My Business relevance, and online prominence through reviews and local citations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

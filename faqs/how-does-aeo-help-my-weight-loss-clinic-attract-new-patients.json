@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO help my weight loss clinic attract new patients?",
+  "description": "AEO increases visibility in search engine answer boxes and voice search, establishing your clinic as an authority and driving more qualified traffic seeking imm",
+  "url": "aiovisibility.com/faq/how-does-aeo-help-my-weight-loss-clinic-attract-new-patients",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO help my weight loss clinic attract new patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO helps attract new patients by increasing your clinic's visibility in the critical \"answer box\" or featured snippet section of search results. When potential patients search for information about weight loss options, treatments, or local clinics, having your content appear as a direct answer establishes authority and trust. This prominent placement drives more qualified traffic to your website, as users are looking for immediate solutions. By providing clear, concise answers, you position your clinic as a knowledgeable resource, encouraging more inquiries and bookings.",
+        "description": "AEO increases visibility in search engine answer boxes and voice search, establishing your clinic as an authority and driving more qualified traffic seeking immediate answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

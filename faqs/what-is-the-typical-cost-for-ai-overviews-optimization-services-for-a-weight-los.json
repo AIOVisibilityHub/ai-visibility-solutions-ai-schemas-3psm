@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for AI Overviews optimization services for a weight loss clinic?",
+  "description": "Costs for AI Overviews optimization are variable, depending on your clinic's website size, current SEO, and content needs, usually provided via custom package a",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-for-ai-overviews-optimization-services-for-a-weight-los",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for AI Overviews optimization services for a weight loss clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for AI Overviews optimization services varies depending on the scope and complexity of your clinic's existing website and content. Factors include the number of service pages, current SEO health, competitive landscape, and the level of content creation required. Most agencies offer customized packages, which can range significantly. A detailed audit is typically performed to provide an accurate estimate.",
+        "description": "Costs for AI Overviews optimization are variable, depending on your clinic's website size, current SEO, and content needs, usually provided via custom package after an audit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

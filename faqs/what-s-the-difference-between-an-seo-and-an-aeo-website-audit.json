@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between an SEO and an AEO website audit?",
+  "description": "SEO audits focus on traditional search engines; AEO audits specifically optimize for AI algorithms, large language models, and AI-driven search understanding.",
+  "url": "aiovisibility.com/faq/what-s-the-difference-between-an-seo-and-an-aeo-website-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between an SEO and an AEO website audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While traditional SEO audits focus on keywords, backlinks, and technical aspects for conventional search engines, an AEO audit expands this scope significantly. An AEO audit specifically evaluates how AI algorithms and large language models understand and interpret your content, focusing on entity recognition, semantic relevance, data accuracy for AI, and intent alignment. It prepares your website for rich snippets, generative AI responses, and conversational search, going beyond surface-level keyword optimization.",
+        "description": "SEO audits focus on traditional search engines; AEO audits specifically optimize for AI algorithms, large language models, and AI-driven search understanding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

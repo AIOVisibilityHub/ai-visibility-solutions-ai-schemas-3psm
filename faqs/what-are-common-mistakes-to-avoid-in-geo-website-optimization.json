@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common mistakes to avoid in GEO website optimization?",
+  "description": "Avoid keyword stuffing, inconsistent business info, neglecting GMB, poor mobile optimization, and misleading location data in GEO optimization.",
+  "url": "aiovisibility.com/faq/what-are-common-mistakes-to-avoid-in-geo-website-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common mistakes to avoid in GEO website optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common mistakes in GEO website optimization include keyword stuffing with location names, having inconsistent business information across different online directories, and neglecting to optimize your Google My Business profile. Other pitfalls involve ignoring mobile optimization, failing to acquire local backlinks, or not encouraging customer reviews. Attempting to trick search engines with misleading location data or creating duplicate content for different city pages can also harm your local rankings and credibility.",
+        "description": "Avoid keyword stuffing, inconsistent business info, neglecting GMB, poor mobile optimization, and misleading location data in GEO optimization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

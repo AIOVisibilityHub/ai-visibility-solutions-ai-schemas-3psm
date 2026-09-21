@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to provide to an AI SEO agency for my HVAC company?",
+  "description": "Provide your HVAC company's services, target audience, service areas, website analytics, Google My Business access, and business goals to an AI SEO agency.",
+  "url": "aiovisibility.com/faq/what-information-do-i-need-to-provide-to-an-ai-seo-agency-for-my-hvac-company",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to provide to an AI SEO agency for my HVAC company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To effectively onboard with an AI SEO agency, you should provide detailed information about your HVAC company's services, target audience, service areas, and any unique selling propositions. Key data includes access to your website analytics (Google Analytics), Google My Business profile, existing SEO efforts, and a clear understanding of your business goals. Sharing customer demographics, common pain points, and competitor information also helps the agency tailor AI-driven strategies to achieve optimal results specific to your HVAC business.",
+        "description": "Provide your HVAC company's services, target audience, service areas, website analytics, Google My Business access, and business goals to an AI SEO agency."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

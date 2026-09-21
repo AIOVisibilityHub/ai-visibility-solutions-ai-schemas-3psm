@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AI SEO for a weight loss clinic?",
+  "description": "Initial results may appear in 3-6 months, with significant growth typically seen within 6-12 months, depending on market competitiveness and current website sta",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-ai-seo-for-a-weight-loss-clinic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AI SEO for a weight loss clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeframe for seeing results from AI SEO can vary. Generally, initial improvements in search engine rankings and website traffic may become noticeable within 3 to 6 months. However, significant and sustained growth often requires consistent effort over 6 to 12 months. Factors like the competitiveness of your market, the current state of your website, and the specific strategies implemented will influence how quickly you observe measurable outcomes.",
+        "description": "Initial results may appear in 3-6 months, with significant growth typically seen within 6-12 months, depending on market competitiveness and current website status."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

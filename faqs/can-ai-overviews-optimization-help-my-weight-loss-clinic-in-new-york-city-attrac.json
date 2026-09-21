@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI Overviews optimization help my weight loss clinic in New York City attract local patients?",
+  "description": "Yes, AI Overviews optimization, combined with local SEO, helps your New York City clinic attract local patients by providing authoritative, location-specific an",
+  "url": "aiovisibility.com/faq/can-ai-overviews-optimization-help-my-weight-loss-clinic-in-new-york-city-attrac",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI Overviews optimization help my weight loss clinic in New York City attract local patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AI Overviews optimization can significantly help your New York City weight loss clinic attract local patients. Google's AI Overviews often incorporate local context and prioritize businesses relevant to the searcher's location. By optimizing your local SEO, including your Google Business Profile and location-specific content, your clinic can become the authoritative source for AI Overviews related to weight loss services in New York City, driving local traffic.",
+        "description": "Yes, AI Overviews optimization, combined with local SEO, helps your New York City clinic attract local patients by providing authoritative, location-specific answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

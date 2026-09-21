@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content is best for AEO for weight loss clinics?",
+  "description": "Content that directly answers common patient questions, such as FAQs and blog posts, is best for AEO for weight loss clinics. This includes clear, concise infor",
+  "url": "aiovisibility.com/faq/what-kind-of-content-is-best-for-aeo-for-weight-loss-clinics",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content is best for AEO for weight loss clinics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Effective AEO content for weight loss clinics includes FAQs, blog posts, and service pages structured to directly answer common patient questions. Content should be clear, concise, and provide definitive answers. Examples include articles on 'Understanding Bariatric Surgery Options,' 'The Science Behind Medical Weight Loss,' or 'Benefits of Nutritional Counseling for Weight Management.' Using schema markup can further enhance discoverability by answer engines.",
+        "description": "Content that directly answers common patient questions, such as FAQs and blog posts, is best for AEO for weight loss clinics. This includes clear, concise information on treatments and services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

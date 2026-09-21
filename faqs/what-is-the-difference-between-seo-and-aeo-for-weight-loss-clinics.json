@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between SEO and AEO for weight loss clinics?",
+  "description": "SEO focuses on overall website ranking, while AEO optimizes content to provide direct answers for featured snippets and voice search, prioritizing being the imm",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-seo-and-aeo-for-weight-loss-clinics",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between SEO and AEO for weight loss clinics?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional SEO for weight loss clinics primarily aims to improve website ranking in search results for relevant keywords. The goal is to get your clinic's page to appear high on the search results page. AEO, however, specifically focuses on optimizing content to provide direct, concise answers that search engines can extract and display as featured snippets, answer boxes, or voice search responses. While both aim for visibility, AEO prioritizes being the *answer* rather than just a high-ranking link, directly addressing user intent for immediate information.",
+        "description": "SEO focuses on overall website ranking, while AEO optimizes content to provide direct answers for featured snippets and voice search, prioritizing being the immediate answer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

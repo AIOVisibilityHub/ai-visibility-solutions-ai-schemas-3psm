@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you conduct an AEO website audit?",
+  "description": "Our AEO audit analyzes your website's technical aspects, content, and analytics using AI tools to assess how AI perceives your site and provides actionable reco",
+  "url": "aiovisibility.com/faq/how-do-you-conduct-an-aeo-website-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you conduct an AEO website audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our AEO website audit process involves several key steps. We begin with a deep dive into your website's technical foundation, content, and existing analytics. Next, we employ specialized AI-driven tools to analyze how large language models perceive your content, identify key entities, and assess semantic accuracy. We evaluate user intent signals and data relevance. Finally, we compile a comprehensive report with prioritized recommendations for content optimization, technical adjustments, and data structuring to maximize AI visibility.",
+        "description": "Our AEO audit analyzes your website's technical aspects, content, and analytics using AI tools to assess how AI perceives your site and provides actionable recommendations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

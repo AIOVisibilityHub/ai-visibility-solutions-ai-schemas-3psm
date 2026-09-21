@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should a landscaping business consider investing in AI SEO?",
+  "description": "Invest in AI SEO when seeking to expand, outrank competitors, or improve lead generation, especially in competitive markets or if current marketing falls short.",
+  "url": "aiovisibility.com/faq/when-should-a-landscaping-business-consider-investing-in-ai-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should a landscaping business consider investing in AI SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A landscaping business should consider AI SEO when they are looking to expand their customer base, outrank local competitors, or improve their online lead generation efficiency. If current marketing efforts aren't yielding desired results, or if your business operates in a competitive market like New York City or Los Angeles, AI SEO can provide the data-driven advantage needed to stand out. It's particularly beneficial for businesses ready to scale and optimize their digital marketing spend.",
+        "description": "Invest in AI SEO when seeking to expand, outrank competitors, or improve lead generation, especially in competitive markets or if current marketing falls short."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

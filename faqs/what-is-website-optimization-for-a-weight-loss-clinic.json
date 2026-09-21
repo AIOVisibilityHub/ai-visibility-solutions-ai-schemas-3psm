@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is website optimization for a weight loss clinic?",
+  "description": "Website optimization for weight loss clinics improves search engine visibility and user experience to attract more patients.",
+  "url": "aiovisibility.com/faq/what-is-website-optimization-for-a-weight-loss-clinic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is website optimization for a weight loss clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Website optimization for a weight loss clinic involves improving your site's visibility and performance in search engines and for users. This includes enhancing content for relevant keywords like 'medical weight loss' or 'nutrition counseling,' ensuring your website loads quickly, is mobile-friendly, and provides a clear, intuitive user experience. The goal is to attract more potential patients, convert visitors into consultations, and establish your clinic as a trusted resource in the health and wellness sector.",
+        "description": "Website optimization for weight loss clinics improves search engine visibility and user experience to attract more patients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

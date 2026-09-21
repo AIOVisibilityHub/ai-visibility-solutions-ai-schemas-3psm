@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What specific aspects of my website are analyzed during an AI Overview audit?",
+  "description": "Key aspects analyzed include content clarity, structured data, E-E-A-T signals, internal linking, and overall content hierarchy for AI processability.",
+  "url": "aiovisibility.com/faq/what-specific-aspects-of-my-website-are-analyzed-during-an-ai-overview-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What specific aspects of my website are analyzed during an AI Overview audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During an AI Overview audit, we analyze several key aspects. This includes the clarity, conciseness, and factual accuracy of your content, ensuring it's easy for AI to understand. We also examine your site's structured data (schema markup) to confirm it effectively communicates information to search engines. E-E-A-T signals – demonstrating Experience, Expertise, Authoritativeness, and Trustworthiness – are crucial. Furthermore, we evaluate internal linking, content hierarchy, and the overall user experience to ensure your site presents information in a way that AI models can efficiently process and summarize.",
+        "description": "Key aspects analyzed include content clarity, structured data, E-E-A-T signals, internal linking, and overall content hierarchy for AI processability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

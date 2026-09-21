@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do AI SEO services include local SEO optimization for weight loss clinics in specific cities like New York City or Los Angeles?",
+  "description": "Yes, AI SEO services include local optimization for specific cities by analyzing local queries, optimizing Google My Business, and creating geo-targeted content",
+  "url": "aiovisibility.com/faq/do-ai-seo-services-include-local-seo-optimization-for-weight-loss-clinics-in-spe",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do AI SEO services include local SEO optimization for weight loss clinics in specific cities like New York City or Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AI SEO services frequently include robust local SEO optimization, which is crucial for weight loss clinics in competitive markets like New York City or Los Angeles. AI tools analyze local search queries, optimize Google My Business profiles, build local citations, and create geo-targeted content. This ensures your clinic appears prominently in local search results and map packs when potential patients in your specific service area are looking for weight loss solutions.",
+        "description": "Yes, AI SEO services include local optimization for specific cities by analyzing local queries, optimizing Google My Business, and creating geo-targeted content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of data does AI SEO analyze for landscaping companies?",
+  "description": "AI SEO for landscapers analyzes website traffic, user behavior, search queries, competitor strategies, local trends, and seasonal demand to optimize performance",
+  "url": "aiovisibility.com/faq/what-kind-of-data-does-ai-seo-analyze-for-landscaping-companies",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of data does AI SEO analyze for landscaping companies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO analyzes a broad range of data points relevant to landscaping companies. This includes website traffic patterns, user behavior on your site, search query data, competitor SEO strategies, and content performance metrics. It also processes local market trends, seasonal demand for landscaping services, and even sentiment analysis from reviews. This comprehensive data analysis allows AI to make informed recommendations for optimization strategies, keyword targeting, and content creation.",
+        "description": "AI SEO for landscapers analyzes website traffic, user behavior, search queries, competitor strategies, local trends, and seasonal demand to optimize performance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

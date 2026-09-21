@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AEO help my weight loss clinic attract patients interested in specific treatments like semaglutide?",
+  "description": "AEO can attract patients seeking specific treatments by positioning your weight loss clinic as an authoritative source for their questions, leading to qualified",
+  "url": "aiovisibility.com/faq/can-aeo-help-my-weight-loss-clinic-attract-patients-interested-in-specific-treat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AEO help my weight loss clinic attract patients interested in specific treatments like semaglutide?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AEO is highly effective for attracting patients interested in specific treatments. By creating detailed, accurate, and question-answering content about treatments like Semaglutide, your weight loss clinic can become a trusted source for information. When users search for 'Semaglutide benefits for weight loss' or 'Where to get Semaglutide in Los Angeles,' well-optimized content can position your clinic as the authoritative answer, driving highly qualified leads directly to you.",
+        "description": "AEO can attract patients seeking specific treatments by positioning your weight loss clinic as an authoritative source for their questions, leading to qualified leads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

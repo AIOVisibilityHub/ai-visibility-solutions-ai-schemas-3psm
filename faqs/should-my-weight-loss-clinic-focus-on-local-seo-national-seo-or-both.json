@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should my weight loss clinic focus on local SEO, national SEO, or both?",
+  "description": "Prioritize local SEO for most weight loss clinics to attract nearby patients. National SEO is relevant for virtual programs, but local focus is key.",
+  "url": "aiovisibility.com/faq/should-my-weight-loss-clinic-focus-on-local-seo-national-seo-or-both",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should my weight loss clinic focus on local SEO, national SEO, or both?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most weight loss clinics, focusing primarily on local SEO is crucial, as the majority of your patients will come from your immediate geographic area. Local SEO strategies target patients searching for services in your city or nearby towns, optimizing your Google My Business profile and local citations. National SEO might be beneficial if your clinic offers unique virtual programs or targets a broader audience, but typically, a strong local presence should be established first. A combined approach, with an emphasis on local, often yields the best results.",
+        "description": "Prioritize local SEO for most weight loss clinics to attract nearby patients. National SEO is relevant for virtual programs, but local focus is key."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the typical costs associated with AEO services?",
+  "description": "AEO costs vary by project scope, number of pages, content needs, and technical adjustments. Pricing can be monthly or project-based.",
+  "url": "aiovisibility.com/faq/what-are-the-typical-costs-associated-with-aeo-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the typical costs associated with AEO services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The costs associated with AEO services can vary widely depending on the scope and complexity of the project. Factors influencing pricing include the number of pages to be optimized, the depth of content creation or revision required, the intensity of keyword research, and the extent of technical SEO adjustments needed. Some agencies may charge a monthly retainer for ongoing optimization and monitoring, while others might offer project-based fees. It is advisable to get a detailed proposal that outlines specific deliverables and expected outcomes to understand the investment required for your unique business needs.",
+        "description": "AEO costs vary by project scope, number of pages, content needs, and technical adjustments. Pricing can be monthly or project-based."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

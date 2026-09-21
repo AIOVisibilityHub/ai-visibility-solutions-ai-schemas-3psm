@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What content strategies should a weight loss clinic use to optimize for AI Overviews?",
+  "description": "Focus on clear, structured, and authoritative content like FAQs and 'how-to' guides, using headings and lists, to answer patient questions directly and enable A",
+  "url": "aiovisibility.com/faq/what-content-strategies-should-a-weight-loss-clinic-use-to-optimize-for-ai-overv",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What content strategies should a weight loss clinic use to optimize for AI Overviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Weight loss clinics should create comprehensive, authoritative content that directly addresses common patient questions. Use clear headings, bullet points, and numbered lists to structure information. Focus on 'how-to' guides, FAQs, comparison articles, and definitions of terms related to weight loss, nutrition, and wellness. Ensure accuracy and include relevant keywords naturally. Regularly update content to maintain relevance and authority.",
+        "description": "Focus on clear, structured, and authoritative content like FAQs and 'how-to' guides, using headings and lists, to answer patient questions directly and enable AI summarization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

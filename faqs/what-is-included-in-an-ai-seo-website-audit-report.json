@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in an AI SEO website audit report?",
+  "description": "An AI SEO website audit report covers technical SEO, content, user experience, and competitive analysis, offering actionable recommendations for AI search optim",
+  "url": "aiovisibility.com/faq/what-is-included-in-an-ai-seo-website-audit-report",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in an AI SEO website audit report?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI SEO website audit report typically includes an executive summary, detailed findings on technical SEO (e.g., crawlability, site speed, mobile-friendliness), content analysis (e.g., semantic relevance, topic authority, schema markup), user experience insights, and competitive analysis. It provides prioritized, actionable recommendations for optimizing your website to perform better in AI-driven search results, enhancing visibility and organic traffic.",
+        "description": "An AI SEO website audit report covers technical SEO, content, user experience, and competitive analysis, offering actionable recommendations for AI search optimization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
