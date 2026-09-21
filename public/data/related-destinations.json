@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-09-21T22:51:29.653Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "AI Visibility Solutions",
+    "canonicalUrl": "https://data.aiovisibility.com",
+    "primaryWebsiteUrl": "aiovisibility.com",
+    "aiDataHub": "https://data.aiovisibility.com/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "AI Visibility Solutions — canonical website",
+      "url": "https://data.aiovisibility.com"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "AI Visibility Solutions — AI Data Hub",
+      "url": "https://data.aiovisibility.com/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "github",
+      "label": "GitHub — AI Data Hub mirror",
+      "url": "https://AIOVisibilityHub.github.io/ai-visibility-solutions-ai-schemas-3psm/ai-data.html"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm",
+      "pagesUrl": "https://AIOVisibilityHub.github.io/ai-visibility-solutions-ai-schemas-3psm/",
+      "repo": "AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm"
+    }
+  }
+}
