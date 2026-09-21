@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for implementing GEO services for a law firm?",
+  "description": "The GEO implementation process involves auditing content, conducting AI-tailored keyword research, optimizing and developing new content, and continuous monitor",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-implementing-geo-services-for-a-law-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for implementing GEO services for a law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The GEO implementation process typically begins with an audit of your existing content and online presence to identify opportunities for AI optimization. This is followed by keyword research tailored for generative AI queries and semantic understanding. We then develop and optimize content, ensuring it's structured for AI interpretation and authority. Ongoing monitoring, performance analysis, and adjustments are crucial to adapt to evolving AI algorithms and maintain optimal visibility for your law firm.",
+        "description": "The GEO implementation process involves auditing content, conducting AI-tailored keyword research, optimizing and developing new content, and continuous monitoring to adapt to AI algorithm changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

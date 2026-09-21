@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of data and analytics are used to measure AEO success for law firms?",
+  "description": "AEO success is measured by tracking featured snippets, voice search visibility, 'People Also Ask' appearances, direct answer impressions, and user engagement on",
+  "url": "aiovisibility.com/faq/what-kind-of-data-and-analytics-are-used-to-measure-aeo-success-for-law-firms",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of data and analytics are used to measure AEO success for law firms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Measuring AEO success for law firms involves tracking various data points and analytics beyond traditional website traffic. Key metrics include the number of featured snippets achieved, impressions and clicks from direct answer boxes, voice search visibility, and improvements in 'People Also Ask' section appearances. We also monitor specific query performance, such as how often the firm's content answers a question directly, and analyze user engagement metrics like bounce rate and time on page for AEO-optimized content. These insights help refine strategies and demonstrate ROI.",
+        "description": "AEO success is measured by tracking featured snippets, voice search visibility, 'People Also Ask' appearances, direct answer impressions, and user engagement on optimized content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

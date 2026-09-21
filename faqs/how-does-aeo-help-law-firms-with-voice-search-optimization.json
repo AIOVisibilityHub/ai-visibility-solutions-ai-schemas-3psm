@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO help law firms with voice search optimization?",
+  "description": "AEO optimizes for voice search by structuring content to directly answer conversational, question-based queries, increasing the chance of your law firm being th",
+  "url": "aiovisibility.com/faq/how-does-aeo-help-law-firms-with-voice-search-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO help law firms with voice search optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO is inherently designed to optimize for voice search because voice queries are typically question-based and conversational. When someone asks a question like 'How do I find a personal injury lawyer?' into their smart speaker or phone, search engines prioritize direct, concise answers. By structuring your content to directly answer these questions, AEO increases the likelihood of your firm being the chosen answer. This is crucial for law firms, as voice search users often seek immediate, actionable information, and appearing as the direct answer positions your firm as a readily available solution.",
+        "description": "AEO optimizes for voice search by structuring content to directly answer conversational, question-based queries, increasing the chance of your law firm being the chosen answer for immediate information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does GEO differ from general SEO for medical practices?",
+  "description": "GEO targets local searches and map listings for medical practices, while general SEO focuses on broader, non-location-specific search visibility.",
+  "url": "aiovisibility.com/faq/how-does-geo-differ-from-general-seo-for-medical-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does GEO differ from general SEO for medical practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While general SEO aims to improve overall website visibility across a broad spectrum of search queries, GEO (Local SEO) specifically targets improving visibility for searches that have a local intent. For medical practices, this means focusing on terms like 'cardiologist near me' or 'pediatrician Phoenix.' GEO optimizes for local map packs, local directory listings, and location-specific keywords, whereas general SEO might focus on broader informational content and national rankings.",
+        "description": "GEO targets local searches and map listings for medical practices, while general SEO focuses on broader, non-location-specific search visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is local Generative Engine Optimization important for dental clinics in New York City?",
+  "description": "Local GEO is vital for NYC dentists because patients search locally. It targets specific neighborhoods to ensure clinics appear in relevant local search results",
+  "url": "aiovisibility.com/faq/why-is-local-generative-engine-optimization-important-for-dental-clinics-in-new",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is local Generative Engine Optimization important for dental clinics in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local Generative Engine Optimization is crucial for dental clinics in New York City because patients frequently search for dental services near their homes or workplaces. GEO creates content that targets specific neighborhoods or boroughs within NYC, such as 'dentist in Manhattan' or 'dental cleanings Upper West Side.' This ensures the practice appears prominently in local search results and map packs, connecting with the right patients who are ready to book appointments in their immediate vicinity.",
+        "description": "Local GEO is vital for NYC dentists because patients search locally. It targets specific neighborhoods to ensure clinics appear in relevant local search results and reach nearby patients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

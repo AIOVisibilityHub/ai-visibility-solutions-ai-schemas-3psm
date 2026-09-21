@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost structure for AI website optimization services?",
+  "description": "Costs vary by project scope, site size, and industry competition; we offer custom proposals with monthly retainers or project-based fees after an initial consul",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-structure-for-ai-website-optimization-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost structure for AI website optimization services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost structure for AI website optimization services typically varies based on the scope and complexity of your project. Factors influencing pricing include the size of your website, the competitiveness of your industry, the depth of content analysis required, and the ongoing support needed. We often provide custom proposals after an initial consultation and site audit, which can include monthly retainers for continuous optimization, project-based fees for specific deliverables, or a hybrid model. Our aim is to provide transparent pricing tailored to your business needs.",
+        "description": "Costs vary by project scope, site size, and industry competition; we offer custom proposals with monthly retainers or project-based fees after an initial consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

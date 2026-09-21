@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Attorney Experience Optimization (AEO) for law firms?",
+  "description": "Attorney Experience Optimization (AEO) for law firms enhances online visibility through SEO, local SEO, content marketing, and reputation management, helping pr",
+  "url": "aiovisibility.com/faq/what-is-attorney-experience-optimization-aeo-for-law-firms",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Attorney Experience Optimization (AEO) for law firms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Attorney Experience Optimization (AEO) for law firms focuses on enhancing a law firm's online visibility to potential clients by optimizing its digital presence. This involves strategies like search engine optimization (SEO), local SEO, content marketing, and online reputation management. The goal is to ensure that when prospective clients search for legal services, the law firm appears prominently, making it easier for them to find and engage with the firm. AEO considers the specific needs and search behaviors of legal service consumers.",
+        "description": "Attorney Experience Optimization (AEO) for law firms enhances online visibility through SEO, local SEO, content marketing, and reputation management, helping prospective clients find legal services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

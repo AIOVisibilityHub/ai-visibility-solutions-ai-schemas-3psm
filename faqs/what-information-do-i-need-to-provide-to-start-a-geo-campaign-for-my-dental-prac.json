@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to provide to start a GEO campaign for my dental practice?",
+  "description": "To start GEO, provide details about your practice's services, target patients, unique selling points, and geographic areas. Current online presence and goals ar",
+  "url": "aiovisibility.com/faq/what-information-do-i-need-to-provide-to-start-a-geo-campaign-for-my-dental-prac",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to provide to start a GEO campaign for my dental practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To launch a successful GEO campaign, you'll typically need to provide details about your dental practice, including its services, target patient demographics, unique selling propositions, and geographical service areas. Information about your current online presence, any past marketing efforts, and specific goals (e.g., increase new patient bookings for a particular service) is also helpful. Providing access to your website analytics can further refine the strategy.",
+        "description": "To start GEO, provide details about your practice's services, target patients, unique selling points, and geographic areas. Current online presence and goals are also helpful."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

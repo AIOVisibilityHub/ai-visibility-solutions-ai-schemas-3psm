@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from geo-targeted marketing efforts for plastic surgeons?",
+  "description": "Initial results from geo-targeted marketing usually appear in 3-6 months, with significant impact taking 6-12 months.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-geo-targeted-marketing-efforts-for-pla",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from geo-targeted marketing efforts for plastic surgeons?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Results from geo-targeted marketing for plastic surgeons typically begin to appear within 3-6 months, though significant improvements can take 6-12 months. Initial changes in local search rankings may be observed sooner, but consistent increases in qualified local leads and patient bookings require sustained effort. Factors like current online presence, local competition, and the intensity of the marketing strategy all influence the timeline for seeing measurable ROI.",
+        "description": "Initial results from geo-targeted marketing usually appear in 3-6 months, with significant impact taking 6-12 months."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

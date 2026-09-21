@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What process does an AEO agency follow when working with a small business?",
+  "description": "An AEO agency audits your digital presence, develops a tailored AI optimization strategy, implements changes, monitors performance, and adjusts based on results",
+  "url": "aiovisibility.com/faq/what-process-does-an-aeo-agency-follow-when-working-with-a-small-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What process does an AEO agency follow when working with a small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AEO agency typically begins with a comprehensive audit of your small business's current digital presence, analyzing website content, technical structure, and existing data to identify AI optimization opportunities. Next, they develop a tailored strategy focusing on areas like semantic content optimization, schema markup implementation for entity recognition, and voice search readiness. This is followed by content creation or revision, technical adjustments, and ongoing monitoring using AI-driven analytics. The process also includes regular reporting and strategy adjustments based on performance data and evolving AI trends, ensuring your business remains competitive in AI-powered search.",
+        "description": "An AEO agency audits your digital presence, develops a tailored AI optimization strategy, implements changes, monitors performance, and adjusts based on results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

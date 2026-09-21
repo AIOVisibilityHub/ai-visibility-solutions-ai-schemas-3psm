@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to rewrite all my website content for AEO?",
+  "description": "You may not need to rewrite all content; an audit identifies existing content for optimization and new content needs for key AEO opportunities, focusing on maki",
+  "url": "aiovisibility.com/faq/do-i-need-to-rewrite-all-my-website-content-for-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to rewrite all my website content for AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not necessarily. A comprehensive content audit will identify which existing content can be optimized with minor adjustments, such as rephrasing for direct answers or adding structured data. New content creation may be recommended for significant gaps where your website doesn't currently address common user questions relevant to your business. The focus is on making existing content AI-friendly and strategically creating new content to cover key AEO opportunities, rather than a complete overhaul.",
+        "description": "You may not need to rewrite all content; an audit identifies existing content for optimization and new content needs for key AEO opportunities, focusing on making content AI-friendly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

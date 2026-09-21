@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost structure for AI search optimization services for law firms?",
+  "description": "Costs for AI search optimization vary by scope and firm size, typically involving monthly retainers that range from hundreds to several thousands of dollars.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-structure-for-ai-search-optimization-services-for-law-f",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost structure for AI search optimization services for law firms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost structure for AI search optimization services for law firms varies based on several factors, including the scope of services, the firm's size, competitive landscape, and desired outcomes. Most providers offer monthly retainer models, which can range from a few hundred to several thousand dollars, depending on the intensity of the strategy. Some may also offer project-based pricing for specific audits or content initiatives. It's common for proposals to outline tiered packages addressing different levels of need, from foundational SEO to comprehensive digital marketing.",
+        "description": "Costs for AI search optimization vary by scope and firm size, typically involving monthly retainers that range from hundreds to several thousands of dollars."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

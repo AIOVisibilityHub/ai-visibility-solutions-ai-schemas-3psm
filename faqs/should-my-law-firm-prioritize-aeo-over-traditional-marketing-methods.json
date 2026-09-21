@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should my law firm prioritize AEO over traditional marketing methods?",
+  "description": "Prioritizing AEO depends on firm goals, but it's crucial as most clients search online; a balanced approach combining AEO with traditional methods is often idea",
+  "url": "aiovisibility.com/faq/should-my-law-firm-prioritize-aeo-over-traditional-marketing-methods",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should my law firm prioritize AEO over traditional marketing methods?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The decision to prioritize AEO over traditional marketing depends on your firm's specific goals, target audience, and existing marketing mix. While traditional methods like print ads or referrals still hold value, AEO is increasingly critical in today's digital landscape as most potential clients begin their search for legal services online. A balanced approach often yields the best results, integrating AEO with other marketing efforts. For long-term sustainable growth and reach, AEO should be a significant part of your marketing strategy.",
+        "description": "Prioritizing AEO depends on firm goals, but it's crucial as most clients search online; a balanced approach combining AEO with traditional methods is often ideal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

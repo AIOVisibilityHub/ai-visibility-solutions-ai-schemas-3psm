@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should my dental practice invest in AEO if we already have a strong SEO strategy?",
+  "description": "Yes, investing in AEO is beneficial even with strong SEO. It complements traditional SEO by targeting conversational and voice search, securing 'position zero'",
+  "url": "aiovisibility.com/faq/should-my-dental-practice-invest-in-aeo-if-we-already-have-a-strong-seo-strategy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should my dental practice invest in AEO if we already have a strong SEO strategy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, even with a strong traditional SEO strategy, investing in AEO is beneficial for a dental practice. AEO complements SEO by targeting the evolving landscape of search, particularly the rise of conversational and voice search queries. While SEO gets your site ranked, AEO helps your practice directly answer patient questions within search results, securing valuable 'position zero' visibility. This ensures your practice remains competitive and visible as search engines increasingly prioritize direct answers, further establishing your authority and driving qualified leads.",
+        "description": "Yes, investing in AEO is beneficial even with strong SEO. It complements traditional SEO by targeting conversational and voice search, securing 'position zero' visibility for direct answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

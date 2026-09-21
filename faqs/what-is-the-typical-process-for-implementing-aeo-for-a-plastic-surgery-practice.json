@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for implementing AEO for a plastic surgery practice?",
+  "description": "AEO implementation involves auditing, strategic planning, content optimization for AI search, and continuous monitoring.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-implementing-aeo-for-a-plastic-surgery-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for implementing AEO for a plastic surgery practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implementing AEO typically begins with an in-depth audit of your current online presence, website content, and target audience. This is followed by strategic planning to identify key AI search opportunities and develop content that aligns with conversational queries and structured data requirements. The process includes optimizing existing content, creating new AI-friendly content, and ensuring your practice's information is consistent across all digital platforms. Continuous monitoring and adjustments are made based on AI search performance data.",
+        "description": "AEO implementation involves auditing, strategic planning, content optimization for AI search, and continuous monitoring."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

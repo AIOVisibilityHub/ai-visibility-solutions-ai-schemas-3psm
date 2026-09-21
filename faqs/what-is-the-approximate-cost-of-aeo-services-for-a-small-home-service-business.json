@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the approximate cost of AEO services for a small home service business?",
+  "description": "AEO costs for small home service businesses can range from hundreds for setup to $500-$2,500+ monthly for ongoing services, depending on scope and market.",
+  "url": "aiovisibility.com/faq/what-is-the-approximate-cost-of-aeo-services-for-a-small-home-service-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the approximate cost of AEO services for a small home service business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services for a small home service business varies widely based on the scope of work, the competitiveness of the market, and the agency's expertise. Initial audits and one-time setup fees might range from a few hundred to a couple of thousand dollars. Monthly retainers for ongoing optimization, content creation, and monitoring can range from $500 to $2,500 or more. Factors influencing this include the number of services offered, the volume of content requiring optimization, and whether new content creation is part of the package. It's best to get a customized quote after an initial assessment.",
+        "description": "AEO costs for small home service businesses can range from hundreds for setup to $500-$2,500+ monthly for ongoing services, depending on scope and market."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

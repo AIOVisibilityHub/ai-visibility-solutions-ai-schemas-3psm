@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between SEO and AEO for a medical practice?",
+  "description": "SEO improves overall search rankings, while AEO specifically optimizes content to directly answer patient questions in featured snippets and voice search result",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-seo-and-aeo-for-a-medical-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between SEO and AEO for a medical practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SEO (Search Engine Optimization) focuses on improving a website's ranking in general search results, aiming for the top positions on search pages. AEO (Answer Engine Optimization), while related, specifically targets optimizing content to provide direct answers to user questions, often appearing in featured snippets, 'People Also Ask' sections, and voice search results. While SEO seeks to drive traffic through organic rankings, AEO aims to provide immediate, authoritative answers, directly connecting your practice with patient queries before they even click a link.",
+        "description": "SEO improves overall search rankings, while AEO specifically optimizes content to directly answer patient questions in featured snippets and voice search results, aiming for immediate information delivery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is local AEO important for law firms in cities like New York City or Los Angeles?",
+  "description": "Local AEO is vital for law firms in cities like New York City or Los Angeles to capture 'near me' and location-specific voice searches, targeting ready-to-act l",
+  "url": "aiovisibility.com/faq/why-is-local-aeo-important-for-law-firms-in-cities-like-new-york-city-or-los-ang",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is local AEO important for law firms in cities like New York City or Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local AEO is crucial for law firms in competitive cities like New York City or Los Angeles because many potential clients search for legal services specific to their geographic area. Optimizing for local AEO means structuring content to answer location-specific legal questions, ensuring your firm appears in 'near me' searches, local map packs, and voice queries like 'attorney near me for [legal issue]'. This targets clients who are often ready to take immediate action, making local visibility through direct answers highly valuable for capturing qualified leads within dense urban markets.",
+        "description": "Local AEO is vital for law firms in cities like New York City or Los Angeles to capture 'near me' and location-specific voice searches, targeting ready-to-act local clients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

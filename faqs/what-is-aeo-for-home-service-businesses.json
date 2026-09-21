@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AEO for home service businesses?",
+  "description": "AEO (Answer Engine Optimization) for home service businesses optimizes online content to directly answer customer questions on search engines and voice assistan",
+  "url": "aiovisibility.com/faq/what-is-aeo-for-home-service-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AEO for home service businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO stands for Answer Engine Optimization. For home service businesses, it involves optimizing your online content and digital presence to directly answer customer questions when they use search engines, voice assistants, or other answer engines. This goes beyond traditional SEO by focusing on direct, concise answers that can be featured as snippets, in knowledge panels, or delivered via voice search, improving visibility for service-specific queries like 'best plumber near me' or 'AC repair cost'. The goal is to provide immediate value and establish your business as a trusted authority.",
+        "description": "AEO (Answer Engine Optimization) for home service businesses optimizes online content to directly answer customer questions on search engines and voice assistants."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

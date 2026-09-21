@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can GEO help my law firm in specific service areas like New York City or Los Angeles?",
+  "description": "Yes, GEO can target specific areas like New York City or Los Angeles by optimizing content with local legal terms and citations, ensuring local AI visibility.",
+  "url": "aiovisibility.com/faq/can-geo-help-my-law-firm-in-specific-service-areas-like-new-york-city-or-los-ang",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can GEO help my law firm in specific service areas like New York City or Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Generative Engine Optimization can be highly effective for law firms targeting specific geographic areas like New York City or Los Angeles. By optimizing content with local legal terms, city-specific practice area information, and local citations, GEO ensures that AI systems can accurately connect your firm with potential clients searching for legal services in those regions. This targeted approach helps your firm appear prominently in local AI-driven search results and recommendations.",
+        "description": "Yes, GEO can target specific areas like New York City or Los Angeles by optimizing content with local legal terms and citations, ensuring local AI visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

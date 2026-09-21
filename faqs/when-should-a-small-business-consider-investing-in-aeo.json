@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should a small business consider investing in AEO?",
+  "description": "A small business should consider AEO if their customers use voice search or AI assistants, or if they want to future-proof their digital marketing strategy.",
+  "url": "aiovisibility.com/faq/when-should-a-small-business-consider-investing-in-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should a small business consider investing in AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small business should consider AEO when its target audience frequently uses voice search, relies on AI assistants for information, or if its competitors are already exploring AI-driven strategies. It's particularly beneficial if your business offers niche services, local products, or detailed information that can be effectively summarized by AI. Early adoption allows your business to gain a competitive edge as AI continues to shape how users find information and make purchasing decisions. If you're experiencing declining organic traffic or want to future-proof your digital marketing efforts, investing in AEO can be a strategic move.",
+        "description": "A small business should consider AEO if their customers use voice search or AI assistants, or if they want to future-proof their digital marketing strategy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

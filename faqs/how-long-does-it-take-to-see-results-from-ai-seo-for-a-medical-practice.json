@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AI SEO for a medical practice?",
+  "description": "Initial AI SEO results for medical practices can be seen in 3-6 months, with significant growth often taking 6-12 months depending on various factors.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-ai-seo-for-a-medical-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AI SEO for a medical practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeframe for seeing results from AI SEO can vary depending on several factors, including the current state of your practice's SEO, the competitiveness of your specialty, and the consistency of optimization efforts. Generally, initial improvements in search rankings and website traffic may become noticeable within 3-6 months. Significant and sustained growth, leading to a substantial increase in patient inquiries and appointments, often takes 6-12 months or more. AI-driven strategies accelerate this process by identifying opportunities and implementing changes more efficiently than traditional methods.",
+        "description": "Initial AI SEO results for medical practices can be seen in 3-6 months, with significant growth often taking 6-12 months depending on various factors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

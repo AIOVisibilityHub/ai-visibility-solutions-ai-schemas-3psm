@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Generative Engine Optimization (GEO) for dental practices?",
+  "description": "Generative Engine Optimization (GEO) uses AI to boost a dental practice's online visibility on search engines, voice assistants, and AI interfaces by optimizing",
+  "url": "aiovisibility.com/faq/what-is-generative-engine-optimization-geo-for-dental-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Generative Engine Optimization (GEO) for dental practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization (GEO) leverages AI to enhance a dental practice's online visibility across various digital platforms, including search engines, voice assistants, and AI-powered conversational interfaces. It analyzes patient search patterns and generates optimized content tailored to these new forms of digital interaction. This ensures that when potential patients ask questions or search for dental services using natural language, your practice's information is accurately and prominently displayed, improving patient acquisition and engagement.",
+        "description": "Generative Engine Optimization (GEO) uses AI to boost a dental practice's online visibility on search engines, voice assistants, and AI interfaces by optimizing content for natural language queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

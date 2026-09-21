@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost associated with AEO services for law firms?",
+  "description": "AEO costs for law firms vary from hundreds to several thousands monthly, depending on scope, firm size, market competitiveness, and desired outcomes.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-associated-with-aeo-services-for-law-firms",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost associated with AEO services for law firms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services for law firms varies widely based on the scope of services, the firm's size, its competitive landscape, and desired outcomes. Smaller, localized firms might invest a few hundred to a few thousand dollars monthly for basic packages. Larger firms or those in highly competitive markets, especially in major cities like New York City or Los Angeles, may require more comprehensive strategies costing several thousand dollars per month. Pricing models can be retainer-based, project-based, or performance-based.",
+        "description": "AEO costs for law firms vary from hundreds to several thousands monthly, depending on scope, firm size, market competitiveness, and desired outcomes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

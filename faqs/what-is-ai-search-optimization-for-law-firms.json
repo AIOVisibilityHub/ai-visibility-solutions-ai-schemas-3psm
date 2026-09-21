@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AI search optimization for law firms?",
+  "description": "AI search optimization for law firms uses AI tools to boost a legal practice's visibility in search engines, attracting more qualified leads.",
+  "url": "aiovisibility.com/faq/what-is-ai-search-optimization-for-law-firms",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AI search optimization for law firms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI search optimization for law firms involves using artificial intelligence tools and techniques to improve a legal practice's visibility in search engine results. This can include AI-powered keyword research, content generation assistance, predictive analytics for search trends, and automated technical SEO audits. The goal is to attract more qualified legal leads by ensuring the firm's website ranks highly for relevant legal searches, ultimately increasing client acquisition and firm growth.",
+        "description": "AI search optimization for law firms uses AI tools to boost a legal practice's visibility in search engines, attracting more qualified leads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What specific services are included in AEO for law firms?",
+  "description": "AEO services for law firms include technical SEO audits, legal keyword research, content creation, local SEO, online reputation management, and citation buildin",
+  "url": "aiovisibility.com/faq/what-specific-services-are-included-in-aeo-for-law-firms",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What specific services are included in AEO for law firms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A comprehensive AEO strategy for law firms typically includes several key services. These often involve technical SEO audits of the firm's website, keyword research tailored to legal specializations and client needs, creation of high-quality, informative legal content (e.g., blog posts, practice area pages), local SEO optimization for Google My Business and other directories, online reputation management, and citation building. The aim is to create a robust digital footprint that attracts and converts potential clients.",
+        "description": "AEO services for law firms include technical SEO audits, legal keyword research, content creation, local SEO, online reputation management, and citation building."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

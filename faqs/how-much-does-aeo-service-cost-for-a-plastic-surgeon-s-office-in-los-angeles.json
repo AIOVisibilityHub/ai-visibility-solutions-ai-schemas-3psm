@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does AEO service cost for a plastic surgeon's office in Los Angeles?",
+  "description": "AEO service costs for plastic surgeons in Los Angeles vary based on scope, market competitiveness, and specific goals; a custom quote is required.",
+  "url": "aiovisibility.com/faq/how-much-does-aeo-service-cost-for-a-plastic-surgeon-s-office-in-los-angeles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does AEO service cost for a plastic surgeon's office in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services for a plastic surgeon's office in Los Angeles varies significantly based on the scope of work, the competitiveness of the local market, and the specific goals of the practice. Factors influencing pricing include the initial audit complexity, the amount of content creation and optimization required, and the level of ongoing management and reporting. Pricing models can range from monthly retainers to project-based fees. A customized quote would be necessary after a detailed assessment of your practice's needs.",
+        "description": "AEO service costs for plastic surgeons in Los Angeles vary based on scope, market competitiveness, and specific goals; a custom quote is required."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

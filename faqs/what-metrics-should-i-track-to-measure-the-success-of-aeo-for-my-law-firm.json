@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should I track to measure the success of AEO for my law firm?",
+  "description": "Measure AEO success by tracking organic traffic, keyword rankings, online lead generation, conversion rates, local search visibility, and website engagement.",
+  "url": "aiovisibility.com/faq/what-metrics-should-i-track-to-measure-the-success-of-aeo-for-my-law-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should I track to measure the success of AEO for my law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure the success of AEO, law firms should track several key metrics. These include organic search traffic to the website, keyword rankings for important legal terms, the number of leads generated through online channels (e.g., form submissions, phone calls from the website), conversion rates, and client acquisition costs. Monitoring local search visibility, Google My Business insights (such as views and calls), and website user engagement metrics (bounce rate, time on page) also provides valuable insights into performance.",
+        "description": "Measure AEO success by tracking organic traffic, keyword rankings, online lead generation, conversion rates, local search visibility, and website engagement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

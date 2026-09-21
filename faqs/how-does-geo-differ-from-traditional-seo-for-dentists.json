@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does GEO differ from traditional SEO for dentists?",
+  "description": "GEO optimizes for AI-driven conversational search and voice assistants, providing direct answers to natural language questions, while traditional SEO focuses on",
+  "url": "aiovisibility.com/faq/how-does-geo-differ-from-traditional-seo-for-dentists",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does GEO differ from traditional SEO for dentists?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional SEO primarily focuses on optimizing websites for keyword-based searches on conventional search engines. Generative Engine Optimization expands on this by preparing a practice for the evolving landscape of AI-driven search and conversational platforms. While SEO aims for top rankings on results pages, GEO ensures your practice provides direct, accurate answers to natural language questions posed to AI. It prioritizes semantic understanding and rich content snippets over just keyword density, adapting to how people genuinely inquire about services.",
+        "description": "GEO optimizes for AI-driven conversational search and voice assistants, providing direct answers to natural language questions, while traditional SEO focuses on keyword rankings on standard search engines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

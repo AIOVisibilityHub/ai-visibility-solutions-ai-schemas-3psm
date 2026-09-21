@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO differ from traditional SEO for a dental practice?",
+  "description": "AEO aims for direct answers in search results (like featured snippets) to user questions, while traditional SEO focuses on ranking website pages for clicks.",
+  "url": "aiovisibility.com/faq/how-does-aeo-differ-from-traditional-seo-for-a-dental-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO differ from traditional SEO for a dental practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional SEO primarily focuses on ranking your website pages higher in search results. AEO, however, is about optimizing your content to directly answer specific questions, often resulting in your practice appearing as a featured snippet, knowledge panel, or voice search result. While SEO aims for clicks to your website, AEO strives for direct answers, satisfying the user's intent without them needing to navigate multiple pages. Both are important, but AEO addresses the evolving way people search for information, especially with voice assistants.",
+        "description": "AEO aims for direct answers in search results (like featured snippets) to user questions, while traditional SEO focuses on ranking website pages for clicks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can AEO help my law firm acquire new clients?",
+  "description": "AEO increases client acquisition by boosting a law firm's visibility as a direct answer in search results, establishing authority, and attracting highly qualifi",
+  "url": "aiovisibility.com/faq/how-can-aeo-help-my-law-firm-acquire-new-clients",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can AEO help my law firm acquire new clients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO helps law firms acquire new clients by increasing their visibility to potential clients who are actively seeking legal information and solutions. When your firm's content appears as a direct answer in search results or voice searches, it establishes immediate authority and trustworthiness. This direct engagement bypasses traditional organic search listings, putting your firm front and center. By answering specific legal questions effectively, you attract highly qualified leads who are already demonstrating intent, making them more likely to convert into clients. It positions your firm as an expert and a reliable resource.",
+        "description": "AEO increases client acquisition by boosting a law firm's visibility as a direct answer in search results, establishing authority, and attracting highly qualified, intent-driven leads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does Generative Engine Optimization for dentists cost?",
+  "description": "The cost of GEO for dentists varies based on service scope and competitive factors, typically ranging from hundreds to thousands of dollars monthly. A custom qu",
+  "url": "aiovisibility.com/faq/how-much-does-generative-engine-optimization-for-dentists-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does Generative Engine Optimization for dentists cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of Generative Engine Optimization for dental practices varies based on factors such as the scope of content creation, the number of services offered, and the competitive landscape. Providers often offer tiered packages that can range from a few hundred to several thousand dollars per month. A custom quote is usually provided after assessing the practice's specific needs, target audience, and desired outcomes. It's an investment in sustainable online growth.",
+        "description": "The cost of GEO for dentists varies based on service scope and competitive factors, typically ranging from hundreds to thousands of dollars monthly. A custom quote is usually provided."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Answer Engine Optimization (AEO) for law firms?",
+  "description": "Answer Engine Optimization (AEO) for law firms optimizes content to provide direct, concise answers for AI-powered search engines and voice assistants, improvin",
+  "url": "aiovisibility.com/faq/what-is-answer-engine-optimization-aeo-for-law-firms",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Answer Engine Optimization (AEO) for law firms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer Engine Optimization (AEO) for law firms focuses on making legal services content readily available and understandable for AI-powered search engines and voice assistants. Unlike traditional SEO, AEO specifically targets direct answers to user queries, aiming for featured snippets, rich results, and prominent placement in AI-generated summaries. For law firms, this means optimizing content related to practice areas, legal processes, and common legal questions so that potential clients receive concise, accurate answers when searching for legal help.",
+        "description": "Answer Engine Optimization (AEO) for law firms optimizes content to provide direct, concise answers for AI-powered search engines and voice assistants, improving visibility for legal service queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

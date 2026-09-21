@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Generative Engine Optimization (GEO) for small businesses?",
+  "description": "Generative Engine Optimization (GEO) uses AI to create and optimize content for search engines, improving online visibility for small businesses.",
+  "url": "aiovisibility.com/faq/what-is-generative-engine-optimization-geo-for-small-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Generative Engine Optimization (GEO) for small businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization (GEO) leverages AI to create and optimize content for search engines, helping small businesses improve their online visibility. Unlike traditional SEO, GEO focuses on generating dynamic, relevant content that responds to evolving search queries and user intent. This approach can help your business stand out by consistently producing fresh, high-quality material that ranks well and attracts more targeted customers. It streamlines content creation, making it more efficient and scalable for businesses with limited resources.",
+        "description": "Generative Engine Optimization (GEO) uses AI to create and optimize content for search engines, improving online visibility for small businesses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of results can a law firm expect from AI search optimization?",
+  "description": "Law firms can expect increased organic traffic, higher rankings, more qualified leads, and improved client acquisition from AI search optimization.",
+  "url": "aiovisibility.com/faq/what-kind-of-results-can-a-law-firm-expect-from-ai-search-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of results can a law firm expect from AI search optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Law firms can expect several key results from AI search optimization, including increased organic website traffic, higher rankings for specific legal service keywords, and an improved quantity of qualified leads. Over time, this often translates into a greater number of client inquiries and case acquisitions. Firms typically see enhanced online brand authority and a more efficient allocation of marketing resources, as AI helps pinpoint the most effective strategies.",
+        "description": "Law firms can expect increased organic traffic, higher rankings, more qualified leads, and improved client acquisition from AI search optimization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

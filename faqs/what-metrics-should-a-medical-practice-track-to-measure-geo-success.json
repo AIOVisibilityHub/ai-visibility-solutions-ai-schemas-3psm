@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should a medical practice track to measure GEO success?",
+  "description": "Track local search rankings, Google My Business views/clicks/calls/directions, new patient inquiries from local search, and review metrics to measure GEO succes",
+  "url": "aiovisibility.com/faq/what-metrics-should-a-medical-practice-track-to-measure-geo-success",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should a medical practice track to measure GEO success?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure GEO success, a medical practice should track several key metrics. These include local search ranking improvements for targeted keywords, increases in Google My Business profile views, clicks to the website from local listings, phone calls directly from local searches, and direction requests. Monitoring new patient inquiries and appointment bookings that originate from local search channels, as well as the quantity and quality of online reviews, also provides clear indicators of effective GEO strategies.",
+        "description": "Track local search rankings, Google My Business views/clicks/calls/directions, new patient inquiries from local search, and review metrics to measure GEO success."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the cost of implementing GEO strategies for a medical practice?",
+  "description": "GEO costs for medical practices vary based on service scope, location numbers, and competition; pricing models include retainers or project fees.",
+  "url": "aiovisibility.com/faq/what-is-the-cost-of-implementing-geo-strategies-for-a-medical-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cost of implementing GEO strategies for a medical practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of implementing GEO strategies for a medical practice can vary widely depending on the scope of services and the provider. Factors influencing cost include the number of locations, the competitiveness of the specialty and geographic area, and the extent of optimization needed. Pricing models might include monthly retainers, project-based fees, or hourly rates. It's advisable to get a detailed proposal outlining specific services and expected outcomes to understand the investment required.",
+        "description": "GEO costs for medical practices vary based on service scope, location numbers, and competition; pricing models include retainers or project fees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

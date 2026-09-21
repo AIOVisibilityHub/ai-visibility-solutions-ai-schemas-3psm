@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of Generative Engine Optimization for a law firm?",
+  "description": "GEO boosts a law firm's authority, improves visibility in AI search, increases website traffic, and generates higher-quality leads by providing precise legal an",
+  "url": "aiovisibility.com/faq/what-are-the-benefits-of-generative-engine-optimization-for-a-law-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of Generative Engine Optimization for a law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implementing Generative Engine Optimization offers several key benefits for law firms. It enhances authority and trust by providing clear, accurate answers to complex legal questions, establishing the firm as a reliable source of information. This leads to improved visibility in new search interfaces, including AI-powered summaries and voice search, increasing opportunities for client engagement. GEO can also boost website traffic, generate higher-quality leads, and position the firm competitively by reaching potential clients precisely when they need specific legal guidance.",
+        "description": "GEO boosts a law firm's authority, improves visibility in AI search, increases website traffic, and generates higher-quality leads by providing precise legal answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

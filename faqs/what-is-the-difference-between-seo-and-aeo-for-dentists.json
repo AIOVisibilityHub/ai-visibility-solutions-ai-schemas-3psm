@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between SEO and AEO for dentists?",
+  "description": "SEO aims to improve website ranking for keywords, driving traffic. AEO optimizes content to provide direct, concise answers to specific questions for AI search",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-seo-and-aeo-for-dentists",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between SEO and AEO for dentists?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SEO (Search Engine Optimization) for dentists primarily focuses on improving website ranking in traditional search results for specific keywords through strategies like keyword optimization, link building, and technical SEO. Its goal is to drive traffic to a website. AEO (Answer Engine Optimization), while related, is a more refined approach. It targets the direct answers provided by AI search engines and voice assistants. AEO optimizes content to be concise, factual, and easily extractable to satisfy specific user questions, often appearing in featured snippets or direct voice responses, reducing the need for a user to click through to a website.",
+        "description": "SEO aims to improve website ranking for keywords, driving traffic. AEO optimizes content to provide direct, concise answers to specific questions for AI search engines and voice assistants, often appearing as featured snippets."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

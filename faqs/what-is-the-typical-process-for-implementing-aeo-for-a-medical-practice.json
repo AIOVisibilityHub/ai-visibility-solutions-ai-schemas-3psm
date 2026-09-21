@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for implementing AEO for a medical practice?",
+  "description": "The AEO implementation process involves content audits, identifying patient questions, and optimizing website content with Q&A formats and structured data. This",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-implementing-aeo-for-a-medical-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for implementing AEO for a medical practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implementing AEO typically begins with a comprehensive audit of your existing content and target patient queries. We then identify common questions patients ask related to your services and specialties. The next step involves optimizing your website content by restructuring it into a question-and-answer format, adding structured data markup (schema), and ensuring conciseness and clarity. This process often includes optimizing for featured snippets, 'People Also Ask' sections, and local business information across various platforms to maximize direct answer visibility.",
+        "description": "The AEO implementation process involves content audits, identifying patient questions, and optimizing website content with Q&A formats and structured data. This enhances visibility in direct answers and local searches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

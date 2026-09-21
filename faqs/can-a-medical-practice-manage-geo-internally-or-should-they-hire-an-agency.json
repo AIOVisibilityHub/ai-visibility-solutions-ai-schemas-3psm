@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a medical practice manage GEO internally, or should they hire an agency?",
+  "description": "Medical practices can handle basic GEO internally, but hiring an agency is often more effective for comprehensive, ongoing optimization due to specialized exper",
+  "url": "aiovisibility.com/faq/can-a-medical-practice-manage-geo-internally-or-should-they-hire-an-agency",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a medical practice manage GEO internally, or should they hire an agency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While basic GEO tasks, like claiming and optimizing a Google My Business profile, can be managed internally, comprehensive and effective GEO requires specialized knowledge and ongoing effort. An agency specializing in digital marketing for medical practices can offer expertise in competitive analysis, advanced citation building, review management strategies, and algorithm updates. For busy practices looking for optimal results and consistent growth, hiring a specialized agency is often more efficient and effective.",
+        "description": "Medical practices can handle basic GEO internally, but hiring an agency is often more effective for comprehensive, ongoing optimization due to specialized expertise."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

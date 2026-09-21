@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is local SEO important for law firms, especially in cities like Houston or Phoenix?",
+  "description": "Local SEO is vital for law firms, especially in large cities like Houston or Phoenix, because many clients seek attorneys in their local area.",
+  "url": "aiovisibility.com/faq/why-is-local-seo-important-for-law-firms-especially-in-cities-like-houston-or-ph",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is local SEO important for law firms, especially in cities like Houston or Phoenix?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local SEO is critically important for law firms because a significant portion of legal service searches have local intent. Clients typically seek attorneys within their geographic vicinity. In large, competitive cities like Houston or Phoenix, local SEO ensures that a firm appears in",
+        "description": "Local SEO is vital for law firms, especially in large cities like Houston or Phoenix, because many clients seek attorneys in their local area."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

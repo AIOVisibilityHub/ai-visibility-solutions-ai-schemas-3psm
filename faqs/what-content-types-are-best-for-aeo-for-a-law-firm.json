@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What content types are best for AEO for a law firm?",
+  "description": "Content types best for AEO include detailed FAQs, articles explaining legal processes, glossaries, and 'how-to' guides that provide clear, authoritative answers",
+  "url": "aiovisibility.com/faq/what-content-types-are-best-for-aeo-for-a-law-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What content types are best for AEO for a law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For AEO, content that directly answers common legal questions is most effective. This includes detailed FAQs on specific practice areas like personal injury, family law, or real estate, and articles explaining legal processes or terminology. Fact sheets, glossaries, and 'how-to' guides for legal situations also perform well. The key is to create concise, authoritative content that addresses user intent clearly and can be easily extracted by AI search engines. Case studies formatted to answer specific questions can also be valuable.",
+        "description": "Content types best for AEO include detailed FAQs, articles explaining legal processes, glossaries, and 'how-to' guides that provide clear, authoritative answers to common legal questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI search optimization suitable for all types of small businesses?",
+  "description": "It is suitable for most small businesses, especially those with an online presence, e-commerce, or local services, aiming to improve online discoverability.",
+  "url": "aiovisibility.com/faq/is-ai-search-optimization-suitable-for-all-types-of-small-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI search optimization suitable for all types of small businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While highly beneficial for most, AI search optimization is particularly impactful for small businesses with an online presence, e-commerce stores, local service providers, and those in competitive industries. Businesses with very niche, non-search-driven customer acquisition models might find its direct impact less pronounced. However, even for these, AI can offer valuable market insights. Ultimately, any business aiming to improve its online discoverability can benefit, with strategies tailored to their unique needs.",
+        "description": "It is suitable for most small businesses, especially those with an online presence, e-commerce, or local services, aiming to improve online discoverability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

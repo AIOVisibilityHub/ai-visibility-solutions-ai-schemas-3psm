@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of AEO services for law firms?",
+  "description": "The typical cost of AEO services for law firms varies, influenced by scope, firm size, and practice area competitiveness, usually ranging from hundreds to thous",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-of-aeo-services-for-law-firms",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of AEO services for law firms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services for law firms varies widely depending on the scope of work, the size of your firm, and the competitiveness of your practice areas. Factors influencing cost include content strategy development, content creation, technical optimization, ongoing monitoring, and reporting. Fees can range from a few hundred to several thousand dollars per month for comprehensive services. Most providers offer customized packages to align with specific goals and budgets. It's best to discuss your firm's needs with a provider to get an accurate quote.",
+        "description": "The typical cost of AEO services for law firms varies, influenced by scope, firm size, and practice area competitiveness, usually ranging from hundreds to thousands of dollars monthly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

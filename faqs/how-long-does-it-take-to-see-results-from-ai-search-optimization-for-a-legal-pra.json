@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AI search optimization for a legal practice?",
+  "description": "Initial results from AI search optimization for law firms typically appear within 3-6 months, with significant growth requiring 6-12 months of consistent effort",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-ai-search-optimization-for-a-legal-pra",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AI search optimization for a legal practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seeing results from AI search optimization for a legal practice typically takes several months, not weeks. Initial improvements in rankings and organic traffic can often be observed within 3-6 months. However, significant and sustained growth, especially for competitive legal terms, usually requires 6-12 months of consistent effort. AI tools accelerate the optimization process, but search engine algorithms still need time to re-evaluate and re-index websites based on the changes implemented.",
+        "description": "Initial results from AI search optimization for law firms typically appear within 3-6 months, with significant growth requiring 6-12 months of consistent effort."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

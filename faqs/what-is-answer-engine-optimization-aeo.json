@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Answer Engine Optimization (AEO)?",
+  "description": "Answer Engine Optimization (AEO) optimizes content for direct answers from search engines and AI assistants, aiming for visibility in featured snippets and voic",
+  "url": "aiovisibility.com/faq/what-is-answer-engine-optimization-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Answer Engine Optimization (AEO)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer Engine Optimization (AEO) is a strategy designed to optimize digital content for direct answers provided by search engines and AI-powered assistants. Unlike traditional SEO, which focuses on driving traffic to a website, AEO aims to have your content directly answer user queries within the search results themselves, often in featured snippets, knowledge panels, or voice search results. This involves structuring content clearly, using natural language, and directly addressing common questions to become the authoritative source for specific queries. The goal is to gain visibility where users increasingly expect instant answers.",
+        "description": "Answer Engine Optimization (AEO) optimizes content for direct answers from search engines and AI assistants, aiming for visibility in featured snippets and voice search."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

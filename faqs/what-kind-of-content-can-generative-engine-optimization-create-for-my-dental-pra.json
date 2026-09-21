@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content can Generative Engine Optimization create for my dental practice?",
+  "description": "GEO can create various types of content for dental practices, such as blog posts, service descriptions, patient education materials, and FAQs, all tailored to p",
+  "url": "aiovisibility.com/faq/what-kind-of-content-can-generative-engine-optimization-create-for-my-dental-pra",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content can Generative Engine Optimization create for my dental practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization can produce a wide range of content tailored for dental practices. This includes blog posts on oral hygiene tips, detailed service pages for procedures like implants or veneers, patient education materials, answers to common dental FAQs, and local community-focused articles. The goal is to create informative, engaging content that addresses the specific concerns and interests of potential and existing dental patients, establishing the practice as a trusted resource.",
+        "description": "GEO can create various types of content for dental practices, such as blog posts, service descriptions, patient education materials, and FAQs, all tailored to patient needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

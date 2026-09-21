@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common mistakes businesses make when trying to optimize for AI?",
+  "description": "Mistakes include keyword stuffing, neglecting structured data, poor content quality, ignoring natural language, and overlooking mobile experience.",
+  "url": "aiovisibility.com/faq/what-are-the-common-mistakes-businesses-make-when-trying-to-optimize-for-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common mistakes businesses make when trying to optimize for AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common mistakes include over-optimizing for keywords without considering user intent or semantic relationships, neglecting structured data (schema markup), and producing thin or low-quality content that lacks depth. Businesses also often fail to integrate natural language processing principles into their content strategy, treating AI optimization as a purely technical task rather than a content-centric one. Ignoring mobile-first indexing and user experience, which AI heavily values, is another frequent oversight that hinders effective optimization.",
+        "description": "Mistakes include keyword stuffing, neglecting structured data, poor content quality, ignoring natural language, and overlooking mobile experience."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

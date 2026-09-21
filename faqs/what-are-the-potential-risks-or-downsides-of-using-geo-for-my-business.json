@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the potential risks or downsides of using GEO for my business?",
+  "description": "Potential risks include maintaining brand voice and factual accuracy in AI-generated content, and the need for human oversight to prevent generic or unoriginal",
+  "url": "aiovisibility.com/faq/what-are-the-potential-risks-or-downsides-of-using-geo-for-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the potential risks or downsides of using GEO for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While highly beneficial, potential risks of GEO include the need for careful oversight to maintain brand voice and factual accuracy in AI-generated content. Without human review, there's a risk of producing generic or slightly off-brand material. Additionally, over-reliance on AI without strategic human input could lead to content that lacks genuine creativity or deep human insight. It's crucial to implement GEO with a balanced approach, integrating AI with expert human review and strategic direction to mitigate these potential downsides.",
+        "description": "Potential risks include maintaining brand voice and factual accuracy in AI-generated content, and the need for human oversight to prevent generic or unoriginal material."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

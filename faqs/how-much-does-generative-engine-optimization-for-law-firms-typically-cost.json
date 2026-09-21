@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does Generative Engine Optimization for law firms typically cost?",
+  "description": "The cost of GEO for law firms varies based on service scope, firm size, practice area competitiveness, and content needs; custom quotes are provided after consu",
+  "url": "aiovisibility.com/faq/how-much-does-generative-engine-optimization-for-law-firms-typically-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does Generative Engine Optimization for law firms typically cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of Generative Engine Optimization for law firms varies widely depending on the scope of services, the firm's size, the competitiveness of its practice areas, and the extent of content creation or optimization required. Services can range from basic audits and strategy development to comprehensive ongoing content generation and AI model optimization. Most GEO providers offer custom quotes after an initial consultation to assess specific needs and objectives for your law firm.",
+        "description": "The cost of GEO for law firms varies based on service scope, firm size, practice area competitiveness, and content needs; custom quotes are provided after consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

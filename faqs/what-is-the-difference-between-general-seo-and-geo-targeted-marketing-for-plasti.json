@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between general SEO and geo-targeted marketing for plastic surgeons?",
+  "description": "General SEO targets broad visibility, while geo-targeted marketing focuses on attracting local patients within specific geographic areas.",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-general-seo-and-geo-targeted-marketing-for-plasti",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between general SEO and geo-targeted marketing for plastic surgeons?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "General SEO aims to improve overall website visibility across a broad audience, focusing on competitive national or international keywords. Geo-targeted marketing, a subset of SEO, specifically optimizes a practice's online presence to attract patients within defined geographic areas. While general SEO might target broad terms like 'breast augmentation,' geo-targeted marketing focuses on 'breast augmentation [city name]' to capture local search intent and draw patients from specific communities near the practice.",
+        "description": "General SEO targets broad visibility, while geo-targeted marketing focuses on attracting local patients within specific geographic areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

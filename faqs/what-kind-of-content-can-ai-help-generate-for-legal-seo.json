@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content can AI help generate for legal SEO?",
+  "description": "AI can help generate drafts for legal blog posts, practice area pages, meta descriptions, and ad copy, optimizing them for search engines while requiring human",
+  "url": "aiovisibility.com/faq/what-kind-of-content-can-ai-help-generate-for-legal-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content can AI help generate for legal SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can assist in generating various types of content for legal SEO, including blog post drafts on specific legal topics, outlines for practice area pages, meta descriptions, and ad copy. It can also suggest keyword-rich headlines and article structures that appeal to both search engines and potential clients. While AI can create initial drafts and optimize existing content for SEO, human legal expertise is crucial for accuracy, nuance, and ensuring compliance with legal standards and ethical guidelines.",
+        "description": "AI can help generate drafts for legal blog posts, practice area pages, meta descriptions, and ad copy, optimizing them for search engines while requiring human legal review."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

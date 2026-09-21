@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for implementing Generative Engine Optimization?",
+  "description": "The GEO implementation process involves an audit, content gap analysis, AI-powered content generation, optimization for search and AI, and continuous performanc",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-implementing-generative-engine-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for implementing Generative Engine Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implementing Generative Engine Optimization typically begins with an initial audit of an agent's existing online presence and content strategy. This is followed by keyword research and AI-driven content gap analysis to identify opportunities. Next, an AI-powered content generation and optimization phase commences, focusing on creating high-quality, relevant text for various platforms. This includes structuring content for both search engines and generative AI interpretation. Finally, continuous monitoring, analysis of performance metrics, and iterative refinement based on AI model updates and search algorithm changes ensure sustained visibility and effectiveness.",
+        "description": "The GEO implementation process involves an audit, content gap analysis, AI-powered content generation, optimization for search and AI, and continuous performance monitoring."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

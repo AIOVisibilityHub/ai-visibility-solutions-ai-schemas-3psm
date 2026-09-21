@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics are used to measure the success of GEO for lawyers?",
+  "description": "GEO success for lawyers is measured by increased organic traffic, higher rankings, improved AI-generated visibility, enhanced brand authority, and an increase i",
+  "url": "aiovisibility.com/faq/what-metrics-are-used-to-measure-the-success-of-geo-for-lawyers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics are used to measure the success of GEO for lawyers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Success in GEO for lawyers is measured by several key metrics. These include increased organic traffic from search engines and AI platforms, higher rankings for relevant legal keywords and semantic queries, improved visibility in AI-generated summaries or recommendations, enhanced brand mentions and authority scores for your firm, and ultimately, an increase in qualified leads and client inquiries. We also track how effectively your content answers user questions as interpreted by AI.",
+        "description": "GEO success for lawyers is measured by increased organic traffic, higher rankings, improved AI-generated visibility, enhanced brand authority, and an increase in qualified client leads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

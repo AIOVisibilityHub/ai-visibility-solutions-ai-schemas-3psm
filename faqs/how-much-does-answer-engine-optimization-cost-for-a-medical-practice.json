@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does Answer Engine Optimization cost for a medical practice?",
+  "description": "AEO costs vary based on website complexity, services, competition, and ongoing support. Customized proposals are provided after assessing specific needs.",
+  "url": "aiovisibility.com/faq/how-much-does-answer-engine-optimization-cost-for-a-medical-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does Answer Engine Optimization cost for a medical practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of Answer Engine Optimization for a medical practice is not fixed; it depends on the scope of services required. Factors influencing the price include the size and complexity of your website, the number of specialties or services to optimize, the competitive landscape, and the level of ongoing support. A comprehensive AEO strategy might involve content creation, technical schema implementation, and local listing optimization. Most providers offer customized proposals after assessing your specific needs and goals, reflecting a tailored investment.",
+        "description": "AEO costs vary based on website complexity, services, competition, and ongoing support. Customized proposals are provided after assessing specific needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

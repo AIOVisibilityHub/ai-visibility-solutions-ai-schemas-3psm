@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Answer Engine Optimization (AEO) for dental practices?",
+  "description": "AEO for dental practices optimizes your online content to provide direct answers to patient queries through AI search engines and voice assistants, improving im",
+  "url": "aiovisibility.com/faq/what-is-answer-engine-optimization-aeo-for-dental-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Answer Engine Optimization (AEO) for dental practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer Engine Optimization (AEO) for dental practices focuses on making your practice's information easily discoverable and directly answerable by AI-powered search engines and voice assistants. Unlike traditional SEO, which prioritizes website rankings, AEO aims to provide immediate, concise answers to user queries, often appearing in featured snippets or direct voice responses. This helps prospective patients find information about your services, hours, or contact details quickly, enhancing your practice's digital visibility and patient acquisition efforts.",
+        "description": "AEO for dental practices optimizes your online content to provide direct answers to patient queries through AI search engines and voice assistants, improving immediate visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

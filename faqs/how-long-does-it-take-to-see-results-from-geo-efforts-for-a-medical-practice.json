@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from GEO efforts for a medical practice?",
+  "description": "Initial GEO results for a medical practice may appear in 2-4 months, with significant impact typically seen within 6-12 months.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-geo-efforts-for-a-medical-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from GEO efforts for a medical practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing results from GEO efforts can vary based on factors like the current online presence of the practice, local competition, and the consistency of optimization efforts. Generally, practices might start to see initial improvements in local rankings and visibility within 2-4 months. Significant and sustained growth in patient inquiries and appointments often takes 6-12 months as search engines fully process optimizations and local authority is established.",
+        "description": "Initial GEO results for a medical practice may appear in 2-4 months, with significant impact typically seen within 6-12 months."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

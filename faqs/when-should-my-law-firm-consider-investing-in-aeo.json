@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should my law firm consider investing in AEO?",
+  "description": "Invest in AEO if your law firm needs increased online visibility, more qualified leads, client growth, or to outrank competitors.",
+  "url": "aiovisibility.com/faq/when-should-my-law-firm-consider-investing-in-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should my law firm consider investing in AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your law firm should consider investing in AEO if you are looking to increase your online visibility, attract more qualified leads, and grow your client base. This is especially true if potential clients are struggling to find your firm online, if competitors are outranking you in search results, or if you are expanding into new practice areas or geographic markets. AEO is crucial for firms aiming to establish a strong digital presence and maintain a competitive edge in today's digital-first legal landscape.",
+        "description": "Invest in AEO if your law firm needs increased online visibility, more qualified leads, client growth, or to outrank competitors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

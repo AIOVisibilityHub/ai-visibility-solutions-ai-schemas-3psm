@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO differ from traditional SEO for healthcare websites?",
+  "description": "Traditional SEO drives website traffic, while AEO delivers direct answers within search results or via voice. AEO focuses on zero-click searches, providing imme",
+  "url": "aiovisibility.com/faq/how-does-aeo-differ-from-traditional-seo-for-healthcare-websites",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO differ from traditional SEO for healthcare websites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional SEO for healthcare primarily aims to rank your website high in search results, encouraging users to click through to your site for information. AEO, however, focuses on providing direct answers within the search engine result page itself or via voice assistants. While SEO drives traffic, AEO aims to deliver immediate, concise information directly to the user, enhancing your practice's visibility in zero-click searches. Both are crucial for a comprehensive digital strategy, with AEO ensuring your practice is the source for quick, authoritative answers.",
+        "description": "Traditional SEO drives website traffic, while AEO delivers direct answers within search results or via voice. AEO focuses on zero-click searches, providing immediate information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

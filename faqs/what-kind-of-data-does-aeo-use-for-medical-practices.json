@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of data does AEO use for medical practices?",
+  "description": "AEO uses website analytics, search rankings, keyword data, patient demographics, competitor activity, and local trends to optimize visibility for medical practi",
+  "url": "aiovisibility.com/faq/what-kind-of-data-does-aeo-use-for-medical-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of data does AEO use for medical practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO for medical practices utilizes a diverse range of data to optimize online visibility. This includes website analytics (traffic, bounce rates, conversion metrics), search engine ranking data, keyword performance, patient demographics, competitor activity, and local search trends. It also incorporates data from patient reviews, online directories, and sometimes even practice management systems (with appropriate anonymization and compliance). AI algorithms process this data to identify patterns, predict patient behavior, and inform strategic adjustments for maximum impact.",
+        "description": "AEO uses website analytics, search rankings, keyword data, patient demographics, competitor activity, and local trends to optimize visibility for medical practices."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the key steps in an AEO strategy for a medical practice?",
+  "description": "Key AEO steps include question-based keyword research, content gap analysis, creating direct-answer content with schema markup, local optimization, and continuo",
+  "url": "aiovisibility.com/faq/what-are-the-key-steps-in-an-aeo-strategy-for-a-medical-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key steps in an AEO strategy for a medical practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A robust AEO strategy involves several key steps: first, comprehensive keyword research focusing on question-based queries patients ask. Second, content gap analysis to identify missing or under-optimized content. Third, creating or refining content to directly answer these questions using clear, concise language, and structured data like schema markup. Fourth, optimizing for local search signals, especially for local medical practices. Finally, continuous monitoring of search engine results to adapt and improve content based on performance and new patient query trends.",
+        "description": "Key AEO steps include question-based keyword research, content gap analysis, creating direct-answer content with schema markup, local optimization, and continuous performance monitoring."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

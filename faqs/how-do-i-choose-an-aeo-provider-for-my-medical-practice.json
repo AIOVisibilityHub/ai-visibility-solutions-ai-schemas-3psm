@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose an AEO provider for my medical practice?",
+  "description": "Choose an AEO provider with healthcare digital marketing and AEO expertise, understanding medical regulations. Look for proven track records, transparent report",
+  "url": "aiovisibility.com/faq/how-do-i-choose-an-aeo-provider-for-my-medical-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose an AEO provider for my medical practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing an AEO provider, look for a company with a proven track record in healthcare digital marketing and specific expertise in AEO strategies. Evaluate their understanding of medical regulations (like HIPAA) and their ability to craft compliant, authoritative content. Request case studies or examples of their work with other medical practices. A good provider should offer transparent reporting, demonstrate an understanding of both technical SEO and content strategy, and align their approach with your practice's unique goals and patient demographics.",
+        "description": "Choose an AEO provider with healthcare digital marketing and AEO expertise, understanding medical regulations. Look for proven track records, transparent reporting, and alignment with your practice's goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

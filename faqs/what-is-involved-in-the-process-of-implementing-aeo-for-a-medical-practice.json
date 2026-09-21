@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in the process of implementing AEO for a medical practice?",
+  "description": "The AEO implementation process involves an initial audit, AI-driven research, technical SEO, content optimization, and continuous monitoring and adjustment.",
+  "url": "aiovisibility.com/faq/what-is-involved-in-the-process-of-implementing-aeo-for-a-medical-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in the process of implementing AEO for a medical practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implementing AEO for a medical practice typically begins with an initial audit of your current online presence and patient acquisition funnels. This is followed by AI-driven keyword research, competitor analysis, and patient persona development. The process then involves technical SEO improvements to your website, content optimization, and the creation of new AI-generated or optimized content. Ongoing monitoring, data analysis, and iterative adjustments based on performance metrics are crucial to refine the strategy and maximize patient leads.",
+        "description": "The AEO implementation process involves an initial audit, AI-driven research, technical SEO, content optimization, and continuous monitoring and adjustment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

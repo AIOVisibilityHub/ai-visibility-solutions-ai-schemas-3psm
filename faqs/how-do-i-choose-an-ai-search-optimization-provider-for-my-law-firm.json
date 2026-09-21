@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose an AI search optimization provider for my law firm?",
+  "description": "Choose a provider with legal marketing experience, AI expertise, transparency, and a proven track record, ensuring they tailor strategies to your firm and offer",
+  "url": "aiovisibility.com/faq/how-do-i-choose-an-ai-search-optimization-provider-for-my-law-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose an AI search optimization provider for my law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing an AI search optimization provider for your law firm, look for a company with a proven track record in legal marketing and expertise in AI tools. Evaluate their understanding of ethical guidelines for lawyers and their transparency regarding their processes and reporting. Request case studies or client testimonials, and ensure they offer a clear strategy tailored to your firm's specific practice areas and geographic targets. A good provider will focus on measurable results and clear communication.",
+        "description": "Choose a provider with legal marketing experience, AI expertise, transparency, and a proven track record, ensuring they tailor strategies to your firm and offer clear reporting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

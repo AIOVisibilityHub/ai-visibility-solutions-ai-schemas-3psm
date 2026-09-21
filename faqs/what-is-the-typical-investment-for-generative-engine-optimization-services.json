@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical investment for Generative Engine Optimization services?",
+  "description": "The cost of GEO services varies depending on the scope of work, service area, and strategy. A custom quote is recommended for specific business needs.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-investment-for-generative-engine-optimization-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical investment for Generative Engine Optimization services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The investment for Generative Engine Optimization services for contractors can vary significantly based on the scope of work, the size of your service area, and the aggressiveness of the strategy. Factors influencing cost include the number of service pages, localized content pieces, and the level of AI content generation and optimization required. It's best to consult with a provider for a customized quote, as solutions are often tailored to specific business goals and market conditions.",
+        "description": "The cost of GEO services varies depending on the scope of work, service area, and strategy. A custom quote is recommended for specific business needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

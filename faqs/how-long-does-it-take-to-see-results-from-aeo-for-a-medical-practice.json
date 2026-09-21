@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AEO for a medical practice?",
+  "description": "Significant results from AEO for medical practices usually appear within 6-12 months, with initial improvements potentially seen in 3-6 months.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-aeo-for-a-medical-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AEO for a medical practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seeing noticeable results from AEO efforts for a medical practice typically takes time, as search engine algorithms need to re-index and evaluate changes. Initial improvements, such as better keyword rankings or increased website traffic, might appear within 3-6 months. However, significant patient acquisition and a strong return on investment usually materialize over 6-12 months as the AI models refine strategies and the practice's authority grows. Continuous optimization is key for sustained long-term success.",
+        "description": "Significant results from AEO for medical practices usually appear within 6-12 months, with initial improvements potentially seen in 3-6 months."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

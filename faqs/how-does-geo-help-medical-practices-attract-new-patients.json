@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does GEO help medical practices attract new patients?",
+  "description": "GEO increases local search visibility for medical practices, making them easier for nearby patients to find and contact online, driving new patient acquisition.",
+  "url": "aiovisibility.com/faq/how-does-geo-help-medical-practices-attract-new-patients",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does GEO help medical practices attract new patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO helps medical practices attract new patients by making them easily discoverable online to people in their vicinity. By optimizing Google My Business profiles, ensuring consistent practice information across online directories, and generating local reviews, GEO enhances a practice's local search rankings. When potential patients search for services, your practice appears prominently, increasing the likelihood they will click through to your website, call for an appointment, or visit your location.",
+        "description": "GEO increases local search visibility for medical practices, making them easier for nearby patients to find and contact online, driving new patient acquisition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

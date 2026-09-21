@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does AI search optimization typically cost for a small business?",
+  "description": "Costs vary based on service scope, tools used, and business needs. Factors include keyword targets and content requirements.",
+  "url": "aiovisibility.com/faq/how-much-does-ai-search-optimization-typically-cost-for-a-small-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does AI search optimization typically cost for a small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AI search optimization for a small business varies widely based on the scope of services, the tools utilized, and the business's current online standing. Factors like the number of keywords targeted, content creation needs, and competitive landscape all influence pricing. Some providers offer tiered packages, while others customize solutions. It's advisable to seek detailed quotes after an initial consultation to understand the investment required for your specific goals.",
+        "description": "Costs vary based on service scope, tools used, and business needs. Factors include keyword targets and content requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Generative Engine Optimization help my small business with local search rankings?",
+  "description": "Yes, GEO can boost local search rankings by generating localized content and optimizing for geo-specific keywords, driving more local traffic and engagement.",
+  "url": "aiovisibility.com/faq/can-generative-engine-optimization-help-my-small-business-with-local-search-rank",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Generative Engine Optimization help my small business with local search rankings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Generative Engine Optimization can be tailored to significantly enhance local search rankings for small businesses, especially in cities like New York City, Los Angeles, Chicago, Houston, and Phoenix. By generating localized content, optimizing for geo-specific keywords, and ensuring consistent local business information across online platforms, GEO helps search engines identify your business as highly relevant to local search queries. This targeted approach drives more foot traffic and local online engagement, directly impacting local customer acquisition.",
+        "description": "Yes, GEO can boost local search rankings by generating localized content and optimizing for geo-specific keywords, driving more local traffic and engagement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

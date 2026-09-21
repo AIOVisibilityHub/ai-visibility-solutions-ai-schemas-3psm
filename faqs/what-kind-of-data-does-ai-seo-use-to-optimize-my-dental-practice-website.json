@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of data does AI SEO use to optimize my dental practice website?",
+  "description": "AI SEO uses data like keyword research, competitor analysis, user behavior, content performance, and local search trends to optimize your dental practice websit",
+  "url": "aiovisibility.com/faq/what-kind-of-data-does-ai-seo-use-to-optimize-my-dental-practice-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of data does AI SEO use to optimize my dental practice website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO utilizes a diverse range of data points to optimize your dental practice website. This includes keyword search volume and difficulty, competitor website analysis, backlink profiles, user behavior data (like click-through rates and bounce rates), content performance metrics, and search engine algorithm updates. It also processes local search data, patient demographics, and industry trends to create comprehensive, data-driven strategies. This holistic approach allows for highly effective and continuously improving optimization.",
+        "description": "AI SEO uses data like keyword research, competitor analysis, user behavior, content performance, and local search trends to optimize your dental practice website."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

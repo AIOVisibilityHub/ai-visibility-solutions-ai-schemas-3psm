@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for implementing AEO for a law firm's website?",
+  "description": "AEO implementation involves identifying common legal questions, optimizing content for direct answers and voice search, using structured data, and continuously",
+  "url": "aiovisibility.com/faq/what-is-the-process-for-implementing-aeo-for-a-law-firm-s-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for implementing AEO for a law firm's website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implementing AEO for a law firm begins with identifying common legal questions clients ask and conducting keyword research tailored for direct answers and voice search. Next, we optimize existing content and create new, structured content designed to answer these questions concisely and authoritatively. This involves using clear headings, structured data markup (schema), and ensuring content directly addresses the user's intent. Ongoing monitoring of search engine results, featured snippets, and AI summarization accuracy helps refine the strategy and maintain visibility.",
+        "description": "AEO implementation involves identifying common legal questions, optimizing content for direct answers and voice search, using structured data, and continuously monitoring results to refine the strategy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of AI SEO services for a dental practice?",
+  "description": "The cost of AI SEO for dental practices varies from hundreds to thousands of dollars monthly, depending on service scope, market competitiveness, and provider e",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-of-ai-seo-services-for-a-dental-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of AI SEO services for a dental practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AI SEO services for a dental practice varies widely depending on the scope of services, the competitiveness of the local market, and the provider's expertise. Packages can range from a few hundred to several thousand dollars per month. Factors influencing cost include the depth of keyword research, content creation needs, technical SEO optimizations, and ongoing reporting and analysis. A customized quote is usually provided after an initial assessment of the practice's current online presence and goals.",
+        "description": "The cost of AI SEO for dental practices varies from hundreds to thousands of dollars monthly, depending on service scope, market competitiveness, and provider expertise."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

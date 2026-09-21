@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of geo-targeted marketing for a plastic surgery practice in New York City?",
+  "description": "Costs for geo-targeted marketing in New York City vary, typically ranging from a few thousand to over ten thousand dollars monthly based on service scope.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-of-geo-targeted-marketing-for-a-plastic-surgery-practic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of geo-targeted marketing for a plastic surgery practice in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of geo-targeted marketing for a plastic surgery practice in New York City can vary significantly based on the scope of services, competition, and desired outcomes. Factors influencing cost include the number of target locations, the depth of SEO work, ad spend for local campaigns, and content creation needs. A comprehensive strategy might involve a monthly retainer ranging from a few thousand dollars to upwards of ten thousand dollars, depending on the agency and services included.",
+        "description": "Costs for geo-targeted marketing in New York City vary, typically ranging from a few thousand to over ten thousand dollars monthly based on service scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

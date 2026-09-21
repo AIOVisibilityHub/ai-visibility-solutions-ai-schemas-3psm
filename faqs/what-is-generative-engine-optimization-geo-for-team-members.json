@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Generative Engine Optimization (GEO) for lawyers?",
+  "description": "Generative Engine Optimization (GEO) for lawyers uses AI to create and optimize content, improving a law firm's visibility in search engines and generative AI p",
+  "url": "aiovisibility.com/faq/what-is-generative-engine-optimization-geo-for-lawyers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Generative Engine Optimization (GEO) for lawyers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization (GEO) for lawyers is a specialized digital marketing strategy that uses artificial intelligence to create and optimize content for search engines and generative AI platforms. It focuses on improving a law firm's visibility and authority in AI-driven search results and conversational AI interactions, helping potential clients find legal services more effectively. This goes beyond traditional SEO by proactively shaping how AI understands and presents your firm's expertise.",
+        "description": "Generative Engine Optimization (GEO) for lawyers uses AI to create and optimize content, improving a law firm's visibility in search engines and generative AI platforms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

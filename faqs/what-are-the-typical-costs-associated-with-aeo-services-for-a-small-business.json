@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the typical costs associated with AEO services for a small business?",
+  "description": "AEO service costs for small businesses vary widely, from hundreds to thousands of dollars, depending on scope and provider. Often, it's part of a larger digital",
+  "url": "aiovisibility.com/faq/what-are-the-typical-costs-associated-with-aeo-services-for-a-small-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the typical costs associated with AEO services for a small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of Answer Engine Optimization services for a small business can vary significantly based on the scope of work, the competitiveness of your industry, and the provider's expertise. Packages might range from a few hundred dollars for basic optimization of existing content to several thousand for comprehensive strategies including new content creation, technical adjustments, and ongoing monitoring. Most agencies will offer customized proposals after assessing your current online presence and business goals. It's often bundled with broader SEO or digital marketing efforts.",
+        "description": "AEO service costs for small businesses vary widely, from hundreds to thousands of dollars, depending on scope and provider. Often, it's part of a larger digital marketing strategy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

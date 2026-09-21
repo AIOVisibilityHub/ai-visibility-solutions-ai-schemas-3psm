@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does Answer Engine Optimization for law firms typically cost?",
+  "description": "AEO costs for law firms vary based on service scope, current online presence, and legal practice competitiveness, ranging from project-based fees to ongoing mon",
+  "url": "aiovisibility.com/faq/how-much-does-answer-engine-optimization-for-law-firms-typically-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does Answer Engine Optimization for law firms typically cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of Answer Engine Optimization for law firms varies significantly based on the scope of services, the firm's current online presence, and the competitiveness of its legal practice areas. Factors influencing cost include comprehensive content audits, development of new optimized content, technical schema implementation, and ongoing monitoring and refinement. Some firms might opt for project-based engagements for specific content clusters, while others prefer monthly retainer services covering continuous optimization. Expect costs to range from a few thousand dollars for targeted projects to higher monthly fees for extensive, ongoing campaigns.",
+        "description": "AEO costs for law firms vary based on service scope, current online presence, and legal practice competitiveness, ranging from project-based fees to ongoing monthly retainers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

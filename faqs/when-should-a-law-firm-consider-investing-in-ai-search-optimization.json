@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should a law firm consider investing in AI search optimization?",
+  "description": "Law firms should consider AI search optimization when struggling with online visibility, facing strong competition, or aiming to scale client acquisition more e",
+  "url": "aiovisibility.com/faq/when-should-a-law-firm-consider-investing-in-ai-search-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should a law firm consider investing in AI search optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A law firm should consider investing in AI search optimization when they are struggling to gain visibility online, facing strong competition in their local market, or looking to scale their client acquisition efforts efficiently. It's particularly beneficial for firms aiming to reach a specific demographic or practice area with precision. If current marketing efforts aren't generating sufficient high-quality leads, AI-driven strategies can provide a data-backed approach to improve their digital footprint.",
+        "description": "Law firms should consider AI search optimization when struggling with online visibility, facing strong competition, or aiming to scale client acquisition more efficiently."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

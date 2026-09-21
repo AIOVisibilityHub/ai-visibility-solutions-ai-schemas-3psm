@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common mistakes medical practices make with their GEO efforts?",
+  "description": "Common GEO mistakes include inconsistent NAP data, unoptimized Google My Business profiles, poor review management, and lack of geo-targeted content for medical",
+  "url": "aiovisibility.com/faq/what-are-common-mistakes-medical-practices-make-with-their-geo-efforts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common mistakes medical practices make with their GEO efforts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common GEO mistakes for medical practices include inconsistent Name, Address, Phone (NAP) information across online directories, which confuses search engines and patients. Others include not optimizing their Google My Business profile fully, failing to respond to patient reviews (both positive and negative), using generic rather than geo-targeted website content, and neglecting mobile optimization. Ignoring local keyword research and not regularly auditing their online presence are also frequent missteps.",
+        "description": "Common GEO mistakes include inconsistent NAP data, unoptimized Google My Business profiles, poor review management, and lack of geo-targeted content for medical practices."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

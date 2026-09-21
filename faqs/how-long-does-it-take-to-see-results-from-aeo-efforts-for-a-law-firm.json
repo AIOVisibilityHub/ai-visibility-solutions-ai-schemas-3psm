@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AEO efforts for a law firm?",
+  "description": "Law firms can typically see initial AEO results within 3 to 6 months, but consistent visibility requires ongoing effort due to factors like niche competition an",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-aeo-efforts-for-a-law-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AEO efforts for a law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing AEO results can vary, but generally, law firms can expect to see initial improvements within 3 to 6 months. Achieving consistent visibility in featured snippets and answer boxes requires ongoing effort, including content creation, optimization, and monitoring. Factors like the competitiveness of your legal niche, the authority of your website, and the quality of your content can influence the speed of results. A long-term strategy provides the most sustainable benefits, building your firm's authority as a go-to source for legal information.",
+        "description": "Law firms can typically see initial AEO results within 3 to 6 months, but consistent visibility requires ongoing effort due to factors like niche competition and content quality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

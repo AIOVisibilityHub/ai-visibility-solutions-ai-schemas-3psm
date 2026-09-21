@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Generative Engine Optimization (GEO)?",
+  "description": "Generative Engine Optimization (GEO) uses AI to create, optimize, and distribute content for improved visibility across AI-driven platforms and search engines.",
+  "url": "aiovisibility.com/faq/what-is-generative-engine-optimization-geo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Generative Engine Optimization (GEO)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization (GEO) is a digital marketing strategy that utilizes AI to create, optimize, and distribute content. Unlike traditional SEO, which focuses on human-generated content for search engines, GEO leverages generative AI models to produce high-quality, relevant content at scale. This includes text, images, and other media, tailored to improve visibility across AI-driven platforms, search engines, and conversational interfaces. The goal is to enhance discoverability and engagement in an increasingly AI-centric digital landscape.",
+        "description": "Generative Engine Optimization (GEO) uses AI to create, optimize, and distribute content for improved visibility across AI-driven platforms and search engines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content does GEO optimize for lawyers?",
+  "description": "GEO for lawyers optimizes practice area descriptions, attorney bios, legal articles, and FAQs by focusing on clarity, accuracy, and comprehensive answers for bo",
+  "url": "aiovisibility.com/faq/what-kind-of-content-does-geo-optimize-for-lawyers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content does GEO optimize for lawyers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO for lawyers optimizes various content types relevant to legal services. This includes practice area descriptions, attorney bios, case studies, legal articles, FAQs, and blog posts. The optimization process focuses on clarity, accuracy, and providing comprehensive answers to potential client questions, ensuring the content is easily digestible and authoritative for both human readers and AI models. It also emphasizes schema markup and semantic understanding to enhance AI's interpretation.",
+        "description": "GEO for lawyers optimizes practice area descriptions, attorney bios, legal articles, and FAQs by focusing on clarity, accuracy, and comprehensive answers for both human readers and AI models."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

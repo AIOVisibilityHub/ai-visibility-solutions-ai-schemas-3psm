@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is GEO for plastic surgeons?",
+  "description": "GEO for plastic surgeons focuses digital marketing on specific geographic areas to attract local patients.",
+  "url": "aiovisibility.com/faq/what-is-geo-for-plastic-surgeons",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GEO for plastic surgeons?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO, or Geo-Targeted Marketing, for plastic surgeons focuses digital marketing efforts on specific geographic areas where potential patients are located. This strategy optimizes online visibility for local searches, ensuring that when individuals in a particular city or region search for plastic surgery services, practices in that area appear prominently in search results. It involves techniques like local SEO, targeted online advertising, and location-specific content to attract patients within the practice's service radius.",
+        "description": "GEO for plastic surgeons focuses digital marketing on specific geographic areas to attract local patients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

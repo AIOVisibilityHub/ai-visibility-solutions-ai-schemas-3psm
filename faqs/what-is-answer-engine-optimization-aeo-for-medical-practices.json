@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Answer Engine Optimization (AEO) for medical practices?",
+  "description": "AEO for medical practices optimizes content for AI search engines and voice assistants, providing direct answers to patient queries. It helps your practice appe",
+  "url": "aiovisibility.com/faq/what-is-answer-engine-optimization-aeo-for-medical-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Answer Engine Optimization (AEO) for medical practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer Engine Optimization (AEO) for medical practices focuses on optimizing content to be directly consumed and understood by AI-powered search engines and voice assistants. Unlike traditional SEO that aims for website clicks, AEO structures information so that answer engines can extract and present precise, immediate answers to patient queries. This involves using structured data, concise language, and question-and-answer formats to ensure your practice's information appears prominently in direct answers, knowledge panels, and voice search results, increasing visibility and patient engagement.",
+        "description": "AEO for medical practices optimizes content for AI search engines and voice assistants, providing direct answers to patient queries. It helps your practice appear in direct answers, knowledge panels, and voice search results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

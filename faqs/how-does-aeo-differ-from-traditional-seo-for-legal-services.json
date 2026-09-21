@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO differ from traditional SEO for legal services?",
+  "description": "AEO focuses on providing direct answers to user questions for featured snippets and voice search, while traditional SEO aims for general keyword rankings and we",
+  "url": "aiovisibility.com/faq/how-does-aeo-differ-from-traditional-seo-for-legal-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO differ from traditional SEO for legal services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While traditional SEO often focuses on ranking for keywords and driving traffic to a website, AEO has a more specific goal: providing direct answers to user queries. Traditional SEO might aim for a high ranking on a search results page, while AEO targets featured snippets or 'People Also Ask' boxes. For legal services, this means going beyond broad keywords to address specific legal questions potential clients are asking. AEO content is usually more structured, concise, and explicitly addresses a query, making it highly effective for capturing intent-driven searches.",
+        "description": "AEO focuses on providing direct answers to user questions for featured snippets and voice search, while traditional SEO aims for general keyword rankings and website traffic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

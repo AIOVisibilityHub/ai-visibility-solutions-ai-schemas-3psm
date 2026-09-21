@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you measure the success of AEO for a legal practice?",
+  "description": "AEO success is measured by tracking featured snippets, voice search traffic, 'People Also Ask' inclusions, AI-generated summary visibility, and increased releva",
+  "url": "aiovisibility.com/faq/how-do-you-measure-the-success-of-aeo-for-a-legal-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you measure the success of AEO for a legal practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Measuring AEO success involves tracking metrics beyond traditional organic traffic. Key indicators include the number of featured snippets secured, voice search impressions and traffic, 'People Also Ask' box inclusions, and direct answer result placements. We also analyze the visibility of your firm's content in AI-generated summaries and the clarity of those summaries. Increased engagement with optimized content, such as lower bounce rates and higher time on page for specific FAQ sections, and ultimately, an increase in relevant inquiries or client consultations, also point to AEO effectiveness.",
+        "description": "AEO success is measured by tracking featured snippets, voice search traffic, 'People Also Ask' inclusions, AI-generated summary visibility, and increased relevant inquiries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

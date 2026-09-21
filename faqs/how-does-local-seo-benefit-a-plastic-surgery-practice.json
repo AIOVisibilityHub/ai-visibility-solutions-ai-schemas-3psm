@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does local SEO benefit a plastic surgery practice?",
+  "description": "Local SEO improves a plastic surgery practice's visibility in local search results and maps, attracting nearby patients.",
+  "url": "aiovisibility.com/faq/how-does-local-seo-benefit-a-plastic-surgery-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does local SEO benefit a plastic surgery practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local SEO helps plastic surgery practices connect with nearby patients actively seeking their services. By optimizing for local search terms and platforms like Google My Business, practices can improve their visibility in local map results and organic searches. This leads to higher quality leads, as patients searching locally often have a stronger intent to book an appointment. It's crucial for practices aiming to establish a strong presence within their community and capture local market share.",
+        "description": "Local SEO improves a plastic surgery practice's visibility in local search results and maps, attracting nearby patients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

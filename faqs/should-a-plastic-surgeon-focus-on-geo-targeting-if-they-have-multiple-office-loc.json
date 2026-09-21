@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should a plastic surgeon focus on geo-targeting if they have multiple office locations?",
+  "description": "Yes, plastic surgeons with multiple offices should use geo-targeting for each location to maximize local patient reach.",
+  "url": "aiovisibility.com/faq/should-a-plastic-surgeon-focus-on-geo-targeting-if-they-have-multiple-office-loc",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should a plastic surgeon focus on geo-targeting if they have multiple office locations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a plastic surgeon with multiple office locations should definitely implement geo-targeting for each individual location. This strategy ensures each office has its own optimized online presence, including separate Google My Business profiles and location-specific landing pages. This approach allows each branch to rank independently in local searches, effectively reaching potential patients in its immediate vicinity and maximizing local patient acquisition across all practice sites.",
+        "description": "Yes, plastic surgeons with multiple offices should use geo-targeting for each location to maximize local patient reach."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

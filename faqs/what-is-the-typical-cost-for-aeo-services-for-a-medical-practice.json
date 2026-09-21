@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for AEO services for a medical practice?",
+  "description": "The typical cost for AEO services for a medical practice varies significantly based on scope, specialty competitiveness, and practice size, ranging from a few h",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-for-aeo-services-for-a-medical-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for AEO services for a medical practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services for a medical practice can vary widely, typically depending on the scope of work, the competitiveness of the specialty, and the size of the practice. Smaller practices with limited content may incur lower costs, while larger practices or those in highly competitive markets might require more extensive strategy and content creation, leading to higher investments. Prices can range from a few hundred dollars per month for basic services to several thousand for comprehensive, ongoing optimization and content development. Most providers offer customized proposals based on specific needs.",
+        "description": "The typical cost for AEO services for a medical practice varies significantly based on scope, specialty competitiveness, and practice size, ranging from a few hundred to several thousand dollars monthly for customized plans."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

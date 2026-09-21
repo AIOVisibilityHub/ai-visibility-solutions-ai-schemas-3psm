@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content is effective for geo-targeted marketing in plastic surgery?",
+  "description": "Effective geo-targeted content includes location-specific service pages, local patient testimonials, and blog posts addressing regional interests.",
+  "url": "aiovisibility.com/faq/what-kind-of-content-is-effective-for-geo-targeted-marketing-in-plastic-surgery",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content is effective for geo-targeted marketing in plastic surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Effective content for geo-targeted marketing includes location-specific pages detailing services offered in a particular city or neighborhood, patient testimonials from local residents, and blog posts addressing local concerns or trends relevant to plastic surgery. Showcasing local community involvement, before-and-after galleries of local patients (with consent), and highlighting geographical practice advantages also resonate well. This content should integrate local keywords to improve search engine relevance.",
+        "description": "Effective geo-targeted content includes location-specific service pages, local patient testimonials, and blog posts addressing regional interests."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

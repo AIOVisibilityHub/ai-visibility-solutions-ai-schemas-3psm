@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI search optimization help my local business in New York City attract more customers?",
+  "description": "Yes, it optimizes Google My Business and targets location-specific keywords to attract customers searching for services in specific New York City neighborhoods.",
+  "url": "aiovisibility.com/faq/can-ai-search-optimization-help-my-local-business-in-new-york-city-attract-more",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI search optimization help my local business in New York City attract more customers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AI search optimization can significantly boost local businesses in New York City. It helps by optimizing your Google My Business profile, targeting location-specific keywords like 'pizza delivery NYC' or 'accountant Brooklyn,' and analyzing local search patterns. This ensures your business appears prominently when potential customers in specific boroughs or neighborhoods search for your services, driving foot traffic and local online engagement directly to your doorstep. AI tools can pinpoint highly localized opportunities.",
+        "description": "Yes, it optimizes Google My Business and targets location-specific keywords to attract customers searching for services in specific New York City neighborhoods."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

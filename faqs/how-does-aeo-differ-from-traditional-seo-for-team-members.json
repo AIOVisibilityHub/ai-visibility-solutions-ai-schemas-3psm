@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO differ from traditional SEO for lawyers?",
+  "description": "AEO for lawyers focuses on providing direct answers for AI search and voice assistants, aiming for featured snippets, while traditional SEO targets overall web",
+  "url": "aiovisibility.com/faq/how-does-aeo-differ-from-traditional-seo-for-lawyers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO differ from traditional SEO for lawyers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional SEO for lawyers primarily focuses on ranking web pages in search results through keywords, backlinks, and site authority. AEO, however, is designed for the evolving landscape of AI search engines and voice assistants. It prioritizes direct answers, aiming for featured snippets, 'People Also Ask' sections, and content that can be easily parsed and summarized by AI. While both aim for visibility, AEO specifically tailors content to answer explicit questions, ensuring legal expertise is delivered concisely and accurately in AI-driven search experiences.",
+        "description": "AEO for lawyers focuses on providing direct answers for AI search and voice assistants, aiming for featured snippets, while traditional SEO targets overall web page ranking."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

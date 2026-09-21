@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should a law firm consider investing in Answer Engine Optimization?",
+  "description": "Law firms should consider AEO when noticing shifts towards voice search and AI assistants for legal information, especially to gain competitive advantage by ans",
+  "url": "aiovisibility.com/faq/when-should-a-law-firm-consider-investing-in-answer-engine-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should a law firm consider investing in Answer Engine Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A law firm should consider investing in Answer Engine Optimization (AEO) when they notice a shift in how potential clients search for legal information, particularly with the rise of voice search and AI assistants. It's especially crucial if your target audience frequently uses these tools to ask direct questions about legal matters. Firms looking to gain a competitive edge by dominating direct answers to common legal queries, establishing authority, and capturing clients at an early stage of their legal research journey will benefit significantly from AEO.",
+        "description": "Law firms should consider AEO when noticing shifts towards voice search and AI assistants for legal information, especially to gain competitive advantage by answering direct legal queries and establishing authority."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

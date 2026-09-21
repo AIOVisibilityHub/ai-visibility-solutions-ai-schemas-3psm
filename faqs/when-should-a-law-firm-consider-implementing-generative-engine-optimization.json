@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should a law firm consider implementing Generative Engine Optimization?",
+  "description": "Law firms should consider GEO to stay competitive in digital marketing, attract clients using AI-driven search, and establish themselves as trusted legal resour",
+  "url": "aiovisibility.com/faq/when-should-a-law-firm-consider-implementing-generative-engine-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should a law firm consider implementing Generative Engine Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A law firm should consider implementing GEO when they want to stay ahead in digital marketing, especially as AI becomes more integrated into search and information retrieval. If your firm aims to attract clients who use voice search, AI assistants, or rely on AI-generated summaries for legal information, GEO is crucial. It's particularly beneficial for firms looking to establish themselves as thought leaders and trusted resources in their practice areas, ensuring their expertise is recognized by emerging AI technologies.",
+        "description": "Law firms should consider GEO to stay competitive in digital marketing, attract clients using AI-driven search, and establish themselves as trusted legal resources in emerging AI technologies."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

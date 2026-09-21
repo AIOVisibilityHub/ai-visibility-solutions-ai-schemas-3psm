@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is the success of Generative Engine Optimization measured?",
+  "description": "Success is measured by improved search rankings, increased organic traffic, appearance in AI-generated answers, lead quality, and overall online authority.",
+  "url": "aiovisibility.com/faq/how-is-the-success-of-generative-engine-optimization-measured",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is the success of Generative Engine Optimization measured?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The success of Generative Engine Optimization is measured through various metrics that reflect enhanced visibility and client engagement. Key performance indicators (KPIs) include improvements in search engine rankings for target legal queries, increased organic traffic to relevant content, and the frequency of appearance in AI-generated answers, featured snippets, and voice search results. We also track lead quality and conversion rates from GEO-driven traffic, along with the firm's overall online authority and brand mentions, to assess the comprehensive impact.",
+        "description": "Success is measured by improved search rankings, increased organic traffic, appearance in AI-generated answers, lead quality, and overall online authority."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

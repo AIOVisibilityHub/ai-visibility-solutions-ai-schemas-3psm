@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What specific services are involved in GEO for a medical practice?",
+  "description": "GEO services include Google My Business optimization, NAP consistency, local citation building, review management, and geo-targeted website content for medical",
+  "url": "aiovisibility.com/faq/what-specific-services-are-involved-in-geo-for-a-medical-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What specific services are involved in GEO for a medical practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO services for a medical practice typically include optimizing your Google My Business profile with accurate information, photos, and services. It also involves ensuring consistent Name, Address, Phone (NAP) information across various online directories, building local citations, managing online reviews, and creating geo-targeted website content. Additionally, it can include optimizing your website for mobile users and implementing local schema markup to help search engines understand your local relevance.",
+        "description": "GEO services include Google My Business optimization, NAP consistency, local citation building, review management, and geo-targeted website content for medical practices."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

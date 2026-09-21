@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AI SEO help my dental practice get more patients?",
+  "description": "AI SEO improves your dental practice's online visibility by optimizing your website for local searches, attracting more organic traffic and potential new patien",
+  "url": "aiovisibility.com/faq/how-does-ai-seo-help-my-dental-practice-get-more-patients",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AI SEO help my dental practice get more patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO helps your dental practice by making your website more visible to potential patients searching for dental services. It uses data-driven insights to identify what local patients are searching for, optimize your content for those terms, and ensure your practice appears prominently in local search results. By ranking higher, your practice gains more organic traffic, leading to increased inquiries, appointments, and ultimately, new patients.",
+        "description": "AI SEO improves your dental practice's online visibility by optimizing your website for local searches, attracting more organic traffic and potential new patients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

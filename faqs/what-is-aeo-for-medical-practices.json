@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AEO for medical practices?",
+  "description": "AEO for medical practices uses AI to optimize online visibility, helping practices appear higher in search results and attract more patients.",
+  "url": "aiovisibility.com/faq/what-is-aeo-for-medical-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AEO for medical practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO, or AI-Enhanced Optimization, for medical practices uses artificial intelligence to improve online visibility and patient acquisition. It involves optimizing your website and digital presence for search engines like Google, leveraging AI algorithms to analyze patient search behaviors, competitor strategies, and market trends. This approach helps your practice appear prominently in search results when potential patients look for healthcare services, ultimately driving more relevant traffic to your practice's online platforms and converting them into appointments.",
+        "description": "AEO for medical practices uses AI to optimize online visibility, helping practices appear higher in search results and attract more patients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

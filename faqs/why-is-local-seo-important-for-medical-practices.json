@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is local SEO important for medical practices?",
+  "description": "Local SEO helps medical practices attract nearby patients by increasing visibility in geographically targeted online searches, leading to more appointments.",
+  "url": "aiovisibility.com/faq/why-is-local-seo-important-for-medical-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is local SEO important for medical practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local SEO is crucial for medical practices because most patients choose healthcare providers close to home or work. When someone searches for a 'dentist near me' or 'urgent care in Chicago,' local SEO ensures your practice appears high in those search results, including Google Maps and local business listings. This direct visibility to local patients increases appointment bookings, builds trust within the community, and helps your practice stand out from competitors in your service area.",
+        "description": "Local SEO helps medical practices attract nearby patients by increasing visibility in geographically targeted online searches, leading to more appointments."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

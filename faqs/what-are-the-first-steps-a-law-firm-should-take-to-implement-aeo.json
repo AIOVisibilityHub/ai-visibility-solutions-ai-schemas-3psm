@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the first steps a law firm should take to implement AEO?",
+  "description": "First AEO steps for law firms include analyzing client queries, conducting question-based keyword research, auditing existing content, and creating new, authori",
+  "url": "aiovisibility.com/faq/what-are-the-first-steps-a-law-firm-should-take-to-implement-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the first steps a law firm should take to implement AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first steps for a law firm implementing AEO involve a thorough analysis of potential client queries related to your practice areas. Begin by identifying common questions and pain points your target audience searches for online. This includes keyword research focused on question-based queries. Next, audit your existing content to see what can be optimized or identify gaps. Then, start creating new, high-quality content specifically designed to answer these questions concisely and authoritatively. Ensure your website's technical structure supports easy indexing by search engines for optimal visibility.",
+        "description": "First AEO steps for law firms include analyzing client queries, conducting question-based keyword research, auditing existing content, and creating new, authoritative content to answer identified questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AEO and how does it benefit plastic surgery practices?",
+  "description": "AEO uses AI to improve a plastic surgery practice's online visibility, leading to more patient engagement and bookings.",
+  "url": "aiovisibility.com/faq/what-is-aeo-and-how-does-it-benefit-plastic-surgery-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AEO and how does it benefit plastic surgery practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO, or AI Engine Optimization, is a digital marketing strategy that leverages artificial intelligence to enhance a plastic surgery practice's online visibility. It focuses on optimizing content and digital assets to rank prominently in AI-driven search results and voice searches. For plastic surgeons, this means increased organic traffic, higher patient engagement, and a stronger online presence, leading to more consultation bookings and practice growth. AEO helps practices appear in the new ways patients are discovering information and services.",
+        "description": "AEO uses AI to improve a plastic surgery practice's online visibility, leading to more patient engagement and bookings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

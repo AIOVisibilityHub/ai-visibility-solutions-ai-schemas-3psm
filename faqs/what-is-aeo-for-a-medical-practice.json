@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AEO for a medical practice?",
+  "description": "AEO for medical practices optimizes online content to directly answer patient queries through search engines, enhancing visibility in direct answer formats like",
+  "url": "aiovisibility.com/faq/what-is-aeo-for-a-medical-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AEO for a medical practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO, or Answer Engine Optimization, for a medical practice focuses on optimizing online content so that search engines like Google can directly answer patient queries with your practice's information. This goes beyond traditional SEO by structuring information to be easily extracted and displayed in rich snippets, featured snippets, and other direct answer formats. It helps your practice appear prominently when patients ask specific questions about conditions, treatments, or services, improving visibility and establishing your practice as a trusted source of information.",
+        "description": "AEO for medical practices optimizes online content to directly answer patient queries through search engines, enhancing visibility in direct answer formats like featured snippets."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

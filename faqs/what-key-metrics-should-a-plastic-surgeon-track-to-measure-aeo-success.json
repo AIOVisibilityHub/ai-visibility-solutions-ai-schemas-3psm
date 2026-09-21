@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What key metrics should a plastic surgeon track to measure AEO success?",
+  "description": "Key AEO success metrics include improved AI search visibility, organic traffic from AI queries, voice search impressions, and an increase in consultation reques",
+  "url": "aiovisibility.com/faq/what-key-metrics-should-a-plastic-surgeon-track-to-measure-aeo-success",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What key metrics should a plastic surgeon track to measure AEO success?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure AEO success, plastic surgeons should track several key metrics. These include improvements in AI search visibility and rankings for target keywords, growth in organic traffic specifically from AI-driven queries, increased voice search impressions, and the number of featured snippets or direct answers attributed to your content. Ultimately, the most important metrics are an increase in consultation requests, new patient bookings, and overall practice revenue, directly linking AEO efforts to business growth.",
+        "description": "Key AEO success metrics include improved AI search visibility, organic traffic from AI queries, voice search impressions, and an increase in consultation requests and new patients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

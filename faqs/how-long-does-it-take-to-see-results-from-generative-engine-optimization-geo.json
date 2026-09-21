@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from Generative Engine Optimization (GEO)?",
+  "description": "Initial GEO results typically appear in 3-6 months, with significant improvements building over 6-12 months, depending on industry and strategy.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-generative-engine-optimization-geo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from Generative Engine Optimization (GEO)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing results from Generative Engine Optimization (GEO) can vary, but businesses typically start observing initial impacts within 3 to 6 months. This depends on factors such as the competitiveness of your industry, the initial state of your digital presence, and the aggressiveness of the GEO strategy. Significant and sustained improvements in visibility, traffic, and engagement often build over 6 to 12 months as AI models learn and optimized content gains traction across platforms. Consistent effort yields the best long-term outcomes.",
+        "description": "Initial GEO results typically appear in 3-6 months, with significant improvements building over 6-12 months, depending on industry and strategy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
