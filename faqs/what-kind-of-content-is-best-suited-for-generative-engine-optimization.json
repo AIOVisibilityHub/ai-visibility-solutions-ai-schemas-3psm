@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content is best suited for Generative Engine Optimization?",
+  "description": "Factual, authoritative, comprehensive, and structured content like FAQs, articles, and service pages, often with structured data, performs best for GEO.",
+  "url": "aiovisibility.com/faq/what-kind-of-content-is-best-suited-for-generative-engine-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content is best suited for Generative Engine Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Content best suited for GEO is factual, authoritative, comprehensive, and structured. This includes detailed FAQs, evergreen articles on financial planning topics, clearly defined service pages, and educational resources. The content should directly answer common client questions and anticipate follow-up inquiries. It also needs to be easily scannable and digestible by AI models, often incorporating structured data markup to enhance clarity and context for generative systems.",
+        "description": "Factual, authoritative, comprehensive, and structured content like FAQs, articles, and service pages, often with structured data, performs best for GEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

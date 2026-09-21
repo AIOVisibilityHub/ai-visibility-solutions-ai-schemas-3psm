@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Generative Engine Optimization (GEO) for Med Spas?",
+  "description": "Generative Engine Optimization (GEO) uses AI to create and optimize content for med spas, improving search engine visibility and attracting new clients.",
+  "url": "aiovisibility.com/faq/what-is-generative-engine-optimization-geo-for-med-spas",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Generative Engine Optimization (GEO) for Med Spas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization (GEO) is an advanced digital marketing strategy that leverages AI to create and optimize content for med spa services. It focuses on generating high-quality, relevant content that ranks well in search engine results and resonates with potential clients. This includes dynamic website copy, blog posts, social media content, and local listing descriptions, all tailored to attract individuals seeking specific aesthetic treatments and procedures offered by med spas. The goal is to enhance online visibility and drive qualified leads.",
+        "description": "Generative Engine Optimization (GEO) uses AI to create and optimize content for med spas, improving search engine visibility and attracting new clients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

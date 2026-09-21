@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does an AI search content strategy cost for a business in New York City?",
+  "description": "Costs vary based on scope, business size, and goals, ranging from hundreds for consultations to thousands monthly for comprehensive strategies, especially in a",
+  "url": "aiovisibility.com/faq/how-much-does-an-ai-search-content-strategy-cost-for-a-business-in-new-york-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does an AI search content strategy cost for a business in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of an AI search content strategy for a business in New York City varies significantly based on scope, business size, and specific goals. Factors include the extent of content audit required, the volume of new content creation, the complexity of technical SEO adjustments, and ongoing monitoring services. Initial consultations might range from a few hundred dollars, while comprehensive, long-term strategies can be several thousand dollars per month. A detailed proposal tailored to your needs and market competitiveness will provide an accurate estimate.",
+        "description": "Costs vary based on scope, business size, and goals, ranging from hundreds for consultations to thousands monthly for comprehensive strategies, especially in a market like New York City."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

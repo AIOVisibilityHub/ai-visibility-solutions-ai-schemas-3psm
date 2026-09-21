@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of AI Search Content Writing services?",
+  "description": "Costs for AI Search Content Writing vary by project scope, content volume, and complexity. Services can range from hundreds to thousands of dollars monthly.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-of-ai-search-content-writing-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of AI Search Content Writing services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for AI Search Content Writing services varies significantly based on the project's scope, volume of content needed, complexity of the subject matter, and the level of human oversight and expertise involved. Services can range from a few hundred dollars for small, targeted projects to several thousand dollars monthly for comprehensive strategies involving continuous content generation and optimization. Factors such as keyword research, competitor analysis, and integration with existing systems also influence pricing. We offer customized quotes based on your specific AEO goals.",
+        "description": "Costs for AI Search Content Writing vary by project scope, content volume, and complexity. Services can range from hundreds to thousands of dollars monthly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

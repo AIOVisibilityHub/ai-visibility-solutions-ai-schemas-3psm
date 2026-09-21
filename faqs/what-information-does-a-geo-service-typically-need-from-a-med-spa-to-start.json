@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information does a GEO service typically need from a med spa to start?",
+  "description": "GEO services need med spa details like services, target clients, goals, brand voice, and existing analytics to build a tailored strategy.",
+  "url": "aiovisibility.com/faq/what-information-does-a-geo-service-typically-need-from-a-med-spa-to-start",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information does a GEO service typically need from a med spa to start?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To initiate Generative Engine Optimization, a GEO service typically requires detailed information about the med spa's services, target clientele, unique selling propositions, and business goals. This includes a list of treatments offered (e.g., injectables, laser treatments, facials), pricing structures, clinic locations, brand voice guidelines, and any specific areas of focus or current marketing challenges. Access to existing website analytics and competitor information is also valuable to establish a baseline and inform the strategy.",
+        "description": "GEO services need med spa details like services, target clients, goals, brand voice, and existing analytics to build a tailored strategy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

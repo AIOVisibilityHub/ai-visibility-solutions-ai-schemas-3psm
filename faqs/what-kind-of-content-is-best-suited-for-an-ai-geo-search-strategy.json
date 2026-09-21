@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content is best suited for an AI GEO search strategy?",
+  "description": "Content best suited for an AI GEO search strategy includes location-specific landing pages, local blog posts, optimized Google Business Profile content, localiz",
+  "url": "aiovisibility.com/faq/what-kind-of-content-is-best-suited-for-an-ai-geo-search-strategy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content is best suited for an AI GEO search strategy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI GEO search strategy is best suited for content types that directly address local search intent and can be optimized for specific geographic keywords and entities. This includes location-specific landing pages for each service or product offered in a given city, local blog posts discussing events or topics relevant to a community, and optimized Google Business Profile descriptions and posts. Localized FAQs, customer testimonials featuring local details, and directory listings are also crucial. AI helps ensure this content is not just location-aware but also deeply integrated with local search trends and user queries, making it highly effective for attracting geographically targeted audiences.",
+        "description": "Content best suited for an AI GEO search strategy includes location-specific landing pages, local blog posts, optimized Google Business Profile content, localized FAQs, and local testimonials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

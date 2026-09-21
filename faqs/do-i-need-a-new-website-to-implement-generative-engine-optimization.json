@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a new website to implement Generative Engine Optimization?",
+  "description": "A new website isn't strictly necessary for GEO; it focuses on optimizing existing online content and ensuring it's AI-friendly. A redesign might complement GEO",
+  "url": "aiovisibility.com/faq/do-i-need-a-new-website-to-implement-generative-engine-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a new website to implement Generative Engine Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, a new website is not strictly necessary to implement Generative Engine Optimization. While a modern, well-structured website provides an excellent foundation, GEO primarily focuses on optimizing your existing online content and ensuring it is correctly formatted and accessible for AI platforms. This often involves enhancing current website content, adding structured data, and expanding your presence on other relevant digital channels. If your current website is outdated or poorly structured, a redesign might be recommended as a complementary step, but it's not a prerequisite for starting GEO.",
+        "description": "A new website isn't strictly necessary for GEO; it focuses on optimizing existing online content and ensuring it's AI-friendly. A redesign might complement GEO but isn't a prerequisite."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

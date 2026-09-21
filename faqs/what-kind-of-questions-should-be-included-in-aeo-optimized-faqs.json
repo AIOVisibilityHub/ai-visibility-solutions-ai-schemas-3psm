@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of questions should be included in AEO-optimized FAQs?",
+  "description": "AEO-optimized FAQs should cover real user questions about pain points, decision-making, and informational needs, including 'what is' and 'how to' queries.",
+  "url": "aiovisibility.com/faq/what-kind-of-questions-should-be-included-in-aeo-optimized-faqs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of questions should be included in AEO-optimized FAQs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO-optimized FAQs should include questions that real users frequently ask, focusing on their pain points, decision-making factors, and informational needs. These can range from 'what is' and 'how to' questions about your products/services to comparisons, cost-related queries, and troubleshooting. It's crucial to consider long-tail keywords and natural language queries. Avoid questions with obvious answers or those that don't provide value. The goal is to address common user intent directly and comprehensively.",
+        "description": "AEO-optimized FAQs should cover real user questions about pain points, decision-making, and informational needs, including 'what is' and 'how to' queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is Generative Engine Optimization different from traditional SEO?",
+  "description": "GEO differs from traditional SEO by using AI to *generate* new, highly targeted content at scale, rather than just optimizing existing content, for broader sear",
+  "url": "aiovisibility.com/faq/is-generative-engine-optimization-different-from-traditional-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Generative Engine Optimization different from traditional SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Generative Engine Optimization builds upon traditional SEO principles but incorporates advanced AI capabilities. Traditional SEO focuses on optimizing existing content and technical aspects of a website to rank for specific keywords. GEO, however, leverages AI to *generate* new, unique, and highly targeted content at scale, often responding to a broader range of user intents and long-tail queries. While both aim for higher search rankings, GEO's generative aspect allows for greater content diversity and personalization, adapting more dynamically to evolving search trends and user behavior.",
+        "description": "GEO differs from traditional SEO by using AI to *generate* new, highly targeted content at scale, rather than just optimizing existing content, for broader search coverage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

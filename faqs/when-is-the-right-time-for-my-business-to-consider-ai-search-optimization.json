@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the right time for my business to consider AI Search Optimization?",
+  "description": "Consider AEO when search behaviors shift, current SEO plateaus, or if you want to gain a competitive edge by expanding visibility beyond traditional web search",
+  "url": "aiovisibility.com/faq/when-is-the-right-time-for-my-business-to-consider-ai-search-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the right time for my business to consider AI Search Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Businesses should consider AI Search Optimization when they observe shifts in how their target audience searches for information, especially with the rise of voice assistants and AI-powered search engines. It's particularly relevant if your current SEO efforts are plateauing, or if you aim to gain a competitive advantage by anticipating future search trends. Any business looking to expand its digital footprint beyond traditional web search, improve content relevance, or capture conversational queries will benefit from exploring AEO.",
+        "description": "Consider AEO when search behaviors shift, current SEO plateaus, or if you want to gain a competitive edge by expanding visibility beyond traditional web search and capturing conversational queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

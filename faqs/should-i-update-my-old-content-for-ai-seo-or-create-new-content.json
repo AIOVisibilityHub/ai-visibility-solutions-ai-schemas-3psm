@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I update my old content for AI SEO, or create new content?",
+  "description": "Both updating old content and creating new content are important. Audit existing content for enhancements, and create new pieces for emerging queries to ensure",
+  "url": "aiovisibility.com/faq/should-i-update-my-old-content-for-ai-seo-or-create-new-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I update my old content for AI SEO, or create new content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Both updating old content and creating new content are valuable for an AI search content strategy, and the best approach often involves a combination. Start by auditing your existing content to identify pieces that can be enhanced with semantic keywords, deeper explanations, and better structuring to meet AI expectations. Updating relevant, high-performing older content can quickly yield results. Simultaneously, identify content gaps and create new, comprehensive pieces that target emerging conversational queries and semantic topics your audience is searching for. This dual approach ensures both efficiency and comprehensive coverage.",
+        "description": "Both updating old content and creating new content are important. Audit existing content for enhancements, and create new pieces for emerging queries to ensure comprehensive coverage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

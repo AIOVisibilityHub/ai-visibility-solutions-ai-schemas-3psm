@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of data does AI SEO use for optimization?",
+  "description": "AI SEO uses search rankings, keyword data, competitor analysis, backlink profiles, user behavior, content performance, and technical audits.",
+  "url": "aiovisibility.com/faq/what-kind-of-data-does-ai-seo-use-for-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of data does AI SEO use for optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO utilizes a wide range of data points for optimization. This includes search engine ranking data, keyword search volume and difficulty, competitor website analysis, backlink profiles, user behavior metrics (like click-through rates and bounce rates), content performance, and technical website audits. AI algorithms process this extensive data to identify patterns, predict optimal strategies, and generate actionable insights for improving search engine visibility and performance.",
+        "description": "AI SEO uses search rankings, keyword data, competitor analysis, backlink profiles, user behavior, content performance, and technical audits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

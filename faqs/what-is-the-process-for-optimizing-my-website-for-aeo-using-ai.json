@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for optimizing my website for AEO using AI?",
+  "description": "The process involves an AI audit, intent analysis, content strategy for answer-focused formats, structured data implementation, and continuous monitoring.",
+  "url": "aiovisibility.com/faq/what-is-the-process-for-optimizing-my-website-for-aeo-using-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for optimizing my website for AEO using AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process typically begins with an AI-driven audit to identify current search visibility gaps and opportunities for direct answers. This is followed by comprehensive intent analysis, where AI tools help understand user questions and search patterns. Content strategy is then developed to create or adapt existing content into answer-focused formats, leveraging structured data markup (like Schema.org) for clarity. Implementation involves technical adjustments, continuous monitoring of answer engine performance, and iterative refinements based on AI insights to maintain optimal visibility and relevance.",
+        "description": "The process involves an AI audit, intent analysis, content strategy for answer-focused formats, structured data implementation, and continuous monitoring."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

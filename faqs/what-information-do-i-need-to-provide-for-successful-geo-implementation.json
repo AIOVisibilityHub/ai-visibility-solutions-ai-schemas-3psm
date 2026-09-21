@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to provide for successful GEO implementation?",
+  "description": "You need to provide practice details like specialties, target demographics, services, existing content, unique selling points, and geographic areas for GEO impl",
+  "url": "aiovisibility.com/faq/what-information-do-i-need-to-provide-for-successful-geo-implementation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to provide for successful GEO implementation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For successful GEO implementation, you'll need to provide details about your medical practice, including your specialties, target patient demographics, specific services offered, existing website content, and any particular areas of focus. Providing insights into your unique selling propositions, patient testimonials, and geographic service areas (e.g., Houston, Phoenix) will also help the AI generate more accurate and compelling content that truly reflects your practice.",
+        "description": "You need to provide practice details like specialties, target demographics, services, existing content, unique selling points, and geographic areas for GEO implementation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

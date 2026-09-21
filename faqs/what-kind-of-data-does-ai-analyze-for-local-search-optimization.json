@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of data does AI analyze for local search optimization?",
+  "description": "AI analyzes local search queries, competitor rankings, customer reviews, geographic signals, algorithm updates, website content, and local listings for optimiza",
+  "url": "aiovisibility.com/faq/what-kind-of-data-does-ai-analyze-for-local-search-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of data does AI analyze for local search optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI analyzes various types of data for local search optimization, including local search query patterns, competitor local ranking factors, customer review sentiment, geographic signal strength, and algorithm updates relevant to local search. It also examines website content for local relevance, local backlink profiles, and the completeness and accuracy of local directory listings. This comprehensive data analysis helps identify opportunities for improvement and informs strategic adjustments for better local visibility.",
+        "description": "AI analyzes local search queries, competitor rankings, customer reviews, geographic signals, algorithm updates, website content, and local listings for optimization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

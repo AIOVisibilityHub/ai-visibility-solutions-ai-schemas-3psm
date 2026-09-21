@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Generative Engine Optimization (GEO) for medical practices?",
+  "description": "Generative Engine Optimization (GEO) for medical practices uses AI to create and optimize content for search engines, improving visibility and attracting new pa",
+  "url": "aiovisibility.com/faq/what-is-generative-engine-optimization-geo-for-medical-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Generative Engine Optimization (GEO) for medical practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization (GEO) for medical practices uses artificial intelligence to create and optimize content for search engines and patient inquiries. It involves leveraging AI models to generate high-quality, relevant information about services, conditions, and treatments, ensuring it ranks well in search results and directly answers patient questions. This approach enhances visibility, attracts new patients, and improves the overall digital presence of a medical practice.",
+        "description": "Generative Engine Optimization (GEO) for medical practices uses AI to create and optimize content for search engines, improving visibility and attracting new patients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

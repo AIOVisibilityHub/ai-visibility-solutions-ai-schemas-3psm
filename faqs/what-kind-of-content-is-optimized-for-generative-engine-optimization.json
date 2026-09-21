@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content is optimized for Generative Engine Optimization?",
+  "description": "GEO optimizes structured data, FAQs, service descriptions, and patient testimonials, focusing on direct, factual content that AI can easily interpret to answer",
+  "url": "aiovisibility.com/faq/what-kind-of-content-is-optimized-for-generative-engine-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content is optimized for Generative Engine Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Content optimized for Generative Engine Optimization includes structured data snippets, detailed FAQ sections, clear service descriptions, patient testimonials, and concise answers to common dental health questions. The focus is on providing direct, factual, and easily extractable information that AI models can readily interpret and use to answer user queries. This often involves creating content that directly addresses 'who, what, where, when, why, and how' questions about your services and practice.",
+        "description": "GEO optimizes structured data, FAQs, service descriptions, and patient testimonials, focusing on direct, factual content that AI can easily interpret to answer user questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

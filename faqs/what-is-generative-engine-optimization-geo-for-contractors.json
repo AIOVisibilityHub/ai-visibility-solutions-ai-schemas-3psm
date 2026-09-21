@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Generative Engine Optimization (GEO) for contractors?",
+  "description": "Generative Engine Optimization (GEO) for contractors uses AI to create and optimize content, improving search engine visibility and capturing local customer int",
+  "url": "aiovisibility.com/faq/what-is-generative-engine-optimization-geo-for-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Generative Engine Optimization (GEO) for contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization (GEO) for contractors is a specialized digital marketing strategy that uses AI-driven content generation and optimization to improve a contractor's visibility in search engine results. It focuses on creating highly relevant and personalized content, such as service descriptions, project showcases, and local landing pages, that directly answers potential customers' queries. This approach aims to capture local search intent and differentiate contractors in competitive markets by enhancing their online presence through advanced AI tools.",
+        "description": "Generative Engine Optimization (GEO) for contractors uses AI to create and optimize content, improving search engine visibility and capturing local customer interest."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

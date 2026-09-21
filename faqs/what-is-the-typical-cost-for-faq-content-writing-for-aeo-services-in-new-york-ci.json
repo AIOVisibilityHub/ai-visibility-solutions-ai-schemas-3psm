@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for FAQ content writing for AEO services in New York City?",
+  "description": "Costs for AEO FAQ writing in New York City vary by volume, industry complexity, research depth, and agency experience, ranging from per-FAQ to project-based fee",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-for-faq-content-writing-for-aeo-services-in-new-york-ci",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for FAQ content writing for AEO services in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for FAQ content writing for AEO services in New York City can vary significantly based on factors such as the volume of FAQs required, the complexity of the industry, the depth of keyword research involved, and the agency's experience. It can range from a per-FAQ rate to project-based fees or hourly rates. Agencies might charge more for comprehensive strategy, advanced Schema implementation, and ongoing optimization. Businesses should seek detailed proposals that outline the scope of work and expected deliverables.",
+        "description": "Costs for AEO FAQ writing in New York City vary by volume, industry complexity, research depth, and agency experience, ranging from per-FAQ to project-based fees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to provide to start a GEO campaign for my business?",
+  "description": "Provide details on services, target areas, ideal customers, brand guidelines, past projects, and website analytics to start a GEO campaign.",
+  "url": "aiovisibility.com/faq/what-information-do-i-need-to-provide-to-start-a-geo-campaign-for-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to provide to start a GEO campaign for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To launch a successful GEO campaign, you'll typically need to provide details about your contracting services, target service areas, ideal customer profiles, and any existing brand guidelines or unique selling propositions. Information regarding past projects, testimonials, and specific service offerings helps the AI generate more accurate and compelling content. Additionally, access to your current website analytics and Google Business Profile is often requested to establish a baseline and track progress effectively.",
+        "description": "Provide details on services, target areas, ideal customers, brand guidelines, past projects, and website analytics to start a GEO campaign."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

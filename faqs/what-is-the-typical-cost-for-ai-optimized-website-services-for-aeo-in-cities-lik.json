@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for AI-optimized website services for AEO in cities like New York City or Los Angeles?",
+  "description": "Costs for AI-optimized AEO services in major cities like New York City or Los Angeles vary, ranging from thousands to tens of thousands monthly, depending on pr",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-for-ai-optimized-website-services-for-aeo-in-cities-lik",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for AI-optimized website services for AEO in cities like New York City or Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for AI-optimized website services for AEO in major metropolitan areas such as New York City or Los Angeles can vary significantly based on several factors. These include the complexity and size of your existing website, the competitiveness of your industry, the scope of content creation or optimization required, and the level of ongoing support and monitoring. Generally, you can expect an investment ranging from a few thousand dollars for smaller projects to tens of thousands monthly for comprehensive, long-term strategies. A detailed quote requires a thorough assessment of your specific business needs and goals.",
+        "description": "Costs for AI-optimized AEO services in major cities like New York City or Los Angeles vary, ranging from thousands to tens of thousands monthly, depending on project scope and complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

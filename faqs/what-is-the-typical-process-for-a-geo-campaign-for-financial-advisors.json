@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for a GEO campaign for financial advisors?",
+  "description": "The GEO process includes auditing online presence, keyword research, AI-optimized content creation, technical adjustments, and continuous performance monitoring",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-a-geo-campaign-for-financial-advisors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for a GEO campaign for financial advisors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A GEO campaign typically begins with an audit of your current online presence and content. This is followed by keyword research, content creation or optimization tailored for generative AI, and technical adjustments to your website. The process includes monitoring performance, refining content based on AI model feedback and search trends, and ensuring information is consistently accurate across all digital touchpoints. The goal is to build an authoritative and AI-friendly digital footprint.",
+        "description": "The GEO process includes auditing online presence, keyword research, AI-optimized content creation, technical adjustments, and continuous performance monitoring."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

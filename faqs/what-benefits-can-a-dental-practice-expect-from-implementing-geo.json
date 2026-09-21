@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What benefits can a dental practice expect from implementing GEO?",
+  "description": "GEO increases online visibility in AI-driven search, attracts new patients, builds practice authority by providing precise information, and future-proofs a dent",
+  "url": "aiovisibility.com/faq/what-benefits-can-a-dental-practice-expect-from-implementing-geo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What benefits can a dental practice expect from implementing GEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implementing Generative Engine Optimization can lead to increased online visibility and patient acquisition. Practices can expect to appear in more AI-driven search results and voice assistant responses, attracting patients using these emerging technologies. It enhances the practice's authority and trustworthiness by providing precise information, improving the patient journey from inquiry to booking. Ultimately, GEO helps future-proof a dental practice's digital presence and maintain a competitive edge in a rapidly changing digital marketing landscape.",
+        "description": "GEO increases online visibility in AI-driven search, attracts new patients, builds practice authority by providing precise information, and future-proofs a dental practice's digital presence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

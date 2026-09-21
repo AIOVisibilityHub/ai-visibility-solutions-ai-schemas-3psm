@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does GEO FAQ content improve my search engine ranking in New York City?",
+  "description": "GEO FAQ content in New York City uses location-specific keywords to improve local search rankings, enhancing Google Business Profile visibility and attracting t",
+  "url": "aiovisibility.com/faq/how-does-geo-faq-content-improve-my-search-engine-ranking-in-new-york-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does GEO FAQ content improve my search engine ranking in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a business in New York City, GEO FAQ content helps by incorporating location-specific keywords and phrases naturally within answers to common questions. This tells search engines that your business is highly relevant to users searching for services or products in New York City. It can improve your local SEO by enhancing your Google Business Profile visibility and increasing your chances of appearing in the local 'pack' results, leading to more targeted traffic from the NYC area.",
+        "description": "GEO FAQ content in New York City uses location-specific keywords to improve local search rankings, enhancing Google Business Profile visibility and attracting targeted local traffic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Generative Engine Optimization help my accounting firm attract local clients in New York City?",
+  "description": "Yes, GEO is highly effective for attracting local clients in New York City by optimizing for localized search intent and ensuring your firm's information is pri",
+  "url": "aiovisibility.com/faq/can-generative-engine-optimization-help-my-accounting-firm-attract-local-clients",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Generative Engine Optimization help my accounting firm attract local clients in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Generative Engine Optimization is highly effective for attracting local clients, including those in specific cities like New York City. GEO strategies specifically optimize for localized search intent, ensuring that when potential clients in New York City ask AI platforms for 'accountants near me' or 'tax services NYC,' your firm's relevant information is prioritized. This involves optimizing your Google Business Profile, creating location-specific content, and ensuring your service areas are clearly defined and structured for AI interpretation. Our approach includes tailoring content and optimization efforts to target your desired geographic markets precisely.",
+        "description": "Yes, GEO is highly effective for attracting local clients in New York City by optimizing for localized search intent and ensuring your firm's information is prioritized by AI platforms for local queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

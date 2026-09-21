@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for a GEO campaign for accountants?",
+  "description": "A GEO campaign for accountants involves analysis, developing AI-friendly content strategies, optimizing website data for generative AI, and ongoing monitoring t",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-a-geo-campaign-for-accountants",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for a GEO campaign for accountants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical GEO campaign for accountants begins with an in-depth analysis of your firm's current online presence, target audience, and competitive landscape within AI-driven search. We then develop a tailored content strategy focusing on producing AI-friendly content, optimizing your website's data structure for generative AI interpretation, and establishing authority signals. This often involves creating FAQs, detailed service descriptions, and localized content that answers common client questions comprehensively. Ongoing monitoring, refinement, and adaptation to new AI search trends are crucial for sustained success, ensuring your firm maintains a strong presence.",
+        "description": "A GEO campaign for accountants involves analysis, developing AI-friendly content strategies, optimizing website data for generative AI, and ongoing monitoring to adapt to new search trends."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of Generative Engine Optimization services for a medical practice?",
+  "description": "The cost of GEO varies based on practice size, number of specialties, content volume, and geographic targeting, requiring customized proposals.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-of-generative-engine-optimization-services-for-a-medica",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of Generative Engine Optimization services for a medical practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of Generative Engine Optimization services varies depending on the scope and scale of the practice's needs. Factors influencing pricing include the number of specialties, the volume of content required, the intensity of competitive analysis, and the geographic target (e.g., local versus regional optimization in Phoenix or Dallas). Most providers offer customized packages, so it's best to request a detailed proposal tailored to your practice's specific goals and size.",
+        "description": "The cost of GEO varies based on practice size, number of specialties, content volume, and geographic targeting, requiring customized proposals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

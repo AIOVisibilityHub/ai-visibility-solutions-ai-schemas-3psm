@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of questions should be included in GEO FAQ content for a service business in Los Angeles?",
+  "description": "For a Los Angeles service business, include questions about specific service areas, local costs, permits, and common concerns relevant to different LA neighborh",
+  "url": "aiovisibility.com/faq/what-kind-of-questions-should-be-included-in-geo-faq-content-for-a-service-busin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of questions should be included in GEO FAQ content for a service business in Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a service business in Los Angeles, GEO FAQ content should include questions that address local needs, concerns, and common search queries. Examples might include: 'What are your service areas in Los Angeles?' 'Do you offer emergency services in Hollywood?' 'How much does Website Audit for AI Search cost in Santa Monica?' or 'What permits are needed for Website Audit for AI Search in downtown LA?' These questions help capture highly localized search intent.",
+        "description": "For a Los Angeles service business, include questions about specific service areas, local costs, permits, and common concerns relevant to different LA neighborhoods to capture local search intent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content does Generative Engine Optimization produce for healthcare?",
+  "description": "GEO produces patient-friendly content like medical condition explanations, service descriptions, FAQs, and blog posts, all optimized for search.",
+  "url": "aiovisibility.com/faq/what-kind-of-content-does-generative-engine-optimization-produce-for-healthcare",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content does Generative Engine Optimization produce for healthcare?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization produces a wide range of content tailored for healthcare, including patient-friendly explanations of medical conditions, detailed service descriptions for various specialties, FAQs about procedures or appointments, blog posts on health topics, and localized content for specific regions. This content is designed to be informative, accurate, and optimized for both search engines and the patient experience.",
+        "description": "GEO produces patient-friendly content like medical condition explanations, service descriptions, FAQs, and blog posts, all optimized for search."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

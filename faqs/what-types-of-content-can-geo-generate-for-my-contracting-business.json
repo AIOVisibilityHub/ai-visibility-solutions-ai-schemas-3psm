@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of content can GEO generate for my contracting business?",
+  "description": "GEO can generate service pages, project case studies, localized landing pages, and blog posts to address client needs and improve your contracting business's on",
+  "url": "aiovisibility.com/faq/what-types-of-content-can-geo-generate-for-my-contracting-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of content can GEO generate for my contracting business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization can produce a wide range of content tailored for contracting businesses. This includes detailed service pages for specific offerings (e.g., 'roof repair', 'kitchen remodeling'), project case studies, localized landing pages for different neighborhoods or cities, blog posts addressing common homeowner questions, and optimized business profiles for directories. The content is designed to be unique, informative, and optimized for search engines, directly addressing potential client needs and improving your online authority.",
+        "description": "GEO can generate service pages, project case studies, localized landing pages, and blog posts to address client needs and improve your contracting business's online presence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

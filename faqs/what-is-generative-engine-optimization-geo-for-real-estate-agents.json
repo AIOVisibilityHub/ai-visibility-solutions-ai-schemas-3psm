@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Generative Engine Optimization (GEO) for real estate agents?",
+  "description": "Generative Engine Optimization (GEO) uses AI to create content for real estate agents, improving online visibility and lead generation through search engines an",
+  "url": "aiovisibility.com/faq/what-is-generative-engine-optimization-geo-for-real-estate-agents",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Generative Engine Optimization (GEO) for real estate agents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization (GEO) leverages AI to create relevant, high-quality content that ranks well on search engines and generative AI platforms. For real estate agents, this means AI-driven content generation for property descriptions, neighborhood guides, market reports, and social media posts. The goal is to increase online visibility, attract more qualified leads, and establish the agent as an authority in their local market. GEO adapts to evolving search algorithms and AI interaction patterns to ensure optimal discoverability.",
+        "description": "Generative Engine Optimization (GEO) uses AI to create content for real estate agents, improving online visibility and lead generation through search engines and AI platforms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

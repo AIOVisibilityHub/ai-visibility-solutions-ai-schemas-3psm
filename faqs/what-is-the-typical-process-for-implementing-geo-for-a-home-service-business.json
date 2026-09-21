@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for implementing GEO for a home service business?",
+  "description": "The GEO process involves an AI-driven audit, identifying customer queries, developing a content strategy for AI platforms, optimizing digital assets, and ongoin",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-implementing-geo-for-a-home-service-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for implementing GEO for a home service business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The implementation process for GEO typically begins with an AI-driven audit of your existing online presence and target market. We identify key customer queries and intent for your specific services. Next, we develop a content strategy focused on generating helpful, natural language responses to these queries, optimizing for AI platforms and local search. This includes refining your Google Business Profile, website content, and other digital assets. Ongoing monitoring and adjustments based on AI search performance data ensure continuous improvement and optimal visibility for your services.",
+        "description": "The GEO process involves an AI-driven audit, identifying customer queries, developing a content strategy for AI platforms, optimizing digital assets, and ongoing performance monitoring."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

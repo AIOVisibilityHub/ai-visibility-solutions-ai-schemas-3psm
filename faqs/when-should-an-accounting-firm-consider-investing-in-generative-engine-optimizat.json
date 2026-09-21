@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should an accounting firm consider investing in Generative Engine Optimization?",
+  "description": "An accounting firm should consider GEO to future-proof their digital marketing, stay ahead of competitors, expand their client base, or improve lead generation",
+  "url": "aiovisibility.com/faq/when-should-an-accounting-firm-consider-investing-in-generative-engine-optimizat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should an accounting firm consider investing in Generative Engine Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An accounting firm should consider investing in Generative Engine Optimization as soon as they want to future-proof their digital marketing strategy and stay ahead of competitors. The shift towards AI-powered search and conversational interfaces is accelerating, making it crucial to adapt early. If your firm is looking to expand its client base, improve online visibility beyond traditional search, or is experiencing stagnating lead generation, GEO can provide a significant advantage. Early adoption allows your firm to establish authority and presence in these emerging search environments.",
+        "description": "An accounting firm should consider GEO to future-proof their digital marketing, stay ahead of competitors, expand their client base, or improve lead generation through AI-powered search."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

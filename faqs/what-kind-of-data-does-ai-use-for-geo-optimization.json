@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of data does AI use for geo-optimization?",
+  "description": "AI uses geographic search queries, local competitor analysis, consumer behavior, review data, local citations, website analytics, and Google Business Profile in",
+  "url": "aiovisibility.com/faq/what-kind-of-data-does-ai-use-for-geo-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of data does AI use for geo-optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI leverages a wide array of data points for geo-optimization to build a comprehensive picture of your local market. This includes geographic search query data, local competitor analysis, local consumer behavior patterns, review and reputation data, local citation consistency, website analytics specific to local visitors, and Google Business Profile insights. By processing this diverse data, AI can identify precise local trends, optimize for specific neighborhood or city-level intent, and dynamically adjust strategies for maximum local impact.",
+        "description": "AI uses geographic search queries, local competitor analysis, consumer behavior, review data, local citations, website analytics, and Google Business Profile insights for geo-optimization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

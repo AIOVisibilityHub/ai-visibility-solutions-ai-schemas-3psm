@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Generative Engine Optimization (GEO) for accountants?",
+  "description": "Generative Engine Optimization (GEO) for accountants uses AI to improve online visibility and client acquisition by optimizing content for AI-powered search eng",
+  "url": "aiovisibility.com/faq/what-is-generative-engine-optimization-geo-for-accountants",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Generative Engine Optimization (GEO) for accountants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization (GEO) for accountants is a specialized digital marketing strategy that leverages generative AI technologies to enhance an accounting firm's online visibility and client acquisition. It focuses on optimizing content and online presence to rank effectively on AI-powered search engines and conversational platforms. This includes generating high-quality, relevant content, optimizing for voice search, and ensuring your firm appears prominently when potential clients use AI tools to find accounting services. The goal is to connect accounting firms with their ideal clients more efficiently in the evolving digital landscape.",
+        "description": "Generative Engine Optimization (GEO) for accountants uses AI to improve online visibility and client acquisition by optimizing content for AI-powered search engines and conversational platforms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
