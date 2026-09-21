@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should a law firm track to measure the success of GEO marketing?",
+  "description": "Track local search rankings, website traffic from local searches, calls/directions from Google Business Profile, lead generation, and local reviews to measure G",
+  "url": "aiovisibility.com/faq/what-metrics-should-a-law-firm-track-to-measure-the-success-of-geo-marketing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should a law firm track to measure the success of GEO marketing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure the success of GEO marketing, a law firm should track key performance indicators such as local search rankings (especially in Google's local pack), website traffic from local searches, phone calls directly from Google Business Profile listings, and directions requests. Additionally, monitoring lead generation, conversion rates from local traffic, and reviews/ratings on local platforms provides insight into client acquisition. Analyzing these metrics helps gauge the effectiveness of the strategy and identify areas for improvement in cities like Chicago and Dallas.",
+        "description": "Track local search rankings, website traffic from local searches, calls/directions from Google Business Profile, lead generation, and local reviews to measure GEO marketing success."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

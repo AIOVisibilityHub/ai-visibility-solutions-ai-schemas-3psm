@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What data or information do remodelers need to provide to start a GEO campaign?",
+  "description": "Remodelers need to provide service details, target areas, client demographics, unique selling points, project portfolios, and existing website data to start a G",
+  "url": "aiovisibility.com/faq/what-data-or-information-do-remodelers-need-to-provide-to-start-a-geo-campaign",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What data or information do remodelers need to provide to start a GEO campaign?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To launch a successful GEO campaign, remodelers need to provide details about their services offered, target service areas (specific cities, neighborhoods), preferred client demographics, unique selling propositions, and a portfolio of past projects. Access to existing website analytics, customer testimonials, and any specific branding guidelines are also valuable. The more comprehensive the information provided, the more effectively the AI can generate accurate, relevant, and branded content.",
+        "description": "Remodelers need to provide service details, target areas, client demographics, unique selling points, project portfolios, and existing website data to start a GEO campaign."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

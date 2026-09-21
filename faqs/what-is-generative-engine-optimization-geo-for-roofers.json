@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is generative engine optimization (GEO) for roofers?",
+  "description": "GEO for roofers uses AI to create tailored content that attracts potential customers, improves search rankings, and drives leads for roofing businesses.",
+  "url": "aiovisibility.com/faq/what-is-generative-engine-optimization-geo-for-roofers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is generative engine optimization (GEO) for roofers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization (GEO) for roofers uses advanced AI to create highly relevant and engaging content specifically tailored for roofing services. This content is designed to attract potential customers by answering their specific questions and needs, improving search engine rankings, and ultimately driving more qualified leads to roofing businesses. It goes beyond traditional SEO by dynamically generating content that resonates with user intent and local nuances.",
+        "description": "GEO for roofers uses AI to create tailored content that attracts potential customers, improves search rankings, and drives leads for roofing businesses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

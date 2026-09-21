@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can GEO for Knowledge Bases help multi-location businesses in cities like New York City or Los Angeles?",
+  "description": "Yes, it helps multi-location businesses in cities like New York City or Los Angeles optimize each branch for specific local searches.",
+  "url": "aiovisibility.com/faq/can-geo-for-knowledge-bases-help-multi-location-businesses-in-cities-like-new-yo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can GEO for Knowledge Bases help multi-location businesses in cities like New York City or Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. For multi-location businesses in densely populated and competitive markets like New York City or Los Angeles, GEO for Knowledge Bases is essential. It allows each distinct business location to be accurately represented and optimized for local searches within its specific borough or neighborhood. This prevents cannibalization of search results between locations and ensures customers find the nearest and most relevant branch.",
+        "description": "Yes, it helps multi-location businesses in cities like New York City or Los Angeles optimize each branch for specific local searches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

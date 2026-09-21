@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What ongoing maintenance is required for a business website?",
+  "description": "Ongoing website maintenance involves software updates, security monitoring, backups, and content updates to ensure security, performance, and functionality.",
+  "url": "aiovisibility.com/faq/what-ongoing-maintenance-is-required-for-a-business-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What ongoing maintenance is required for a business website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ongoing website maintenance is crucial for security, performance, and functionality. This typically includes regular software updates for the platform and plugins, security monitoring to prevent vulnerabilities, routine backups, and content updates. Neglecting maintenance can lead to security breaches, slow loading times, and broken features, negatively impacting user experience and search engine rankings. We offer various maintenance packages to keep your site running smoothly.",
+        "description": "Ongoing website maintenance involves software updates, security monitoring, backups, and content updates to ensure security, performance, and functionality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

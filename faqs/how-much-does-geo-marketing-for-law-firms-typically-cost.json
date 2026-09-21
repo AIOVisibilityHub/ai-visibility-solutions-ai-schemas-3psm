@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does GEO marketing for law firms typically cost?",
+  "description": "GEO marketing costs for law firms vary widely, from a few hundred to several thousand dollars monthly, depending on market competitiveness and service scope.",
+  "url": "aiovisibility.com/faq/how-much-does-geo-marketing-for-law-firms-typically-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does GEO marketing for law firms typically cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of GEO marketing for law firms varies significantly based on factors such as the competitiveness of the target geographic market, the scope of services required, and the level of customization. A basic package for smaller firms might start from a few hundred dollars per month, while comprehensive strategies for larger firms or highly competitive markets like New York City or Los Angeles could range from several thousands to tens of thousands of dollars monthly. Pricing typically includes services like local SEO, content creation, and geo-targeted advertising management.",
+        "description": "GEO marketing costs for law firms vary widely, from a few hundred to several thousand dollars monthly, depending on market competitiveness and service scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

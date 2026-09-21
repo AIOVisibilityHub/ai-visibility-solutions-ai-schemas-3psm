@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between SEO and AEO for roofing contractors?",
+  "description": "SEO focuses on general search ranking, while AEO optimizes content for direct answers by AI search engines and voice assistants, specifically for questions like",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-seo-and-aeo-for-roofing-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between SEO and AEO for roofing contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While both SEO (Search Engine Optimization) and AEO aim to improve online visibility, their focus differs. SEO primarily optimizes your website to rank higher in general search results by targeting keywords and improving technical aspects. AEO, however, specifically focuses on optimizing your content to provide direct, concise answers that search engines and AI assistants can extract and present immediately. For roofers, SEO might help you rank for 'roof repair Houston,' while AEO aims for your business to be the direct answer when someone asks, 'How much does a roof repair cost in Houston?'",
+        "description": "SEO focuses on general search ranking, while AEO optimizes content for direct answers by AI search engines and voice assistants, specifically for questions like 'How much does a roof repair cost?'"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

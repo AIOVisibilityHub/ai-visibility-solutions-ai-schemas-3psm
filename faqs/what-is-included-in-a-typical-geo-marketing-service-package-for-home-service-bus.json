@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in a typical GEO marketing service package for home service businesses?",
+  "description": "GEO marketing services usually cover Google Business Profile optimization, local keyword research, citation building, and localized content creation.",
+  "url": "aiovisibility.com/faq/what-is-included-in-a-typical-geo-marketing-service-package-for-home-service-bus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a typical GEO marketing service package for home service businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical GEO marketing service package for home service businesses often includes Google Business Profile optimization, local keyword research, local citation building, on-page optimization for location-specific content, and localized content creation. It may also involve managing online reviews, monitoring local search rankings, and providing detailed reports on performance within target service areas. The goal is to enhance local online presence across multiple platforms to attract more geographically relevant customers.",
+        "description": "GEO marketing services usually cover Google Business Profile optimization, local keyword research, citation building, and localized content creation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

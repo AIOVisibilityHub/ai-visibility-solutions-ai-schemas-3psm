@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common pitfalls to avoid when optimizing a website with AI?",
+  "description": "Avoid relying solely on AI without human oversight, neglecting SEO fundamentals, or implementing AI without a clear strategy or data privacy considerations.",
+  "url": "aiovisibility.com/faq/what-are-the-common-pitfalls-to-avoid-when-optimizing-a-website-with-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common pitfalls to avoid when optimizing a website with AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common pitfalls include relying solely on AI without human oversight, neglecting the foundational aspects of SEO, or implementing AI tools without a clear strategy. Businesses should avoid using AI for content generation without human review, as it can sometimes lack nuance or originality. Another pitfall is ignoring data privacy concerns when collecting user data for personalization. It's crucial to ensure AI implementation integrates seamlessly with overall marketing goals and ethical guidelines, preventing a 'set it and forget it' mentality that can lead to suboptimal results.",
+        "description": "Avoid relying solely on AI without human oversight, neglecting SEO fundamentals, or implementing AI without a clear strategy or data privacy considerations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

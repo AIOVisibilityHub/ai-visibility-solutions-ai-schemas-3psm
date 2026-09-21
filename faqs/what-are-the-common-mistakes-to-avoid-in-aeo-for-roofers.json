@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common mistakes to avoid in AEO for roofers?",
+  "description": "Avoid common AEO mistakes like not directly answering questions, using jargon, ignoring local intent, poor data structuring, and keyword stuffing. Focus on clar",
+  "url": "aiovisibility.com/faq/what-are-the-common-mistakes-to-avoid-in-aeo-for-roofers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common mistakes to avoid in AEO for roofers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common AEO mistakes for roofers include failing to directly answer user questions, using overly technical jargon without plain language explanations, neglecting local intent in content, and not structuring data properly. Another pitfall is creating thin content that doesn't provide comprehensive answers or constantly changing URLs. Focusing on keyword stuffing instead of natural language, and ignoring mobile optimization, can also hinder AEO performance. Consistency, clarity, and user-centric content are essential for success.",
+        "description": "Avoid common AEO mistakes like not directly answering questions, using jargon, ignoring local intent, poor data structuring, and keyword stuffing. Focus on clarity and user-centric content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

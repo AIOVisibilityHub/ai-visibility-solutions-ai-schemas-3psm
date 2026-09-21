@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should my business invest in GEO for Knowledge Bases?",
+  "description": "Invest when you serve multiple locations or have a defined service area, especially if local search drives customer acquisition.",
+  "url": "aiovisibility.com/faq/when-should-my-business-invest-in-geo-for-knowledge-bases",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should my business invest in GEO for Knowledge Bases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your business should invest in GEO for Knowledge Bases when you serve customers across multiple physical locations or have a defined service area. It becomes crucial if local search is a significant driver of your customer acquisition, or if you aim to dominate local pack rankings. Early implementation ensures that your business's geographic data is consistently structured and easily discoverable by AI and search engines from the start.",
+        "description": "Invest when you serve multiple locations or have a defined service area, especially if local search drives customer acquisition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

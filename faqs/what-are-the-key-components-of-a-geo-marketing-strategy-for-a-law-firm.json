@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the key components of a GEO marketing strategy for a law firm?",
+  "description": "Key components include Google Business Profile optimization, local citations, location-specific keywords, local content, local reviews, and geo-targeted ads.",
+  "url": "aiovisibility.com/faq/what-are-the-key-components-of-a-geo-marketing-strategy-for-a-law-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key components of a GEO marketing strategy for a law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key components of a GEO marketing strategy for a law firm include optimizing the firm's Google Business Profile with accurate information and relevant categories, building local citations across online directories, implementing location-specific keywords on the firm's website, and generating local content like blog posts about local legal news or community events. Additionally, obtaining local reviews and ratings, and running geo-targeted paid advertising campaigns, are crucial. These elements collectively improve the firm's visibility to local searchers.",
+        "description": "Key components include Google Business Profile optimization, local citations, location-specific keywords, local content, local reviews, and geo-targeted ads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

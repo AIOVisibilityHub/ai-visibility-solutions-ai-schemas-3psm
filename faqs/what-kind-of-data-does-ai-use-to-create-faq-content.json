@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of data does AI use to create FAQ content?",
+  "description": "AI uses website content, support transcripts, chat logs, product docs, and search analytics to identify common questions and create relevant FAQs.",
+  "url": "aiovisibility.com/faq/what-kind-of-data-does-ai-use-to-create-faq-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of data does AI use to create FAQ content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI uses various data sources to create FAQ content. This includes existing website content, customer support transcripts, email exchanges, chat logs, product documentation, and analytics data on popular search queries. By analyzing this information, AI identifies recurring questions, common issues, and areas where customers seek clarity. This data-driven approach ensures the generated FAQs are highly relevant and address actual user needs.",
+        "description": "AI uses website content, support transcripts, chat logs, product docs, and search analytics to identify common questions and create relevant FAQs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

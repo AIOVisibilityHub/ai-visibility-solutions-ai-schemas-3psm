@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the key deliverables we receive after an AI Technical Audit?",
+  "description": "After an AI Technical Audit, you receive a detailed report with findings, an analysis of AI systems, and actionable recommendations for optimization and strateg",
+  "url": "aiovisibility.com/faq/what-are-the-key-deliverables-we-receive-after-an-ai-technical-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key deliverables we receive after an AI Technical Audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Upon completion of an AI Technical Audit, you will receive a comprehensive report detailing our findings. This report includes an executive summary, a detailed analysis of your AI systems' performance, security, and compliance, and identification of any biases or ethical concerns. Most importantly, it provides actionable recommendations for optimization, risk mitigation, and strategic improvements, along with a roadmap for implementation to help you maximize your AI investments.",
+        "description": "After an AI Technical Audit, you receive a detailed report with findings, an analysis of AI systems, and actionable recommendations for optimization and strategic improvements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

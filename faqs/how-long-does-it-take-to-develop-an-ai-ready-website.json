@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to develop an AI-ready website?",
+  "description": "Development time for an AI-ready website typically ranges from 8 weeks to 6 months or more, depending on complexity and AI features.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-develop-an-ai-ready-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to develop an AI-ready website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for developing an AI-ready website varies significantly based on complexity, features required, and the level of AI integration. A basic AI-ready site might take 8-12 weeks, while more complex projects with custom AI tools, extensive data integration, or advanced personalization can extend to 4-6 months or longer. Factors like content readiness, client feedback, and the specific AI technologies being implemented all influence the overall duration. A detailed project scope helps establish a more accurate estimate.",
+        "description": "Development time for an AI-ready website typically ranges from 8 weeks to 6 months or more, depending on complexity and AI features."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

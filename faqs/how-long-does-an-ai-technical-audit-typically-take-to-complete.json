@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does an AI Technical Audit typically take to complete?",
+  "description": "The duration of an AI Technical Audit depends on system complexity, ranging from 2-4 weeks for smaller setups to 6-12 weeks or more for larger enterprises.",
+  "url": "aiovisibility.com/faq/how-long-does-an-ai-technical-audit-typically-take-to-complete",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does an AI Technical Audit typically take to complete?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an AI Technical Audit varies significantly depending on the complexity and scale of your AI infrastructure. For smaller, less complex systems, an audit might be completed within 2-4 weeks. Larger enterprises with multiple AI models, extensive data pipelines, or intricate integrations could require 6-12 weeks, or even longer. Factors like data availability, documentation quality, and internal team responsiveness also influence the timeline. A detailed scope discussion at the outset helps provide a more accurate estimate.",
+        "description": "The duration of an AI Technical Audit depends on system complexity, ranging from 2-4 weeks for smaller setups to 6-12 weeks or more for larger enterprises."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

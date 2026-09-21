@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is local citation building and why is it important for my business in Dallas?",
+  "description": "Local citation building lists your business's NAP on online directories, improving local search rankings and credibility for businesses in Dallas.",
+  "url": "aiovisibility.com/faq/what-is-local-citation-building-and-why-is-it-important-for-my-business-in-dalla",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is local citation building and why is it important for my business in Dallas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local citation building involves listing your business's Name, Address, and Phone number (NAP) on various online directories, review sites, and local business platforms. For a business in Dallas, consistently building these citations across platforms like Yelp, Yellow Pages, and industry-specific directories is crucial. Search engines use these citations as signals to verify your business's existence and legitimacy, which helps improve your local search rankings. Accurate and consistent NAP information across the web significantly boosts your credibility and visibility to potential customers in Dallas.",
+        "description": "Local citation building lists your business's NAP on online directories, improving local search rankings and credibility for businesses in Dallas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is GEO for multi-location businesses?",
+  "description": "GEO for multi-location businesses optimizes online visibility for each physical location to attract local customers through search engines and digital platforms",
+  "url": "aiovisibility.com/faq/what-is-geo-for-multi-location-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GEO for multi-location businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO, or Geographical Engagement Optimization, for multi-location businesses is a strategy that focuses on improving online visibility and attracting local customers across all your business locations. It involves optimizing your digital presence through tactics like local SEO, managing Google Business Profiles, and targeted local advertising. The goal is to ensure each of your locations ranks prominently in local search results when potential customers in their vicinity are looking for your products or services. This approach helps drive foot traffic and online inquiries to your nearest branch.",
+        "description": "GEO for multi-location businesses optimizes online visibility for each physical location to attract local customers through search engines and digital platforms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

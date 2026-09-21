@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between local SEO and GEO for Service Pages?",
+  "description": "Local SEO is a broad strategy for overall local visibility, while GEO for Service Pages is a specific tactic optimizing individual service pages for particular",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-local-seo-and-geo-for-service-pages",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between local SEO and GEO for Service Pages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local SEO is a broader strategy focused on improving overall local visibility for a business, often encompassing Google My Business optimization, local citations, and general geographic keyword targeting. GEO for Service Pages, however, is a more specific tactic within local SEO. It hones in on optimizing individual service pages on your website to rank for specific services in specific locations. For example, local SEO helps your entire business appear in 'near me' searches, while GEO for Service Pages specifically aims for a page like 'AI Visibility Solutions in Phoenix' to rank for that exact query.",
+        "description": "Local SEO is a broad strategy for overall local visibility, while GEO for Service Pages is a specific tactic optimizing individual service pages for particular services in target locations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

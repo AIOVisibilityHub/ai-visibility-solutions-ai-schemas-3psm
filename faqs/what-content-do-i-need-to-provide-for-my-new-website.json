@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What content do I need to provide for my new website?",
+  "description": "You need to provide company information, service/product details, contact info, and branding assets. We can help with content strategy.",
+  "url": "aiovisibility.com/faq/what-content-do-i-need-to-provide-for-my-new-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What content do I need to provide for my new website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To build your new website, you will need to provide essential content such as company information, service descriptions, product details, contact information, and any specific images or branding guidelines. High-quality text, photos, and videos are crucial for effectively communicating your message. We can assist with content strategy and offer guidance on optimizing your materials for the web.",
+        "description": "You need to provide company information, service/product details, contact info, and branding assets. We can help with content strategy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

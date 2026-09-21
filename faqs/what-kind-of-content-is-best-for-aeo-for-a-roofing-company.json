@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content is best for AEO for a roofing company?",
+  "description": "Optimal AEO content for roofers answers common customer questions directly, covering topics like repairs, materials, and costs. It should be clear, concise, and",
+  "url": "aiovisibility.com/faq/what-kind-of-content-is-best-for-aeo-for-a-roofing-company",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content is best for AEO for a roofing company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a roofing company, the best AEO content directly addresses common customer questions and concerns. This includes FAQs about common roofing problems (e.g., 'What causes roof leaks?', 'How long does a roof repair take?'), comparisons of roofing materials, cost breakdowns, and information on local regulations or climate considerations. Content should be clear, concise, and structured with headings and bullet points to be easily scannable by AI. Focus on providing definitive, expert answers to common queries to increase your chances of being featured.",
+        "description": "Optimal AEO content for roofers answers common customer questions directly, covering topics like repairs, materials, and costs. It should be clear, concise, and well-structured for AI to process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

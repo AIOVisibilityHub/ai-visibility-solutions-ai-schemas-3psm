@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is GEO for Local Businesses?",
+  "description": "GEO for Local Businesses optimizes your online presence to attract customers in specific geographic areas, enhancing visibility in local search results.",
+  "url": "aiovisibility.com/faq/what-is-geo-for-local-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GEO for Local Businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO for Local Businesses refers to optimizing your online presence to attract customers within a specific geographic area. It involves strategies like local SEO, Google Business Profile optimization, and geotargeted advertising to ensure your business appears prominently in search results when potential customers in your service area look for products or services you offer. The goal is to drive local foot traffic and online inquiries, making your business more visible to the community it serves.",
+        "description": "GEO for Local Businesses optimizes your online presence to attract customers in specific geographic areas, enhancing visibility in local search results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

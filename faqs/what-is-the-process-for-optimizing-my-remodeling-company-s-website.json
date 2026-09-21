@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for optimizing my remodeling company's website?",
+  "description": "Website optimization for remodelers involves an audit, keyword research, technical SEO, on-page optimization, content creation, and local SEO. It's an ongoing p",
+  "url": "aiovisibility.com/faq/what-is-the-process-for-optimizing-my-remodeling-company-s-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for optimizing my remodeling company's website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for optimizing a remodeling company's website typically begins with a comprehensive audit to identify current strengths and weaknesses. This is followed by keyword research to target relevant search terms. Technical SEO improvements address site speed, mobile-friendliness, and crawlability. On-page SEO involves optimizing content, meta descriptions, and headers. Content marketing strategies focus on creating valuable blog posts and service pages. Local SEO builds out your Google Business Profile and local citations. This ongoing process includes regular monitoring, reporting, and adjustments based on performance data to continuously improve visibility and leads.",
+        "description": "Website optimization for remodelers involves an audit, keyword research, technical SEO, on-page optimization, content creation, and local SEO. It's an ongoing process with regular monitoring."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

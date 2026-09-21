@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of AEO services for a roofing company?",
+  "description": "AEO service costs for roofers vary based on scope, market, and agency, typically ranging from hundreds to several thousands monthly. Get a customized quote base",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-of-aeo-services-for-a-roofing-company",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of AEO services for a roofing company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services for a roofing company can vary widely, depending on the scope of work, the size of your business, the competitiveness of your market, and the agency you choose. Factors influencing cost include the number of keywords targeted, content creation volume, technical optimizations required, and ongoing monitoring. Generally, services can range from a few hundred dollars to several thousand dollars per month. It's best to obtain a customized quote based on an assessment of your current online presence and specific business goals.",
+        "description": "AEO service costs for roofers vary based on scope, market, and agency, typically ranging from hundreds to several thousands monthly. Get a customized quote based on your needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

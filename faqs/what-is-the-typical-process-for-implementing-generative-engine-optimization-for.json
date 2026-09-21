@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for implementing Generative Engine Optimization for a chiropractic clinic?",
+  "description": "The GEO implementation process involves consultation, AI audit, AI-driven content strategy generation, content creation, publication, and continuous performance",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-implementing-generative-engine-optimization-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for implementing Generative Engine Optimization for a chiropractic clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implementing GEO begins with an initial consultation to understand your practice's goals, target audience, and local market. We then conduct an AI-driven audit of your existing online presence and competitor landscape to identify opportunities. Next, our AI models generate a tailored content strategy, including keywords, topics, and content formats like blog posts, local service pages, and FAQs. This content is then created, reviewed, and published across relevant platforms, continuously monitored, and refined based on performance data to ensure optimal results and patient engagement.",
+        "description": "The GEO implementation process involves consultation, AI audit, AI-driven content strategy generation, content creation, publication, and continuous performance monitoring for your chiropractic clinic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

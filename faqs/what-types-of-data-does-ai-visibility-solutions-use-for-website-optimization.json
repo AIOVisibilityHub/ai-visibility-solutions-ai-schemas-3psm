@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of data does AI Visibility Solutions use for website optimization?",
+  "description": "AI Visibility Solutions uses website traffic, user behavior, search queries, competitor analysis, and AI model data for comprehensive optimization.",
+  "url": "aiovisibility.com/faq/what-types-of-data-does-ai-visibility-solutions-use-for-website-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of data does AI Visibility Solutions use for website optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI Visibility Solutions utilizes a comprehensive range of data for website optimization, including website traffic analytics (e.g., page views, session duration, bounce rate), user behavior data (e.g., click paths, heatmaps, scroll depth), search query data, keyword performance, competitor analysis, and content engagement metrics. We also incorporate data from various AI and machine learning models that analyze language, sentiment, and emerging trends to provide deep insights and inform optimization strategies. This holistic approach ensures data-driven decisions for maximum impact.",
+        "description": "AI Visibility Solutions uses website traffic, user behavior, search queries, competitor analysis, and AI model data for comprehensive optimization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

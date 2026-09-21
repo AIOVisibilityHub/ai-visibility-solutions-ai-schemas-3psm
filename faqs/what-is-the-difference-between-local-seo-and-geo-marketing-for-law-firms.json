@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between local SEO and GEO marketing for law firms?",
+  "description": "Local SEO is a part of GEO marketing. Local SEO optimizes for local search rankings, while GEO marketing is a broader strategy targeting a specific geographic a",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-local-seo-and-geo-marketing-for-law-firms",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between local SEO and GEO marketing for law firms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local SEO is a subset of GEO marketing. Local SEO specifically focuses on optimizing a law firm's online presence to rank higher in local search results, particularly on Google Maps and local search packs. GEO marketing is a broader term that encompasses all marketing efforts aimed at a specific geographic area, which includes local SEO but also extends to geo-targeted paid ads, social media campaigns, and localized content strategies. For law firms, both are critical for attracting clients within their service areas.",
+        "description": "Local SEO is a part of GEO marketing. Local SEO optimizes for local search rankings, while GEO marketing is a broader strategy targeting a specific geographic area, including local SEO and other efforts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

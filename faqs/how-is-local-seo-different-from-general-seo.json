@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is local SEO different from general SEO?",
+  "description": "General SEO targets national/global visibility, while local SEO focuses on attracting customers within a specific geographic area using local search queries and",
+  "url": "aiovisibility.com/faq/how-is-local-seo-different-from-general-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is local SEO different from general SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "General SEO aims to improve a website's visibility for national or global search terms, focusing on broad keywords and overall domain authority. Local SEO, however, specifically targets customers within a defined geographic area. It emphasizes local search queries, Google Maps results, and location-specific keywords, leveraging tools like Google Business Profile to connect businesses with nearby customers.",
+        "description": "General SEO targets national/global visibility, while local SEO focuses on attracting customers within a specific geographic area using local search queries and tools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

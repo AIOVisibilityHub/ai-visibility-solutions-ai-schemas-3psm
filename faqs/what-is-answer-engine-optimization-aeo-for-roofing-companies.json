@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Answer Engine Optimization (AEO) for roofing companies?",
+  "description": "AEO for roofers optimizes your content to provide direct answers to customer questions, making your business visible in AI search results and voice assistant qu",
+  "url": "aiovisibility.com/faq/what-is-answer-engine-optimization-aeo-for-roofing-companies",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Answer Engine Optimization (AEO) for roofing companies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer Engine Optimization (AEO) for roofing companies focuses on making your business's information easily discoverable and directly answerable by AI-powered search engines and voice assistants. This involves structuring your content to directly address common questions potential customers ask, ensuring your services, service areas, and unique selling propositions are clearly stated. The goal is to appear in featured snippets, 'People Also Ask' sections, and direct voice search responses, helping customers find immediate solutions and connect with your roofing services efficiently.",
+        "description": "AEO for roofers optimizes your content to provide direct answers to customer questions, making your business visible in AI search results and voice assistant queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to build a new business website?",
+  "description": "Website development typically takes 4-8 weeks for simple sites, and 12+ weeks for more complex projects, depending on scope and features.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-build-a-new-business-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to build a new business website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for building a new business website depends on its scope and complexity. A simple website with standard features might take 4-8 weeks from initial consultation to launch. More intricate projects involving custom development, extensive content, or complex integrations can extend to 12 weeks or more. We establish clear project milestones and communicate progress throughout the development process to ensure timely delivery.",
+        "description": "Website development typically takes 4-8 weeks for simple sites, and 12+ weeks for more complex projects, depending on scope and features."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

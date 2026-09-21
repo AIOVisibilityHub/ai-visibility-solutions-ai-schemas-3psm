@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should my company consider getting an AI Technical Audit?",
+  "description": "Consider an AI Technical Audit for performance issues, data quality concerns, regulatory compliance, before scaling AI, or if your AI isn't meeting ROI expectat",
+  "url": "aiovisibility.com/faq/when-should-my-company-consider-getting-an-ai-technical-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should my company consider getting an AI Technical Audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider an AI Technical Audit if you're experiencing performance issues with your AI models, suspect data quality problems, or need to ensure compliance with industry regulations. It's also beneficial before scaling AI operations, migrating to new platforms, or when preparing for significant investment rounds. Additionally, if your AI hasn't delivered expected ROI or you want to identify new opportunities for optimization, an audit provides valuable insights.",
+        "description": "Consider an AI Technical Audit for performance issues, data quality concerns, regulatory compliance, before scaling AI, or if your AI isn't meeting ROI expectations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

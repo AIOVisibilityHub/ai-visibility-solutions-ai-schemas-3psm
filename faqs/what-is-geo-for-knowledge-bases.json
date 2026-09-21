@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is GEO for Knowledge Bases?",
+  "description": "GEO for Knowledge Bases optimizes business information in knowledge bases for geographic relevance, helping search engines and AI provide accurate local results",
+  "url": "aiovisibility.com/faq/what-is-geo-for-knowledge-bases",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GEO for Knowledge Bases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO for Knowledge Bases refers to optimizing your business information stored in knowledge bases for geographic relevance. This helps search engines and AI assistants understand where your business operates and serve accurate local information to users. It involves structuring data with location attributes, local keywords, and ensuring consistency across all platforms where your knowledge base is accessed or indexed.",
+        "description": "GEO for Knowledge Bases optimizes business information in knowledge bases for geographic relevance, helping search engines and AI provide accurate local results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

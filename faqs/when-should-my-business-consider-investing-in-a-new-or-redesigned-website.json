@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should my business consider investing in a new or redesigned website?",
+  "description": "Consider a new website if your current one is outdated, not mobile-friendly, difficult to update, or not meeting business goals.",
+  "url": "aiovisibility.com/faq/when-should-my-business-consider-investing-in-a-new-or-redesigned-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should my business consider investing in a new or redesigned website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider investing in a new or redesigned website if your current site is outdated, not mobile-friendly, difficult to update, or failing to generate leads. If your branding has evolved, your business offers new services, or you're struggling to compete online, a new website can re-establish your digital presence. A modern, user-friendly site is a critical tool for growth, customer acquisition, and maintaining credibility in today's market.",
+        "description": "Consider a new website if your current one is outdated, not mobile-friendly, difficult to update, or not meeting business goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

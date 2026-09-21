@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between general SEO and GEO for a multi-location business?",
+  "description": "General SEO aims for broad, national visibility, while GEO (local SEO) specifically targets improving visibility in local search results for individual business",
+  "url": "aiovisibility.com/faq/what-s-the-difference-between-general-seo-and-geo-for-a-multi-location-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between general SEO and GEO for a multi-location business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "General SEO focuses on improving a website's overall organic search visibility for broad keywords, aiming to rank nationally or globally. It often involves site-wide technical optimization, content marketing for general topics, and backlinks to the main domain. GEO, or local SEO, specifically targets improving visibility in local search results for individual physical business locations. It emphasizes Google Business Profile optimization, location-specific keywords, local citations, and geo-targeted content to attract nearby customers, even if the national brand is well-known.",
+        "description": "General SEO aims for broad, national visibility, while GEO (local SEO) specifically targets improving visibility in local search results for individual business locations to attract nearby customers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

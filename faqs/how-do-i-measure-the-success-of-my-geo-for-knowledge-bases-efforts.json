@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I measure the success of my GEO for Knowledge Bases efforts?",
+  "description": "Measure success by increased local search rankings, local pack visibility, 'near me' search growth, and conversions from local customers.",
+  "url": "aiovisibility.com/faq/how-do-i-measure-the-success-of-my-geo-for-knowledge-bases-efforts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I measure the success of my GEO for Knowledge Bases efforts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Success is typically measured by metrics such as increased local search rankings for relevant keywords, higher local pack visibility, growth in 'near me' searches, and improved click-through rates from local results. You should also track website traffic originating from local searches, phone calls from Google Business Profile, and conversions driven by local customers. Monitoring engagement with local content within your knowledge base also provides valuable insights.",
+        "description": "Measure success by increased local search rankings, local pack visibility, 'near me' search growth, and conversions from local customers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

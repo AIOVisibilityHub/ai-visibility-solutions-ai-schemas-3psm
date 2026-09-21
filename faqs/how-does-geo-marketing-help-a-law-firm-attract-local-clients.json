@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does GEO marketing help a law firm attract local clients?",
+  "description": "GEO marketing helps law firms appear prominently in local search results and directories, connecting them with potential clients actively seeking legal services",
+  "url": "aiovisibility.com/faq/how-does-geo-marketing-help-a-law-firm-attract-local-clients",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does GEO marketing help a law firm attract local clients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO marketing helps a law firm attract local clients by ensuring the firm appears prominently in search results and online directories when users search for legal services in their vicinity. This involves optimizing Google Business Profiles, using location-specific keywords, and creating content relevant to local legal issues. By focusing on local search intent, law firms can connect with individuals actively seeking legal representation in their immediate area, increasing the likelihood of inquiries and new client acquisition.",
+        "description": "GEO marketing helps law firms appear prominently in local search results and directories, connecting them with potential clients actively seeking legal services nearby."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

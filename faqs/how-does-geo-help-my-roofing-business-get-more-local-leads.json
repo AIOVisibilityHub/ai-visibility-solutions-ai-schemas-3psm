@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does GEO help my roofing business get more local leads?",
+  "description": "GEO creates hyper-local content that targets specific local search queries, making your roofing business more visible to nearby potential customers and generati",
+  "url": "aiovisibility.com/faq/how-does-geo-help-my-roofing-business-get-more-local-leads",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does GEO help my roofing business get more local leads?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO focuses on creating content that answers specific local search queries, such as 'roof repair near me' or 'best roofer [city name]'. By generating hyper-local service pages, project showcases, and blog posts that feature neighborhood-specific information and keywords, GEO makes your business more visible to people searching for roofing services in their immediate area. This precise targeting increases the likelihood of attracting qualified local leads who are actively looking to hire a contractor for their roofing needs, converting more searches into potential customers.",
+        "description": "GEO creates hyper-local content that targets specific local search queries, making your roofing business more visible to nearby potential customers and generating more qualified local leads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

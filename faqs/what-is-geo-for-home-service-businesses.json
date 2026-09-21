@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is GEO for home service businesses?",
+  "description": "GEO for home service businesses optimizes online presence to attract local customers in specific service areas.",
+  "url": "aiovisibility.com/faq/what-is-geo-for-home-service-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GEO for home service businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO, or geographic optimization, for home service businesses refers to digital marketing strategies focused on attracting local customers. This involves optimizing online presence for specific service areas to improve visibility in local search results and maps. It helps connect businesses like plumbers, electricians, or landscapers with potential clients in their immediate vicinity, ensuring that marketing efforts reach the most relevant local audience ready to book a service.",
+        "description": "GEO for home service businesses optimizes online presence to attract local customers in specific service areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

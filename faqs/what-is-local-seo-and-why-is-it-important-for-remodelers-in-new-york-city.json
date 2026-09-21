@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is local SEO and why is it important for remodelers in New York City?",
+  "description": "Local SEO boosts visibility in local search, essential for New York City remodelers to connect with clients in specific neighborhoods. It optimizes local listin",
+  "url": "aiovisibility.com/faq/what-is-local-seo-and-why-is-it-important-for-remodelers-in-new-york-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is local SEO and why is it important for remodelers in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local SEO focuses on improving a business's visibility in local search results, which is crucial for remodelers in a dense market like New York City. It involves optimizing Google Business Profile, building local citations, acquiring local reviews, and ensuring consistent business information across online directories. For NYC remodelers, local SEO helps potential clients in specific boroughs or neighborhoods find their services when searching for 'kitchen remodel Brooklyn' or 'bathroom renovation Manhattan.' This directly connects them with nearby customers actively seeking remodeling services.",
+        "description": "Local SEO boosts visibility in local search, essential for New York City remodelers to connect with clients in specific neighborhoods. It optimizes local listings and reviews."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

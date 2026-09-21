@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between local SEO and national SEO for home services?",
+  "description": "Local SEO targets customers in specific geographic areas, while national SEO aims for a broader, nationwide audience.",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-local-seo-and-national-seo-for-home-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between local SEO and national SEO for home services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local SEO focuses on optimizing your online presence to attract customers within a specific geographic area, typically a city, county, or neighborhood. It emphasizes local keywords, Google Business Profile, and local citations. National SEO, conversely, targets a broader, nationwide audience and focuses on more general keywords and content relevant across larger regions. For home service businesses, local SEO is usually more effective as services are delivered in person within a limited radius, making proximity a primary factor for customers.",
+        "description": "Local SEO targets customers in specific geographic areas, while national SEO aims for a broader, nationwide audience."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

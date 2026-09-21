@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics are used to measure the success of GEO campaigns?",
+  "description": "Success metrics for GEO include increased Google Business Profile views, website clicks, calls, direction requests, local rankings, reviews, and local conversio",
+  "url": "aiovisibility.com/faq/what-metrics-are-used-to-measure-the-success-of-geo-campaigns",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics are used to measure the success of GEO campaigns?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key metrics for measuring GEO campaign success include increases in Google Business Profile views, clicks to your website, phone calls, and direction requests. We also track improvements in local search rankings for target keywords, growth in online reviews and ratings, and ultimately, an increase in local leads and customer conversions. These metrics provide a clear picture of the campaign's impact.",
+        "description": "Success metrics for GEO include increased Google Business Profile views, website clicks, calls, direction requests, local rankings, reviews, and local conversions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

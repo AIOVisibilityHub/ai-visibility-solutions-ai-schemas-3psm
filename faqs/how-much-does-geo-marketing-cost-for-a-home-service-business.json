@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does GEO marketing cost for a home service business?",
+  "description": "GEO marketing costs vary by service scope, market competitiveness, and target areas, typically ranging from hundreds to thousands per month.",
+  "url": "aiovisibility.com/faq/how-much-does-geo-marketing-cost-for-a-home-service-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does GEO marketing cost for a home service business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of GEO marketing for a home service business varies widely based on the scope of services, the competitiveness of your market, and the number of service areas you target. Basic packages might start from a few hundred dollars per month, while more comprehensive strategies involving extensive content creation, paid local ads, and advanced optimization could range into several thousands. A custom quote is typically provided after assessing your specific business needs and marketing goals.",
+        "description": "GEO marketing costs vary by service scope, market competitiveness, and target areas, typically ranging from hundreds to thousands per month."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should my website include to improve my AEO for roofing services?",
+  "description": "To boost AEO, your website needs detailed service explanations, process descriptions, pricing guides, and a comprehensive FAQ. Include team expertise, licenses,",
+  "url": "aiovisibility.com/faq/what-information-should-my-website-include-to-improve-my-aeo-for-roofing-service",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should my website include to improve my AEO for roofing services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To improve AEO for your roofing services, your website should include comprehensive and well-organized information. This means detailed service pages for different types of roofing (shingle, metal, flat), clear explanations of your repair and installation processes, transparent pricing guides or cost factors, and a robust FAQ section. Showcase your team's expertise, local licenses, insurance, and customer testimonials. Ensure all content directly answers potential customer questions, uses schema markup where appropriate, and is kept up-to-date to maintain authority and relevance.",
+        "description": "To boost AEO, your website needs detailed service explanations, process descriptions, pricing guides, and a comprehensive FAQ. Include team expertise, licenses, and testimonials, ensuring content answers customer questions directly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

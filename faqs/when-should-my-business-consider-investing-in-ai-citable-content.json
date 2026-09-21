@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should my business consider investing in AI citable content?",
+  "description": "Invest in AI citable content when you recognize AI's growing influence on search and information consumption, especially if online visibility and brand authorit",
+  "url": "aiovisibility.com/faq/when-should-my-business-consider-investing-in-ai-citable-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should my business consider investing in AI citable content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your business should consider investing in AI citable content as soon as you recognize the growing influence of AI in search, content generation, and information consumption. If your online visibility, brand authority, or accurate representation of your products/services is critical, preparing your content for AI is essential. This is particularly important for businesses that rely on their content to educate, inform, or provide authoritative answers, as AI's ability to accurately cite your content can significantly impact your digital footprint and reputation.",
+        "description": "Invest in AI citable content when you recognize AI's growing influence on search and information consumption, especially if online visibility and brand authority are critical. It's essential for businesses relying on content to educate or provide authoritative answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

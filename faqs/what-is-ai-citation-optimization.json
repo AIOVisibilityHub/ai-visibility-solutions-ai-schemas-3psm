@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AI Citation Optimization?",
+  "description": "AI Citation Optimization uses artificial intelligence to analyze, create, and manage consistent business citations across online directories, improving local se",
+  "url": "aiovisibility.com/faq/what-is-ai-citation-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AI Citation Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI Citation Optimization uses artificial intelligence to analyze, create, and manage business citations across numerous online directories. This process ensures consistent and accurate business information (Name, Address, Phone Number - NAP) across the web. The AI identifies opportunities for new citations, corrects inconsistencies, and suppresses outdated or incorrect listings. This systematic approach enhances a business's online visibility, improves local search engine rankings, and provides accurate information to potential customers, which is crucial for local SEO success.",
+        "description": "AI Citation Optimization uses artificial intelligence to analyze, create, and manage consistent business citations across online directories, improving local search visibility and accuracy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

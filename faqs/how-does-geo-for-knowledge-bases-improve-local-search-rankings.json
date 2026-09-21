@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does GEO for Knowledge Bases improve local search rankings?",
+  "description": "It improves rankings by providing explicit geographical signals and consistent local data to search engines, helping them match local user queries.",
+  "url": "aiovisibility.com/faq/how-does-geo-for-knowledge-bases-improve-local-search-rankings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does GEO for Knowledge Bases improve local search rankings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "By implementing GEO for Knowledge Bases, businesses provide explicit geographical signals to search engines. This includes consistent NAP (Name, Address, Phone) data, location-specific service descriptions, and localized content within the knowledge base. Search engines use this structured geographic data to better match user queries with relevant local businesses, thereby improving visibility in local search results and map packs.",
+        "description": "It improves rankings by providing explicit geographical signals and consistent local data to search engines, helping them match local user queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

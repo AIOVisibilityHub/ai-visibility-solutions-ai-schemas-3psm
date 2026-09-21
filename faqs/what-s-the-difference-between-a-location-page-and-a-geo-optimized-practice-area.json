@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between a location page and a GEO-optimized practice area page?",
+  "description": "A location page covers general office details, while a GEO-optimized practice area page focuses on a specific legal service within a geographic area.",
+  "url": "aiovisibility.com/faq/what-s-the-difference-between-a-location-page-and-a-geo-optimized-practice-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between a location page and a GEO-optimized practice area page?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A location page focuses broadly on a law firm's presence in a specific city, often listing general services and contact information for that office. A GEO-optimized practice area page, however, specifically targets a particular legal service within a given geographic area. For example, a firm might have a 'Los Angeles Office' location page, but then also a 'Personal Injury Lawyer Los Angeles' practice area page. The latter delves deeper into the specific service, tailoring content to local inquiries for that legal specialty.",
+        "description": "A location page covers general office details, while a GEO-optimized practice area page focuses on a specific legal service within a geographic area."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is GEO for Practice Area Pages?",
+  "description": "GEO for Practice Area Pages optimizes website content for specific geographic locations and legal services to improve local search rankings.",
+  "url": "aiovisibility.com/faq/what-is-geo-for-practice-area-pages",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GEO for Practice Area Pages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO for Practice Area Pages refers to optimizing website content for specific geographic locations in conjunction with the legal services or practice areas offered. This strategy helps law firms rank higher in local search results when potential clients in a particular area search for a specific legal service, such as 'personal injury lawyer Los Angeles' or 'estate planning attorney Chicago'. It involves tailoring page content, meta descriptions, and local schema markup to align with relevant cities or regions where the firm provides services.",
+        "description": "GEO for Practice Area Pages optimizes website content for specific geographic locations and legal services to improve local search rankings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

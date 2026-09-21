@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between standard SEO and GEO for Knowledge Bases?",
+  "description": "Standard SEO targets overall visibility; GEO for Knowledge Bases focuses on local search visibility and geographic relevance.",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-standard-seo-and-geo-for-knowledge-bases",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between standard SEO and GEO for Knowledge Bases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard SEO focuses on overall website visibility and ranking for broad keywords, while GEO for Knowledge Bases specifically targets local search visibility. Standard SEO might optimize for 'AI solutions,' whereas GEO for Knowledge Bases optimizes for 'AI solutions in New York City' or 'AI solutions near me.' It's a specialized subset of SEO that emphasizes geographic relevance and local intent, particularly for information accessed via knowledge bases or AI assistants.",
+        "description": "Standard SEO targets overall visibility; GEO for Knowledge Bases focuses on local search visibility and geographic relevance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

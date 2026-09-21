@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is GEO for Help Articles and how does it improve visibility?",
+  "description": "GEO for Help Articles optimizes online help content for local search queries, making your support resources visible to users in specific geographic areas.",
+  "url": "aiovisibility.com/faq/what-is-geo-for-help-articles-and-how-does-it-improve-visibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GEO for Help Articles and how does it improve visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO for Help Articles is a strategy to optimize your online help content (FAQs, knowledge base articles, support documents) for local search queries. By incorporating geographically relevant keywords and local intent, it ensures that users searching for help or solutions in specific areas, like New York City or Los Angeles, are more likely to find your resources. This improves your local search engine ranking and helps your business attract more geographically relevant traffic seeking support or information related to your services.",
+        "description": "GEO for Help Articles optimizes online help content for local search queries, making your support resources visible to users in specific geographic areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

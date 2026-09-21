@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AI overviews optimization differ from traditional SEO for remodelers?",
+  "description": "AI overviews optimization focuses on making content digestible for AI to generate summaries, whereas traditional SEO aims for organic search rankings.",
+  "url": "aiovisibility.com/faq/how-does-ai-overviews-optimization-differ-from-traditional-seo-for-remodelers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AI overviews optimization differ from traditional SEO for remodelers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional SEO focuses on ranking your website in the ten blue links. AI overviews optimization goes further by tailoring your content and data for AI models that generate summaries. While traditional SEO factors like keywords and backlinks still matter, AI optimization emphasizes structured data, entity recognition, and directly answering common questions to be chosen by the AI as a definitive source. It's about being featured in the summary, not just the list.",
+        "description": "AI overviews optimization focuses on making content digestible for AI to generate summaries, whereas traditional SEO aims for organic search rankings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

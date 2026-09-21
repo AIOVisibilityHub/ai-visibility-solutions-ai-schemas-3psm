@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AI citable content?",
+  "description": "AI citable content is digital information structured for easy identification and referencing by artificial intelligence systems. It includes features like clear",
+  "url": "aiovisibility.com/faq/what-is-ai-citable-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AI citable content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI citable content refers to digital information, such as articles, reports, or data, that is structured and formatted in a way that allows artificial intelligence systems to easily identify, extract, and reference it. This includes content with clear headings, structured data, semantic markup, and metadata that helps AI understand its context and relevance. The goal is to make content machine-readable and easily attributable when AI models generate summaries, answers, or new content based on it, enhancing accuracy and reducing 'hallucinations'.",
+        "description": "AI citable content is digital information structured for easy identification and referencing by artificial intelligence systems. It includes features like clear headings and semantic markup to improve AI's ability to attribute sources and understand context."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

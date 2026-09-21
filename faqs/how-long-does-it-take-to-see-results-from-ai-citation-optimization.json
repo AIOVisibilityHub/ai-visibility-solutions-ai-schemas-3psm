@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AI Citation Optimization?",
+  "description": "You can typically see initial improvements in 1-3 months, with more significant impacts on local search rankings becoming apparent within 3-6 months.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-ai-citation-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AI Citation Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeframe for seeing results from AI Citation Optimization can vary, but improvements in citation accuracy and local search visibility typically begin within 1-3 months. Initial changes like correcting critical inconsistencies and establishing new high-quality citations are often reflected quickly. However, the full impact on local search rankings and customer engagement may take 3-6 months as search engines re-index and weigh the consistent data. Ongoing monitoring and optimization ensure sustained benefits over time.",
+        "description": "You can typically see initial improvements in 1-3 months, with more significant impacts on local search rankings becoming apparent within 3-6 months."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

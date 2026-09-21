@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you handle inconsistent business information across many locations?",
+  "description": "We audit and centralize business information, then use tools to continuously monitor and update all online listings to ensure NAP consistency across all locatio",
+  "url": "aiovisibility.com/faq/how-do-you-handle-inconsistent-business-information-across-many-locations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you handle inconsistent business information across many locations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Handling inconsistent business information across many locations is a core part of our GEO process. We begin by conducting a comprehensive audit to identify all existing listings and discrepancies across various online directories and platforms. We then centralize data management to ensure that crucial information—such as names, addresses, phone numbers (NAP), hours of operation, and service descriptions—is accurate and uniform for every single location. Tools and processes are implemented to continuously monitor and update these listings, maintaining data integrity and improving local search ranking signals.",
+        "description": "We audit and centralize business information, then use tools to continuously monitor and update all online listings to ensure NAP consistency across all locations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

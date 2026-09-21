@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of directories does AI Citation Optimization cover?",
+  "description": "It covers major search engines, popular review sites, industry-specific directories, local city guides, and data aggregators to establish a broad online presenc",
+  "url": "aiovisibility.com/faq/what-types-of-directories-does-ai-citation-optimization-cover",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of directories does AI Citation Optimization cover?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI Citation Optimization covers a comprehensive range of online directories and platforms. This includes major search engines like Google, Bing, and Apple Maps, as well as popular review sites such as Yelp and TripAdvisor. It also extends to industry-specific directories relevant to your business niche, local city guides, social media platforms, and data aggregators that feed information to many other sites. The goal is to establish a broad and consistent online presence wherever potential customers might look.",
+        "description": "It covers major search engines, popular review sites, industry-specific directories, local city guides, and data aggregators to establish a broad online presence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

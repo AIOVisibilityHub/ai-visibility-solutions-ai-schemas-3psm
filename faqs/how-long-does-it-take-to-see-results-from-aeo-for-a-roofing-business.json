@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AEO for a roofing business?",
+  "description": "Initial AEO results for a roofing business typically appear within 3-6 months, with more significant gains in leads and traffic becoming apparent after 6-12 mon",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-aeo-for-a-roofing-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AEO for a roofing business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seeing results from AEO can vary, but generally, businesses can expect to see initial improvements within 3 to 6 months. This timeframe allows for search engines to crawl and index optimized content, recognize direct answers, and begin featuring them in snippets or 'People Also Ask' sections. More significant and sustained results, such as a noticeable increase in qualified leads and traffic, typically become apparent after 6 to 12 months of consistent AEO efforts. Patience and continuous optimization are key for long-term success.",
+        "description": "Initial AEO results for a roofing business typically appear within 3-6 months, with more significant gains in leads and traffic becoming apparent after 6-12 months of consistent effort."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

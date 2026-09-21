@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost associated with implementing GEO for Knowledge Bases?",
+  "description": "Cost varies based on business size, number of locations, and knowledge base complexity, ranging from setup fees to monthly retainers.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-associated-with-implementing-geo-for-knowledge-bases",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost associated with implementing GEO for Knowledge Bases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost varies depending on the size and complexity of your business, the number of locations, and the current state of your knowledge base. It can range from basic setup fees for smaller businesses to comprehensive monthly retainers for larger enterprises requiring ongoing optimization and content creation. Factors include data auditing, implementation of structured data, local content development, and continuous monitoring. A consultation can provide a tailored estimate.",
+        "description": "Cost varies based on business size, number of locations, and knowledge base complexity, ranging from setup fees to monthly retainers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

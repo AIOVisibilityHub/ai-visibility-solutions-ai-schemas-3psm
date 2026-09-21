@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of content can be made AI citable?",
+  "description": "Most digital content, including articles, product descriptions, and FAQs, can be made AI citable by applying structured data, clear semantic markup, and consist",
+  "url": "aiovisibility.com/faq/what-types-of-content-can-be-made-ai-citable",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of content can be made AI citable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Virtually any type of digital content can be optimized for AI citability. This includes blog posts, articles, whitepapers, product descriptions, FAQs, press releases, research papers, and even multimedia transcripts. The key is to apply structured data, clear semantic markup, and consistent formatting to the textual elements. For non-textual content like images or videos, detailed captions, alt text, and transcripts, along with appropriate metadata, help AI understand and reference the underlying information.",
+        "description": "Most digital content, including articles, product descriptions, and FAQs, can be made AI citable by applying structured data, clear semantic markup, and consistent formatting. Detailed metadata also aids in AI understanding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

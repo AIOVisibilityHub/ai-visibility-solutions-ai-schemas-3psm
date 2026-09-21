@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between an AI Technical Audit and a general IT audit?",
+  "description": "An AI Technical Audit focuses specifically on AI models, data pipelines, and algorithmic considerations, unlike a general IT audit that covers overall IT infras",
+  "url": "aiovisibility.com/faq/what-s-the-difference-between-an-ai-technical-audit-and-a-general-it-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between an AI Technical Audit and a general IT audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While both audits assess technical systems, an AI Technical Audit specifically focuses on the unique aspects of artificial intelligence. A general IT audit examines overall IT infrastructure, cybersecurity, and operational efficiency across all systems. An AI audit delves into AI model architecture, data pipelines, algorithmic bias, model explainability, performance metrics, and the specific ethical and regulatory considerations pertinent to AI. It provides a specialized, in-depth view of your AI ecosystem.",
+        "description": "An AI Technical Audit focuses specifically on AI models, data pipelines, and algorithmic considerations, unlike a general IT audit that covers overall IT infrastructure and cybersecurity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is GEO for law firms?",
+  "description": "GEO for law firms is geo-targeted digital marketing to boost online visibility within specific local areas, attracting clients in the firm's service regions.",
+  "url": "aiovisibility.com/faq/what-is-geo-for-law-firms",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GEO for law firms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO for law firms refers to geo-targeted digital marketing strategies designed to increase a law firm's online visibility within specific geographic areas. This involves optimizing online content and listings so that potential clients searching for legal services in their local area are more likely to find the firm. Strategies include local SEO, targeted advertising, and localized content creation to attract clients situated in the firm's service regions, such as New York City, Los Angeles, Chicago, Houston, and Phoenix.",
+        "description": "GEO for law firms is geo-targeted digital marketing to boost online visibility within specific local areas, attracting clients in the firm's service regions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should I track to measure the success of GEO for Help Articles?",
+  "description": "Track local search rankings, organic traffic from specific locations, click-through rates, bounce rates, conversion rates, and engagement metrics.",
+  "url": "aiovisibility.com/faq/what-metrics-should-i-track-to-measure-the-success-of-geo-for-help-articles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should I track to measure the success of GEO for Help Articles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key metrics include local search rankings for geo-targeted keywords, organic traffic to help articles from specific geographic locations, and click-through rates. You should also monitor bounce rates on these articles, conversion rates (e.g., users contacting support or making a purchase after viewing an article), and the number of local customer inquiries attributed to your help content. Tracking engagement metrics like time on page can also indicate content effectiveness.",
+        "description": "Track local search rankings, organic traffic from specific locations, click-through rates, bounce rates, conversion rates, and engagement metrics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

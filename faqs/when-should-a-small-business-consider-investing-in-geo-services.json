@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should a small business consider investing in GEO services?",
+  "description": "Invest in GEO services if your small business has a local customer base, a physical storefront, or needs to attract more nearby customers and improve local sear",
+  "url": "aiovisibility.com/faq/when-should-a-small-business-consider-investing-in-geo-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should a small business consider investing in GEO services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A small business should consider investing in GEO services if its customer base is primarily local or if it has a physical storefront. This is particularly true if your business relies on foot traffic, local calls, or serves a specific community. If you're struggling to appear in local search results or want to attract more nearby customers, it's an opportune time to implement a GEO strategy.",
+        "description": "Invest in GEO services if your small business has a local customer base, a physical storefront, or needs to attract more nearby customers and improve local search visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

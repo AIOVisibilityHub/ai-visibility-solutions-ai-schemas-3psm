@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my law firm serves multiple cities, like Chicago and Houston?",
+  "description": "For firms serving multiple distinct cities, create dedicated, GEO-optimized practice area pages for each city and practice area with unique local content.",
+  "url": "aiovisibility.com/faq/what-if-my-law-firm-serves-multiple-cities-like-chicago-and-houston",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my law firm serves multiple cities, like Chicago and Houston?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your law firm serves multiple distinct cities such as Chicago and Houston, it is highly recommended to create dedicated, GEO-optimized practice area pages for each major city and each relevant practice area. This allows you to specifically target local search queries for 'personal injury lawyer Chicago' and 'personal injury lawyer Houston' with tailored content. Each page should have unique content, local details, and clear calls to action relevant to that specific location, preventing content duplication and maximizing local search impact in each market.",
+        "description": "For firms serving multiple distinct cities, create dedicated, GEO-optimized practice area pages for each city and practice area with unique local content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
