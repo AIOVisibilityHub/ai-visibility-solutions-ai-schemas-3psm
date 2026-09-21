@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is GEO schema markup and why is it important for local businesses?",
+  "description": "GEO schema markup helps search engines understand your local business details, improving visibility in local search results and maps for customers near you.",
+  "url": "aiovisibility.com/faq/what-is-geo-schema-markup-and-why-is-it-important-for-local-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GEO schema markup and why is it important for local businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO schema markup, or local business schema, is structured data added to your website's HTML that provides search engines with specific details about your business, such as name, address, phone number, operating hours, and service areas. This information helps search engines understand your business's relevance to local searches. For local businesses, implementing GEO schema significantly improves visibility in local search results, Google Maps, and knowledge panels, making it easier for potential customers in your service areas like New York City or Los Angeles to find you.",
+        "description": "GEO schema markup helps search engines understand your local business details, improving visibility in local search results and maps for customers near you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

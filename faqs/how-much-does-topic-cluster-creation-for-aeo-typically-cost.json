@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does topic cluster creation for AEO typically cost?",
+  "description": "Costs vary widely based on the number and depth of clusters, industry complexity, and services included like strategy, research, writing, and monitoring.",
+  "url": "aiovisibility.com/faq/how-much-does-topic-cluster-creation-for-aeo-typically-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does topic cluster creation for AEO typically cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of topic cluster creation for AEO varies significantly based on several factors, including the number of clusters desired, the depth and volume of content required for each pillar and cluster page, the industry's complexity, and the level of research and optimization involved. Generally, it's an investment in a long-term content strategy, often priced per project or through ongoing retainers. It encompasses content strategy, keyword research, content writing, editing, internal linking implementation, and ongoing performance monitoring. Businesses should expect to invest based on the scale of authority they aim to build and the competitiveness of their target AEO landscape.",
+        "description": "Costs vary widely based on the number and depth of clusters, industry complexity, and services included like strategy, research, writing, and monitoring."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

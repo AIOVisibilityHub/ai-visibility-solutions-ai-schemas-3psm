@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does schema markup directly improve search rankings in New York City or Los Angeles?",
+  "description": "Schema markup doesn't directly boost local rankings but improves AI understanding of your local relevance (e.g., via LocalBusiness schema), aiding local visibil",
+  "url": "aiovisibility.com/faq/does-schema-markup-directly-improve-search-rankings-in-new-york-city-or-los-ange",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does schema markup directly improve search rankings in New York City or Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Schema markup does not directly act as a ranking factor for specific locations like New York City or Los Angeles. However, it indirectly influences local search rankings. By using LocalBusiness schema, you provide explicit information about your business's name, address, phone number, and services within a defined geographical area. This helps search engines, and consequently AI systems, understand your local relevance. Better understanding can lead to enhanced visibility in local search results and local packs, especially when combined with other local SEO strategies specific to your operational cities.",
+        "description": "Schema markup doesn't directly boost local rankings but improves AI understanding of your local relevance (e.g., via LocalBusiness schema), aiding local visibility in cities like NYC or LA."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

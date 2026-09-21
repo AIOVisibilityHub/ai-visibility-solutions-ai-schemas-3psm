@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to implement GEO schema markup?",
+  "description": "The cost varies, depending on website complexity and the number of locations or services, and can be a one-time fee or part of a larger SEO package.",
+  "url": "aiovisibility.com/faq/how-much-does-it-cost-to-implement-geo-schema-markup",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to implement GEO schema markup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of implementing GEO schema markup can vary significantly based on several factors. For a simple website, it might involve a one-time fee from an SEO specialist or agency. Complex websites with multiple locations, varied service offerings, or a need for custom schema types will typically incur higher costs due to increased labor and expertise required. Some agencies offer it as part of a broader local SEO package. It's often priced based on the project's scope or an hourly rate.",
+        "description": "The cost varies, depending on website complexity and the number of locations or services, and can be a one-time fee or part of a larger SEO package."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

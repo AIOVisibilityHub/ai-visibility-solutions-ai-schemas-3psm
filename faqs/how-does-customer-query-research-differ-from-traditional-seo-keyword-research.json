@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does Customer Query Research differ from traditional SEO keyword research?",
+  "description": "Unlike traditional SEO keyword research that focuses on individual keywords, Customer Query Research for AEO analyzes full user questions and their intent for a",
+  "url": "aiovisibility.com/faq/how-does-customer-query-research-differ-from-traditional-seo-keyword-research",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does Customer Query Research differ from traditional SEO keyword research?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional SEO keyword research primarily focuses on individual keywords and their search volume to rank for specific terms. Customer Query Research for AEO, however, emphasizes understanding the full question and the user's intent behind it. It looks at conversational queries, long-tail questions, and natural language processing patterns. This distinction is crucial for optimizing for answer engines, which prioritize direct answers to questions rather than just keyword density. It aims to satisfy informational needs more comprehensively.",
+        "description": "Unlike traditional SEO keyword research that focuses on individual keywords, Customer Query Research for AEO analyzes full user questions and their intent for answer engine optimization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of schema markup are most important for AEO strategies?",
+  "description": "Key schema types for AEO include Organization, LocalBusiness, Product, Article, FAQPage, and HowTo, which enhance AI's understanding and presentation of your co",
+  "url": "aiovisibility.com/faq/what-types-of-schema-markup-are-most-important-for-aeo-strategies",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of schema markup are most important for AEO strategies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For AEO, essential schema types often include Organization, LocalBusiness, Product, Article, FAQPage, and HowTo. Product schema is crucial for e-commerce, enabling rich snippets for pricing and availability. Organization and LocalBusiness schema help AI understand your entity and its geographic relevance. Article schema improves visibility for blog posts and news. FAQPage and HowTo schema directly address user questions, making content more accessible to voice search and AI assistants, and often resulting in direct answer features.",
+        "description": "Key schema types for AEO include Organization, LocalBusiness, Product, Article, FAQPage, and HowTo, which enhance AI's understanding and presentation of your content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

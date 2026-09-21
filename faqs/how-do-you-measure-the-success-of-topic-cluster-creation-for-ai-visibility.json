@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you measure the success of topic cluster creation for AI visibility?",
+  "description": "Measure success by tracking organic ranking improvements, traffic growth, domain authority, user engagement metrics like time on page and bounce rate, and lead",
+  "url": "aiovisibility.com/faq/how-do-you-measure-the-success-of-topic-cluster-creation-for-ai-visibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you measure the success of topic cluster creation for AI visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Measuring the success of topic cluster creation for AI visibility involves tracking several key performance indicators (KPIs). Look at improvements in organic search rankings for both pillar and cluster content, overall organic traffic growth to the clustered pages, and increased domain authority. Monitor changes in user engagement metrics like time on page, bounce rate, and pages per session, as comprehensive content often leads to better engagement. Additionally, track lead generation and conversions attributed to the clustered content to evaluate its business impact.",
+        "description": "Measure success by tracking organic ranking improvements, traffic growth, domain authority, user engagement metrics like time on page and bounce rate, and lead generation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

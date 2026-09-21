@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of schema markup are most relevant for AI SEO strategies?",
+  "description": "Key schema types for AI SEO include Organization, Product, Article, How-To, FAQ, LocalBusiness, VideoObject, and ImageObject, depending on your content.",
+  "url": "aiovisibility.com/faq/what-types-of-schema-markup-are-most-relevant-for-ai-seo-strategies",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of schema markup are most relevant for AI SEO strategies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Several schema types are particularly relevant for AI SEO. Organization schema helps establish your brand's identity. Product and Offer schema are crucial for e-commerce, allowing AI to understand inventory and pricing. Article schema is vital for content-heavy sites. How-To and FAQ schema directly feed AI-driven question-answering systems. LocalBusiness schema is essential for local search visibility, while VideoObject and ImageObject schema enhance multimedia content discoverability. Choosing the right types depends on your website's content and business goals.",
+        "description": "Key schema types for AI SEO include Organization, Product, Article, How-To, FAQ, LocalBusiness, VideoObject, and ImageObject, depending on your content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

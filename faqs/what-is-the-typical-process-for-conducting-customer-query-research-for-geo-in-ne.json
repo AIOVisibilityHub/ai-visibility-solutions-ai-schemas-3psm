@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for conducting customer query research for GEO in New York City?",
+  "description": "The process involves analyzing search data for New York City neighborhoods, identifying local service queries, and uncovering geo-specific keyword popularity fo",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-conducting-customer-query-research-for-geo-in-ne",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for conducting customer query research for GEO in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for New York City involves identifying key neighborhoods and boroughs, then analyzing search data specifically for these areas. This includes looking at common services searched for in Manhattan vs. Brooklyn, specific queries like 'pizza delivery NYC' or 'IT services financial district', and local trend variations. Tools are used to uncover geo-specific keyword popularity, competitor rankings within specific NYC zones, and the local intent behind user searches.",
+        "description": "The process involves analyzing search data for New York City neighborhoods, identifying local service queries, and uncovering geo-specific keyword popularity for targeted optimization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

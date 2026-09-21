@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does customer query research differ from standard keyword research?",
+  "description": "GEO customer query research focuses on local and geographic-specific search terms, unlike standard keyword research which is more general.",
+  "url": "aiovisibility.com/faq/how-does-customer-query-research-differ-from-standard-keyword-research",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does customer query research differ from standard keyword research?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard keyword research identifies general search terms, while customer query research for GEO specifically focuses on keywords and questions with local intent. It considers factors like 'near me' searches, city-specific queries, and regional service needs. This distinction allows businesses to tailor their digital marketing strategies to reach local audiences effectively, rather than broadly targeting a national or international market.",
+        "description": "GEO customer query research focuses on local and geographic-specific search terms, unlike standard keyword research which is more general."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is topic cluster creation for geo-specific SEO?",
+  "description": "It's an SEO strategy that organizes content around core local topics and supporting sub-topics to improve search visibility in specific geographic areas.",
+  "url": "aiovisibility.com/faq/what-is-topic-cluster-creation-for-geo-specific-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is topic cluster creation for geo-specific SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Topic cluster creation for geo-specific SEO organizes your website content around core local topics, supported by interconnected sub-topics. For example, a core topic like 'restaurants in New York City' might have clusters for 'best Italian restaurants NYC' or 'NYC brunch spots.' This strategy helps search engines understand your expertise for specific locations, improving your visibility in local search results and driving relevant traffic from your target geographic areas.",
+        "description": "It's an SEO strategy that organizes content around core local topics and supporting sub-topics to improve search visibility in specific geographic areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics do you use to measure the success of geo-specific topic clustering campaigns?",
+  "description": "Success is measured by improved geo-specific keyword rankings, increased local organic traffic and conversions, and enhanced website authority in target areas.",
+  "url": "aiovisibility.com/faq/what-metrics-do-you-use-to-measure-the-success-of-geo-specific-topic-clustering",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics do you use to measure the success of geo-specific topic clustering campaigns?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We measure success using key metrics such as improved organic search rankings for geo-specific keywords, increased organic traffic to local pages, higher conversion rates from local traffic (e.g., calls, form submissions, store visits), and enhanced overall website authority in target geographic areas. We also track user engagement metrics like time on page and bounce rate for cluster content to ensure relevance and quality for audiences in cities like Dallas or Atlanta.",
+        "description": "Success is measured by improved geo-specific keyword rankings, increased local organic traffic and conversions, and enhanced website authority in target areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

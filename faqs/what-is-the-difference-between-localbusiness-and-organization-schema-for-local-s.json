@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between LocalBusiness and Organization schema for local SEO?",
+  "description": "LocalBusiness schema is a specific type of Organization schema, tailored for businesses with physical locations or service areas, and is crucial for local SEO d",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-localbusiness-and-organization-schema-for-local-s",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between LocalBusiness and Organization schema for local SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The LocalBusiness schema type is a more specific classification of the broader Organization schema. While Organization schema can be used for any entity (e.g., companies, non-profits), LocalBusiness schema is specifically designed for businesses with a physical storefront or defined service area that serves local customers. For local SEO, using LocalBusiness is generally preferred as it allows for the inclusion of highly relevant local attributes like address, opening hours, areaServed, and priceRange, which are critical for appearing in local search results and map packs.",
+        "description": "LocalBusiness schema is a specific type of Organization schema, tailored for businesses with physical locations or service areas, and is crucial for local SEO due to its specific local attributes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

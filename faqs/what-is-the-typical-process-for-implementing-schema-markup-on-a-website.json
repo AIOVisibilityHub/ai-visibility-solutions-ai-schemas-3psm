@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for implementing schema markup on a website?",
+  "description": "The process involves auditing content, generating JSON-LD schema, adding it to the website (via CMS or GTM), and validating with Google's Rich Results Test.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-implementing-schema-markup-on-a-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for implementing schema markup on a website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The implementation process typically begins with an audit to identify existing content and determine suitable schema types. Next, the appropriate schema code (usually JSON-LD) is generated for each page or content type. This code is then added to the website's HTML, either directly, via a content management system (CMS) plugin, or through Google Tag Manager. Post-implementation, it's crucial to validate the schema using tools like Google's Rich Results Test to ensure it's correctly parsed and error-free. Ongoing monitoring helps identify opportunities for expansion or correction.",
+        "description": "The process involves auditing content, generating JSON-LD schema, adding it to the website (via CMS or GTM), and validating with Google's Rich Results Test."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

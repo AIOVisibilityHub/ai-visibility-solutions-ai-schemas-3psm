@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Website Entity Optimization for AI SEO?",
+  "description": "Website Entity Optimization for AI SEO structures your content with semantic meaning, helping AI systems understand and rank your site for complex queries.",
+  "url": "aiovisibility.com/faq/what-is-website-entity-optimization-for-ai-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Website Entity Optimization for AI SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Website Entity Optimization for AI SEO involves structuring your website content to be easily understood by artificial intelligence systems. This goes beyond traditional keyword usage by defining concepts, relationships, and attributes within your content. By providing clear semantic meaning, search engines can better interpret your website's relevance to complex user queries, improving visibility in AI-driven search results and knowledge panels. This process helps your site rank for broad topics, not just specific keywords, aligning with how AI processes information.",
+        "description": "Website Entity Optimization for AI SEO structures your content with semantic meaning, helping AI systems understand and rank your site for complex queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of data is analyzed in customer query research for GEO?",
+  "description": "This research analyzes location-specific search queries, regional search volume, local trends, and competitor local performance to understand local customer int",
+  "url": "aiovisibility.com/faq/what-kind-of-data-is-analyzed-in-customer-query-research-for-geo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of data is analyzed in customer query research for GEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Customer query research for GEO analyzes various data points, including location-specific search queries, search volume by region, local search trends, competitor local search performance, and user intent behind local searches. It also examines how searchers phrase their needs when looking for local businesses, such as using city names or 'near me' modifiers. This comprehensive data provides insights into the local customer journey.",
+        "description": "This research analyzes location-specific search queries, regional search volume, local trends, and competitor local performance to understand local customer intent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

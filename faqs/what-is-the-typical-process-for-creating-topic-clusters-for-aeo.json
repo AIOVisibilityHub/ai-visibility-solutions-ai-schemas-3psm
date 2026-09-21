@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for creating topic clusters for AEO?",
+  "description": "The process involves keyword research, planning a pillar page, developing supporting cluster content, optimizing for natural language, and regular updates to ma",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-creating-topic-clusters-for-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for creating topic clusters for AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process typically begins with in-depth keyword research to identify broad topics and related subtopics that address common user questions. Next, a comprehensive pillar page is planned to cover the main topic at a high level. Subsequently, individual cluster content pieces are developed, each focusing on a specific subtopic and linking back to the pillar page. All content is optimized for natural language queries and intent. Regular content audits and updates ensure the cluster remains relevant and authoritative, continuously feeding search engines with fresh, well-structured information for AEO purposes.",
+        "description": "The process involves keyword research, planning a pillar page, developing supporting cluster content, optimizing for natural language, and regular updates to maintain relevance for AEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for Website Entity Optimization?",
+  "description": "The process involves auditing content for entities, structuring information with schema markup, and ongoing monitoring to improve AI and search engine understan",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-website-entity-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for Website Entity Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process typically begins with an audit of your existing content and target audience search behavior to identify key entities. Next, we structure and enrich your content with explicit entity definitions and relationships using appropriate schema markup (e.g., Schema.org). This involves organizing information logically, disambiguating entities, and ensuring consistency across your digital assets. Finally, continuous monitoring and refinement are essential to adapt to evolving AI capabilities and search engine algorithms, ensuring sustained performance and visibility.",
+        "description": "The process involves auditing content for entities, structuring information with schema markup, and ongoing monitoring to improve AI and search engine understanding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

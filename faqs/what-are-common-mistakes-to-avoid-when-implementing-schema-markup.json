@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common mistakes to avoid when implementing schema markup?",
+  "description": "Avoid marking up invisible or inaccurate content, using mismatched schema types, or failing to test. Ensure data reflects visible content and follows Google's g",
+  "url": "aiovisibility.com/faq/what-are-common-mistakes-to-avoid-when-implementing-schema-markup",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common mistakes to avoid when implementing schema markup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common mistakes include marking up invisible content, providing incomplete or inaccurate data, using schema types that don't match the actual content, and failing to test the implementation. Over-marking or marking up irrelevant information can confuse search engines and lead to penalties. It's crucial to ensure that the structured data accurately reflects the visible content on the page and adheres to Google's guidelines. Regular validation with tools like the Rich Results Test helps catch these issues early.",
+        "description": "Avoid marking up invisible or inaccurate content, using mismatched schema types, or failing to test. Ensure data reflects visible content and follows Google's guidelines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should my business consider implementing Website Entity Optimization?",
+  "description": "Consider it when aiming to improve visibility in AI-driven search, especially with complex content, or if competitors are outranking you for specific concepts.",
+  "url": "aiovisibility.com/faq/when-should-my-business-consider-implementing-website-entity-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should my business consider implementing Website Entity Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your business should consider implementing Website Entity Optimization when you want to stay ahead in search visibility, especially with the growing prominence of AI in search and content discovery. It's particularly beneficial if your website has complex content, offers multiple services/products, or if you aim to rank for nuanced queries. If you notice a decline in voice search visibility, or if competitors are outranking you for specific concepts rather than just keywords, it's a strong indicator to begin this optimization.",
+        "description": "Consider it when aiming to improve visibility in AI-driven search, especially with complex content, or if competitors are outranking you for specific concepts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

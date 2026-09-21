@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between structured data, schema markup, and rich snippets?",
+  "description": "Structured data is organized information, schema markup is the vocabulary for it, and rich snippets are the visual search result enhancements enabled by it.",
+  "url": "aiovisibility.com/faq/what-s-the-difference-between-structured-data-schema-markup-and-rich-snippets",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between structured data, schema markup, and rich snippets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Structured data is a standardized format for organizing information on a webpage, making it understandable to search engines. Schema markup is the vocabulary (a set of tags or attributes) used to create this structured data, often from Schema.org. Rich snippets are the visual enhancements in search results (e.g., star ratings, product prices, event dates) that appear when search engines successfully interpret your structured data. Essentially, schema markup is the language, structured data is the information organized using that language, and rich snippets are the beneficial outcome in search results.",
+        "description": "Structured data is organized information, schema markup is the vocabulary for it, and rich snippets are the visual search result enhancements enabled by it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

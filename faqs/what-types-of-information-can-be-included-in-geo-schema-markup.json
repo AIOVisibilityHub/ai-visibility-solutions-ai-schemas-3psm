@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of information can be included in GEO schema markup?",
+  "description": "GEO schema can include business name, address, phone, hours, geographic coordinates, and service details to inform search engines.",
+  "url": "aiovisibility.com/faq/what-types-of-information-can-be-included-in-geo-schema-markup",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of information can be included in GEO schema markup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO schema markup can include a variety of essential business information. Key data points often encompass your business name, full address, primary phone number, website URL, and precise geographic coordinates (latitude and longitude). You can also specify business hours, accepted payment methods, pricing range, and customer review aggregates. For service-based businesses, marking up service areas and the types of services offered provides further clarity to search engines and potential customers.",
+        "description": "GEO schema can include business name, address, phone, hours, geographic coordinates, and service details to inform search engines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

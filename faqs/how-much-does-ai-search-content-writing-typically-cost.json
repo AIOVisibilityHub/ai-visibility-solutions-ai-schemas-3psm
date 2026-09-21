@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does AI Search Content Writing typically cost?",
+  "description": "Costs vary based on project scope, content volume/complexity, research depth, and ongoing services; typically, project fees, per-word rates, or retainers are us",
+  "url": "aiovisibility.com/faq/how-much-does-ai-search-content-writing-typically-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does AI Search Content Writing typically cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for AI Search Content Writing varies based on several factors, including the scope of the project, the volume and complexity of content required, the depth of research needed, and ongoing optimization services. Project-based fees, per-word rates for content creation, or retainer models for continuous strategy and execution are common. A detailed proposal is usually provided after an initial consultation to assess specific business needs and desired outcomes, ensuring transparency and alignment with budget considerations.",
+        "description": "Costs vary based on project scope, content volume/complexity, research depth, and ongoing services; typically, project fees, per-word rates, or retainers are used."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does customer query research for AI SEO typically cost?",
+  "description": "Costs vary based on project scope, analysis depth, business size, and industry complexity. We provide customized proposals after assessing specific needs.",
+  "url": "aiovisibility.com/faq/how-much-does-customer-query-research-for-ai-seo-typically-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does customer query research for AI SEO typically cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of customer query research for AI SEO can vary widely based on the scope of the project, the depth of analysis required, and the size and complexity of your business and industry. Factors like the number of target audience segments, the geographical focus, and the competitive landscape all influence pricing. We offer customized proposals after an initial consultation to accurately assess your specific needs and provide a tailored solution.",
+        "description": "Costs vary based on project scope, analysis depth, business size, and industry complexity. We provide customized proposals after assessing specific needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
