@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is website crawlability and why is it important for SEO?",
+  "description": "Website crawlability is a search engine's ability to access and read your site's content. It's crucial for SEO because un-crawlable content cannot be indexed or",
+  "url": "aiovisibility.com/faq/what-is-website-crawlability-and-why-is-it-important-for-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is website crawlability and why is it important for SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Website crawlability refers to a search engine's ability to access and read the content on your web pages. When a website is crawlable, search engine bots can efficiently discover new and updated content, allowing it to be indexed and ranked in search results. Poor crawlability can prevent your content from being seen by search engines, making it invisible to potential customers and negatively impacting your organic search performance. Ensuring your website is easily crawlable is a foundational aspect of effective SEO.",
+        "description": "Website crawlability is a search engine's ability to access and read your site's content. It's crucial for SEO because un-crawlable content cannot be indexed or ranked."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

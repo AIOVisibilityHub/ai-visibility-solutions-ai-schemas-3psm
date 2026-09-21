@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of results can a family law firm expect from AI SEO?",
+  "description": "Family law firms can expect improved organic rankings, increased qualified traffic, higher conversion rates, and reduced client acquisition costs from AI SEO.",
+  "url": "aiovisibility.com/faq/what-kind-of-results-can-a-family-law-firm-expect-from-ai-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of results can a family law firm expect from AI SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A family law firm can expect several key results from implementing AI SEO. These typically include improved organic search rankings for relevant family law keywords, an increase in website traffic from qualified potential clients, and a higher conversion rate for inquiries into consultations. Over time, firms often see a reduction in customer acquisition costs as their online visibility becomes more efficient and targeted. The data-driven nature of AI SEO also provides actionable insights for continuous improvement, leading to sustained growth in their client base.",
+        "description": "Family law firms can expect improved organic rankings, increased qualified traffic, higher conversion rates, and reduced client acquisition costs from AI SEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

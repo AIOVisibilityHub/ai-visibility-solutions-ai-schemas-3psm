@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO differ from traditional SEO for personal injury law firms?",
+  "description": "AEO focuses on providing direct answers to specific user questions for featured snippets and voice search, while traditional SEO aims for broader keyword rankin",
+  "url": "aiovisibility.com/faq/how-does-aeo-differ-from-traditional-seo-for-personal-injury-law-firms",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO differ from traditional SEO for personal injury law firms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While traditional SEO focuses broadly on ranking for keywords and improving website visibility, AEO takes a more specific approach. AEO is a subset of SEO that prioritizes providing direct, structured answers to specific user queries, often leveraging featured snippets, 'People Also Ask' sections, and voice search results. For personal injury firms, this means crafting content that not only ranks but also serves as the direct answer to questions like 'What to do after a car accident?' or 'How long do I have to file a personal injury claim?'",
+        "description": "AEO focuses on providing direct answers to specific user questions for featured snippets and voice search, while traditional SEO aims for broader keyword rankings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

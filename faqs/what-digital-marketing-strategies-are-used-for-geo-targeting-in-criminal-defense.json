@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What digital marketing strategies are used for GEO targeting in criminal defense?",
+  "description": "Local SEO, geo-fenced paid ads, and localized content marketing are strategies for GEO targeting in criminal defense.",
+  "url": "aiovisibility.com/faq/what-digital-marketing-strategies-are-used-for-geo-targeting-in-criminal-defense",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What digital marketing strategies are used for GEO targeting in criminal defense?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key digital marketing strategies for GEO targeting include Local SEO, which optimizes your Google Business Profile and website for local keywords, and geo-fenced paid advertising campaigns. This involves running ads that only show to users within specific zip codes, cities, or neighborhoods. Content marketing can also be localized, addressing legal issues specific to a particular jurisdiction or featuring local court information. These combined efforts create a comprehensive local presence that captures leads seeking criminal defense locally.",
+        "description": "Local SEO, geo-fenced paid ads, and localized content marketing are strategies for GEO targeting in criminal defense."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

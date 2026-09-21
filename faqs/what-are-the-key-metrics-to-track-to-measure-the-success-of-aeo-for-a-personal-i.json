@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the key metrics to track to measure the success of AEO for a personal injury law firm?",
+  "description": "Track organic traffic, featured snippet impressions/clicks, voice search visibility, lead generation (forms, calls) from optimized content, and keyword rankings",
+  "url": "aiovisibility.com/faq/what-are-the-key-metrics-to-track-to-measure-the-success-of-aeo-for-a-personal-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key metrics to track to measure the success of AEO for a personal injury law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key metrics for measuring AEO success for a personal injury law firm include organic traffic to pages optimized for specific questions, the number of featured snippet impressions and clicks, voice search query visibility, and direct answer box appearances. Additionally, tracking lead generation metrics such as contact form submissions, phone calls, and consultation requests originating from AEO-optimized content is crucial. Monitoring keyword rankings for question-based queries and overall site authority also provides valuable insights into performance.",
+        "description": "Track organic traffic, featured snippet impressions/clicks, voice search visibility, lead generation (forms, calls) from optimized content, and keyword rankings for AEO success."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

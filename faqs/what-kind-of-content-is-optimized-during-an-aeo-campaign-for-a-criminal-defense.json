@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content is optimized during an AEO campaign for a criminal defense law firm?",
+  "description": "AEO optimizes website pages, local listings, social media, and schema markup by focusing on natural language and structured data for AI search engines.",
+  "url": "aiovisibility.com/faq/what-kind-of-content-is-optimized-during-an-aeo-campaign-for-a-criminal-defense",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content is optimized during an AEO campaign for a criminal defense law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During an AEO campaign, various content types are optimized. This includes website pages (service pages, blog posts, FAQs), local business listings (Google Business Profile), social media profiles, and schema markup. The optimization focuses on natural language, answering common client questions, and structuring information in a way that AI search engines can easily understand and interpret to match user intent, including voice queries.",
+        "description": "AEO optimizes website pages, local listings, social media, and schema markup by focusing on natural language and structured data for AI search engines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

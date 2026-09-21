@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AEO and how does it help personal injury lawyers?",
+  "description": "AEO optimizes online content to directly answer user questions, helping personal injury lawyers appear prominently in search results and attract potential clien",
+  "url": "aiovisibility.com/faq/what-is-aeo-and-how-does-it-help-personal-injury-lawyers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AEO and how does it help personal injury lawyers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO stands for Answer Engine Optimization. It's a digital marketing strategy focused on optimizing online content so that it directly answers user questions, particularly those asked through search engines and voice assistants. For personal injury lawyers, AEO helps their websites appear prominently when potential clients search for information about accidents, injuries, or legal representation. By providing clear, concise answers, lawyers can attract more qualified leads and establish themselves as authorities in their field, increasing their visibility and client acquisition rates.",
+        "description": "AEO optimizes online content to directly answer user questions, helping personal injury lawyers appear prominently in search results and attract potential clients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

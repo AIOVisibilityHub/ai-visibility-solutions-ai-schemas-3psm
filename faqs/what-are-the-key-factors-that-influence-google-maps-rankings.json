@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the key factors that influence Google Maps rankings?",
+  "description": "Google Maps rankings depend on Relevance (match to query), Distance (from user), and Prominence (reviews, online presence).",
+  "url": "aiovisibility.com/faq/what-are-the-key-factors-that-influence-google-maps-rankings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key factors that influence Google Maps rankings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google Maps rankings are primarily influenced by three core factors: Relevance, Distance, and Prominence. Relevance refers to how well your business matches a user's search query. Distance considers how far each potential search result is from the user's location. Prominence relates to how well-known your business is, which is impacted by factors like the quantity and quality of online reviews, organic search ranking, and citations across the web. Optimizing for these factors collectively helps improve your local search visibility.",
+        "description": "Google Maps rankings depend on Relevance (match to query), Distance (from user), and Prominence (reviews, online presence)."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should a criminal defense attorney consider investing in AEO?",
+  "description": "Consider AEO if online inquiries are declining, local search competition is high, or you want to future-proof your digital marketing for AI and voice search.",
+  "url": "aiovisibility.com/faq/when-should-a-criminal-defense-attorney-consider-investing-in-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should a criminal defense attorney consider investing in AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A criminal defense attorney should consider AEO when they notice a decline in online inquiries, struggle to compete in local search results, or want to future-proof their digital marketing strategy against evolving search technologies. It's particularly beneficial if your firm aims to capture a larger share of voice-activated searches or improve lead quality beyond what traditional SEO offers. Proactive investment can establish market leadership.",
+        "description": "Consider AEO if online inquiries are declining, local search competition is high, or you want to future-proof your digital marketing for AI and voice search."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

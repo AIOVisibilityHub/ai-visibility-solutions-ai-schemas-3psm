@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AI SEO for personal injury lawyers?",
+  "description": "AI SEO uses artificial intelligence to enhance a personal injury law firm's online visibility and attract more clients through improved search engine rankings.",
+  "url": "aiovisibility.com/faq/what-is-ai-seo-for-personal-injury-lawyers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AI SEO for personal injury lawyers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO for personal injury lawyers leverages artificial intelligence tools and strategies to optimize a law firm's online presence. This includes using AI for keyword research, content creation, technical SEO audits, and predictive analytics to identify trends and improve search engine rankings. The goal is to attract more qualified leads by making the firm more visible to potential clients searching for legal assistance after an injury.",
+        "description": "AI SEO uses artificial intelligence to enhance a personal injury law firm's online visibility and attract more clients through improved search engine rankings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

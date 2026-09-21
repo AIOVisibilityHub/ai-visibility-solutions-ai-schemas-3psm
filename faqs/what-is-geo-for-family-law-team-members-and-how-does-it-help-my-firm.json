@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is GEO for family law lawyers and how does it help my firm?",
+  "description": "GEO for family law lawyers optimizes your firm's online presence to rank high in local search results, attracting clients in specific geographic areas.",
+  "url": "aiovisibility.com/faq/what-is-geo-for-family-law-lawyers-and-how-does-it-help-my-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GEO for family law lawyers and how does it help my firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO, or Geographic Search Engine Optimization, for family law lawyers focuses on optimizing your firm's online presence to rank highly in local search results. When potential clients in your service areas, such as New York City or Los Angeles, search for 'divorce lawyer near me' or 'child custody attorney [city name]', GEO ensures your firm appears prominently. This targeted visibility helps attract local clients who are actively seeking family law services in your specific geographic market, increasing relevant traffic to your website and improving lead generation.",
+        "description": "GEO for family law lawyers optimizes your firm's online presence to rank high in local search results, attracting clients in specific geographic areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

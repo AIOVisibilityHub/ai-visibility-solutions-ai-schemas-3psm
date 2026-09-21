@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AEO and how does it benefit family law attorneys?",
+  "description": "AEO uses AI to optimize online presence for family law attorneys, increasing visibility and lead generation by improving search engine rankings.",
+  "url": "aiovisibility.com/faq/what-is-aeo-and-how-does-it-benefit-family-law-attorneys",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AEO and how does it benefit family law attorneys?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO, or AI-Enhanced Optimization, uses artificial intelligence to improve online visibility for family law attorneys. It analyzes search patterns, content gaps, and competitor strategies to optimize websites and digital content. This helps attorneys appear higher in search results, attract more qualified leads, and grow their practice by reaching potential clients actively seeking legal assistance for family matters.",
+        "description": "AEO uses AI to optimize online presence for family law attorneys, increasing visibility and lead generation by improving search engine rankings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

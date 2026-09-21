@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to provide to start an AEO campaign for my family law firm?",
+  "description": "To start AEO, provide website analytics, Google My Business access, practice areas, target demographics, firm goals, and past marketing information.",
+  "url": "aiovisibility.com/faq/what-information-do-i-need-to-provide-to-start-an-aeo-campaign-for-my-family-law",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to provide to start an AEO campaign for my family law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To launch an effective AEO campaign, you typically need to provide access to your website analytics (e.g., Google Analytics), Google My Business profile, and any existing marketing reports. Additionally, sharing your firm's specific practice areas, target client demographics, unique selling propositions, and business goals helps tailor the strategy. Any information on past or current marketing efforts is also valuable for building a comprehensive plan.",
+        "description": "To start AEO, provide website analytics, Google My Business access, practice areas, target demographics, firm goals, and past marketing information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

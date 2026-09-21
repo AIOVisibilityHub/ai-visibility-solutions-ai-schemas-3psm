@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from GEO targeting for my law firm?",
+  "description": "Initial results from GEO targeting typically appear within 3 to 6 months, depending on market competitiveness and consistent optimization efforts.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-geo-targeting-for-my-law-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from GEO targeting for my law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing results from GEO targeting can vary, but generally, personal injury law firms can expect to see initial improvements within 3 to 6 months. Factors such as the competitiveness of your target markets (e.g., New York City vs. a smaller market), the current state of your online presence, and the consistency of your optimization efforts all play a role. Sustained efforts in local SEO, content creation, and reputation management will lead to more significant and lasting results over time, continually improving your firm's visibility and lead generation in specific locations.",
+        "description": "Initial results from GEO targeting typically appear within 3 to 6 months, depending on market competitiveness and consistent optimization efforts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

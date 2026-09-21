@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics are used to measure the success of Local AI Optimization?",
+  "description": "Success is measured by increased local search rankings, map pack visibility, Google Business Profile interactions, local search traffic, and conversion rates.",
+  "url": "aiovisibility.com/faq/what-metrics-are-used-to-measure-the-success-of-local-ai-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics are used to measure the success of Local AI Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Success is measured through several key performance indicators. These include increased local search rankings for relevant keywords, higher visibility in map pack results, and a rise in Google Business Profile interactions (e.g., calls, website clicks, direction requests). We also track website traffic originating from local searches, conversion rates for local leads, and overall customer engagement within your service area. These metrics provide a comprehensive view of improved local online presence and business impact.",
+        "description": "Success is measured by increased local search rankings, map pack visibility, Google Business Profile interactions, local search traffic, and conversion rates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

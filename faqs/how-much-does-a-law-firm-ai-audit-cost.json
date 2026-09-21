@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a Law Firm AI Audit cost?",
+  "description": "The cost of an AI audit depends on the firm's size, AI tool usage, and the audit's scope, with tailored proposals provided after consultation.",
+  "url": "aiovisibility.com/faq/how-much-does-a-law-firm-ai-audit-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a Law Firm AI Audit cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a Law Firm AI Audit varies depending on the size and complexity of the firm's operations, the number of AI tools in use, and the depth of the analysis required. Factors such as the scope of data privacy review, regulatory compliance checks, and the level of custom recommendations influence pricing. We offer tailored proposals after an initial consultation to accurately assess your specific needs.",
+        "description": "The cost of an AI audit depends on the firm's size, AI tool usage, and the audit's scope, with tailored proposals provided after consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

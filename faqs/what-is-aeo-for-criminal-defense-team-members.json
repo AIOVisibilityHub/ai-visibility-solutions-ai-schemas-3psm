@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AEO for criminal defense attorneys?",
+  "description": "AEO for criminal defense attorneys uses AI to optimize online visibility, helping firms appear prominently in search results for potential clients.",
+  "url": "aiovisibility.com/faq/what-is-aeo-for-criminal-defense-attorneys",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AEO for criminal defense attorneys?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO, or AI Engine Optimization, for criminal defense attorneys involves using artificial intelligence tools and strategies to enhance your firm's online visibility. This goes beyond traditional SEO by leveraging AI to analyze search intent, optimize content for voice search and smart assistants, and predict search trends. The goal is to ensure your practice appears prominently when potential clients search for legal help online, increasing qualified leads and case inquiries.",
+        "description": "AEO for criminal defense attorneys uses AI to optimize online visibility, helping firms appear prominently in search results for potential clients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

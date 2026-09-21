@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right AI SEO provider for my personal injury law firm?",
+  "description": "Choose an AI SEO provider with experience in legal marketing, clear communication, transparent reporting, and a proven track record using AI for personal injury",
+  "url": "aiovisibility.com/faq/how-do-i-choose-the-right-ai-seo-provider-for-my-personal-injury-law-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right AI SEO provider for my personal injury law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting an AI SEO provider, look for experience specifically with legal marketing and personal injury firms. Evaluate their understanding of AI tools and how they apply them to SEO, not just general digital marketing. Request case studies or client testimonials, and ensure they offer transparent reporting and communication. A good provider should clearly explain their strategies, expected outcomes, and provide regular performance updates. Focus on those who demonstrate a deep understanding of your unique market.",
+        "description": "Choose an AI SEO provider with experience in legal marketing, clear communication, transparent reporting, and a proven track record using AI for personal injury firms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

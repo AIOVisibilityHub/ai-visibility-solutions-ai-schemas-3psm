@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you handle review management as part of GEO for family lawyers?",
+  "description": "We encourage positive reviews, monitor and respond professionally to all feedback, and address negative comments constructively to enhance your firm's reputatio",
+  "url": "aiovisibility.com/faq/how-do-you-handle-review-management-as-part-of-geo-for-family-lawyers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you handle review management as part of GEO for family lawyers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Review management is an integral part of our GEO strategy for family lawyers. We implement strategies to encourage satisfied clients to leave positive reviews on platforms like Google, Yelp, and Avvo. We also monitor incoming reviews, respond professionally to all feedback, and address any negative comments constructively. Positive reviews enhance your firm's reputation and search ranking, while thoughtful responses show clients you value their input, significantly influencing potential clients' decisions when choosing a family law attorney in their area.",
+        "description": "We encourage positive reviews, monitor and respond professionally to all feedback, and address negative comments constructively to enhance your firm's reputation and search ranking."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

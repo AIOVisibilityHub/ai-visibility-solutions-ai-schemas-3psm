@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What benefits can a criminal defense attorney expect from AEO?",
+  "description": "AEO helps criminal defense attorneys gain increased online visibility, higher-quality leads, better rankings on AI search, and a competitive edge.",
+  "url": "aiovisibility.com/faq/what-benefits-can-a-criminal-defense-attorney-expect-from-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What benefits can a criminal defense attorney expect from AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Criminal defense attorneys can expect several benefits from AEO. These include increased online visibility for relevant legal searches, higher-quality leads due to better targeting of client intent, improved ranking on AI-powered search engines and voice assistants, and a competitive edge in the crowded legal market. Ultimately, AEO aims to drive more consultations and client acquisitions by connecting your firm with individuals actively seeking legal representation.",
+        "description": "AEO helps criminal defense attorneys gain increased online visibility, higher-quality leads, better rankings on AI search, and a competitive edge."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does Google Business Profile Optimization cost?",
+  "description": "Costs vary based on factors like profile complexity, number of locations, and ongoing management needs. Customized packages are offered after assessing your bus",
+  "url": "aiovisibility.com/faq/how-much-does-google-business-profile-optimization-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does Google Business Profile Optimization cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for Google Business Profile optimization services varies based on the scope and intensity of the work required. Factors influencing pricing include the initial state of your profile, the number of locations, the competitiveness of your industry, and the extent of ongoing management and reporting desired. Basic setup and initial optimization might be a one-time fee, while comprehensive ongoing management and strategy typically involve a monthly retainer. We offer customized packages after assessing your specific business needs and goals to ensure a tailored and effective solution.",
+        "description": "Costs vary based on factors like profile complexity, number of locations, and ongoing management needs. Customized packages are offered after assessing your business."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

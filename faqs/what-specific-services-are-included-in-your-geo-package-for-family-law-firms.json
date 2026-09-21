@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What specific services are included in your GEO package for family law firms?",
+  "description": "Our GEO package includes Google My Business optimization, local keyword research, citation building, on-page optimization for local content, and ongoing perform",
+  "url": "aiovisibility.com/faq/what-specific-services-are-included-in-your-geo-package-for-family-law-firms",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What specific services are included in your GEO package for family law firms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our GEO package for family law firms typically includes comprehensive Google My Business optimization, local keyword research tailored to your practice areas, local citation building and management, on-page optimization for location-specific content, local link building strategies, and ongoing performance monitoring and reporting. We also focus on managing local reviews and ensuring consistent business information across all relevant online directories. These services are designed to enhance your local visibility and attract relevant client inquiries.",
+        "description": "Our GEO package includes Google My Business optimization, local keyword research, citation building, on-page optimization for local content, and ongoing performance monitoring."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

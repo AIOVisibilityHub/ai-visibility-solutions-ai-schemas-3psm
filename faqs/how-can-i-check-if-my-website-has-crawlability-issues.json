@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I check if my website has crawlability issues?",
+  "description": "Use Google Search Console's 'Crawl Stats' and 'Coverage' reports to identify crawlability issues. Site audit tools and server logs also provide valuable insight",
+  "url": "aiovisibility.com/faq/how-can-i-check-if-my-website-has-crawlability-issues",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I check if my website has crawlability issues?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can check for crawlability issues using tools like Google Search Console. The 'Crawl Stats' and 'Coverage' reports provide insights into how Googlebot interacts with your site, highlighting errors, warnings, and pages that couldn't be indexed. Other helpful tools include site audit software that simulates bot crawling, and reviewing your server logs for bot activity. Regularly monitoring these resources helps identify problems early and ensures search engines can effectively access your content.",
+        "description": "Use Google Search Console's 'Crawl Stats' and 'Coverage' reports to identify crawlability issues. Site audit tools and server logs also provide valuable insights."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

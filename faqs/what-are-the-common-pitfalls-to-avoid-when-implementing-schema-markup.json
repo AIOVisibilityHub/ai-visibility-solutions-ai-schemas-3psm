@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common pitfalls to avoid when implementing Schema Markup?",
+  "description": "Avoid using incorrect schema types, having syntax errors, marking up hidden content, and neglecting regular validation and updates to your schema.",
+  "url": "aiovisibility.com/faq/what-are-the-common-pitfalls-to-avoid-when-implementing-schema-markup",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common pitfalls to avoid when implementing Schema Markup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common pitfalls include implementing incorrect or irrelevant schema types, which can lead to warnings or errors from search engines. Another mistake is improperly nesting schema or having syntax errors, causing the markup to be unreadable. Over-marking up content with schema that isn't visible on the page (hidden text) can also be flagged as spam. Additionally, not regularly validating your schema or updating it as your website content changes can lead to outdated or ineffective rich snippets. Always validate and keep schema relevant to displayed content.",
+        "description": "Avoid using incorrect schema types, having syntax errors, marking up hidden content, and neglecting regular validation and updates to your schema."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

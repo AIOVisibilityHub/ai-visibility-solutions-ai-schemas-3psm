@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content is best for AEO for personal injury lawyers?",
+  "description": "Detailed FAQs, blog posts answering common legal questions, and structured data on service pages are best for AEO content, directly addressing client inquiries.",
+  "url": "aiovisibility.com/faq/what-kind-of-content-is-best-for-aeo-for-personal-injury-lawyers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content is best for AEO for personal injury lawyers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Effective AEO content for personal injury lawyers includes detailed FAQs, blog posts that address common legal questions, and structured data markup on service pages. Content should directly answer specific questions potential clients might have about different types of injuries, legal processes, or compensation. Examples include 'Steps to take after a slip and fall injury,' 'Understanding pain and suffering damages,' or 'Statute of limitations for personal injury in New York.' The goal is to be the authoritative source for these specific inquiries.",
+        "description": "Detailed FAQs, blog posts answering common legal questions, and structured data on service pages are best for AEO content, directly addressing client inquiries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What specific regulations should a Law Firm AI Audit address in New York City?",
+  "description": "In NYC, an AI audit addresses New York State data privacy laws, Bar Association ethical guidelines, and relevant federal regulations like HIPAA or GLBA.",
+  "url": "aiovisibility.com/faq/what-specific-regulations-should-a-law-firm-ai-audit-address-in-new-york-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What specific regulations should a Law Firm AI Audit address in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For law firms in New York City, an AI audit should specifically address compliance with New York State's various data privacy laws, ethical guidelines set by the New York State Bar Association regarding technology competence and client confidentiality, and federal regulations like HIPAA or GLBA if applicable to the firm's practice areas. The audit ensures AI usage aligns with professional conduct rules and data protection mandates relevant to the local jurisdiction.",
+        "description": "In NYC, an AI audit addresses New York State data privacy laws, Bar Association ethical guidelines, and relevant federal regulations like HIPAA or GLBA."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

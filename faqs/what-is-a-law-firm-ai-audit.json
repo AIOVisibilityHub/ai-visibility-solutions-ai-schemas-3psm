@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a Law Firm AI Audit?",
+  "description": "A Law Firm AI Audit evaluates how a law firm uses AI tools to improve efficiency, security, and compliance.",
+  "url": "aiovisibility.com/faq/what-is-a-law-firm-ai-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Law Firm AI Audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Law Firm AI Audit assesses how artificial intelligence technologies are being used within a law firm's operations. This includes reviewing AI tools for legal research, document review, case management, and client communication. The audit identifies areas where AI can enhance efficiency, improve data security, ensure compliance with relevant regulations, and optimize overall performance. It helps firms understand the current state of their AI adoption and potential for future integration.",
+        "description": "A Law Firm AI Audit evaluates how a law firm uses AI tools to improve efficiency, security, and compliance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Website Entity Optimization?",
+  "description": "Website Entity Optimization structures your website's content and data to help search engines understand key entities, improving search relevance.",
+  "url": "aiovisibility.com/faq/what-is-website-entity-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Website Entity Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Website Entity Optimization involves structuring your website's content and data to help search engines understand the core 'entities' (people, places, things, concepts) your site is about and how they relate. This goes beyond traditional keyword optimization by focusing on meaning and context, enabling search engines to provide more relevant results to users. It leverages structured data, semantic SEO, and a deep understanding of your business's domain to improve visibility.",
+        "description": "Website Entity Optimization structures your website's content and data to help search engines understand key entities, improving search relevance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

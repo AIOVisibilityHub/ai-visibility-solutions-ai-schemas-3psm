@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should I audit my website for crawlability issues?",
+  "description": "Audit frequency depends on site size and update frequency; quarterly for small sites, monthly for large dynamic sites. New launches require immediate audits.",
+  "url": "aiovisibility.com/faq/how-often-should-i-audit-my-website-for-crawlability-issues",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I audit my website for crawlability issues?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The frequency of crawlability audits depends on your website's size and how often content is updated. For smaller, static sites, a quarterly or semi-annual audit might suffice. Larger, more dynamic sites, especially those with frequent content changes or e-commerce functionalities, should consider monthly or even weekly checks. New website launches or major site redesigns warrant immediate and thorough crawlability audits. Regular monitoring is key to catching issues before they significantly impact search visibility.",
+        "description": "Audit frequency depends on site size and update frequency; quarterly for small sites, monthly for large dynamic sites. New launches require immediate audits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

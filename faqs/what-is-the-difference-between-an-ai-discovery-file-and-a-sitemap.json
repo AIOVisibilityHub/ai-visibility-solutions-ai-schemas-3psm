@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between an AI Discovery File and a sitemap?",
+  "description": "A sitemap lists pages for crawlers, while an AI Discovery File provides semantic data and content relationships specifically optimized for AI comprehension and",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-an-ai-discovery-file-and-a-sitemap",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between an AI Discovery File and a sitemap?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While both AI Discovery Files and sitemaps aid in website discoverability, they serve distinct purposes. A sitemap primarily lists all pages and files on a website for search engine crawlers, indicating their organization. An AI Discovery File, however, goes beyond simple listing. It provides a semantic layer of data, detailing content relationships, entity recognition, and contextual relevance, specifically optimized for AI comprehension. It tells AI models not just *what* pages exist, but *what* the content on those pages *means* in an AI-readable format.",
+        "description": "A sitemap lists pages for crawlers, while an AI Discovery File provides semantic data and content relationships specifically optimized for AI comprehension and understanding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

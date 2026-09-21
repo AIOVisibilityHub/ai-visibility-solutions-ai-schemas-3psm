@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is GEO for personal injury lawyers?",
+  "description": "GEO for personal injury lawyers is a digital marketing strategy that targets potential clients within specific geographic areas to improve local search visibili",
+  "url": "aiovisibility.com/faq/what-is-geo-for-personal-injury-lawyers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GEO for personal injury lawyers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO, or geotargeting, for personal injury lawyers is a digital marketing strategy that focuses on attracting potential clients within a specific geographic area. It involves optimizing your online presence, including your website and local listings, so that individuals searching for personal injury attorneys in your service regions, like New York City or Los Angeles, find your firm easily. This approach leverages location-based search queries to connect lawyers with accident victims who need immediate legal assistance in their vicinity, improving the relevance of search results and increasing the likelihood of client conversion.",
+        "description": "GEO for personal injury lawyers is a digital marketing strategy that targets potential clients within specific geographic areas to improve local search visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

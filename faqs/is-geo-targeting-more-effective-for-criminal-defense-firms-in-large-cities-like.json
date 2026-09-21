@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is GEO targeting more effective for criminal defense firms in large cities like Los Angeles or smaller towns?",
+  "description": "GEO targeting is effective in both large cities and smaller towns, tailoring the approach to maximize local client connection and ROI.",
+  "url": "aiovisibility.com/faq/is-geo-targeting-more-effective-for-criminal-defense-firms-in-large-cities-like",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is GEO targeting more effective for criminal defense firms in large cities like Los Angeles or smaller towns?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO targeting is highly effective for criminal defense firms in both large cities and smaller towns, though the approach may vary. In large cities like Los Angeles, it helps cut through the noise by narrowing your focus to specific neighborhoods or districts, attracting highly relevant local clients. In smaller towns, it ensures you dominate local search results against less competition. The core benefit remains the same: connecting with geographically relevant potential clients, maximizing marketing ROI regardless of market size.",
+        "description": "GEO targeting is effective in both large cities and smaller towns, tailoring the approach to maximize local client connection and ROI."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

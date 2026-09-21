@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does GEO targeting for a criminal defense law firm typically cost?",
+  "description": "Costs vary based on reach, competition, and services used. It's an investment with a strong return for attracting local leads.",
+  "url": "aiovisibility.com/faq/how-much-does-geo-targeting-for-a-criminal-defense-law-firm-typically-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does GEO targeting for a criminal defense law firm typically cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of GEO targeting for a criminal defense law firm varies widely based on the desired reach, competition in your service areas, and the specific digital marketing services employed. Factors include the number of target locations, complexity of ad campaigns, and the scope of Local SEO optimization. Investing in GEO targeting is a strategic decision that typically yields a strong return by attracting high-quality local leads. Many firms offer customized packages, so getting a detailed quote for your specific needs is recommended.",
+        "description": "Costs vary based on reach, competition, and services used. It's an investment with a strong return for attracting local leads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content can AI help generate for a criminal defense lawyer's website?",
+  "description": "AI can help generate blog posts, service descriptions, FAQs, and meta descriptions for a criminal defense website, but human legal review is essential.",
+  "url": "aiovisibility.com/faq/what-kind-of-content-can-ai-help-generate-for-a-criminal-defense-lawyer-s-websit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content can AI help generate for a criminal defense lawyer's website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can assist in generating various types of content, including blog posts about legal topics, service page descriptions, FAQ sections, and meta descriptions. It can also help outline longer articles, suggest headline variations, and refine existing content for clarity and SEO performance. While AI can create drafts, human legal expertise remains crucial for accuracy and ethical considerations.",
+        "description": "AI can help generate blog posts, service descriptions, FAQs, and meta descriptions for a criminal defense website, but human legal review is essential."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

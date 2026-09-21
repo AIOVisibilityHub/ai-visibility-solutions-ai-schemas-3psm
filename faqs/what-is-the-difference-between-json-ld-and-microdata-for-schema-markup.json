@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between JSON-LD and Microdata for Schema Markup?",
+  "description": "JSON-LD is a separate block of code, typically preferred for its ease of implementation, while Microdata integrates attributes directly into existing HTML tags.",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-json-ld-and-microdata-for-schema-markup",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between JSON-LD and Microdata for Schema Markup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "JSON-LD (JavaScript Object Notation for Linked Data) and Microdata are two common formats for implementing Schema Markup. JSON-LD is generally preferred by search engines and developers because it's easier to implement. It’s a block of JavaScript code placed in the <head> or <body> of a page, separate from the visible HTML. Microdata, on the other hand, involves adding attributes directly into existing HTML tags. While both are valid, JSON-LD is often more efficient and less prone to breaking the website's visual layout, offering a cleaner separation of data and presentation.",
+        "description": "JSON-LD is a separate block of code, typically preferred for its ease of implementation, while Microdata integrates attributes directly into existing HTML tags."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

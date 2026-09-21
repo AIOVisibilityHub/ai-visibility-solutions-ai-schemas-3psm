@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Law Firm Schema Markup?",
+  "description": "Law Firm Schema Markup is structured data on a law firm's website that helps search engines understand its content and improve search visibility.",
+  "url": "aiovisibility.com/faq/what-is-law-firm-schema-markup",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Law Firm Schema Markup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Law Firm Schema Markup is structured data code added to a law firm's website. It helps search engines understand the content and context of the site, including information about attorneys, practice areas, reviews, and contact details. This enhanced understanding can improve how the law firm's website appears in search results, potentially leading to richer snippets and better visibility for relevant queries.",
+        "description": "Law Firm Schema Markup is structured data on a law firm's website that helps search engines understand its content and improve search visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

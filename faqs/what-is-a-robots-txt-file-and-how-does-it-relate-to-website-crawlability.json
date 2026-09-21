@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a robots.txt file and how does it relate to website crawlability?",
+  "description": "A robots.txt file guides search engine crawlers on which parts of your site to access or avoid. Incorrect configuration can block critical pages, severely impac",
+  "url": "aiovisibility.com/faq/what-is-a-robots-txt-file-and-how-does-it-relate-to-website-crawlability",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a robots.txt file and how does it relate to website crawlability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A robots.txt file is a plain text file located in the root directory of your website that instructs search engine crawlers which parts of your site they are allowed or not allowed to access. It's a fundamental tool for managing crawlability. While it doesn't prevent indexing if a page is linked elsewhere, it guides bots to efficiently crawl important content and conserve crawl budget by preventing access to irrelevant or private sections. Incorrectly configured robots.txt files can accidentally block search engines from crawling critical pages, severely impacting SEO.",
+        "description": "A robots.txt file guides search engine crawlers on which parts of your site to access or avoid. Incorrect configuration can block critical pages, severely impacting crawlability and SEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

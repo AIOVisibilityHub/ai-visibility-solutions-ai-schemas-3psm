@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does GEO marketing differ from general SEO for family law practices?",
+  "description": "GEO marketing targets local search queries using tactics like Google My Business and local citations, while general SEO aims for broader organic visibility.",
+  "url": "aiovisibility.com/faq/how-does-geo-marketing-differ-from-general-seo-for-family-law-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does GEO marketing differ from general SEO for family law practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "General SEO aims for broad organic visibility, while GEO marketing for family law practices specifically targets local search queries. GEO focuses on tactics like Google My Business optimization, local citations, geographically relevant keywords, and location-specific content. This ensures your firm is visible to potential clients within a defined service area. For example, if your firm serves Houston, GEO marketing prioritizes ranking for searches from users located in or searching for services within Houston, rather than trying to rank nationally for a general family law term.",
+        "description": "GEO marketing targets local search queries using tactics like Google My Business and local citations, while general SEO aims for broader organic visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

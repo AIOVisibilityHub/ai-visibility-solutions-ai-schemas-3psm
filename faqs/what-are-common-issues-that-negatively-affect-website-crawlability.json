@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common issues that negatively affect website crawlability?",
+  "description": "Common crawlability issues include broken links, duplicate content, incorrect robots.txt, complex site architecture, slow loading speeds, and server errors.",
+  "url": "aiovisibility.com/faq/what-are-common-issues-that-negatively-affect-website-crawlability",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common issues that negatively affect website crawlability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common crawlability issues include broken links, duplicate content, incorrect robots.txt configurations blocking essential pages, complex site architectures that are hard for bots to navigate, and slow page loading speeds. Other problems can arise from poorly structured internal linking, unoptimized XML sitemaps, and excessive redirects. Technical errors on the server side or problems with JavaScript rendering can also hinder search engine bots from accessing and understanding your content.",
+        "description": "Common crawlability issues include broken links, duplicate content, incorrect robots.txt, complex site architecture, slow loading speeds, and server errors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

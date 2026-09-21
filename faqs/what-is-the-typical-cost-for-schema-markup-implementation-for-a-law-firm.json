@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for Schema Markup implementation for a law firm?",
+  "description": "Cost varies widely, from a few hundred to several thousand dollars, depending on website complexity and required schema types.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-for-schema-markup-implementation-for-a-law-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for Schema Markup implementation for a law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for Schema Markup implementation for a law firm can vary widely based on the complexity of the website, the number of pages, and the extent of specific schema types required. It can range from a few hundred dollars for basic implementation on a small site to several thousand for comprehensive markup across a large, multifaceted firm website by an agency. Some firms may offer it as part of a broader SEO package.",
+        "description": "Cost varies widely, from a few hundred to several thousand dollars, depending on website complexity and required schema types."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

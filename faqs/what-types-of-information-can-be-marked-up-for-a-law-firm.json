@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of information can be marked up for a law firm?",
+  "description": "You can mark up organization details, attorney profiles, practice areas, reviews, and local business information for a law firm.",
+  "url": "aiovisibility.com/faq/what-types-of-information-can-be-marked-up-for-a-law-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of information can be marked up for a law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a law firm, various types of information can be marked up using schema. This includes organizational details (like name, address, phone number), attorney profiles (individual lawyer schema), practice areas, client reviews or testimonials, events (e.g., seminars), and local business information. Marking up these elements helps search engines categorize and display relevant details directly in search results.",
+        "description": "You can mark up organization details, attorney profiles, practice areas, reviews, and local business information for a law firm."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

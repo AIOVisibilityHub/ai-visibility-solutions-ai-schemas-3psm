@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeframe to see results from GEO targeting efforts for a criminal defense practice?",
+  "description": "Paid ad campaigns can show results in weeks, while organic Local SEO typically takes 3-6 months for significant changes.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-timeframe-to-see-results-from-geo-targeting-efforts-for-a-cr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeframe to see results from GEO targeting efforts for a criminal defense practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeframe to see results from GEO targeting can vary. For paid advertising campaigns (like Google Ads with geo-fencing), you might start seeing initial leads and traffic within weeks, sometimes even days, as ads go live quickly. For organic Local SEO improvements, it typically takes longer, usually 3 to 6 months, to see significant ranking changes and increased organic traffic. Consistent effort and optimization are key to long-term success and sustained visibility in local search results.",
+        "description": "Paid ad campaigns can show results in weeks, while organic Local SEO typically takes 3-6 months for significant changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

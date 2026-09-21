@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can GEO targeting help my criminal defense law firm attract more local clients?",
+  "description": "It boosts local visibility for your firm, ensuring you appear in search results when potential clients in your service area need criminal defense.",
+  "url": "aiovisibility.com/faq/how-can-geo-targeting-help-my-criminal-defense-law-firm-attract-more-local-clien",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can GEO targeting help my criminal defense law firm attract more local clients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO targeting helps your criminal defense law firm attract more local clients by making your services visible to people searching for legal help in your service area. When someone in New York City searches for 'criminal defense lawyer,' GEO targeting ensures your firm appears prominently in their search results. This local visibility is crucial because most individuals facing criminal charges seek counsel nearby. By optimizing for local searches, you capture high-intent leads who are ready to act and are geographically convenient for your practice.",
+        "description": "It boosts local visibility for your firm, ensuring you appear in search results when potential clients in your service area need criminal defense."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

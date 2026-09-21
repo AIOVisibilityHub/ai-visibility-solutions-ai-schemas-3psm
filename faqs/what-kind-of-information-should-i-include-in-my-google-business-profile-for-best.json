@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of information should I include in my Google Business Profile for best results?",
+  "description": "Include accurate business name, address, phone, website, hours, correct categories, high-quality photos, detailed services, posts, and manage reviews for an opt",
+  "url": "aiovisibility.com/faq/what-kind-of-information-should-i-include-in-my-google-business-profile-for-best",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of information should I include in my Google Business Profile for best results?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For best results, your Google Business Profile should be as complete and accurate as possible. Key information includes your precise business name, address (if applicable), phone number, website, and consistent operating hours. Crucially, select accurate business categories that best describe your services. Add high-quality photos of your business, products, and team. Utilize the 'Services' section to detail your offerings and frequently post updates or special offers. Regularly solicit and respond to customer reviews to maintain an active and prominent profile.",
+        "description": "Include accurate business name, address, phone, website, hours, correct categories, high-quality photos, detailed services, posts, and manage reviews for an optimized Google Business Profile."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

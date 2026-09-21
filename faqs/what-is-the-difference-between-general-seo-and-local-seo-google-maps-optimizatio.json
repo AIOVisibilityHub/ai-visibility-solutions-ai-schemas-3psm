@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between general SEO and local SEO (Google Maps Optimization)?",
+  "description": "General SEO targets broad organic search rankings, while local SEO (Google Maps Optimization) focuses on improving visibility in local search results and Google",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-general-seo-and-local-seo-google-maps-optimizatio",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between general SEO and local SEO (Google Maps Optimization)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "General SEO (Search Engine Optimization) focuses on improving a website's visibility in organic search results across a broad geographic area. It aims to rank for keywords nationally or globally. Local SEO, or Google Maps Optimization, specifically targets local search queries and aims to rank businesses in the 'local pack' or Google Maps results for geographically relevant searches. While both involve keywords and website optimization, local SEO heavily relies on optimizing a Google Business Profile, managing local citations, and acquiring location-specific reviews. It's about connecting with customers in a defined local area.",
+        "description": "General SEO targets broad organic search rankings, while local SEO (Google Maps Optimization) focuses on improving visibility in local search results and Google Maps for specific geographic areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

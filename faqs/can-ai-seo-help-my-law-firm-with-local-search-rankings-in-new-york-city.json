@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AI SEO help my law firm with local search rankings in New York City?",
+  "description": "Yes, AI SEO significantly boosts local search rankings by analyzing local patterns, optimizing Google Business Profiles, and targeting hyper-local keywords, ens",
+  "url": "aiovisibility.com/faq/can-ai-seo-help-my-law-firm-with-local-search-rankings-in-new-york-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AI SEO help my law firm with local search rankings in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AI SEO is particularly effective for improving local search rankings. For a law firm in New York City, AI can analyze local search patterns, optimize your Google Business Profile, and identify specific hyper-local keywords related to your practice areas within the city's neighborhoods. This ensures that when potential clients in New York City search for legal services, your firm appears prominently in local map packs and search results, driving more local inquiries.",
+        "description": "Yes, AI SEO significantly boosts local search rankings by analyzing local patterns, optimizing Google Business Profiles, and targeting hyper-local keywords, ensuring your firm appears prominently in local results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

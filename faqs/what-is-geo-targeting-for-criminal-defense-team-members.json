@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is GEO targeting for criminal defense lawyers?",
+  "description": "GEO targeting focuses digital marketing on specific geographic areas to attract local criminal defense clients.",
+  "url": "aiovisibility.com/faq/what-is-geo-targeting-for-criminal-defense-lawyers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GEO targeting for criminal defense lawyers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO targeting for criminal defense lawyers involves focusing digital marketing efforts on specific geographic areas to attract clients within those locations. This strategy uses location-based data to deliver advertisements, search engine results, and website content to potential clients searching for legal representation in their immediate vicinity or a defined service area. It ensures that marketing budgets are spent efficiently by reaching the most relevant local audience, increasing the likelihood of converting searches into consultations.",
+        "description": "GEO targeting focuses digital marketing on specific geographic areas to attract local criminal defense clients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

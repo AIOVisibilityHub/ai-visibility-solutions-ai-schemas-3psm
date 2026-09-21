@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics are used to track the success of Google Business Profile Optimization?",
+  "description": "Success is tracked by views, searches, actions (website visits, calls, directions), review volume and rating, and local search rankings.",
+  "url": "aiovisibility.com/faq/what-metrics-are-used-to-track-the-success-of-google-business-profile-optimizati",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics are used to track the success of Google Business Profile Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key metrics for tracking GBP optimization success include 'Views' (how many times your profile appeared), 'Searches' (how customers found you, direct vs. discovery), and 'Actions' (website visits, phone calls, direction requests). We also monitor 'Reviews' and your average star rating, as these significantly impact prominence. Furthermore, we track changes in local search rankings for relevant keywords and customer engagement with your posts and photos. Analyzing these metrics provides insights into your local visibility, customer interaction, and the effectiveness of optimization efforts.",
+        "description": "Success is tracked by views, searches, actions (website visits, calls, directions), review volume and rating, and local search rankings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

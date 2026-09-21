@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is Google My Business important for family law firms using GEO?",
+  "description": "Google My Business is crucial for family law GEO because it provides immediate firm information, boosts local search visibility, and drives client inquiries and",
+  "url": "aiovisibility.com/faq/why-is-google-my-business-important-for-family-law-firms-using-geo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is Google My Business important for family law firms using GEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google My Business (GMB) is crucial for family law firms utilizing GEO because it is often the first point of contact for local searchers. An optimized GMB profile provides vital information like your firm's address, phone number, website, hours, and client reviews directly in local search results and Google Maps. For clients in urgent situations, this immediate accessibility is invaluable. A well-managed GMB profile significantly boosts local search visibility and can drive direct inquiries and visits to your firm, especially in competitive markets like Houston or Philadelphia.",
+        "description": "Google My Business is crucial for family law GEO because it provides immediate firm information, boosts local search visibility, and drives client inquiries and visits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

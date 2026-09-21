@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right AI SEO partner for my law firm?",
+  "description": "Choose an AI SEO partner by evaluating their law firm experience, AI methodologies, transparency, reporting, and understanding of legal industry ethics and regu",
+  "url": "aiovisibility.com/faq/how-do-i-choose-the-right-ai-seo-partner-for-my-law-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right AI SEO partner for my law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right AI SEO partner involves evaluating their experience with law firms, understanding their specific AI methodologies, and reviewing case studies or client testimonials. Look for a partner who prioritizes transparency, provides clear reporting, and aligns with your firm's long-term marketing objectives. A good partner will also demonstrate a deep understanding of ethical SEO practices and the unique regulatory environment of the legal industry, ensuring compliance and effective results.",
+        "description": "Choose an AI SEO partner by evaluating their law firm experience, AI methodologies, transparency, reporting, and understanding of legal industry ethics and regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

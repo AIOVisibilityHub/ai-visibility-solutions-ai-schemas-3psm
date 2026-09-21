@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of AEO services for a personal injury law firm?",
+  "description": "AEO service costs for law firms vary based on scope, firm size, market, and agency; pricing models include retainers or project fees, requiring a tailored propo",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-of-aeo-services-for-a-personal-injury-law-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of AEO services for a personal injury law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services for a personal injury law firm varies widely based on the scope of work, the size of the firm, market competitiveness, and the agency's expertise. Factors include content creation, technical SEO implementation, and ongoing monitoring and optimization. A smaller, local firm might pay less than a large firm targeting multiple cities. Pricing models can include monthly retainers, project-based fees, or performance-based agreements. It is best to obtain a detailed proposal tailored to specific needs and goals.",
+        "description": "AEO service costs for law firms vary based on scope, firm size, market, and agency; pricing models include retainers or project fees, requiring a tailored proposal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

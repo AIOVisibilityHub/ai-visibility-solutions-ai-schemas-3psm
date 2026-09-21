@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AI SEO for a law firm?",
+  "description": "Initial AI SEO results for law firms can appear in 2-3 months, but significant and sustained improvements usually take 6-12 months due to ongoing optimization a",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-ai-seo-for-a-law-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AI SEO for a law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While some initial improvements in website performance and keyword rankings can be observed within 2-3 months, significant and sustained results from AI SEO typically take 6-12 months. This timeframe allows for search engines to fully re-index optimized content, for AI models to refine strategies based on ongoing data, and for long-term content strategies to mature. Consistency and patience are key, as SEO is a continuous process rather than a one-time fix.",
+        "description": "Initial AI SEO results for law firms can appear in 2-3 months, but significant and sustained improvements usually take 6-12 months due to ongoing optimization and search engine indexing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

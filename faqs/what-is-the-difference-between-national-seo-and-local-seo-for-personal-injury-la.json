@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between national SEO and local SEO for personal injury lawyers?",
+  "description": "National SEO targets a broad audience, while local SEO focuses on ranking for location-specific searches, which is more crucial for personal injury lawyers seek",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-national-seo-and-local-seo-for-personal-injury-la",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between national SEO and local SEO for personal injury lawyers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "National SEO aims to rank for broad keywords across an entire country, targeting a wider, less location-specific audience. Local SEO, in contrast, focuses on ranking for location-specific keywords and appearing in local search results and map packs, primarily for potential clients in specific cities like Los Angeles or Phoenix. For personal injury lawyers, local SEO is often more critical because most clients seek legal representation in their immediate area following an accident. Local SEO strategies emphasize Google My Business, local citations, and geo-specific content, whereas national SEO focuses on broader domain authority and content relevance.",
+        "description": "National SEO targets a broad audience, while local SEO focuses on ranking for location-specific searches, which is more crucial for personal injury lawyers seeking clients in their immediate area."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

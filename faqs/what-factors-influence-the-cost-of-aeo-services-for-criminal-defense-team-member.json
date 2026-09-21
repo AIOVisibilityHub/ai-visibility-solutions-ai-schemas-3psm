@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of AEO services for criminal defense attorneys?",
+  "description": "AEO costs vary based on optimization scope, market competitiveness, content needs, and specific AI tools used.",
+  "url": "aiovisibility.com/faq/what-factors-influence-the-cost-of-aeo-services-for-criminal-defense-attorneys",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of AEO services for criminal defense attorneys?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services is influenced by several factors, including the scope of optimization required, the competitiveness of your target legal markets (e.g., New York City vs. a smaller town), the volume of content needed, and the specific AI tools and platforms utilized. Customized strategies for niche practice areas or firms seeking aggressive growth may also incur different costs. Transparent proposals are provided after an initial assessment.",
+        "description": "AEO costs vary based on optimization scope, market competitiveness, content needs, and specific AI tools used."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

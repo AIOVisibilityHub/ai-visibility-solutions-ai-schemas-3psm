@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AEO efforts for a personal injury law firm?",
+  "description": "Significant AEO results for law firms typically appear within 3-6 months, with full optimization and lead generation taking 6-12 months or more depending on mar",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-aeo-efforts-for-a-personal-injury-law",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AEO efforts for a personal injury law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing significant results from AEO can vary based on several factors, including the competitiveness of the legal market, the current authority of the firm's website, and the consistency of optimization efforts. Generally, firms might start to see improvements in organic visibility and featured snippet appearances within 3 to 6 months. Full optimization and consistent lead generation can take 6 to 12 months or longer, as search engines continually re-evaluate and update their algorithms.",
+        "description": "Significant AEO results for law firms typically appear within 3-6 months, with full optimization and lead generation taking 6-12 months or more depending on market and effort."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

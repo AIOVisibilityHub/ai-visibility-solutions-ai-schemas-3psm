@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of Schema Markup are most beneficial for local businesses in New York City?",
+  "description": "Local businesses should prioritize 'LocalBusiness' schema, along with 'Service,' 'Product,' or 'Event' schema, to enhance visibility in local searches.",
+  "url": "aiovisibility.com/faq/what-types-of-schema-markup-are-most-beneficial-for-local-businesses-in-new-york",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of Schema Markup are most beneficial for local businesses in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For local businesses in New York City, prioritizing 'LocalBusiness' schema is crucial. This markup helps search engines display your business's name, address, phone number, hours of operation, and even average ratings directly in local search results and map packs. Additionally, 'Service' or 'Product' schema can be highly beneficial if you offer specific services or sell products. 'Event' schema is useful for businesses hosting local happenings. Implementing these types helps you connect with local customers searching for what you offer.",
+        "description": "Local businesses should prioritize 'LocalBusiness' schema, along with 'Service,' 'Product,' or 'Event' schema, to enhance visibility in local searches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

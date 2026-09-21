@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a Google Business Profile and how does it relate to Google Maps Optimization?",
+  "description": "A Google Business Profile is a free tool to manage your business's online presence on Google. Optimizing it with accurate information and reviews is crucial for",
+  "url": "aiovisibility.com/faq/what-is-a-google-business-profile-and-how-does-it-relate-to-google-maps-optimiza",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Google Business Profile and how does it relate to Google Maps Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Google Business Profile (GBP) is a free tool provided by Google that allows businesses to manage their online presence across Google Search and Google Maps. It's the cornerstone of Google Maps Optimization. Optimizing your GBP involves accurately listing your business name, address, phone number, website, hours of operation, and services. You also need to add photos, post updates, and respond to customer reviews. A well-optimized GBP provides comprehensive information to potential customers and significantly improves your chances of appearing prominently in local search results.",
+        "description": "A Google Business Profile is a free tool to manage your business's online presence on Google. Optimizing it with accurate information and reviews is crucial for Google Maps visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

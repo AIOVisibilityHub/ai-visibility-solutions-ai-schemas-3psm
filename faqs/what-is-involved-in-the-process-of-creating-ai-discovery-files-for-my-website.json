@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in the process of creating AI Discovery Files for my website?",
+  "description": "The process includes a website audit, data extraction, formatting into AI-readable schemas, integration, and continuous monitoring and optimization.",
+  "url": "aiovisibility.com/faq/what-is-involved-in-the-process-of-creating-ai-discovery-files-for-my-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in the process of creating AI Discovery Files for my website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process of creating AI Discovery Files involves several key steps. First, a comprehensive audit of your website's existing content and structure is conducted. Next, relevant data points, entities, and semantic relationships are identified and extracted. This information is then organized and formatted into specialized AI-readable schemas and files. Finally, these files are integrated with your website and continuously monitored and optimized to ensure they are effectively interpreted by AI models, adapting to changes in both your site and AI technology.",
+        "description": "The process includes a website audit, data extraction, formatting into AI-readable schemas, integration, and continuous monitoring and optimization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

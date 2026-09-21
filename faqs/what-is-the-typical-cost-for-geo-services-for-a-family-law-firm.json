@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for GEO services for a family law firm?",
+  "description": "Costs for GEO services vary based on market competitiveness, number of locations, and service scope, typically ranging from hundreds to thousands of dollars per",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-for-geo-services-for-a-family-law-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for GEO services for a family law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of GEO services for a family law firm varies significantly based on factors like the competitiveness of your market (e.g., New York City versus Phoenix), the number of locations you wish to target, and the scope of services included. A basic package might focus on Google My Business optimization and local citations, while a comprehensive strategy could include local content creation, review management, and ongoing optimization. Firms can expect a range from a few hundred to several thousand dollars per month, depending on their specific needs and goals.",
+        "description": "Costs for GEO services vary based on market competitiveness, number of locations, and service scope, typically ranging from hundreds to thousands of dollars per month."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

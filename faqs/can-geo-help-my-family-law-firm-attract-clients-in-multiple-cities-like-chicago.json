@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can GEO help my family law firm attract clients in multiple cities, like Chicago and Dallas?",
+  "description": "Yes, GEO can help attract clients in multiple cities by optimizing distinct local landing pages and Google My Business profiles for each location where your fir",
+  "url": "aiovisibility.com/faq/can-geo-help-my-family-law-firm-attract-clients-in-multiple-cities-like-chicago",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can GEO help my family law firm attract clients in multiple cities, like Chicago and Dallas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, GEO can be scaled to help your family law firm attract clients in multiple cities, such as Chicago and Dallas, provided you have a physical presence or a legitimate service area in each location. This involves creating distinct local landing pages, optimizing separate Google My Business profiles for each office, and building local citations specific to each city. A multi-location GEO strategy requires a more complex and tailored approach to ensure each target market receives dedicated optimization and maintains relevance in local search results.",
+        "description": "Yes, GEO can help attract clients in multiple cities by optimizing distinct local landing pages and Google My Business profiles for each location where your firm has a presence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

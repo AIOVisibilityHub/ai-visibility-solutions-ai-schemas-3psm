@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time for a law firm to conduct an AI audit?",
+  "description": "Conduct an AI audit before or during new AI adoption, when expanding AI use, or for regular optimization and compliance checks.",
+  "url": "aiovisibility.com/faq/when-is-the-best-time-for-a-law-firm-to-conduct-an-ai-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time for a law firm to conduct an AI audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The ideal time for a law firm to conduct an AI audit is before or during the initial stages of adopting new AI technologies, or when expanding the use of existing AI tools. It's also beneficial for firms seeking to optimize current operations, address concerns about data security, or ensure regulatory compliance. Regularly scheduled audits can help firms adapt to evolving AI capabilities and maintain best practices.",
+        "description": "Conduct an AI audit before or during new AI adoption, when expanding AI use, or for regular optimization and compliance checks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

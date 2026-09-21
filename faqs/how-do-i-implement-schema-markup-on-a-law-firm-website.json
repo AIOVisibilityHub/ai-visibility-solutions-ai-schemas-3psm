@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I implement Schema Markup on a law firm website?",
+  "description": "Implement Schema Markup by generating JSON-LD code and embedding it into your website, then test it with Google's Rich Results Test.",
+  "url": "aiovisibility.com/faq/how-do-i-implement-schema-markup-on-a-law-firm-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I implement Schema Markup on a law firm website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implementing Schema Markup typically involves generating the structured data code, often in JSON-LD format, and embedding it within the HTML of the website. This can be done manually by adding code to the site's header or footer, using content management system (CMS) plugins, or through Google Tag Manager. After implementation, it's crucial to test the markup using tools like Google's Rich Results Test to ensure it's valid and correctly interpreted.",
+        "description": "Implement Schema Markup by generating JSON-LD code and embedding it into your website, then test it with Google's Rich Results Test."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

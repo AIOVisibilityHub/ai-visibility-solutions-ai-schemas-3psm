@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between general SEO and local SEO for criminal defense firms?",
+  "description": "General SEO targets broad visibility, while local SEO focuses on geographic-specific searches, crucial for criminal defense firms attracting local clients.",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-general-seo-and-local-seo-for-criminal-defense-fi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between general SEO and local SEO for criminal defense firms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "General SEO aims to improve a website's visibility across all search queries, often focusing on broad keywords and national or international reach. Local SEO, however, specifically targets search queries with a geographic intent, such as 'criminal defense lawyer Chicago' or 'DUI attorney near me.' For criminal defense firms, local SEO is more critical as most clients seek legal representation within their immediate area. It prioritizes Google Business Profile optimization, local citations, and geo-specific content to attract nearby clients.",
+        "description": "General SEO targets broad visibility, while local SEO focuses on geographic-specific searches, crucial for criminal defense firms attracting local clients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

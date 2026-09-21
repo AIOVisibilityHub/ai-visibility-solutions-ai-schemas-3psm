@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does an AI audit process for a law firm involve?",
+  "description": "The process involves reviewing current AI tools, identifying risks and gaps, and providing recommendations for improved AI utilization and security.",
+  "url": "aiovisibility.com/faq/what-does-an-ai-audit-process-for-a-law-firm-involve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does an AI audit process for a law firm involve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The AI audit process for a law firm typically begins with a comprehensive review of existing AI tools and workflows. This includes assessing data input/output, integration with other systems, and user training. It then moves to identifying risks, compliance gaps, and areas for optimization. Finally, a report is generated with actionable recommendations for improving AI utilization, security protocols, and operational efficiency.",
+        "description": "The process involves reviewing current AI tools, identifying risks and gaps, and providing recommendations for improved AI utilization and security."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

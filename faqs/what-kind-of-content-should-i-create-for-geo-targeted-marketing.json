@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content should I create for geo-targeted marketing?",
+  "description": "Create location-specific content such as blog posts about local accidents, guides on state-specific laws, local client testimonials, and articles discussing loc",
+  "url": "aiovisibility.com/faq/what-kind-of-content-should-i-create-for-geo-targeted-marketing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content should I create for geo-targeted marketing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For geo-targeted marketing, personal injury law firms should create content that is relevant to specific locations. This includes blog posts about local accident hotspots, guides on navigating personal injury claims unique to state laws (e.g., New York state laws), or articles discussing recent court cases in areas like Los Angeles or Chicago. You can also create content featuring local community involvement, client testimonials from specific cities, or FAQs addressing local regulations. The goal is to demonstrate your firm's local expertise and relevance to potential clients searching for localized legal information and services.",
+        "description": "Create location-specific content such as blog posts about local accidents, guides on state-specific laws, local client testimonials, and articles discussing local legal cases."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

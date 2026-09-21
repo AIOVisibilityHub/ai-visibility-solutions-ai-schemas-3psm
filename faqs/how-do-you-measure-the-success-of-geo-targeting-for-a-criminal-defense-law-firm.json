@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you measure the success of GEO targeting for a criminal defense law firm?",
+  "description": "Success is measured by local search rankings, traffic from target areas, local lead generation, and new client acquisitions.",
+  "url": "aiovisibility.com/faq/how-do-you-measure-the-success-of-geo-targeting-for-a-criminal-defense-law-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you measure the success of GEO targeting for a criminal defense law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The success of GEO targeting is measured through various key performance indicators (KPIs). These include increased local search rankings, higher website traffic from targeted geographic areas, more calls and form submissions from local leads, and ultimately, an increase in client consultations and new cases originating from those locations. Tools like Google Analytics, Google My Business insights, and call tracking software are used to monitor these metrics, providing clear data on the effectiveness of your GEO targeting strategies.",
+        "description": "Success is measured by local search rankings, traffic from target areas, local lead generation, and new client acquisitions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

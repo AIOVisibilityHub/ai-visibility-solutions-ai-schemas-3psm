@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content does AEO optimize for family law attorneys?",
+  "description": "AEO optimizes website pages, blog posts, case studies, and local listings to make family law content highly visible and relevant to potential clients.",
+  "url": "aiovisibility.com/faq/what-kind-of-content-does-aeo-optimize-for-family-law-attorneys",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content does AEO optimize for family law attorneys?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO optimizes various types of content crucial for family law attorneys, including website pages (practice area descriptions, attorney bios), blog posts addressing common family law questions, case study examples, and local business listings. It ensures this content is not only relevant to search engine algorithms but also highly valuable and easily understood by individuals searching for family law services, such as divorce, child custody, or adoption.",
+        "description": "AEO optimizes website pages, blog posts, case studies, and local listings to make family law content highly visible and relevant to potential clients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

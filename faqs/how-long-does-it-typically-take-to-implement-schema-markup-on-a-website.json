@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it typically take to implement Schema Markup on a website?",
+  "description": "Implementation time varies, from a few days for small sites to several weeks for larger, more complex websites with extensive schema requirements.",
+  "url": "aiovisibility.com/faq/how-long-does-it-typically-take-to-implement-schema-markup-on-a-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it typically take to implement Schema Markup on a website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The time required to implement Schema Markup varies based on the size and complexity of your website, as well as the types of schema needed. For a small website with a few common schema types (e.g., Organization, LocalBusiness, Article), implementation might take a few days to a week. Larger e-commerce sites or those requiring extensive product schema, reviews, or detailed event markups could take several weeks. Proper testing and validation are also crucial steps in the process.",
+        "description": "Implementation time varies, from a few days for small sites to several weeks for larger, more complex websites with extensive schema requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

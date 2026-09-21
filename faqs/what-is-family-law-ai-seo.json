@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Family Law AI SEO?",
+  "description": "Family Law AI SEO uses artificial intelligence to optimize a law firm's online presence for family law searches, aiming to improve rankings and attract clients.",
+  "url": "aiovisibility.com/faq/what-is-family-law-ai-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Family Law AI SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Family Law AI SEO refers to the application of artificial intelligence and machine learning techniques to optimize a law firm's online presence specifically for family law-related searches. This involves using AI to analyze search patterns, keyword performance, competitor strategies, and content effectiveness. The goal is to improve search engine rankings, attract more qualified leads, and increase client acquisition for family law practices by making their digital content more visible to potential clients actively searching for legal assistance in areas like divorce, child custody, and adoption.",
+        "description": "Family Law AI SEO uses artificial intelligence to optimize a law firm's online presence for family law searches, aiming to improve rankings and attract clients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

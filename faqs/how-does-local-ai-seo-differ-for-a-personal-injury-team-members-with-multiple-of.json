@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does local AI SEO differ for a personal injury lawyer with multiple offices?",
+  "description": "For multiple offices, local AI SEO optimizes each location's online presence with distinct Google Business Profiles, city-specific content, and local citations.",
+  "url": "aiovisibility.com/faq/how-does-local-ai-seo-differ-for-a-personal-injury-lawyer-with-multiple-offices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does local AI SEO differ for a personal injury lawyer with multiple offices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For personal injury lawyers with multiple offices, local AI SEO involves optimizing each location's unique online presence to attract clients in its specific geographic area. This means creating and optimizing separate Google Business Profile listings for each office, tailoring website content with city-specific keywords, and building local citations and backlinks relevant to each location. AI tools can help manage and optimize these multiple local profiles efficiently, ensuring each office maximizes its visibility in local search results.",
+        "description": "For multiple offices, local AI SEO optimizes each location's online presence with distinct Google Business Profiles, city-specific content, and local citations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

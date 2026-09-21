@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AI SEO for employment lawyers?",
+  "description": "AI SEO for employment lawyers uses artificial intelligence to improve a law firm's search engine ranking and attract more clients online.",
+  "url": "aiovisibility.com/faq/what-is-ai-seo-for-employment-lawyers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AI SEO for employment lawyers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO for employment lawyers uses artificial intelligence tools and strategies to enhance a law firm's online visibility in search engine results. This involves AI-driven keyword research to identify high-value search terms, content optimization for practice areas like wrongful termination or discrimination, and analysis of competitor strategies. The goal is to attract more potential clients seeking legal representation for employment-related issues by ranking higher on platforms like Google.",
+        "description": "AI SEO for employment lawyers uses artificial intelligence to improve a law firm's search engine ranking and attract more clients online."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

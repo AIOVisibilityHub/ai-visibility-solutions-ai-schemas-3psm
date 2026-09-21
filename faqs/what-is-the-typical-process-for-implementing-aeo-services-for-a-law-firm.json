@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for implementing AEO services for a law firm?",
+  "description": "The AEO process involves auditing, AI analysis of search data, optimizing online content for AI search, and continuous monitoring and adjustments.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-implementing-aeo-services-for-a-law-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for implementing AEO services for a law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The typical AEO implementation process begins with an audit of your current online presence and target audience. Next, AI-driven tools analyze search data and competitor strategies to identify opportunities. This leads to optimizing website content, local listings, and digital profiles for AI search engines and voice assistants. Continuous monitoring and adjustments based on performance data ensure ongoing effectiveness and adapt to evolving AI algorithms.",
+        "description": "The AEO process involves auditing, AI analysis of search data, optimizing online content for AI search, and continuous monitoring and adjustments."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

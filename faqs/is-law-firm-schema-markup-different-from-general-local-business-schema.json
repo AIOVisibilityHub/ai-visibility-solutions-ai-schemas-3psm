@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is Law Firm Schema Markup different from general local business schema?",
+  "description": "Yes, Law Firm Schema Markup uses specific 'LegalService' or 'Attorney' schema types, offering more detail than general local business schema.",
+  "url": "aiovisibility.com/faq/is-law-firm-schema-markup-different-from-general-local-business-schema",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Law Firm Schema Markup different from general local business schema?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, while Law Firm Schema Markup utilizes the foundational principles of local business schema, it often incorporates more specific types and properties relevant to legal services. For instance, it might leverage 'LegalService' or 'Attorney' schema types, which are specialized extensions of general 'LocalBusiness' or 'Organization' schemas. These specific types allow for richer, more precise data about legal practice areas and individual legal professionals.",
+        "description": "Yes, Law Firm Schema Markup uses specific 'LegalService' or 'Attorney' schema types, offering more detail than general local business schema."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

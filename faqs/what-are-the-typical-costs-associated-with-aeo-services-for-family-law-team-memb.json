@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the typical costs associated with AEO services for family law attorneys?",
+  "description": "AEO service costs for family law attorneys vary based on scope, market competitiveness, and firm goals, with custom quotes provided after assessment.",
+  "url": "aiovisibility.com/faq/what-are-the-typical-costs-associated-with-aeo-services-for-family-law-attorneys",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the typical costs associated with AEO services for family law attorneys?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services for family law attorneys varies significantly depending on the scope of work, the competitiveness of the legal market, and the specific goals of the firm. Packages can range from basic optimization for smaller firms to comprehensive, ongoing strategies for larger practices. Factors influencing cost include keyword research depth, content creation volume, technical SEO audits, and reporting frequency. A custom quote is generally provided after an initial assessment.",
+        "description": "AEO service costs for family law attorneys vary based on scope, market competitiveness, and firm goals, with custom quotes provided after assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

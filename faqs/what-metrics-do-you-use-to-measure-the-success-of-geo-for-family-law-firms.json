@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics do you use to measure the success of GEO for family law firms?",
+  "description": "We measure success by tracking local search rankings, website traffic from local searches, Google My Business actions, and qualified leads generated from local",
+  "url": "aiovisibility.com/faq/what-metrics-do-you-use-to-measure-the-success-of-geo-for-family-law-firms",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics do you use to measure the success of GEO for family law firms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We track several key metrics to measure the success of GEO for family law firms. These include improvements in local search rankings (e.g., Google's 3-pack), increased website traffic from local organic searches, growth in Google My Business profile views and actions (such as calls, website clicks, and direction requests), and the number of qualified leads generated from local sources. We also monitor changes in client reviews and overall online visibility within your target geographic areas like San Antonio or San Diego to ensure a holistic view of performance.",
+        "description": "We measure success by tracking local search rankings, website traffic from local searches, Google My Business actions, and qualified leads generated from local sources."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

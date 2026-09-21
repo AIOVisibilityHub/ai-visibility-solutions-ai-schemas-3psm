@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the risks of using AI for SEO in criminal defense marketing?",
+  "description": "Risks include inaccurate legal information, generic content, and ethical concerns if AI is not supervised by human experts and legal advertising regulations are",
+  "url": "aiovisibility.com/faq/what-are-the-risks-of-using-ai-for-seo-in-criminal-defense-marketing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the risks of using AI for SEO in criminal defense marketing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary risks include potential for inaccurate or unverified legal information if not properly supervised by human experts, and the generation of generic content that lacks a human touch or genuine legal insight. Over-reliance on AI without human oversight can also lead to ethical concerns regarding legal advice and client communication. It is crucial to maintain human review and ensure compliance with legal advertising regulations.",
+        "description": "Risks include inaccurate legal information, generic content, and ethical concerns if AI is not supervised by human experts and legal advertising regulations are not met."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

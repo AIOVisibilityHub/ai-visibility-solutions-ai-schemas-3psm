@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between traditional keyword optimization and topic clusters?",
+  "description": "Traditional SEO targets individual keywords; topic clusters organize content around broad topics with a central pillar page to build topical authority and impro",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-traditional-keyword-optimization-and-topic-cluste",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between traditional keyword optimization and topic clusters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional keyword optimization often focuses on ranking individual pages for specific keywords, sometimes leading to fragmented content and keyword cannibalization. Topic cluster creation, however, takes a more holistic approach by organizing content around broad topics. Instead of optimizing separate pages for similar keywords, it links related articles to a central pillar page, demonstrating comprehensive expertise. This strategy shifts focus from individual keywords to topical authority, improving overall site-wide SEO performance and user experience.",
+        "description": "Traditional SEO targets individual keywords; topic clusters organize content around broad topics with a central pillar page to build topical authority and improve site-wide performance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
