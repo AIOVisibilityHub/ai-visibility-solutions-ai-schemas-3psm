@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is local AEO important for dental practices in cities like New York City?",
+  "description": "Local AEO is vital for dental practices in cities like New York City to ensure local patients find accurate practice information through location-specific searc",
+  "url": "aiovisibility.com/faq/why-is-local-aeo-important-for-dental-practices-in-cities-like-new-york-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is local AEO important for dental practices in cities like New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local AEO is crucial for dental practices, especially in competitive urban centers like New York City, because many patient searches include location-specific keywords (e.g., \"dentist near me\" or \"dental implants NYC\"). Optimizing for local AEO ensures that your practice's information, such as address, phone number, and hours, is accurately and prominently displayed in local search results, map packs, and voice assistant responses. This directly connects local patients searching for immediate dental care with your practice.",
+        "description": "Local AEO is vital for dental practices in cities like New York City to ensure local patients find accurate practice information through location-specific searches and voice queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

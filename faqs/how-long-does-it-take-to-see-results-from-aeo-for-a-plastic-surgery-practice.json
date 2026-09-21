@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AEO for a plastic surgery practice?",
+  "description": "Initial AEO results may appear in weeks to months, with significant impact on patient inquiries usually seen within 3 to 6 months.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-aeo-for-a-plastic-surgery-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AEO for a plastic surgery practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing results from AEO for a plastic surgery practice can vary based on several factors, including the competitiveness of the procedures, the current state of your website's content, and the frequency of search engine crawls. Generally, initial improvements in featured snippet appearances and direct answers can be observed within a few weeks to a few months after implementing optimized content. Sustained and significant impact on patient inquiries and bookings typically takes 3 to 6 months as search engines recognize and consistently rank your content as an authoritative source for answers.",
+        "description": "Initial AEO results may appear in weeks to months, with significant impact on patient inquiries usually seen within 3 to 6 months."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

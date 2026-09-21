@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AEO and why is it important for CPAs?",
+  "description": "AEO (AI-Enhanced Optimization) uses AI to improve online visibility and client acquisition for CPAs, leading to more leads and better efficiency.",
+  "url": "aiovisibility.com/faq/what-is-aeo-and-why-is-it-important-for-cpas",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AEO and why is it important for CPAs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO stands for AI-Enhanced Optimization. For CPAs, it involves leveraging artificial intelligence tools and strategies to improve online visibility, client acquisition, and operational efficiency. This includes optimizing websites for search engines, managing online advertising, and analyzing data to identify new client opportunities. AEO helps CPAs attract more qualified leads, reduce marketing spend, and focus on core accounting services by automating and refining their digital presence.",
+        "description": "AEO (AI-Enhanced Optimization) uses AI to improve online visibility and client acquisition for CPAs, leading to more leads and better efficiency."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

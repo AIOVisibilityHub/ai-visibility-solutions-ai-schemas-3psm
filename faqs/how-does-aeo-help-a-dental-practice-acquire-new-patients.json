@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO help a dental practice acquire new patients?",
+  "description": "AEO increases patient acquisition by making dental practices visible in direct answers from AI search, positioning them as authoritative sources for specific se",
+  "url": "aiovisibility.com/faq/how-does-aeo-help-a-dental-practice-acquire-new-patients",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO help a dental practice acquire new patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO helps dental practices acquire new patients by increasing their visibility in answer-driven search results. When a potential patient asks a question like, 'Where can I find a dentist near me that offers teeth whitening?' or 'What are the benefits of dental implants?', a practice optimized for AEO can provide the direct, concise answer. This positions the practice as an authoritative source and can lead to immediate appointments or website visits from highly qualified leads who are actively seeking specific services or information.",
+        "description": "AEO increases patient acquisition by making dental practices visible in direct answers from AI search, positioning them as authoritative sources for specific services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

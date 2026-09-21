@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the cost of implementing AEO services for a dental practice?",
+  "description": "AEO service costs for dental practices vary, depending on practice size, services, content needs, and market competitiveness, often provided through custom quot",
+  "url": "aiovisibility.com/faq/what-is-the-cost-of-implementing-aeo-services-for-a-dental-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cost of implementing AEO services for a dental practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services for a dental practice varies based on the scope of work required. Factors influencing pricing include the size of your practice, the number of services offered, the current state of your online content, and the intensity of competitive markets. A custom proposal typically includes content analysis, keyword research focused on question-based queries, content creation or optimization, technical implementation, and ongoing monitoring. Most providers offer tiered packages or custom quotes after an initial consultation.",
+        "description": "AEO service costs for dental practices vary, depending on practice size, services, content needs, and market competitiveness, often provided through custom quotes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

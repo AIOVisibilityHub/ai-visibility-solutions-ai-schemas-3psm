@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of AEO services for a beauty spa?",
+  "description": "Costs for AEO services vary based on the scope, spa size, and specific marketing goals. Providers offer tiered packages or custom quotes after an initial assess",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-of-aeo-services-for-a-beauty-spa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of AEO services for a beauty spa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services for a beauty spa can vary significantly based on the scope of services, the size of your spa, and your specific marketing goals. Factors influencing price include the level of SEO optimization, content creation needs, social media management, online reputation management, and the integration of AI tools for client engagement. Most providers offer tiered packages or custom quotes after an initial consultation to assess your needs. It's an investment aimed at long-term growth and increased revenue.",
+        "description": "Costs for AEO services vary based on the scope, spa size, and specific marketing goals. Providers offer tiered packages or custom quotes after an initial assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right GEO marketing provider for my med spa?",
+  "description": "Choose a GEO marketing provider with proven med spa industry experience, transparent reporting, a clear local strategy, and ethical practices.",
+  "url": "aiovisibility.com/faq/how-do-i-choose-the-right-geo-marketing-provider-for-my-med-spa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right GEO marketing provider for my med spa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a GEO marketing provider, look for agencies with proven experience in the medical spa or aesthetic industry. Key factors include their understanding of local search algorithms, a transparent reporting process, and a clear strategy tailored to your specific location and services. Request case studies or client testimonials, and ensure they communicate clearly about realistic expectations and measurable outcomes. A good provider will focus on sustainable, ethical practices.",
+        "description": "Choose a GEO marketing provider with proven med spa industry experience, transparent reporting, a clear local strategy, and ethical practices."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

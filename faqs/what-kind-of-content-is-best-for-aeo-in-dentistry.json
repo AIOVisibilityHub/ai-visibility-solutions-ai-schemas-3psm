@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content is best for AEO in dentistry?",
+  "description": "Content for AEO in dentistry should include detailed FAQs, blog posts, and service pages that directly answer patient questions using clear language and structu",
+  "url": "aiovisibility.com/faq/what-kind-of-content-is-best-for-aeo-in-dentistry",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content is best for AEO in dentistry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Effective content for AEO in dentistry includes detailed FAQs on services, blog posts addressing common patient concerns, and well-structured service pages. This content should directly answer specific questions using clear, concise language and often include structured data markup (schema). Examples are 'How long do dental implants last?', 'What is a root canal?', or 'Symptoms of gingivitis'. The goal is to anticipate patient questions and provide the most direct, accurate, and easy-to-understand answer possible.",
+        "description": "Content for AEO in dentistry should include detailed FAQs, blog posts, and service pages that directly answer patient questions using clear language and structured data."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

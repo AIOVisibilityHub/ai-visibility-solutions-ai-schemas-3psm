@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is GEO for Med Spas?",
+  "description": "GEO for Med Spas is a digital marketing strategy focusing on attracting local clients within a specific geographic area to a medical spa.",
+  "url": "aiovisibility.com/faq/what-is-geo-for-med-spas",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GEO for Med Spas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO for Med Spas refers to specialized digital marketing strategies that target potential clients within a specific geographic area. For med spas, this means optimizing online presence to appear prominently in search results for local residents seeking cosmetic treatments, injectables, or other aesthetic services. Strategies often include local SEO, targeted online ads, and location-specific content to attract nearby customers, driving foot traffic and appointments.",
+        "description": "GEO for Med Spas is a digital marketing strategy focusing on attracting local clients within a specific geographic area to a medical spa."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

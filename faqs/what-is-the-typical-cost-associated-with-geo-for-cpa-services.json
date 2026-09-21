@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost associated with GEO for CPA services?",
+  "description": "Cost varies based on scope, market competitiveness, and services like Google Business Profile optimization and local content. A customized proposal is provided",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-associated-with-geo-for-cpa-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost associated with GEO for CPA services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of GEO for CPA services can vary based on the scope of work, the competitiveness of the target markets, and the specific services included (e.g., Google Business Profile optimization, local citation building, localized content creation, reputation management). A customized proposal is typically provided after an initial assessment of your firm's needs and current online presence. Investments are designed to align with desired business outcomes.",
+        "description": "Cost varies based on scope, market competitiveness, and services like Google Business Profile optimization and local content. A customized proposal is provided after assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

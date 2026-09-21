@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AEO for an accounting firm?",
+  "description": "Initial AEO results may appear in weeks to months, with significant improvements in leads and authority developing over 3-6 months. It's an ongoing process.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-aeo-for-an-accounting-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AEO for an accounting firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing results from AEO for an accounting firm can vary. Initial improvements, such as appearing in more featured snippets or direct answers, might be observed within a few weeks to a few months, especially for targeted, high-value questions. Comprehensive results, including a significant increase in qualified leads and brand authority, typically develop over 3 to 6 months. AEO is an ongoing strategy, and continuous optimization is necessary to maintain and improve visibility as search algorithms and user behaviors change.",
+        "description": "Initial AEO results may appear in weeks to months, with significant improvements in leads and authority developing over 3-6 months. It's an ongoing process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost structure for AEO services for a CPA practice?",
+  "description": "AEO service costs for CPAs vary based on scope, with monthly retainers or project fees. Factors include SEO depth, PPC budget, and content needs.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-structure-for-aeo-services-for-a-cpa-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost structure for AEO services for a CPA practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for AEO services for a CPA practice depends on the scope and complexity of the strategies implemented. Pricing models can include monthly retainers, project-based fees, or performance-based agreements. Factors influencing cost are the level of SEO, extent of PPC advertising, content creation volume, and reporting frequency. Firms can expect a range, with more comprehensive services naturally costing more, but offering potentially greater returns.",
+        "description": "AEO service costs for CPAs vary based on scope, with monthly retainers or project fees. Factors include SEO depth, PPC budget, and content needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

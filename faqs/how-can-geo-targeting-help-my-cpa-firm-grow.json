@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can GEO targeting help my CPA firm grow?",
+  "description": "GEO targeting increases local visibility, attracting qualified leads and helping CPA firms grow by connecting with clients in their service areas.",
+  "url": "aiovisibility.com/faq/how-can-geo-targeting-help-my-cpa-firm-grow",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can GEO targeting help my CPA firm grow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO targeting helps CPA firms by attracting local clients actively searching for accounting services nearby. By optimizing for local searches, your firm increases its visibility to potential clients in your specific service area, leading to more qualified leads and appointments. This approach allows smaller firms to compete effectively with larger national companies by dominating local search results.",
+        "description": "GEO targeting increases local visibility, attracting qualified leads and helping CPA firms grow by connecting with clients in their service areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

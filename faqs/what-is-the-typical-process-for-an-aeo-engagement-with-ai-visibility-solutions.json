@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for an AEO engagement with AI Visibility Solutions?",
+  "description": "Our AEO process involves discovery, question research, content optimization with schema markup, and ongoing monitoring for continuous improvement.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-an-aeo-engagement-with-ai-visibility-solutions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for an AEO engagement with AI Visibility Solutions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our AEO engagement typically begins with a discovery phase to understand your target audience, service areas (e.g., New York City, Los Angeles), and current online presence. Next, we conduct comprehensive keyword and question research to identify high-value queries. We then develop and optimize content to provide direct answers, implementing technical schema markup. Ongoing monitoring and refinement ensure continuous improvement and adaptation to search algorithm changes, providing regular performance reports.",
+        "description": "Our AEO process involves discovery, question research, content optimization with schema markup, and ongoing monitoring for continuous improvement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

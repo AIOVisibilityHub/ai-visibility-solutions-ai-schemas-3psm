@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of services are included in an AEO package for accounting firms?",
+  "description": "AEO packages for accounting firms usually include SEO, PPC, content marketing, social media optimization, and analytics, with optional AI tools for lead managem",
+  "url": "aiovisibility.com/faq/what-types-of-services-are-included-in-an-aeo-package-for-accounting-firms",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of services are included in an AEO package for accounting firms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A comprehensive AEO package for accounting firms typically includes several services. These often encompass search engine optimization (SEO) tailored for accounting keywords, pay-per-click (PPC) campaign management, content marketing strategy for thought leadership, social media optimization, and advanced analytics reporting. Some packages may also include AI-powered tools for reputation management, lead qualification, or website personalization, all designed to enhance your firm's digital performance.",
+        "description": "AEO packages for accounting firms usually include SEO, PPC, content marketing, social media optimization, and analytics, with optional AI tools for lead management."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for AEO services for a plastic surgery practice?",
+  "description": "AEO service costs for plastic surgeons vary, typically ranging from $1,500 to $5,000+ per month for comprehensive services, depending on scope and agency.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-for-aeo-services-for-a-plastic-surgery-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for AEO services for a plastic surgery practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for AEO services for a plastic surgery practice can vary significantly based on the scope of work, the agency's expertise, and the practice's specific needs. Factors influencing cost include the number of procedures to optimize, the volume of content creation required, the competitiveness of the market, and ongoing maintenance. While some agencies offer project-based pricing starting from a few thousand dollars for specific content overhauls, most AEO strategies are part of broader monthly retainers, often ranging from $1,500 to $5,000+ per month for comprehensive services that include content, technical optimization, and performance tracking.",
+        "description": "AEO service costs for plastic surgeons vary, typically ranging from $1,500 to $5,000+ per month for comprehensive services, depending on scope and agency."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

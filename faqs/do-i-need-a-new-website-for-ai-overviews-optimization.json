@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a new website for AI overviews optimization?",
+  "description": "Not always; often, existing websites can be optimized through content refinement and structured data, though major issues might warrant a redesign.",
+  "url": "aiovisibility.com/faq/do-i-need-a-new-website-for-ai-overviews-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a new website for AI overviews optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A completely new website is not always necessary. Many existing websites can be optimized by implementing structured data, refining current content for clarity and direct answers, and improving technical SEO aspects. However, if your current site is outdated, slow, or has significant structural issues, a redesign might be recommended to provide a strong foundation for effective AI overviews optimization and overall digital presence.",
+        "description": "Not always; often, existing websites can be optimized through content refinement and structured data, though major issues might warrant a redesign."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

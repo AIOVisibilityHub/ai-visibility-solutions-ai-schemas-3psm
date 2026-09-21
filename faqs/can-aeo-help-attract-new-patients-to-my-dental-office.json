@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AEO help attract new patients to my dental office?",
+  "description": "Yes, AEO attracts new patients by positioning your dental practice as a direct and credible source of information for their questions, increasing visibility and",
+  "url": "aiovisibility.com/faq/can-aeo-help-attract-new-patients-to-my-dental-office",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AEO help attract new patients to my dental office?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AEO can significantly help attract new patients by improving your practice's visibility in modern search environments. When potential patients ask questions like \"Where can I get teeth whitening?\" or \"What are the signs of a cavity?\", AEO ensures that your practice appears as a credible and direct source of information. This pre-qualifies patients by providing them with the answers they need instantly, building trust and positioning your practice as an authority, which can lead to increased appointment bookings and new patient acquisition.",
+        "description": "Yes, AEO attracts new patients by positioning your dental practice as a direct and credible source of information for their questions, increasing visibility and trust."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

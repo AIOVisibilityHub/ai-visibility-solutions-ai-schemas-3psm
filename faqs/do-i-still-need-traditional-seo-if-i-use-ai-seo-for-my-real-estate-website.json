@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I still need traditional SEO if I use AI SEO for my real estate website?",
+  "description": "AI SEO enhances, not replaces, traditional SEO. It uses data to refine foundational SEO practices, making them more efficient and effective for real estate webs",
+  "url": "aiovisibility.com/faq/do-i-still-need-traditional-seo-if-i-use-ai-seo-for-my-real-estate-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I still need traditional SEO if I use AI SEO for my real estate website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO does not replace traditional SEO; rather, it enhances and streamlines it. AI tools use data-driven insights to inform and refine traditional SEO practices, such as keyword research, content creation, and technical optimization. Think of AI as a powerful co-pilot that makes your existing SEO efforts more efficient and effective. A comprehensive strategy integrates both AI-powered analysis and foundational SEO principles for best results.",
+        "description": "AI SEO enhances, not replaces, traditional SEO. It uses data to refine foundational SEO practices, making them more efficient and effective for real estate websites."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

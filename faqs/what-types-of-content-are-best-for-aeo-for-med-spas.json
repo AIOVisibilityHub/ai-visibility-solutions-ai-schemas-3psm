@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of content are best for AEO for med spas?",
+  "description": "Best content for AEO includes informational blog posts, detailed service pages, comprehensive FAQ sections, and comparison guides relevant to med spa treatments",
+  "url": "aiovisibility.com/faq/what-types-of-content-are-best-for-aeo-for-med-spas",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of content are best for AEO for med spas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Effective AEO for med spas utilizes various content types. Informational blog posts answering specific questions (e.g., 'What is Botox for?', 'Benefits of laser hair removal?') are crucial. Service pages should clearly define procedures, expected results, and recovery. FAQ sections directly addressing patient concerns are also highly effective. Comparison articles (e.g., 'Botox vs. Fillers') and local guides (e.g., 'Best med spa treatments in New York City') further enhance AEO by covering a wide range of user intents.",
+        "description": "Best content for AEO includes informational blog posts, detailed service pages, comprehensive FAQ sections, and comparison guides relevant to med spa treatments."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between SEO and AEO for accountants?",
+  "description": "SEO aims for high rankings and website clicks, while AEO optimizes content for direct answers by AI search engines and voice assistants.",
+  "url": "aiovisibility.com/faq/what-s-the-difference-between-seo-and-aeo-for-accountants",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between SEO and AEO for accountants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While related, SEO (Search Engine Optimization) and AEO (Answer Engine Optimization) have distinct focuses for accountants. SEO primarily optimizes your website to rank high on traditional search result pages, often aiming for clicks to your site. AEO, however, focuses on optimizing content so AI-powered search engines and voice assistants can directly provide your information as an answer without requiring a click. SEO helps you get found, while AEO helps you provide a direct, immediate answer, improving your firm's presence in conversational search environments.",
+        "description": "SEO aims for high rankings and website clicks, while AEO optimizes content for direct answers by AI search engines and voice assistants."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

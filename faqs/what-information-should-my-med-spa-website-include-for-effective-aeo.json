@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should my med spa website include for effective AEO?",
+  "description": "Effective AEO requires comprehensive service details, dedicated FAQ pages, informative blog posts answering specific questions, and optimized local business inf",
+  "url": "aiovisibility.com/faq/what-information-should-my-med-spa-website-include-for-effective-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should my med spa website include for effective AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For effective AEO, your med spa website should include comprehensive and clear information on each service offered, detailing benefits, what to expect during treatment, and post-procedure care. Dedicated FAQ pages addressing common patient concerns are vital. Include well-researched blog posts that answer specific, long-tail questions related to treatments and conditions. Ensure your 'About Us' and 'Contact' pages are also optimized with location-specific keywords for local searches, providing all necessary details for potential clients.",
+        "description": "Effective AEO requires comprehensive service details, dedicated FAQ pages, informative blog posts answering specific questions, and optimized local business information on your med spa website."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

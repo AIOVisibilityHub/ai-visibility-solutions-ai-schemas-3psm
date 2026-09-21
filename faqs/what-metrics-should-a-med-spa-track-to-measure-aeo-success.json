@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should a med spa track to measure AEO success?",
+  "description": "Med spas should track featured snippet appearances, voice search queries, 'near me' searches, organic traffic to optimized pages, and Google Business Profile in",
+  "url": "aiovisibility.com/faq/what-metrics-should-a-med-spa-track-to-measure-aeo-success",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should a med spa track to measure AEO success?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure AEO success, a med spa should track several key metrics. These include the number of times your business appears as a featured snippet or direct answer in search results, voice search queries leading to your website or phone calls, and increases in 'near me' searches. Monitor organic traffic increases to specific service pages optimized for questions, Google Business Profile insights for discovery and direct searches, and conversion rates from users who found you via answer engines. Tracking these metrics provides a clear picture of your visibility and impact on patient acquisition.",
+        "description": "Med spas should track featured snippet appearances, voice search queries, 'near me' searches, organic traffic to optimized pages, and Google Business Profile insights to measure AEO success."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

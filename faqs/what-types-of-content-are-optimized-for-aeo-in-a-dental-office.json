@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of content are optimized for AEO in a dental office?",
+  "description": "Optimized content for AEO includes FAQs, structured service pages, testimonials, and practice information designed to directly answer common patient questions.",
+  "url": "aiovisibility.com/faq/what-types-of-content-are-optimized-for-aeo-in-a-dental-office",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of content are optimized for AEO in a dental office?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Content optimized for AEO typically includes FAQs on your website, well-structured service pages, patient testimonials, and practice information that directly answers common questions. This can cover details about specific procedures (e.g., \"What is a dental crown?\"), insurance acceptance, appointment scheduling, and your practice's unique selling points. The key is to provide clear, concise, and accurate answers that anticipate patient queries, making it easy for AI and voice assistants to extract and present the information.",
+        "description": "Optimized content for AEO includes FAQs, structured service pages, testimonials, and practice information designed to directly answer common patient questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

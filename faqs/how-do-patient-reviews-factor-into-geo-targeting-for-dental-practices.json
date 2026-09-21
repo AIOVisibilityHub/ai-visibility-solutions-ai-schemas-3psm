@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do patient reviews factor into geo-targeting for dental practices?",
+  "description": "Patient reviews are crucial for geo-targeting as search engines use them to assess trustworthiness and quality, boosting local search rankings and attracting ne",
+  "url": "aiovisibility.com/faq/how-do-patient-reviews-factor-into-geo-targeting-for-dental-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do patient reviews factor into geo-targeting for dental practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patient reviews are a critical factor in geo-targeting for dental practices. Search engines like Google consider both the quantity and quality of reviews on your Google Business Profile and other local directories when determining local search rankings. Positive reviews from local patients signal trustworthiness and quality to potential new patients, while also providing valuable keyword-rich content that can help improve local visibility. Actively encouraging and managing patient reviews is a powerful way to boost your practice's local reputation and search performance.",
+        "description": "Patient reviews are crucial for geo-targeting as search engines use them to assess trustworthiness and quality, boosting local search rankings and attracting new patients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

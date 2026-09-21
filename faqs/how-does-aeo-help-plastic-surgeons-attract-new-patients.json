@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO help plastic surgeons attract new patients?",
+  "description": "AEO helps plastic surgeons attract new patients by providing direct, authoritative answers to their questions in search results, increasing visibility and build",
+  "url": "aiovisibility.com/faq/how-does-aeo-help-plastic-surgeons-attract-new-patients",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO help plastic surgeons attract new patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO helps plastic surgeons attract new patients by placing their expertise directly in front of those seeking immediate information. When a potential patient asks a question like 'What is a rhinoplasty recovery like?' or 'How much does a breast augmentation cost in New York City?', AEO ensures your practice's accurate and helpful answer is prominently displayed. This direct access to reliable information builds trust and positions your practice as an authority. By being the primary source of answers, you increase visibility, drive qualified traffic to your website, and improve the likelihood of converting inquiries into consultations.",
+        "description": "AEO helps plastic surgeons attract new patients by providing direct, authoritative answers to their questions in search results, increasing visibility and building trust."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

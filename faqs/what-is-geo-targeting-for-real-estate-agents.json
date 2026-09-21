@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is geo-targeting for real estate agents?",
+  "description": "Geo-targeting delivers digital marketing content to potential real estate clients within specific geographic areas.",
+  "url": "aiovisibility.com/faq/what-is-geo-targeting-for-real-estate-agents",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is geo-targeting for real estate agents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Geo-targeting for real estate agents is a digital marketing strategy that focuses on delivering advertising and content to potential clients within specific geographic areas. This approach uses location data from devices to ensure that marketing messages, such as property listings or agent services, reach the most relevant local audience. For a real estate agent, it means their ads are seen by people actively searching for homes or services in their target neighborhoods or cities, maximizing visibility and lead generation efficiency.",
+        "description": "Geo-targeting delivers digital marketing content to potential real estate clients within specific geographic areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

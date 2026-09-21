@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does GEO marketing cost for an accounting firm?",
+  "description": "The cost of GEO marketing for accounting firms varies, ranging from a few hundred dollars monthly for basic services to over a thousand for comprehensive strate",
+  "url": "aiovisibility.com/faq/how-much-does-geo-marketing-cost-for-an-accounting-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does GEO marketing cost for an accounting firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of GEO marketing for an accounting firm can vary significantly depending on the scope of services, the competitiveness of your local market, and the size of your target geographic areas. Basic local SEO packages might start from a few hundred dollars per month, focusing on foundational optimizations. More comprehensive strategies involving content creation, advanced link building, and extensive local citation management could range from over a thousand dollars monthly. It's an investment tailored to your specific goals and market conditions.",
+        "description": "The cost of GEO marketing for accounting firms varies, ranging from a few hundred dollars monthly for basic services to over a thousand for comprehensive strategies, depending on market competition and service scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

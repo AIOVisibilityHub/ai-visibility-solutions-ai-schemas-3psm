@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What specific services are included in a GEO marketing strategy for med spas?",
+  "description": "GEO marketing for med spas includes Google Business Profile optimization, local keyword research, citation building, location-specific content, review managemen",
+  "url": "aiovisibility.com/faq/what-specific-services-are-included-in-a-geo-marketing-strategy-for-med-spas",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What specific services are included in a GEO marketing strategy for med spas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A comprehensive GEO marketing strategy for med spas typically includes optimizing your Google Business Profile, local keyword research, citation building across local directories, and creating location-specific content for your website. It also involves managing online reviews, targeted local advertising campaigns (e.g., Google Ads with geographic targeting), and ensuring your website is mobile-friendly and fast. The goal is to enhance local search visibility and drive direct engagement from local prospects.",
+        "description": "GEO marketing for med spas includes Google Business Profile optimization, local keyword research, citation building, location-specific content, review management, and targeted local advertising."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

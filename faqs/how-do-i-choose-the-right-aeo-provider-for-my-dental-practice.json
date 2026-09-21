@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right AEO provider for my dental practice?",
+  "description": "Choose an AEO provider with dental industry experience, a clear content strategy, transparent reporting, and strong client communication, backed by case studies",
+  "url": "aiovisibility.com/faq/how-do-i-choose-the-right-aeo-provider-for-my-dental-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right AEO provider for my dental practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting an AEO provider, look for agencies with proven experience in the dental or healthcare sector. Evaluate their understanding of answer engine algorithms and voice search trends. Key factors include their approach to content strategy, their reporting transparency, and their client communication. Request case studies or testimonials from other dental practices. A reputable provider will prioritize a clear strategy tailored to your practice's specific goals and demonstrate measurable results rather than making vague promises.",
+        "description": "Choose an AEO provider with dental industry experience, a clear content strategy, transparent reporting, and strong client communication, backed by case studies."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

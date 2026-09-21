@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What role does schema markup play in real estate AEO?",
+  "description": "Schema markup is crucial for real estate AEO, providing structured data (e.g., property details, agent info) that helps AI engines accurately display your conte",
+  "url": "aiovisibility.com/faq/what-role-does-schema-markup-play-in-real-estate-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What role does schema markup play in real estate AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Schema markup plays a critical role in real estate AEO by providing structured data that answer engines can easily understand and interpret. For real estate, this means using specific schema types like `RealEstateAgent`, `House`, `Apartment`, `Residence`, or `LocalBusiness` to tag details such as property address, price, number of bedrooms, agent contact information, and service areas. This structured data helps AI accurately extract and present your information in rich snippets, carousels, or direct answers, boosting your visibility and ensuring your content is correctly categorized and displayed.",
+        "description": "Schema markup is crucial for real estate AEO, providing structured data (e.g., property details, agent info) that helps AI engines accurately display your content in search results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

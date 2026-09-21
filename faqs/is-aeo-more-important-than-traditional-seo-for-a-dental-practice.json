@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AEO more important than traditional SEO for a dental practice?",
+  "description": "AEO and traditional SEO are complementary; AEO targets direct answers in AI search, while traditional SEO focuses on broader rankings. Both are important for de",
+  "url": "aiovisibility.com/faq/is-aeo-more-important-than-traditional-seo-for-a-dental-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AEO more important than traditional SEO for a dental practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO and traditional SEO are complementary rather than mutually exclusive for dental practices. Traditional SEO focuses on broader keyword rankings and website traffic, while AEO targets direct answers in AI-powered search and voice assistants. While AEO is increasingly critical due to the rise of voice search and AI integration, a strong foundation in traditional SEO is still necessary for overall online visibility. Combining both strategies provides a comprehensive approach to capture various types of patient searches and maximize online presence.",
+        "description": "AEO and traditional SEO are complementary; AEO targets direct answers in AI search, while traditional SEO focuses on broader rankings. Both are important for dental practice visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from GEO marketing for a med spa?",
+  "description": "Results from GEO marketing for a med spa typically become noticeable within 3 to 6 months, though initial improvements may be seen sooner with consistent effort",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-geo-marketing-for-a-med-spa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from GEO marketing for a med spa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing results from GEO marketing for a med spa can vary, typically ranging from 3 to 6 months for noticeable improvements. Initial optimizations, like Google Business Profile setup and local citation building, can show quicker gains. However, achieving significant search ranking improvements and consistent lead generation often requires sustained effort, content creation, and ongoing refinement of strategies based on performance data.",
+        "description": "Results from GEO marketing for a med spa typically become noticeable within 3 to 6 months, though initial improvements may be seen sooner with consistent effort."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

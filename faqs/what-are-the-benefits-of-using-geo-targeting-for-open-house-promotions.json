@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of using geo-targeting for open house promotions?",
+  "description": "Geo-targeting for open houses increases foot traffic by reaching nearby potential buyers, reducing wasted ad spend and enhancing local presence.",
+  "url": "aiovisibility.com/faq/what-are-the-benefits-of-using-geo-targeting-for-open-house-promotions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of using geo-targeting for open house promotions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Using geo-targeting for open house promotions offers several key benefits. It ensures that announcements reach potential buyers who live in the vicinity or are actively searching in that specific neighborhood, increasing foot traffic. By targeting local residents, agents can attract interested parties who might not be actively looking online but would attend a local open house. This focused approach reduces wasted advertising impressions, increases the likelihood of finding a buyer quickly, and enhances the agent's local market presence.",
+        "description": "Geo-targeting for open houses increases foot traffic by reaching nearby potential buyers, reducing wasted ad spend and enhancing local presence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

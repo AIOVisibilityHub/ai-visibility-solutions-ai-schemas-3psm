@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should my CPA firm consider investing in GEO marketing?",
+  "description": "Consider GEO marketing when expanding a local client base, improving community recognition, or competing with local firms, especially with physical offices.",
+  "url": "aiovisibility.com/faq/when-should-my-cpa-firm-consider-investing-in-geo-marketing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should my CPA firm consider investing in GEO marketing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A CPA firm should consider GEO marketing when aiming to expand its local client base, improve brand recognition within specific communities, or when facing competition from other local firms. It's particularly beneficial for firms with physical offices or those primarily serving clients within a defined radius. Investing early ensures your firm establishes a strong local online presence before competitors.",
+        "description": "Consider GEO marketing when expanding a local client base, improving community recognition, or competing with local firms, especially with physical offices."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

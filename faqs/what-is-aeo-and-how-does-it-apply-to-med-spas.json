@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AEO and how does it apply to med spas?",
+  "description": "AEO (Answer Engine Optimization) helps med spas appear in search engine answer sections by providing direct answers to common user questions about treatments an",
+  "url": "aiovisibility.com/faq/what-is-aeo-and-how-does-it-apply-to-med-spas",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AEO and how does it apply to med spas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO, or Answer Engine Optimization, is a digital marketing strategy focused on optimizing online content to directly answer user queries on search engines like Google. For med spas, AEO involves structuring website content, blog posts, and service descriptions to provide clear, concise answers to common questions about treatments, procedures, benefits, and local services. This helps med spas appear prominently in 'People Also Ask' sections, featured snippets, and voice search results, increasing visibility and attracting potential clients who are actively seeking information.",
+        "description": "AEO (Answer Engine Optimization) helps med spas appear in search engine answer sections by providing direct answers to common user questions about treatments and services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

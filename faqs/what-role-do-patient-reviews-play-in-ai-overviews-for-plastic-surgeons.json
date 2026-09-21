@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What role do patient reviews play in AI overviews for plastic surgeons?",
+  "description": "Patient reviews are crucial; AI uses their quantity, quality, and recency to assess reputation, influencing how favorably your practice appears in summaries.",
+  "url": "aiovisibility.com/faq/what-role-do-patient-reviews-play-in-ai-overviews-for-plastic-surgeons",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What role do patient reviews play in AI overviews for plastic surgeons?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patient reviews are critical for AI overviews. AI systems consider the quantity, quality, and recency of reviews as indicators of a practice's reputation and patient satisfaction. Positive reviews, especially those that mention specific procedures or surgeon attributes, provide AI with valuable, trustworthy data points. Encouraging satisfied patients to leave detailed reviews helps build authority and can influence how often and how favorably your practice is presented in AI-generated summaries.",
+        "description": "Patient reviews are crucial; AI uses their quantity, quality, and recency to assess reputation, influencing how favorably your practice appears in summaries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

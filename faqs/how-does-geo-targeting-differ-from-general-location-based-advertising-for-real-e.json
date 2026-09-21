@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does geo-targeting differ from general location-based advertising for real estate?",
+  "description": "Geo-targeting provides more precise geographic segmentation (e.g., neighborhoods) than general location-based advertising (e.g., entire cities).",
+  "url": "aiovisibility.com/faq/how-does-geo-targeting-differ-from-general-location-based-advertising-for-real-e",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does geo-targeting differ from general location-based advertising for real estate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Geo-targeting offers a more precise and strategic approach compared to general location-based advertising. While general location-based ads might target broad regions like an entire city, geo-targeting allows for much finer segmentation, such as specific neighborhoods, zip codes, or even custom polygons around a few blocks. This precision means real estate agents can tailor their messages to highly specific local demographics and interests, leading to more relevant ad delivery and higher conversion rates than broad location campaigns.",
+        "description": "Geo-targeting provides more precise geographic segmentation (e.g., neighborhoods) than general location-based advertising (e.g., entire cities)."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

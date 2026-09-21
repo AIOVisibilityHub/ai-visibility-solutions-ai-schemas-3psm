@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AEO help my med spa attract local patients?",
+  "description": "Yes, AEO helps med spas attract local patients by optimizing for 'near me' and location-specific queries, using local Google Business Profile and structured dat",
+  "url": "aiovisibility.com/faq/can-aeo-help-my-med-spa-attract-local-patients",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AEO help my med spa attract local patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Answer Engine Optimization is highly effective for med spas looking to attract local patients. A significant portion of voice and AI-powered searches are location-specific, such as 'best med spa near me' or 'Botox in Los Angeles.' By optimizing your Google Business Profile, local service pages, and using structured data with precise location information, AEO helps answer engines identify your med spa as a relevant local option. This direct visibility in local search queries leads to more qualified local leads and increased foot traffic to your med spa.",
+        "description": "Yes, AEO helps med spas attract local patients by optimizing for 'near me' and location-specific queries, using local Google Business Profile and structured data for high local visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What data does AI SEO analyze for plastic surgery practices?",
+  "description": "AI SEO analyzes keyword data, competitor strategies, technical website aspects, user behavior, local search queries, patient reviews, and algorithm updates.",
+  "url": "aiovisibility.com/faq/what-data-does-ai-seo-analyze-for-plastic-surgery-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What data does AI SEO analyze for plastic surgery practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO analyzes a broad range of data to optimize a plastic surgery practice's online presence. This includes keyword search volume and intent, competitor website structure and backlink profiles, technical SEO aspects of your own site (e.g., site speed, mobile-friendliness), user behavior on your website (e.g., bounce rate, time on page), and local search queries. It also processes patient review sentiment, social media trends, and algorithm updates to provide a comprehensive, data-driven optimization strategy.",
+        "description": "AI SEO analyzes keyword data, competitor strategies, technical website aspects, user behavior, local search queries, patient reviews, and algorithm updates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

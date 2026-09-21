@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the first steps for a dental practice to implement AEO?",
+  "description": "First AEO steps for a dental practice include auditing existing content, conducting keyword research for patient questions, and optimizing content with clear an",
+  "url": "aiovisibility.com/faq/what-are-the-first-steps-for-a-dental-practice-to-implement-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the first steps for a dental practice to implement AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first steps for a dental practice to implement AEO involve an audit of existing online content to identify gaps and opportunities for direct answers. This includes analyzing current website content, blog posts, and Google Business Profile. Next, conduct thorough keyword research to understand patient questions and search intent. Finally, begin optimizing content by structuring answers clearly, using schema markup where appropriate, and ensuring information is concise and accurate. This lays the groundwork for appearing in featured snippets and voice search results.",
+        "description": "First AEO steps for a dental practice include auditing existing content, conducting keyword research for patient questions, and optimizing content with clear answers and schema markup."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

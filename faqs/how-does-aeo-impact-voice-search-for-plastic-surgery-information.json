@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO impact voice search for plastic surgery information?",
+  "description": "AEO impacts voice search by optimizing content for concise, direct answers, increasing the chance your practice is chosen by voice assistants.",
+  "url": "aiovisibility.com/faq/how-does-aeo-impact-voice-search-for-plastic-surgery-information",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO impact voice search for plastic surgery information?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO is crucial for voice search because voice assistants primarily deliver direct, concise answers rather than a list of links. When someone asks a voice assistant, 'What is the recovery time for a facelift?' or 'Find a reputable plastic surgeon in Los Angeles,' AEO helps your practice's optimized content be the chosen response. By structuring your content with clear, brief answers to common questions, you increase the likelihood of being the direct answer provided by devices like smart speakers and smartphones, expanding your reach to this growing segment of searchers.",
+        "description": "AEO impacts voice search by optimizing content for concise, direct answers, increasing the chance your practice is chosen by voice assistants."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

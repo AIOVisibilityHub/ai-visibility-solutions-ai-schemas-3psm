@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why should an accounting firm invest in AEO now?",
+  "description": "Early AEO adoption helps accounting firms gain a competitive edge as AI search and voice assistants grow in popularity, securing future client acquisition.",
+  "url": "aiovisibility.com/faq/why-should-an-accounting-firm-invest-in-aeo-now",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why should an accounting firm invest in AEO now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Investing in AEO now positions your accounting firm ahead of competitors. As AI-powered search and voice assistants become more prevalent, clients are increasingly using these tools to find local businesses and professional services. Early adoption of AEO ensures your firm is visible where clients are looking, capturing a new segment of the market. It's a proactive strategy to maintain relevance and secure future client acquisition channels in a rapidly changing digital environment.",
+        "description": "Early AEO adoption helps accounting firms gain a competitive edge as AI search and voice assistants grow in popularity, securing future client acquisition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

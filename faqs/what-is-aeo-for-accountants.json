@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AEO for Accountants?",
+  "description": "AEO for Accountants optimizes an accounting firm's online presence for AI search engines and voice assistants.",
+  "url": "aiovisibility.com/faq/what-is-aeo-for-accountants",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AEO for Accountants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO for Accountants, or AI Engine Optimization for Accountants, is a specialized digital marketing strategy designed to improve an accounting firm's visibility and ranking in AI-powered search results and voice assistant queries. It involves optimizing your online presence to be easily understood and favored by artificial intelligence algorithms. This helps potential clients find your services more efficiently when they use tools like ChatGPT, Google Gemini, or voice assistants to search for financial services, tax advice, or bookkeeping professionals.",
+        "description": "AEO for Accountants optimizes an accounting firm's online presence for AI search engines and voice assistants."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

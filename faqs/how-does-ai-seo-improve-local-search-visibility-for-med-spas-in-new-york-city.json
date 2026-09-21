@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AI SEO improve local search visibility for med spas in New York City?",
+  "description": "AI SEO boosts local visibility for NYC med spas by optimizing Google My Business, standardizing NAP data, and targeting local keywords based on NYC-specific sea",
+  "url": "aiovisibility.com/faq/how-does-ai-seo-improve-local-search-visibility-for-med-spas-in-new-york-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AI SEO improve local search visibility for med spas in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For med spas in New York City, AI SEO significantly enhances local visibility by optimizing Google My Business profiles, ensuring consistent NAP (Name, Address, Phone) information across directories, and identifying high-volume local keywords. AI tools analyze local search patterns, competitor strategies, and patient reviews specific to NYC neighborhoods to tailor content and citations. This targeted approach helps a med spa rank higher for local searches like 'botox near me NYC' or 'med spa Upper East Side,' attracting nearby potential patients.",
+        "description": "AI SEO boosts local visibility for NYC med spas by optimizing Google My Business, standardizing NAP data, and targeting local keywords based on NYC-specific search patterns and reviews."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should a dental practice consider investing in geo-targeting services?",
+  "description": "Dental practices should invest in geo-targeting when seeking more local patients, struggling against local competition, or when current marketing attracts patie",
+  "url": "aiovisibility.com/faq/when-should-a-dental-practice-consider-investing-in-geo-targeting-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should a dental practice consider investing in geo-targeting services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A dental practice should consider investing in geo-targeting services when its patient base is primarily local, when struggling to attract new patients from its immediate area, or when facing significant local competition. It's also beneficial if your current marketing efforts are attracting patients from too far away, leading to low conversion rates. Essentially, if your goal is to grow your practice by serving more patients who live or work nearby, geo-targeting is a strategic investment that aligns your marketing with your ideal patient demographic.",
+        "description": "Dental practices should invest in geo-targeting when seeking more local patients, struggling against local competition, or when current marketing attracts patients from too far away."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

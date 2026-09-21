@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from a GEO marketing campaign?",
+  "description": "Initial GEO marketing results can appear in 1-3 months, with significant lead generation impacts typically seen within 3-6 months as local authority builds.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-a-geo-marketing-campaign",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from a GEO marketing campaign?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing results from a GEO marketing campaign can vary. Initial improvements in local visibility, such as increased Google Business Profile views or map pack rankings, may be noticeable within 1-3 months. More significant impacts on lead generation and client acquisition typically take 3-6 months as local search authority builds. Consistent effort and ongoing optimization contribute to sustained long-term results.",
+        "description": "Initial GEO marketing results can appear in 1-3 months, with significant lead generation impacts typically seen within 3-6 months as local authority builds."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

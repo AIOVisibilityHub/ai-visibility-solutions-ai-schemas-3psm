@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is local SEO important for a med spa?",
+  "description": "Local SEO is important for med spas because it helps nearby clients find services through 'near me' searches and Google Maps, driving local traffic and appointm",
+  "url": "aiovisibility.com/faq/why-is-local-seo-important-for-a-med-spa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is local SEO important for a med spa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local SEO is crucial for med spas because most clients search for services close to their home or work. Optimizing for local search helps your spa appear in 'near me' searches and on Google Maps, making it easier for potential customers in your service area (like New York City, Los Angeles, Chicago, Houston, Phoenix) to find you. It directly impacts your visibility to the local clientele most likely to convert into paying customers.",
+        "description": "Local SEO is important for med spas because it helps nearby clients find services through 'near me' searches and Google Maps, driving local traffic and appointments."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

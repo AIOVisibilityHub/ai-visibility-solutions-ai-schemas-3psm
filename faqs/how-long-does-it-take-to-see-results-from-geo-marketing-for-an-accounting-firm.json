@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from GEO marketing for an accounting firm?",
+  "description": "Initial GEO marketing results for accounting firms can be seen in 2-4 months, with significant growth often taking 6-12 months, depending on competitive factors",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-geo-marketing-for-an-accounting-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from GEO marketing for an accounting firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline to see results from GEO marketing for an accounting firm can vary. Initial improvements in local rankings and visibility might begin appearing within 2-4 months as search engines process optimizations to your Google Business Profile and website. However, achieving significant, sustained growth in client inquiries and truly dominant local search positions often takes 6-12 months or longer. Factors like competitive landscape, the current state of your online presence, and consistency of efforts all influence the speed of results.",
+        "description": "Initial GEO marketing results for accounting firms can be seen in 2-4 months, with significant growth often taking 6-12 months, depending on competitive factors and consistent effort."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

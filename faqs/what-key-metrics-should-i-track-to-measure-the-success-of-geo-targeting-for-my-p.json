@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What key metrics should I track to measure the success of geo-targeting for my plastic surgery practice?",
+  "description": "Track local search rankings, Google My Business insights, local website traffic, and conversion rates from local leads.",
+  "url": "aiovisibility.com/faq/what-key-metrics-should-i-track-to-measure-the-success-of-geo-targeting-for-my-p",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What key metrics should I track to measure the success of geo-targeting for my plastic surgery practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure the success of geo-targeting, track key metrics such as local search rankings for relevant keywords, Google My Business insights (views, calls, direction requests), website traffic from local IP addresses, and conversion rates from local leads. Monitor the number of online appointment requests originating from specific geographic campaigns. Also, pay attention to phone call volume from local numbers, and track the ROI of local advertising spend to assess overall campaign effectiveness.",
+        "description": "Track local search rankings, Google My Business insights, local website traffic, and conversion rates from local leads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

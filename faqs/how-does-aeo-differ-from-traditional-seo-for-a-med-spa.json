@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO differ from traditional SEO for a med spa?",
+  "description": "Traditional SEO targets organic search rankings, while AEO optimizes content for direct answers, featured snippets, and voice search to directly address user qu",
+  "url": "aiovisibility.com/faq/how-does-aeo-differ-from-traditional-seo-for-a-med-spa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO differ from traditional SEO for a med spa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While both AEO and traditional SEO aim to improve online visibility, their strategies and targets differ for a med spa. Traditional SEO primarily focuses on ranking high in organic search results through keywords, backlinks, and technical optimization. AEO, however, specifically optimizes content to directly answer questions and appear as featured snippets, direct answers, or in voice search results. It emphasizes clarity, conciseness, and structured data to feed answer engines precise information, ensuring your med spa is presented as the direct solution to user queries rather than just a listed search result.",
+        "description": "Traditional SEO targets organic search rankings, while AEO optimizes content for direct answers, featured snippets, and voice search to directly address user queries about your med spa."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

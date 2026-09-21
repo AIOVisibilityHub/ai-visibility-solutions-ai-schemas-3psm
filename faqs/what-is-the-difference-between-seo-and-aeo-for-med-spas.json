@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between SEO and AEO for med spas?",
+  "description": "SEO focuses on general page ranking, while AEO specifically optimizes content to provide direct answers for featured snippets and 'People Also Ask' sections, a",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-seo-and-aeo-for-med-spas",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between SEO and AEO for med spas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While related, SEO (Search Engine Optimization) aims to rank entire web pages highly for keywords, whereas AEO (Answer Engine Optimization) specifically focuses on providing direct, concise answers that satisfy user queries and get featured in 'answer' formats like snippets or 'People Also Ask.' For med spas, SEO might involve general keyword ranking for 'med spa near me,' while AEO would optimize content to directly answer 'What is a chemical peel?' or 'Is microneedling safe?' AEO is a specialized subset of SEO focused on immediate information retrieval.",
+        "description": "SEO focuses on general page ranking, while AEO specifically optimizes content to provide direct answers for featured snippets and 'People Also Ask' sections, a subset of SEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What data does AEO use to optimize a beauty spa's performance?",
+  "description": "AEO uses website analytics, search data, social media metrics, client history, reviews, and market trends to optimize spa performance through AI analysis.",
+  "url": "aiovisibility.com/faq/what-data-does-aeo-use-to-optimize-a-beauty-spa-s-performance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What data does AEO use to optimize a beauty spa's performance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO utilizes a wide range of data to optimize a beauty spa's performance. This includes website analytics, search query data, social media engagement metrics, client booking history, CRM data, online review sentiment, competitor analysis, and local market trends. AI algorithms process this information to identify patterns, predict client needs, tailor marketing messages, optimize pricing strategies, and even suggest improvements for service offerings. The goal is to make data-driven decisions that enhance every aspect of the spa's operations and marketing.",
+        "description": "AEO uses website analytics, search data, social media metrics, client history, reviews, and market trends to optimize spa performance through AI analysis."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

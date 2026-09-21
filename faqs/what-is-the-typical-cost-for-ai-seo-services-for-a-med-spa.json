@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for AI SEO services for a med spa?",
+  "description": "Costs for AI SEO services for med spas vary widely based on scope, provider, and specific services, typically structured as a monthly retainer.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-for-ai-seo-services-for-a-med-spa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for AI SEO services for a med spa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AI SEO services for a med spa varies significantly based on the scope of work, the provider's expertise, and the specific tools utilized. Factors influencing price include the number of locations, desired keyword targets, competitive landscape, and included services like content creation or local SEO optimization. Most providers offer customized packages, with pricing often structured as a monthly retainer. It's advisable to request a detailed proposal tailored to your med spa's unique needs and goals.",
+        "description": "Costs for AI SEO services for med spas vary widely based on scope, provider, and specific services, typically structured as a monthly retainer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

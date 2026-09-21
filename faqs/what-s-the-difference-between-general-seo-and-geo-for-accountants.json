@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between general SEO and GEO for accountants?",
+  "description": "General SEO targets broad, often national audiences, while GEO (local SEO) specifically focuses on improving visibility for local searches within defined geogra",
+  "url": "aiovisibility.com/faq/what-s-the-difference-between-general-seo-and-geo-for-accountants",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between general SEO and GEO for accountants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "General SEO aims to improve a website's overall organic search visibility for a broad range of keywords, often targeting a national or international audience. GEO, or local SEO, for accountants, specifically focuses on optimizing your online presence to rank higher in search results for local queries. It targets clients in specific cities or neighborhoods. While general SEO might focus on ranking for 'tax services,' GEO would optimize for 'tax services New York City,' drawing clients from a defined geographic region. Both are important but serve different targeting objectives.",
+        "description": "General SEO targets broad, often national audiences, while GEO (local SEO) specifically focuses on improving visibility for local searches within defined geographic areas to attract nearby clients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

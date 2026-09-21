@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AI overviews optimization?",
+  "description": "Results can vary; initial improvements might be seen in weeks to months, but sustained effort is needed due to evolving algorithms.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-ai-overviews-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AI overviews optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seeing results from AI overviews optimization can vary. Initial improvements in visibility, especially for specific queries, might be noticed within a few weeks to a few months. However, comprehensive optimization is an ongoing process. Search engine algorithms and AI models are constantly evolving, so sustained effort is required to maintain and improve your position in AI-generated summaries over the long term. Patience and consistent refinement are key.",
+        "description": "Results can vary; initial improvements might be seen in weeks to months, but sustained effort is needed due to evolving algorithms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

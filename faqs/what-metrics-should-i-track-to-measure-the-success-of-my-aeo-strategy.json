@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should I track to measure the success of my AEO strategy?",
+  "description": "Track organic visibility for questions, direct answer appearances, voice search performance, high-intent traffic, and leads from AEO content to measure success.",
+  "url": "aiovisibility.com/faq/what-metrics-should-i-track-to-measure-the-success-of-my-aeo-strategy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should I track to measure the success of my AEO strategy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure AEO success, key metrics include organic search visibility for specific questions, direct answer appearances (e.g., featured snippets, 'People Also Ask' boxes), voice search query performance, and the increase in high-intent website traffic. We also monitor lead generation stemming from AEO-optimized content, such as inquiries about specific properties or neighborhood guides. Tracking engagement metrics like time on page for AEO content can also indicate its helpfulness.",
+        "description": "Track organic visibility for questions, direct answer appearances, voice search performance, high-intent traffic, and leads from AEO content to measure success."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content is best suited for AEO in real estate?",
+  "description": "Best AEO content includes FAQs, neighborhood guides, real estate term definitions, and direct answers to common queries about buying, selling, or market trends.",
+  "url": "aiovisibility.com/faq/what-kind-of-content-is-best-suited-for-aeo-in-real-estate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content is best suited for AEO in real estate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Content best suited for AEO in real estate includes detailed FAQs about buying/selling processes, neighborhood guides with specific statistics, definitions of real estate terms, and direct answers to common questions about mortgages, inspections, or market trends. Each piece of content should directly and clearly answer a specific query, often structured with a question followed by a concise answer, making it easy for AI to extract and present.",
+        "description": "Best AEO content includes FAQs, neighborhood guides, real estate term definitions, and direct answers to common queries about buying, selling, or market trends."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AI SEO for dental practices?",
+  "description": "AI SEO uses artificial intelligence to optimize dental practice websites for search engines, attracting more local patients by analyzing search patterns and per",
+  "url": "aiovisibility.com/faq/what-is-ai-seo-for-dental-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AI SEO for dental practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO for dental practices leverages artificial intelligence tools to optimize a dentist's website and online content, improving its visibility in search engine results. This involves using AI to analyze patient search patterns, identify high-ranking keywords specific to dentistry, and personalize content to attract local patients. AI can also help monitor competitor strategies, automate reporting, and suggest improvements for technical SEO, ultimately leading to more prospective patients finding the practice online and scheduling appointments.",
+        "description": "AI SEO uses artificial intelligence to optimize dental practice websites for search engines, attracting more local patients by analyzing search patterns and personalizing content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

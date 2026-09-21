@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the key elements of an effective AEO strategy for a med spa in New York City?",
+  "description": "Key AEO elements for a NYC med spa include hyper-local Google Business Profile optimization, NYC-specific FAQs, clear service content, and structured data for l",
+  "url": "aiovisibility.com/faq/what-are-the-key-elements-of-an-effective-aeo-strategy-for-a-med-spa-in-new-york",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key elements of an effective AEO strategy for a med spa in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An effective AEO strategy for a med spa in New York City emphasizes hyper-local optimization and detailed service information. Key elements include optimizing your Google Business Profile with precise location details, service lists, and accurate operating hours. Create specific FAQs addressing NYC-specific concerns or popular treatments within the city. Ensure all content, especially for popular services like 'Botox NYC' or 'lip fillers Manhattan,' provides clear, concise answers. Utilize structured data markup to highlight your location, services, and appointment booking information, making it easy for answer engines to present your med spa as the definitive local choice.",
+        "description": "Key AEO elements for a NYC med spa include hyper-local Google Business Profile optimization, NYC-specific FAQs, clear service content, and structured data for location and services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

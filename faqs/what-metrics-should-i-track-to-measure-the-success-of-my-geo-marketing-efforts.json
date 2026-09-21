@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should I track to measure the success of my GEO marketing efforts?",
+  "description": "Track local search rankings, Google Business Profile calls/visits, map pack visibility, reviews, and conversion rates to measure GEO marketing success.",
+  "url": "aiovisibility.com/faq/what-metrics-should-i-track-to-measure-the-success-of-my-geo-marketing-efforts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should I track to measure the success of my GEO marketing efforts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure the success of your GEO marketing efforts, you should track several key metrics. These include local search rankings for target keywords, direct calls and website visits originating from your Google Business Profile, local map pack visibility, online review volume and sentiment, and the number of local citations. Monitoring conversion rates from local searches, such as appointment bookings or form submissions, also provides crucial insights into the return on your investment. Consistent tracking helps refine strategies for better local performance.",
+        "description": "Track local search rankings, Google Business Profile calls/visits, map pack visibility, reviews, and conversion rates to measure GEO marketing success."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

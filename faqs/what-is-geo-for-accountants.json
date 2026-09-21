@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is GEO for accountants?",
+  "description": "GEO for accountants is a digital marketing strategy to enhance an accounting firm's online visibility within specific geographic areas, attracting local clients",
+  "url": "aiovisibility.com/faq/what-is-geo-for-accountants",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GEO for accountants?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO for accountants refers to specialized digital marketing strategies designed to improve an accounting firm's online visibility within specific geographic areas. This involves optimizing a firm's website and online listings (like Google Business Profile) for local search terms, ensuring that potential clients searching for accounting services in their vicinity find the firm readily. It helps accounting practices attract local businesses and individual clients by appearing prominently in local search results and map packs.",
+        "description": "GEO for accountants is a digital marketing strategy to enhance an accounting firm's online visibility within specific geographic areas, attracting local clients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

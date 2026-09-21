@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What data is used for geo-targeting in real estate marketing?",
+  "description": "Geo-targeting uses GPS, IP addresses, Wi-Fi data, and user-provided location information, often combined with demographic data.",
+  "url": "aiovisibility.com/faq/what-data-is-used-for-geo-targeting-in-real-estate-marketing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What data is used for geo-targeting in real estate marketing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Geo-targeting in real estate marketing primarily uses various forms of location data to identify and reach target audiences. This includes GPS data from mobile devices, IP addresses, Wi-Fi network information, and user-provided location details in online profiles or search queries. Additionally, demographic and behavioral data can be layered on top of location data to refine targeting further, ensuring that ads for specific property types or services reach the most relevant potential clients within a defined geographic area.",
+        "description": "Geo-targeting uses GPS, IP addresses, Wi-Fi data, and user-provided location information, often combined with demographic data."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between local SEO and broader SEO for financial advisors?",
+  "description": "Local SEO targets clients in specific geographic areas, focusing on local searches and directories, while broader SEO aims for wider national or global rankings",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-local-seo-and-broader-seo-for-financial-advisors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between local SEO and broader SEO for financial advisors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main difference between local SEO and broader SEO for financial advisors lies in their geographic focus. Broader SEO aims to rank highly for keywords across a wider, often national or global, audience. Local SEO, conversely, specifically targets potential clients within a defined geographic radius, typically those searching for 'financial advisor near me' or 'financial planning [city name]'. It emphasizes optimizing for Google My Business, local directories, and geo-specific keywords to attract clients to a physical office or within a service area.",
+        "description": "Local SEO targets clients in specific geographic areas, focusing on local searches and directories, while broader SEO aims for wider national or global rankings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

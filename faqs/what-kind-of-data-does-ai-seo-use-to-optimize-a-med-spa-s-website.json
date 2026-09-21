@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of data does AI SEO use to optimize a med spa's website?",
+  "description": "AI SEO optimizes a med spa's website using search queries, traffic analytics, user behavior, competitor data, local search data, patient reviews, and social med",
+  "url": "aiovisibility.com/faq/what-kind-of-data-does-ai-seo-use-to-optimize-a-med-spa-s-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of data does AI SEO use to optimize a med spa's website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO utilizes a diverse range of data points to optimize a med spa's website. This includes search query data, website traffic analytics, user behavior patterns (e.g., clicks, time on page, bounce rates), competitor backlink profiles, and local search data specific to aesthetic services. AI also analyzes patient review sentiment, social media trends related to treatments, and algorithm updates from search engines. This comprehensive data analysis allows AI to make informed recommendations for content, technical SEO, and link-building strategies.",
+        "description": "AI SEO optimizes a med spa's website using search queries, traffic analytics, user behavior, competitor data, local search data, patient reviews, and social media trends."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

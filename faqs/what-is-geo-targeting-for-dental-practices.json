@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is geo-targeting for dental practices?",
+  "description": "Geo-targeting helps dental practices attract local patients by optimizing their online presence for specific geographic areas.",
+  "url": "aiovisibility.com/faq/what-is-geo-targeting-for-dental-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is geo-targeting for dental practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Geo-targeting for dental practices is a digital marketing strategy that focuses on attracting local patients within a specific geographic area. It involves optimizing your online presence, including your website, local listings, and advertising campaigns, to appear prominently in search results when potential patients in your vicinity look for dental services. This ensures that your marketing efforts reach the most relevant audience – people who can physically visit your practice.",
+        "description": "Geo-targeting helps dental practices attract local patients by optimizing their online presence for specific geographic areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should a real estate agent implement geo-targeting in their marketing?",
+  "description": "Real estate agents should implement geo-targeting early in their marketing, especially when focusing on specific service areas or promoting new listings.",
+  "url": "aiovisibility.com/faq/when-should-a-real-estate-agent-implement-geo-targeting-in-their-marketing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should a real estate agent implement geo-targeting in their marketing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A real estate agent should implement geo-targeting as soon as they begin their digital marketing efforts, especially when focusing on specific service areas. It's crucial for new agents establishing a local presence and experienced agents looking to dominate particular neighborhoods. Implementing geo-targeting when launching new listings, hosting open houses, or running local market campaigns ensures that promotional content reaches the most relevant local audience at the right time. This strategy optimizes ad spend and accelerates lead generation from the start.",
+        "description": "Real estate agents should implement geo-targeting early in their marketing, especially when focusing on specific service areas or promoting new listings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
