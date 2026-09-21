@@ -2,7 +2,7 @@
 
 Canonical AI Data Package for AI Visibility Solutions.
 
-- Canonical: https://data.aiovisibility.com
+- Canonical: https://ai-data.aiovisibility.com
 - Master index: [ai-data.html](./ai-data.html)
 - Source-of-truth manifest: [data/publishing-manifest.json](./data/publishing-manifest.json)
 
@@ -18,16 +18,10 @@ Canonical AI Data Package for AI Visibility Solutions.
 - **2947** total
 
 ## Cross-Destination Index — Related AI Data Sources
-- [canonical] AI Visibility Solutions — canonical website — https://data.aiovisibility.com
-- [ai-data-hub] AI Visibility Solutions — AI Data Hub — https://data.aiovisibility.com/ai-data.html
+- [canonical] AI Visibility Solutions — canonical website — https://ai-data.aiovisibility.com
+- [ai-data-hub] AI Visibility Solutions — AI Data Hub — https://ai-data.aiovisibility.com/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm
 - [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/ai-visibility-solutions-ai-schemas-3psm/ai-data.html
-- [mirror-repo] GitLab repository — https://gitlab.com/aiovisibilityhub/ai-visibility-solutions-ai-schemas-93iu
-- [mirror-pages] GitLab — AI Data Hub mirror — https://ai-visibility-solutions-ai-schemas-93iu-693b17.gitlab.io/ai-data.html
-- [mirror-repo] Kaggle repository — https://www.kaggle.com/datasets/aiovisibilityhub/ai-visibility-solutions-ai-schemas
-- [mirror-repo] SourceHut repository — https://aiovisibilityhub.srht.site/
-- [mirror-pages] SourceHut — AI Data Hub mirror — https://aiovisibilityhub.srht.site/ai-data.html
-- [mirror-repo] Zenodo repository — https://zenodo.org/record/22884341
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 

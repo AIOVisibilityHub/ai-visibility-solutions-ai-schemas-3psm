@@ -24,8 +24,8 @@ jobs:
           git diff --staged --quiet || (git commit -m '📅 Monthly refresh - AI Visibility Solutions' && git push)
       - name: Ping IndexNow (Bing, Copilot, Yandex, AI crawlers)
         run: |
-          SITE="https://data.aiovisibility.com"
-          KEY="ad245c4008b18bcedaf6665625e2402c"
+          SITE="https://ai-data.aiovisibility.com"
+          KEY="66e81c4ab925ef313a808904bd753083"
           HOST=$(echo "$SITE" | sed -E 's#https?://##; s#/.*##')
           if [ -f ai-sitemap.xml ]; then
             URLS=$(grep -o '<loc>[^<]*</loc>' ai-sitemap.xml | sed 's#</\?loc>##g' | grep "^$SITE" | head -9000 | jq -R . | jq -sc .)
