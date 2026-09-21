@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see AEO results for a general contractor's website?",
+  "description": "Significant AEO results for a general contractor's website typically take 6 to 12 months, as search engines need time to re-evaluate consistent demonstrations o",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-aeo-results-for-a-general-contractor-s-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see AEO results for a general contractor's website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Improving AEO is an ongoing process, not a quick fix. While some minor website optimizations might show initial shifts within a few weeks, significant improvements in search rankings and organic traffic typically take several months, ranging from 6 to 12 months, or even longer. This timeframe allows search engines to recrawl, re-evaluate your site's content, and recognize consistent demonstrations of authority and trustworthiness over time. Patience and consistent effort are key.",
+        "description": "Significant AEO results for a general contractor's website typically take 6 to 12 months, as search engines need time to re-evaluate consistent demonstrations of authority."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

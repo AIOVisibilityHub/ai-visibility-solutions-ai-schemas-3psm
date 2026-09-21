@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I check my dental practice's current GEO visibility?",
+  "description": "Check your GEO visibility by performing local searches in incognito mode, using Google My Business Insights, and monitoring reviews with reputation management t",
+  "url": "aiovisibility.com/faq/how-can-i-check-my-dental-practice-s-current-geo-visibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I check my dental practice's current GEO visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To check your dental practice's current GEO visibility, you can start by performing local searches for relevant keywords (e.g., 'dentist near me,' 'cosmetic dentist [your city]') while logged out or in incognito mode. Observe where your practice ranks in the local pack and organic results. You can also use tools like Google My Business Insights to see how many people found your practice through search or maps. Additionally, reputation management tools can monitor your online reviews and listings across various directories.",
+        "description": "Check your GEO visibility by performing local searches in incognito mode, using Google My Business Insights, and monitoring reviews with reputation management tools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

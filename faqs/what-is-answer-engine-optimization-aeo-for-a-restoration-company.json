@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is answer engine optimization (AEO) for a restoration company?",
+  "description": "AEO optimizes content for AI-powered search engines and voice assistants, delivering direct answers to user queries for restoration services.",
+  "url": "aiovisibility.com/faq/what-is-answer-engine-optimization-aeo-for-a-restoration-company",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is answer engine optimization (AEO) for a restoration company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer Engine Optimization (AEO) for restoration companies focuses on optimizing digital content to be directly consumed by AI-powered search engines and voice assistants. Unlike traditional SEO, which aims for clicks to a website, AEO prioritizes providing concise, direct answers to user queries, often appearing as featured snippets or direct voice responses. This helps restoration companies gain visibility by ensuring their expertise is directly delivered when potential clients search for solutions to water damage, fire damage, or mold remediation, particularly in urgent situations.",
+        "description": "AEO optimizes content for AI-powered search engines and voice assistants, delivering direct answers to user queries for restoration services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

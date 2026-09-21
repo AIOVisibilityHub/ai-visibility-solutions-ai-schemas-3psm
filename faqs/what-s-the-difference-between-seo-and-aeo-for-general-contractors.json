@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between SEO and AEO for general contractors?",
+  "description": "SEO is the broad practice of improving search visibility; AEO is a crucial component within SEO that specifically focuses on demonstrating credibility and knowl",
+  "url": "aiovisibility.com/faq/what-s-the-difference-between-seo-and-aeo-for-general-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between SEO and AEO for general contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SEO (Search Engine Optimization) is the broader practice of improving a website's visibility in search results, encompassing technical aspects, keywords, and content. AEO, or Authority, Expertise, and Trustworthiness, is a critical component *within* SEO. For general contractors, AEO specifically focuses on demonstrating genuine credibility and knowledge to search engines and users, which then positively impacts overall SEO performance. You can have good technical SEO, but without strong AEO, rankings may plateau.",
+        "description": "SEO is the broad practice of improving search visibility; AEO is a crucial component within SEO that specifically focuses on demonstrating credibility and knowledge."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

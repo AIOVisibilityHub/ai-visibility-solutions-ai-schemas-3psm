@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should a general contractor look for in an AI SEO provider?",
+  "description": "Look for a provider with construction industry experience, AI expertise, local SEO knowledge, transparent reporting, and a clear strategy.",
+  "url": "aiovisibility.com/faq/what-should-a-general-contractor-look-for-in-an-ai-seo-provider",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should a general contractor look for in an AI SEO provider?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing an AI SEO provider, general contractors should look for a company with a proven track record in digital marketing for the construction industry or similar service-based businesses. Evaluate their expertise in AI-driven tools and their understanding of local SEO nuances, especially if serving specific cities like Houston or Phoenix. The provider should offer transparent reporting, explain their strategies clearly, and demonstrate how AI is integrated into their approach. Look for case studies, client testimonials, and a team that understands your business goals rather than just offering generic SEO packages.",
+        "description": "Look for a provider with construction industry experience, AI expertise, local SEO knowledge, transparent reporting, and a clear strategy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

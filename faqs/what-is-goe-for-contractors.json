@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is GOE for contractors?",
+  "description": "GOE (Guaranteed Organic Exposure) for contractors is a digital marketing strategy that uses organic search engine optimization to achieve prominent, non-paid se",
+  "url": "aiovisibility.com/faq/what-is-goe-for-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GOE for contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GOE, or Guaranteed Organic Exposure, for contractors is a digital marketing strategy focused on achieving prominent, non-paid search engine rankings for contractor services. It aims to increase your online visibility naturally, driving more qualified leads to your business without relying on paid advertising. This involves optimizing your website, content, and local listings to match what potential customers search for, establishing your authority and relevance in specific service areas.",
+        "description": "GOE (Guaranteed Organic Exposure) for contractors is a digital marketing strategy that uses organic search engine optimization to achieve prominent, non-paid search rankings for contractor services, increasing online visibility and generating qualified leads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

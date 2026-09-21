@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for AEO services for a general contractor?",
+  "description": "AEO service costs for contractors vary based on scope, market competitiveness, and ongoing support, ranging from hundreds to thousands of dollars monthly.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-for-aeo-services-for-a-general-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for AEO services for a general contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for AEO services for a general contractor can vary widely based on the scope of work, the size of the contractor's business, the competitiveness of their service area, and the level of ongoing support required. Prices can range from a few hundred dollars per month for basic content optimization and local listing management to several thousand dollars for comprehensive strategies involving extensive content creation, technical SEO audits, and continuous monitoring. Factors such as the number of target keywords, content volume, and reporting frequency will influence the overall investment. It's best to request a customized quote based on your specific goals.",
+        "description": "AEO service costs for contractors vary based on scope, market competitiveness, and ongoing support, ranging from hundreds to thousands of dollars monthly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

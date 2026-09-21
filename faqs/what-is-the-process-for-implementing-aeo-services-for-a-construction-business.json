@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for implementing AEO services for a construction business?",
+  "description": "AEO implementation for construction starts with an audit, followed by a custom strategy. AI tools then monitor and adjust optimizations, with regular progress r",
+  "url": "aiovisibility.com/faq/what-is-the-process-for-implementing-aeo-services-for-a-construction-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for implementing AEO services for a construction business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implementing AEO typically begins with a comprehensive audit of the construction company's existing website and digital footprint. Following this, a customized strategy is developed, outlining target keywords, content plans, and technical SEO improvements. AI tools then continuously monitor performance, identify new opportunities, and make ongoing adjustments to optimization efforts. Regular reporting keeps the company informed of progress and ROI.",
+        "description": "AEO implementation for construction starts with an audit, followed by a custom strategy. AI tools then monitor and adjust optimizations, with regular progress reports."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right AEO partner for my construction business?",
+  "description": "Choose an AEO partner with construction industry experience, a clear methodology for AEO, and transparent reporting. Request case studies and ensure integration",
+  "url": "aiovisibility.com/faq/how-do-i-choose-the-right-aeo-partner-for-my-construction-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right AEO partner for my construction business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing an AEO partner, look for agencies with a proven track record in digital marketing for the construction industry and specific expertise in AEO strategies. Evaluate their understanding of your niche, their methodology for identifying relevant questions, and their approach to content creation and optimization. Request case studies or examples of their work, and ensure they provide transparent reporting on AEO performance metrics. A good partner will also integrate AEO with your broader marketing goals.",
+        "description": "Choose an AEO partner with construction industry experience, a clear methodology for AEO, and transparent reporting. Request case studies and ensure integration with your marketing goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

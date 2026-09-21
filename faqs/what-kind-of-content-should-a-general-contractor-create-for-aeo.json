@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content should a general contractor create for AEO?",
+  "description": "General contractors should create FAQ sections, blog posts, and service pages with clear question-and-answer formats to address common client inquiries directly",
+  "url": "aiovisibility.com/faq/what-kind-of-content-should-a-general-contractor-create-for-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content should a general contractor create for AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "General contractors should create content that directly answers common questions potential clients ask about construction, remodeling, and project management. This includes FAQs, blog posts, and service pages structured with clear question-and-answer formats. Examples include 'What is the average cost of a bathroom renovation?', 'How long does it take to build a home addition?', 'What are the steps for a commercial build-out?', or 'Do I need an architect for a major renovation?' Content should be concise, accurate, and easy to understand, providing direct solutions that answer engines can readily extract and display.",
+        "description": "General contractors should create FAQ sections, blog posts, and service pages with clear question-and-answer formats to address common client inquiries directly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

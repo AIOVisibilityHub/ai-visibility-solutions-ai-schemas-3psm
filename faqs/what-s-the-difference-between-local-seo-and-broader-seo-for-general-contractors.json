@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between local SEO and broader SEO for general contractors?",
+  "description": "Local SEO targets customers in specific geographic areas using tactics like Google Business Profile. Broader SEO aims for wider national rankings. General contr",
+  "url": "aiovisibility.com/faq/what-s-the-difference-between-local-seo-and-broader-seo-for-general-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between local SEO and broader SEO for general contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local SEO for general contractors specifically targets customers within a defined geographic area, typically focusing on a city, county, or specific neighborhoods. It emphasizes tactics like Google Business Profile optimization, local citations, and geo-targeted keywords. Broader, or national, SEO aims to improve rankings across a wider geographic scope, often for non-location-specific keywords. While broader SEO can increase general brand awareness, local SEO is more effective for contractors who primarily serve a local clientele and seek immediate, qualified leads for projects within their operational radius. Most general contractors will benefit more from a robust local SEO strategy.",
+        "description": "Local SEO targets customers in specific geographic areas using tactics like Google Business Profile. Broader SEO aims for wider national rankings. General contractors serving local clients benefit most from local SEO for qualified leads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

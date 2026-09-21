@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does AI SEO for contractors typically cost?",
+  "description": "Costs for AI SEO vary based on service scope, market competition, and business size, often involving monthly retainers or project fees. A customized quote is re",
+  "url": "aiovisibility.com/faq/how-much-does-ai-seo-for-contractors-typically-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does AI SEO for contractors typically cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AI SEO services for contractors varies based on factors such as the scope of services, the competitiveness of your market, and the size of your business. Pricing models can range from monthly retainers to project-based fees. A basic package might cover core optimization, while comprehensive solutions include content creation, local SEO, and reputation management. It's best to get a customized quote after an initial assessment of your specific needs.",
+        "description": "Costs for AI SEO vary based on service scope, market competition, and business size, often involving monthly retainers or project fees. A customized quote is recommended."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

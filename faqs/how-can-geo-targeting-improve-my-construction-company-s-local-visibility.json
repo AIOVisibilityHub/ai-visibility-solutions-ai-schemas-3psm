@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can geo-targeting improve my construction company's local visibility?",
+  "description": "Geo-targeting helps your construction company improve local visibility by focusing marketing efforts on specific geographic areas, ensuring you reach potential",
+  "url": "aiovisibility.com/faq/how-can-geo-targeting-improve-my-construction-company-s-local-visibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can geo-targeting improve my construction company's local visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Geo-targeting significantly enhances local visibility by ensuring your marketing efforts reach potential customers in your service areas. Instead of broad advertising, you can focus on specific cities like New York City or Los Angeles, or even individual neighborhoods. This precision increases the likelihood of your company appearing in search results or social media feeds for people actively seeking construction services nearby. It helps you compete effectively by connecting directly with a local audience interested in your offerings.",
+        "description": "Geo-targeting helps your construction company improve local visibility by focusing marketing efforts on specific geographic areas, ensuring you reach potential customers in your service locations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

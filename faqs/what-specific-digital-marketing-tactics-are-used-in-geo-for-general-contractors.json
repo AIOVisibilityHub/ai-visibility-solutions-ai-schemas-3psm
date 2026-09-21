@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What specific digital marketing tactics are used in GEO for general contractors?",
+  "description": "Tactics for GEO include optimizing your Google Business Profile, using location-specific keywords on your website, local link building, and running geotargeted",
+  "url": "aiovisibility.com/faq/what-specific-digital-marketing-tactics-are-used-in-geo-for-general-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What specific digital marketing tactics are used in GEO for general contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Effective GEO for general contractors typically involves several digital marketing tactics. These include optimizing your Google Business Profile (GBP) with accurate information, service areas, and positive reviews. On-site SEO focuses on using location-specific keywords in your website content, meta descriptions, and headers. Local link building, through partnerships with local businesses or community organizations, also plays a role. Running geotargeted paid advertising campaigns on platforms like Google Ads allows you to reach potential clients within precise geographical boundaries. Content marketing that addresses local construction needs and regulations further enhances local relevance.",
+        "description": "Tactics for GEO include optimizing your Google Business Profile, using location-specific keywords on your website, local link building, and running geotargeted paid ad campaigns. Content tailored to local needs also helps."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

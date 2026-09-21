@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Answer Engine Optimization (AEO) for contractors?",
+  "description": "Answer Engine Optimization (AEO) for contractors helps your business appear in direct answers from search engines and voice assistants by structuring content to",
+  "url": "aiovisibility.com/faq/what-is-answer-engine-optimization-aeo-for-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Answer Engine Optimization (AEO) for contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer Engine Optimization (AEO) for contractors is a specialized digital marketing strategy focused on helping your business appear prominently in direct answers provided by search engines and voice assistants. Unlike traditional SEO, which aims for website clicks, AEO structures your online content to directly answer user questions, allowing potential customers to find your services quickly when they ask questions like, 'Who are the best plumbers near me?' or 'How much does roof repair cost?' This approach helps you capture immediate interest from users looking for specific information or services.",
+        "description": "Answer Engine Optimization (AEO) for contractors helps your business appear in direct answers from search engines and voice assistants by structuring content to answer user questions directly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

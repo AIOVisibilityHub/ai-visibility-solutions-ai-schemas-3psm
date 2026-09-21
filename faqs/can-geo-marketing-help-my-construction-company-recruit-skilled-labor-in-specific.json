@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can GEO marketing help my construction company recruit skilled labor in specific areas?",
+  "description": "Yes, GEO marketing can target recruitment ads to specific areas with skilled labor, like competitor job sites or training centers, to find candidates efficientl",
+  "url": "aiovisibility.com/faq/can-geo-marketing-help-my-construction-company-recruit-skilled-labor-in-specific",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can GEO marketing help my construction company recruit skilled labor in specific areas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, GEO marketing is highly effective for recruiting skilled labor. By targeting advertisements to specific areas known for a concentration of relevant tradespeople or vocational schools, you can reach potential candidates directly. For instance, you could run recruitment campaigns geo-fenced around competitor job sites or industry training centers in Phoenix or Dallas. This allows you to present job opportunities to individuals with the right skills who are already located in or near your project areas, streamlining the recruitment process.",
+        "description": "Yes, GEO marketing can target recruitment ads to specific areas with skilled labor, like competitor job sites or training centers, to find candidates efficiently."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

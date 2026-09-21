@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does AEO optimization cost for a plumbing business in New York City?",
+  "description": "AEO optimization costs for plumbers in NYC vary based on service scope, existing digital presence, and market competitiveness. Custom quotes are provided after",
+  "url": "aiovisibility.com/faq/how-much-does-aeo-optimization-cost-for-a-plumbing-business-in-new-york-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does AEO optimization cost for a plumbing business in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO optimization for a plumbing business in New York City can vary significantly based on the scope of services, the initial state of your digital presence, and the competitiveness of the market. Factors influencing price include the number of services to optimize, the complexity of your current website, content creation needs, and ongoing maintenance. A basic package might focus on key service areas and business information, while more comprehensive strategies could include in-depth content development and continuous monitoring. We offer customized quotes after an initial assessment.",
+        "description": "AEO optimization costs for plumbers in NYC vary based on service scope, existing digital presence, and market competitiveness. Custom quotes are provided after assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

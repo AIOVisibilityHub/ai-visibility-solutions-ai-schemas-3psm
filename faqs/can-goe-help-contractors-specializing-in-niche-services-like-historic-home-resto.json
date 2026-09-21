@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can GOE help contractors specializing in niche services, like historic home restoration?",
+  "description": "Yes, GOE is effective for niche contractors by targeting specific, long-tail keywords that connect them directly with clients seeking their unique expertise, re",
+  "url": "aiovisibility.com/faq/can-goe-help-contractors-specializing-in-niche-services-like-historic-home-resto",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can GOE help contractors specializing in niche services, like historic home restoration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, GOE can be particularly effective for contractors specializing in niche services like historic home restoration. By targeting very specific, long-tail keywords that general contractors might not use (e.g., 'Victorian trim repair specialist', 'brownstone restoration NYC'), a GOE strategy can connect you directly with clients actively seeking your unique expertise. This precision targeting often results in higher-quality leads and less competition, making your specialized services more visible to the right audience.",
+        "description": "Yes, GOE is effective for niche contractors by targeting specific, long-tail keywords that connect them directly with clients seeking their unique expertise, resulting in higher-quality leads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

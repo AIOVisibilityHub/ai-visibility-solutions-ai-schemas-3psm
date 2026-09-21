@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AI SEO for a general contractor?",
+  "description": "Noticeable results can appear in 3-6 months, with significant improvements taking 6-12 months or more, depending on various factors.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-ai-seo-for-a-general-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AI SEO for a general contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline to see results from AI SEO for a general contractor can vary, but generally, noticeable improvements can begin within 3 to 6 months. Initial changes might appear sooner, especially for technical SEO fixes. However, significant ranking increases, substantial organic traffic growth, and a measurable increase in qualified leads typically require consistent effort over several months. Factors influencing this timeline include the contractor's current online presence, website authority, local market competition, and the scope of the AI SEO strategy implemented. Long-term, sustained results are built over 6-12 months and beyond.",
+        "description": "Noticeable results can appear in 3-6 months, with significant improvements taking 6-12 months or more, depending on various factors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

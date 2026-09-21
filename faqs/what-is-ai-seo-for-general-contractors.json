@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AI SEO for general contractors?",
+  "description": "AI SEO uses artificial intelligence to enhance a general contractor's online visibility and search engine rankings, attracting more potential clients.",
+  "url": "aiovisibility.com/faq/what-is-ai-seo-for-general-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AI SEO for general contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO for general contractors leverages artificial intelligence tools and techniques to optimize their online presence and improve search engine rankings. This involves using AI for keyword research, content creation, technical SEO audits, and competitor analysis. The goal is to make a general contractor's website and services more visible to potential clients searching for construction or renovation services online, leading to increased organic traffic and qualified leads. AI helps automate and refine these processes, making SEO more efficient and data-driven.",
+        "description": "AI SEO uses artificial intelligence to enhance a general contractor's online visibility and search engine rankings, attracting more potential clients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

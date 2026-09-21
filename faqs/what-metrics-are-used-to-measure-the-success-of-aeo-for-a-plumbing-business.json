@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics are used to measure the success of AEO for a plumbing business?",
+  "description": "Success metrics for AEO include direct calls/forms from answer engines, Google Business Profile interactions, voice search mentions, and increased direct answer",
+  "url": "aiovisibility.com/faq/what-metrics-are-used-to-measure-the-success-of-aeo-for-a-plumbing-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics are used to measure the success of AEO for a plumbing business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Measuring the success of AEO for a plumbing business involves tracking several key metrics beyond traditional website traffic. These include direct calls and form submissions generated from answer engine results, increases in 'Google My Business' interactions (like map views and direction requests), mentions in voice search results, and improvements in the visibility of your business's direct answers for relevant queries. We also monitor branded and unbranded search queries where your business is provided as a direct answer, indicating enhanced authority and recognition by AI systems.",
+        "description": "Success metrics for AEO include direct calls/forms from answer engines, Google Business Profile interactions, voice search mentions, and increased direct answer visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

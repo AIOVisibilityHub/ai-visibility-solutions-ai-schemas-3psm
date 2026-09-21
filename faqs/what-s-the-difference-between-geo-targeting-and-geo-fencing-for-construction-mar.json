@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between geo-targeting and geo-fencing for construction marketing?",
+  "description": "Geo-targeting uses general location for marketing, while geo-fencing creates a virtual perimeter around specific physical locations to trigger targeted actions.",
+  "url": "aiovisibility.com/faq/what-s-the-difference-between-geo-targeting-and-geo-fencing-for-construction-mar",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between geo-targeting and geo-fencing for construction marketing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Geo-targeting broadly refers to delivering content or ads to users based on their general location, like a city or zip code. Geo-fencing is a more precise technique that creates a virtual perimeter around a specific physical location, such as a competitor's office, a development site, or a convention center. When a target device enters or leaves this virtual fence, it can trigger specific marketing actions. For construction, geo-fencing could target professionals at a trade show, while geo-targeting might reach all homeowners in Houston.",
+        "description": "Geo-targeting uses general location for marketing, while geo-fencing creates a virtual perimeter around specific physical locations to trigger targeted actions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

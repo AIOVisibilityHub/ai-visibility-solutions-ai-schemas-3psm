@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from GEO marketing for construction?",
+  "description": "Initial GEO marketing results often appear within weeks, with significant improvements in brand awareness and client acquisition typically developing over 3-6 m",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-geo-marketing-for-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from GEO marketing for construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing results from GEO marketing for construction can vary, but initial impacts are often noticeable within weeks. Campaign setup and optimization typically take a few days to a couple of weeks. Once active, companies might start seeing increased website traffic, lead inquiries, or application submissions within 2-4 weeks. However, more significant and sustained improvements in brand awareness, market share, and client acquisition usually develop over 3-6 months as data is collected and campaigns are refined.",
+        "description": "Initial GEO marketing results often appear within weeks, with significant improvements in brand awareness and client acquisition typically developing over 3-6 months."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

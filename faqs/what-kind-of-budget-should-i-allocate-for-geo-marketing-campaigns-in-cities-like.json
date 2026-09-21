@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of budget should I allocate for GEO marketing campaigns in cities like Houston?",
+  "description": "GEO marketing budgets vary based on goals, audience, competition, and reach. Smaller campaigns can start at hundreds, while city-wide efforts might cost thousan",
+  "url": "aiovisibility.com/faq/what-kind-of-budget-should-i-allocate-for-geo-marketing-campaigns-in-cities-like",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of budget should I allocate for GEO marketing campaigns in cities like Houston?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The budget for GEO marketing in cities like Houston varies significantly based on campaign goals, target audience size, competition, and desired reach. Smaller, highly targeted campaigns focusing on specific neighborhoods might start from a few hundred dollars per month, while broader city-wide campaigns with higher impression goals could range into several thousands. It's crucial to discuss your specific objectives with a provider to get a tailored estimate. Often, GEO marketing offers a better return on investment than general advertising due to its precision.",
+        "description": "GEO marketing budgets vary based on goals, audience, competition, and reach. Smaller campaigns can start at hundreds, while city-wide efforts might cost thousands per month."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

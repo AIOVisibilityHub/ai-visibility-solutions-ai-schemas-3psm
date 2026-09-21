@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is GEO for construction companies?",
+  "description": "GEO for construction companies involves using location data to target specific audiences within defined geographical areas for marketing or recruitment purposes",
+  "url": "aiovisibility.com/faq/what-is-geo-for-construction-companies",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GEO for construction companies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO, in the context of construction, refers to geo-targeting or geo-fencing marketing strategies that leverage location data. For construction companies, this means targeting potential clients, partners, or employees within specific geographical areas. This can include digital advertising campaigns displayed to people in a particular city or neighborhood, or even targeting specific job sites or commercial zones. The goal is to reach relevant audiences who are likely to need construction services or be interested in industry-related opportunities within a defined region.",
+        "description": "GEO for construction companies involves using location data to target specific audiences within defined geographical areas for marketing or recruitment purposes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

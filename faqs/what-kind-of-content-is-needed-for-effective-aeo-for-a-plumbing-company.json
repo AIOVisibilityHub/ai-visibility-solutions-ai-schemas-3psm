@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content is needed for effective AEO for a plumbing company?",
+  "description": "Effective AEO for plumbers needs structured content like detailed service descriptions, clear pricing, business hours, and FAQs, all optimized for natural langu",
+  "url": "aiovisibility.com/faq/what-kind-of-content-is-needed-for-effective-aeo-for-a-plumbing-company",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content is needed for effective AEO for a plumbing company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Effective AEO for a plumbing company requires structured, concise, and accurate content that directly answers common customer questions. This includes detailed service descriptions, clear pricing information (where applicable), business hours, service areas, and frequently asked questions with direct answers. Your content should be optimized for clarity and specificity, using natural language that AI systems can easily understand and extract. Testimonials, plumber bios, and clear calls to action also enhance discoverability and trust, providing comprehensive information for answer engines to utilize.",
+        "description": "Effective AEO for plumbers needs structured content like detailed service descriptions, clear pricing, business hours, and FAQs, all optimized for natural language and direct answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to provide to start a Plumber AI SEO campaign?",
+  "description": "You'll need to provide website analytics, Google Search Console access, your Google Business Profile, service areas, target audience, and specific service offer",
+  "url": "aiovisibility.com/faq/what-information-do-i-need-to-provide-to-start-a-plumber-ai-seo-campaign",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to provide to start a Plumber AI SEO campaign?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To initiate a Plumber AI SEO campaign, you'll typically need to provide access to your website analytics (e.g., Google Analytics), Google Search Console, and your Google Business Profile. Essential business details, such as your service areas, target audience, specific services offered (e.g., drain cleaning, water heater repair), and any existing marketing goals or past campaign data, are also crucial. Providing insights into your unique selling propositions and primary competitors helps tailor the AI strategy for optimal results.",
+        "description": "You'll need to provide website analytics, Google Search Console access, your Google Business Profile, service areas, target audience, and specific service offerings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

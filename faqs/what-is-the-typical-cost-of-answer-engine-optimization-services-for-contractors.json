@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of Answer Engine Optimization services for contractors?",
+  "description": "AEO costs vary from a few hundred to several thousand dollars per month, depending on scope. A consultation provides a tailored quote.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-of-answer-engine-optimization-services-for-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of Answer Engine Optimization services for contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services for contractors varies based on the scope of work, the size of the business, and the competitiveness of the service area. Prices can range from a few hundred dollars per month for basic optimization to several thousand for comprehensive strategies including extensive content creation, schema markup implementation, and continuous monitoring across multiple platforms. A consultation with an AEO specialist can provide a tailored quote based on your specific goals and current online presence.",
+        "description": "AEO costs vary from a few hundred to several thousand dollars per month, depending on scope. A consultation provides a tailored quote."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

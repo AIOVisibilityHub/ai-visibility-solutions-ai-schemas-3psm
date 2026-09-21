@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to change my website to implement AI SEO?",
+  "description": "AI SEO typically optimizes your existing website, focusing on elements like speed, mobile responsiveness, and content structure, rather than requiring a full re",
+  "url": "aiovisibility.com/faq/do-i-need-to-change-my-website-to-implement-ai-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to change my website to implement AI SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implementing AI SEO often involves optimizing your existing website rather than requiring a complete redesign. Changes may include enhancing website speed, improving mobile responsiveness, restructuring content for better keyword alignment, and ensuring proper technical SEO elements are in place. AI analysis will identify specific areas on your site that need adjustment to maximize search engine performance without necessarily overhauling its design.",
+        "description": "AI SEO typically optimizes your existing website, focusing on elements like speed, mobile responsiveness, and content structure, rather than requiring a full redesign."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

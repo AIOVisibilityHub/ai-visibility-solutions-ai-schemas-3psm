@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I still need a traditional website if I use Contractor AI SEO?",
+  "description": "Yes, a traditional website is still needed. AI SEO drives traffic to your site, which then converts visitors into leads with its content and design.",
+  "url": "aiovisibility.com/faq/do-i-still-need-a-traditional-website-if-i-use-contractor-ai-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I still need a traditional website if I use Contractor AI SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a traditional website remains essential even when utilizing Contractor AI SEO. AI SEO enhances your website's visibility and performance, but the website itself serves as your primary digital storefront and conversion hub. It's where potential clients land after a search, learn about your services, view your portfolio, read testimonials, and contact you. AI SEO drives traffic to your site; the website then provides the detailed information and trust signals needed to convert those visitors into leads. Think of AI SEO as the sophisticated marketing engine, and your website as the crucial destination.",
+        "description": "Yes, a traditional website is still needed. AI SEO drives traffic to your site, which then converts visitors into leads with its content and design."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

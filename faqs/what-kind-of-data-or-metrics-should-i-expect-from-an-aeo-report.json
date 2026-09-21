@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of data or metrics should I expect from an AEO report?",
+  "description": "AEO reports should include metrics on featured snippet impressions and clicks, question-based keyword rankings, voice search performance, and lead conversions.",
+  "url": "aiovisibility.com/faq/what-kind-of-data-or-metrics-should-i-expect-from-an-aeo-report",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of data or metrics should I expect from an AEO report?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An effective AEO report for a restoration company should include metrics beyond standard website traffic. Look for data on impressions and clicks from featured snippets, 'People Also Ask' boxes, and Google Discover. It should also track keyword rankings specifically for question-based queries, voice search performance, and the number of times your content appears as a direct answer. Ultimately, the report should correlate these visibility gains with leads, phone calls, and conversions for your restoration services.",
+        "description": "AEO reports should include metrics on featured snippet impressions and clicks, question-based keyword rankings, voice search performance, and lead conversions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

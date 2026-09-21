@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should a plumbing business consider investing in AEO?",
+  "description": "A plumbing business should invest in AEO when aiming for direct visibility in voice search and AI answer engines, especially for 'near me' or service-specific q",
+  "url": "aiovisibility.com/faq/when-should-a-plumbing-business-consider-investing-in-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should a plumbing business consider investing in AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A plumbing business should consider investing in AEO when they want to be more directly visible to potential customers using voice search and AI-powered answer engines. This is especially relevant if you notice that customers are increasingly asking questions directly into search bars or smart devices rather than browsing websites. If your business aims to capture 'near me' searches, service-specific queries, or wants to provide immediate, authoritative answers to common plumbing problems, AEO is a crucial investment to stay competitive and accessible in today's evolving digital landscape.",
+        "description": "A plumbing business should invest in AEO when aiming for direct visibility in voice search and AI answer engines, especially for 'near me' or service-specific queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

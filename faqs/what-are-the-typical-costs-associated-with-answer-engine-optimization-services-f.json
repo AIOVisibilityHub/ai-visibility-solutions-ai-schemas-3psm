@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the typical costs associated with Answer Engine Optimization services for pediatricians?",
+  "description": "AEO costs for pediatricians vary, with monthly retainers ranging from hundreds to thousands of dollars depending on the scope of services, including content and",
+  "url": "aiovisibility.com/faq/what-are-the-typical-costs-associated-with-answer-engine-optimization-services-f",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the typical costs associated with Answer Engine Optimization services for pediatricians?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Costs for AEO services for pediatricians can vary widely based on the scope of work and the provider. Many agencies offer packages that range from content audits and strategy development to ongoing content creation and technical optimization. You might find monthly retainers ranging from a few hundred to several thousand dollars, depending on the breadth and depth of services, including content writing, schema markup implementation, and performance tracking. It's best to request a customized quote based on your practice's specific needs and goals.",
+        "description": "AEO costs for pediatricians vary, with monthly retainers ranging from hundreds to thousands of dollars depending on the scope of services, including content and technical optimization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO differ from traditional SEO for a general contractor's website?",
+  "description": "AEO targets direct answer boxes and voice search results by providing concise answers, whereas traditional SEO focuses on overall search rankings and website tr",
+  "url": "aiovisibility.com/faq/how-does-aeo-differ-from-traditional-seo-for-a-general-contractor-s-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO differ from traditional SEO for a general contractor's website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While traditional SEO aims to improve a website's ranking in search results, AEO specifically targets the direct answer boxes and voice search responses. Traditional SEO focuses on keywords, backlinks, and overall site authority to drive traffic to your website. AEO, on the other hand, prioritizes providing immediate, concise answers to specific questions within your content, increasing the likelihood of appearing in 'position zero.' For general contractors, this means crafting content that answers questions like 'How long does a kitchen remodel take?' or 'What permits are needed for an addition?' directly on your site, leading to higher visibility in answer formats rather than just organic listings.",
+        "description": "AEO targets direct answer boxes and voice search results by providing concise answers, whereas traditional SEO focuses on overall search rankings and website traffic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

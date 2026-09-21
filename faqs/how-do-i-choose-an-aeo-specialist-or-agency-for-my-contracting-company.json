@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose an AEO specialist or agency for my contracting company?",
+  "description": "Choose an AEO specialist with proven local SEO and AEO expertise for service-based businesses. Look for case studies, transparent reporting, and a clear strateg",
+  "url": "aiovisibility.com/faq/how-do-i-choose-an-aeo-specialist-or-agency-for-my-contracting-company",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose an AEO specialist or agency for my contracting company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing an AEO specialist or agency for your contracting company, look for expertise specifically in local SEO and answer engine optimization. Evaluate their track record with other service-based businesses, request case studies or examples of successful implementations, and ensure they understand the unique challenges and opportunities within the contractor industry. A good partner will focus on measurable results, provide transparent reporting, and demonstrate a clear strategy for optimizing your content for direct answers and voice search.",
+        "description": "Choose an AEO specialist with proven local SEO and AEO expertise for service-based businesses. Look for case studies, transparent reporting, and a clear strategy for direct answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

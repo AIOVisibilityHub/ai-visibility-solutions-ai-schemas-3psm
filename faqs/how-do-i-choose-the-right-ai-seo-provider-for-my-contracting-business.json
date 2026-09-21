@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right AI SEO provider for my contracting business?",
+  "description": "Choose an AI SEO provider with proven expertise in contractor marketing, clear processes, transparent reporting, and a tailored strategy for your business.",
+  "url": "aiovisibility.com/faq/how-do-i-choose-the-right-ai-seo-provider-for-my-contracting-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right AI SEO provider for my contracting business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right AI SEO provider requires evaluating their expertise, understanding of the contracting industry, and proven track record. Look for a provider who can demonstrate how their AI tools specifically address the unique challenges and opportunities of contractor marketing, such as local SEO and lead generation. Inquire about their process, reporting transparency, and client communication. Review case studies or testimonials from other contractors. Ensure they offer a clear strategy tailored to your business goals and can explain the technology and its benefits in a way that aligns with your expectations for growth and return on investment.",
+        "description": "Choose an AI SEO provider with proven expertise in contractor marketing, clear processes, transparent reporting, and a tailored strategy for your business."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

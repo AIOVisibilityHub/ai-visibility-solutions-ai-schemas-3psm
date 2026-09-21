@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of data does AI SEO use to optimize for restoration companies?",
+  "description": "AI SEO uses search queries, competitor analysis, website analytics, local market data, and historical performance to optimize for restoration companies.",
+  "url": "aiovisibility.com/faq/what-kind-of-data-does-ai-seo-use-to-optimize-for-restoration-companies",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of data does AI SEO use to optimize for restoration companies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO utilizes a wide range of data points to optimize for restoration companies. This includes search query data (what people search for), competitor analysis (what keywords they rank for, their content strategy), website analytics (user behavior on your site), local market data (population density, local events impacting property damage), and historical performance data (which strategies worked best). AI algorithms process this information to identify trends, predict optimal keywords, and recommend content and technical improvements specific to the restoration industry.",
+        "description": "AI SEO uses search queries, competitor analysis, website analytics, local market data, and historical performance to optimize for restoration companies."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

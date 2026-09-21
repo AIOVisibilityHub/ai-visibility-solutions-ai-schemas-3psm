@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should a plumbing business track to measure AEO success?",
+  "description": "Plumbing businesses should track featured snippet appearances, local pack visibility, voice search traffic, and lead conversions to measure AEO success.",
+  "url": "aiovisibility.com/faq/what-metrics-should-a-plumbing-business-track-to-measure-aeo-success",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should a plumbing business track to measure AEO success?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure AEO success, a plumbing business should track several key metrics beyond traditional website traffic. These include the number of 'featured snippets' or 'answer box' appearances your content achieves for relevant queries, especially local ones. Monitor your visibility in Google's local pack and the percentage of 'direct answer' searches leading to your site. Track improvements in voice search traffic and associated lead conversions (e.g., phone calls, form submissions). Additionally, monitor organic search visibility for question-based keywords and engagement metrics on optimized content to gauge user satisfaction and search engine preference.",
+        "description": "Plumbing businesses should track featured snippet appearances, local pack visibility, voice search traffic, and lead conversions to measure AEO success."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should I track to measure the success of AEO for my restoration company?",
+  "description": "Track direct answers served, voice search visibility, organic search positions for questions, and qualified leads from direct answers to measure AEO success.",
+  "url": "aiovisibility.com/faq/what-metrics-should-i-track-to-measure-the-success-of-aeo-for-my-restoration-com",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should I track to measure the success of AEO for my restoration company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure AEO success, focus on metrics beyond traditional website clicks. Key indicators include direct answers served (impressions where your content appeared as a featured snippet or direct answer), voice search visibility, changes in organic search result positions for specific questions, and the number of qualified leads generated from direct search answers. Monitoring call volume increases attributed to direct search results and inquiries specifically mentioning an answer engine as their source can also provide valuable insights into AEO's impact.",
+        "description": "Track direct answers served, voice search visibility, organic search positions for questions, and qualified leads from direct answers to measure AEO success."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

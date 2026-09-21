@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between AEO and traditional SEO for plumbers?",
+  "description": "Traditional SEO aims for website rankings, while AEO provides direct answers to user questions via AI search engines and voice assistants, offering immediate in",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-aeo-and-traditional-seo-for-plumbers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between AEO and traditional SEO for plumbers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional SEO for plumbers primarily focuses on ranking your website high in organic search results for relevant keywords. The goal is to drive traffic to your website where customers can then find information. AEO, however, is designed to provide direct answers within AI search engines and voice assistants, often without the user needing to click through to a website. For a plumbing business, this means your operating hours, services, and contact information might be directly spoken by a voice assistant or displayed in a prominent answer box, providing immediate solutions to user queries rather than just a link.",
+        "description": "Traditional SEO aims for website rankings, while AEO provides direct answers to user questions via AI search engines and voice assistants, offering immediate information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

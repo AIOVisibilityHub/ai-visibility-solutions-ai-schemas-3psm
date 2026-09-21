@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of content should a plumber create to improve local SEO?",
+  "description": "Plumbers should create content like local plumbing issue guides, seasonal tips, and service pages for specific neighborhoods to improve local SEO and attract ta",
+  "url": "aiovisibility.com/faq/what-types-of-content-should-a-plumber-create-to-improve-local-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of content should a plumber create to improve local SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Plumbers can improve local SEO by creating content that addresses common local plumbing issues and provides value to their community. This includes blog posts about seasonal plumbing tips relevant to cities like Houston or Phoenix, guides on common repairs specific to local building codes, and service pages detailing offerings in specific neighborhoods. Videos demonstrating DIY fixes, customer testimonials, and community involvement updates also boost local relevance. This content helps establish your business as a local authority and attracts geo-targeted organic traffic.",
+        "description": "Plumbers should create content like local plumbing issue guides, seasonal tips, and service pages for specific neighborhoods to improve local SEO and attract targeted traffic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

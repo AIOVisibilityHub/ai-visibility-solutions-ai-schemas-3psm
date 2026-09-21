@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right AEO provider for my contracting business?",
+  "description": "Choose an AEO provider with proven experience in local contracting, transparent reporting, a tailored strategy, and a focus on long-term authority building and",
+  "url": "aiovisibility.com/faq/how-do-i-choose-the-right-aeo-provider-for-my-contracting-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right AEO provider for my contracting business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing an AEO provider for your contracting business, look for a company with a proven track record specifically with local service businesses or contractors. Evaluate their understanding of your industry and local market dynamics. Request case studies or client references to see real results. Ensure they offer transparent reporting and a clear strategy tailored to your specific goals, rather than generic packages. A good provider will focus on building long-term authority and provide insights into how their efforts contribute to your business growth, not just vanity metrics.",
+        "description": "Choose an AEO provider with proven experience in local contracting, transparent reporting, a tailored strategy, and a focus on long-term authority building and business growth."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

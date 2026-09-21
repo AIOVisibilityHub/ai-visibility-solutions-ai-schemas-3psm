@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Contractor AI SEO?",
+  "description": "Contractor AI SEO uses AI to optimize a contractor's online presence, improving search rankings and attracting more clients.",
+  "url": "aiovisibility.com/faq/what-is-contractor-ai-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Contractor AI SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contractor AI SEO leverages artificial intelligence and machine learning to optimize a contractor's online presence, making it easier for potential clients to find their services through search engines. This includes AI-driven keyword research, content generation, website optimization, and analysis of competitor strategies. The goal is to improve organic search rankings, attract more qualified leads, and ultimately increase project bookings for contractors by ensuring their digital footprint is highly visible and relevant to local searches and specific service inquiries.",
+        "description": "Contractor AI SEO uses AI to optimize a contractor's online presence, improving search rankings and attracting more clients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

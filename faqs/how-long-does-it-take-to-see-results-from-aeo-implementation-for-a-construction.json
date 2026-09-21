@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AEO implementation for a construction company?",
+  "description": "Initial AEO results for construction companies typically appear within 3-6 months, with more significant lead generation impacts seen in 6-12 months.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-aeo-implementation-for-a-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AEO implementation for a construction company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for AEO results can vary based on factors like current online presence, competition, and the scope of implementation. Generally, construction companies can expect to see initial improvements in search ranking and traffic within 3 to 6 months. More significant impacts on lead generation and project inquiries often become evident within 6 to 12 months as the AI continually refines and adapts optimization strategies.",
+        "description": "Initial AEO results for construction companies typically appear within 3-6 months, with more significant lead generation impacts seen in 6-12 months."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

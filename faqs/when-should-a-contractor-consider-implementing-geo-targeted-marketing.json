@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should a contractor consider implementing GEO-targeted marketing?",
+  "description": "Contractors should use geo-targeted marketing when their business primarily serves specific local areas or they want to attract clients within defined geographi",
+  "url": "aiovisibility.com/faq/when-should-a-contractor-consider-implementing-geo-targeted-marketing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should a contractor consider implementing GEO-targeted marketing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contractors should consider implementing GEO-targeted marketing when their business relies heavily on local clients and they primarily serve specific cities or regions. If you are a plumber in Phoenix, an electrician in Dallas, or a roofer in San Jose, geo-targeting is essential. It's particularly beneficial if you're looking to expand within your current service areas, enter new local markets, or when you notice that your current marketing efforts are generating leads from outside your operational zones. Implementing it early helps establish a strong local online presence.",
+        "description": "Contractors should use geo-targeted marketing when their business primarily serves specific local areas or they want to attract clients within defined geographic boundaries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a Google Business Profile and why is it important for plumbers?",
+  "description": "A Google Business Profile is a free tool for businesses to manage their online presence on Google, displaying key information and helping plumbers appear in loc",
+  "url": "aiovisibility.com/faq/what-is-a-google-business-profile-and-why-is-it-important-for-plumbers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Google Business Profile and why is it important for plumbers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Google Business Profile (GBP) is a free tool that allows businesses to manage their online presence across Google Search and Maps. For plumbers, it's crucial because it displays vital information like your address, phone number, hours, website, and customer reviews directly in local search results. An optimized GBP helps you appear in the local pack (map results), making it easier for customers in areas like Houston or Phoenix to find and contact you quickly, especially during emergency situations.",
+        "description": "A Google Business Profile is a free tool for businesses to manage their online presence on Google, displaying key information and helping plumbers appear in local search results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

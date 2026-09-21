@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AEO different from traditional SEO for plumbing websites?",
+  "description": "AEO differs from traditional SEO by specifically targeting 'answer boxes' and voice search, focusing on providing concise, direct answers to user questions rath",
+  "url": "aiovisibility.com/faq/is-aeo-different-from-traditional-seo-for-plumbing-websites",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AEO different from traditional SEO for plumbing websites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, while AEO builds upon traditional SEO principles, it has a distinct focus. Traditional SEO often aims for higher rankings in general search results by optimizing for keywords, backlinks, and technical aspects. AEO, on the other hand, specifically targets the 'answer' box or 'featured snippet' in search results and voice search queries. It emphasizes providing concise, direct answers to questions, rather than just ranking for broad terms. This means content needs to be structured not just for search engines, but for direct response and clarity, anticipating what a user asks when seeking an immediate solution or piece of information.",
+        "description": "AEO differs from traditional SEO by specifically targeting 'answer boxes' and voice search, focusing on providing concise, direct answers to user questions rather than just general rankings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

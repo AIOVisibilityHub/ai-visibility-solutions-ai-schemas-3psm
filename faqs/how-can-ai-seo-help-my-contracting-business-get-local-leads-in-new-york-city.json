@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can AI SEO help my contracting business get local leads in New York City?",
+  "description": "AI SEO targets local search terms and optimizes your local online presence, helping your contracting business secure leads from specific neighborhoods in New Yo",
+  "url": "aiovisibility.com/faq/how-can-ai-seo-help-my-contracting-business-get-local-leads-in-new-york-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can AI SEO help my contracting business get local leads in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In a competitive market like New York City, AI SEO helps by precisely targeting local search terms such as 'plumber NYC' or 'electrical repair Brooklyn'. AI tools analyze local search patterns, competitor local listings, and customer reviews to optimize your Google My Business profile, local citations, and geo-targeted website content. This ensures your business appears prominently when potential clients in specific NYC boroughs or neighborhoods search for your services.",
+        "description": "AI SEO targets local search terms and optimizes your local online presence, helping your contracting business secure leads from specific neighborhoods in New York City."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

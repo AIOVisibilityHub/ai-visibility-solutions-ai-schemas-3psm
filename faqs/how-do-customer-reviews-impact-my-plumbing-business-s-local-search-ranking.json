@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do customer reviews impact my plumbing business's local search ranking?",
+  "description": "Customer reviews significantly impact a plumbing business's local search ranking; quantity, quality, and responses to reviews all build trust and improve visibi",
+  "url": "aiovisibility.com/faq/how-do-customer-reviews-impact-my-plumbing-business-s-local-search-ranking",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do customer reviews impact my plumbing business's local search ranking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Customer reviews are a significant factor in local search rankings for plumbing businesses. Google's algorithms consider both the quantity and quality of reviews when determining how prominently to display your business in local search results. Positive reviews build trust and credibility with potential customers, while a strong volume of recent reviews signals an active and reputable business. Responding to reviews, both positive and negative, further demonstrates engagement and professionalism, positively influencing your local SEO in cities like New York City or Chicago.",
+        "description": "Customer reviews significantly impact a plumbing business's local search ranking; quantity, quality, and responses to reviews all build trust and improve visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

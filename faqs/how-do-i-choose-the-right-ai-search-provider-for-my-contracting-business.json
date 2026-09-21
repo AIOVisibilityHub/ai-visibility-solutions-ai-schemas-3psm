@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right AI Search provider for my contracting business?",
+  "description": "Choose a provider with a proven track record in contracting, transparent strategies, customized solutions, and a clear understanding of your local market needs.",
+  "url": "aiovisibility.com/faq/how-do-i-choose-the-right-ai-search-provider-for-my-contracting-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right AI Search provider for my contracting business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing an AI Search provider, look for a company with a proven track record in the contracting industry and clear communication about their strategies. Assess their transparency regarding data analysis, reporting methods, and the specific AI technologies they utilize. Request case studies or client testimonials. A good provider should offer customized solutions rather than one-size-fits-all packages, demonstrating an understanding of your unique business needs and local market dynamics in areas like Los Angeles or Chicago.",
+        "description": "Choose a provider with a proven track record in contracting, transparent strategies, customized solutions, and a clear understanding of your local market needs. Review case studies and client testimonials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

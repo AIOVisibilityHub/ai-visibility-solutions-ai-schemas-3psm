@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to provide to start a GEO-targeted campaign for my contracting business?",
+  "description": "Provide service areas, target customer details, unique selling points, website access, and business goals to start a GEO-targeted campaign.",
+  "url": "aiovisibility.com/faq/what-information-do-i-need-to-provide-to-start-a-geo-targeted-campaign-for-my-co",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to provide to start a GEO-targeted campaign for my contracting business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To launch an effective GEO-targeted campaign, you should provide detailed information about your service areas, including specific cities, neighborhoods, or zip codes. Outline your target customer demographics, your unique selling propositions, and any specific services you want to highlight. Access to your current website, Google Business Profile, and any existing marketing accounts will also be crucial. Understanding your business goals, budget, and competitive landscape will allow your marketing partner to create a tailored and effective strategy.",
+        "description": "Provide service areas, target customer details, unique selling points, website access, and business goals to start a GEO-targeted campaign."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

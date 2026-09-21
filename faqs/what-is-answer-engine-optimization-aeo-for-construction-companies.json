@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Answer Engine Optimization (AEO) for construction companies?",
+  "description": "AEO for construction companies optimizes content to provide direct answers to user queries on search engines and AI platforms, increasing visibility for specifi",
+  "url": "aiovisibility.com/faq/what-is-answer-engine-optimization-aeo-for-construction-companies",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Answer Engine Optimization (AEO) for construction companies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer Engine Optimization (AEO) for construction companies focuses on structuring content to directly answer user queries on search engines and AI-powered platforms. Unlike traditional SEO, which often aims for website clicks, AEO prioritizes delivering concise, direct answers within search results, voice assistants, and generative AI. This helps construction firms gain visibility for specific services, project types, or expertise when potential clients ask targeted questions, improving their chances of being the authoritative source.",
+        "description": "AEO for construction companies optimizes content to provide direct answers to user queries on search engines and AI platforms, increasing visibility for specific services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

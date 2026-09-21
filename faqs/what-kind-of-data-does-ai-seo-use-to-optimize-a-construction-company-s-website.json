@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of data does AI SEO use to optimize a construction company's website?",
+  "description": "AI SEO uses data like keyword trends, competitor analysis, user behavior, technical website performance, and local search queries specific to the construction i",
+  "url": "aiovisibility.com/faq/what-kind-of-data-does-ai-seo-use-to-optimize-a-construction-company-s-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of data does AI SEO use to optimize a construction company's website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO utilizes a diverse range of data points to optimize a construction company's website. This includes keyword search volume and trends, competitor backlink profiles and content strategies, user behavior metrics such as bounce rate and time on page, and technical website performance data. It also analyzes local search queries, industry-specific terminology, and even geographic-specific project demands to ensure comprehensive optimization tailored for the construction sector.",
+        "description": "AI SEO uses data like keyword trends, competitor analysis, user behavior, technical website performance, and local search queries specific to the construction industry."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

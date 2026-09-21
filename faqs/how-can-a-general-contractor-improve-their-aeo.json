@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can a general contractor improve their AEO?",
+  "description": "Improve AEO by creating expert content, showcasing project case studies, collecting client testimonials, and maintaining a strong online reputation.",
+  "url": "aiovisibility.com/faq/how-can-a-general-contractor-improve-their-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can a general contractor improve their AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "General contractors can improve their AEO by creating high-quality, informative content about construction best practices, project planning, and industry trends. Showcasing detailed project case studies with before-and-after photos, client testimonials, and team bios highlights expertise. Obtaining positive reviews on industry-specific platforms and maintaining a strong online reputation also builds trust. Additionally, ensuring your website is technically sound, mobile-friendly, and secure contributes to a positive user experience, signaling reliability to search engines.",
+        "description": "Improve AEO by creating expert content, showcasing project case studies, collecting client testimonials, and maintaining a strong online reputation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

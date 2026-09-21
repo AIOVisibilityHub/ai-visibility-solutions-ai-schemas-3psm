@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should a general contractor track to measure AEO progress?",
+  "description": "Track organic search traffic, keyword rankings, website engagement, organic leads, online reviews, and industry mentions to measure AEO progress.",
+  "url": "aiovisibility.com/faq/what-metrics-should-a-general-contractor-track-to-measure-aeo-progress",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should a general contractor track to measure AEO progress?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure AEO progress, general contractors should track several key metrics. These include organic search traffic, keyword rankings for relevant industry terms, website engagement metrics like bounce rate and time on page, and the number of leads generated from organic search. Monitoring online reviews and ratings across various platforms, as well as mentions and links from reputable industry sites, also provides valuable insights into how your authority and trustworthiness are perceived and growing online.",
+        "description": "Track organic search traffic, keyword rankings, website engagement, organic leads, online reviews, and industry mentions to measure AEO progress."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

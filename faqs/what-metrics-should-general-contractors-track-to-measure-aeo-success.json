@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should general contractors track to measure AEO success?",
+  "description": "Track organic visibility in featured snippets, website traffic, qualified lead generation, conversion rates, and keyword rankings to measure AEO success.",
+  "url": "aiovisibility.com/faq/what-metrics-should-general-contractors-track-to-measure-aeo-success",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should general contractors track to measure AEO success?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "General contractors should track several key metrics to measure the success of their AEO efforts. These include an increase in organic visibility, specifically in featured snippets and 'People Also Ask' sections, which can be monitored using various SEO tools. Other important metrics are website traffic from organic search, the number of qualified leads generated through online forms or calls, and improvements in conversion rates from organic visitors. Monitoring keyword rankings for specific questions and tracking mentions in voice search analytics (if available) can also provide insights into the effectiveness of your AEO strategy.",
+        "description": "Track organic visibility in featured snippets, website traffic, qualified lead generation, conversion rates, and keyword rankings to measure AEO success."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

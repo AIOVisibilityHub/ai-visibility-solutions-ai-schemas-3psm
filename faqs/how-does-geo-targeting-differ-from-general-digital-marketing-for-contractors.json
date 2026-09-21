@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does geo-targeting differ from general digital marketing for contractors?",
+  "description": "Geo-targeting focuses marketing efforts on specific service areas, unlike general digital marketing which aims for broad visibility.",
+  "url": "aiovisibility.com/faq/how-does-geo-targeting-differ-from-general-digital-marketing-for-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does geo-targeting differ from general digital marketing for contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "General digital marketing casts a wide net, aiming for broad visibility, which can be less efficient for local service businesses. Geo-targeting, however, specifically tailors your marketing efforts to geographic areas where your contractor services are offered, like Chicago or Houston. It prioritizes local SEO, local ads, and location-specific content. This ensures your marketing budget is spent reaching homeowners or businesses in your service areas who are actively searching for local contractors, leading to higher conversion rates compared to broad campaigns.",
+        "description": "Geo-targeting focuses marketing efforts on specific service areas, unlike general digital marketing which aims for broad visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of AI SEO services for general contractors?",
+  "description": "Costs vary, typically ranging from hundreds to thousands monthly, depending on service scope, market competition, and specific deliverables.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-of-ai-seo-services-for-general-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of AI SEO services for general contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AI SEO services for general contractors can vary widely depending on the scope of work, the competitiveness of the market, and the specific services included. While there isn't a fixed price, monthly retainers typically range from a few hundred to several thousand dollars. Factors influencing cost include the depth of AI analysis, frequency of content creation, technical SEO requirements, and the level of ongoing support and reporting. It's important to discuss your budget and business goals with potential providers to get a customized quote that aligns with your specific needs and expected return on investment.",
+        "description": "Costs vary, typically ranging from hundreds to thousands monthly, depending on service scope, market competition, and specific deliverables."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

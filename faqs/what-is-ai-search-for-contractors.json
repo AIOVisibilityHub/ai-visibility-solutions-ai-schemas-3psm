@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AI Search for Contractors?",
+  "description": "AI Search for Contractors uses artificial intelligence to optimize online visibility for contractors, helping them appear higher in search results to attract mo",
+  "url": "aiovisibility.com/faq/what-is-ai-search-for-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AI Search for Contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI Search for Contractors uses artificial intelligence to optimize how contractors appear in online search results. It goes beyond traditional SEO by analyzing complex data patterns, user behavior, and search engine algorithms to ensure a contractor's services are highly visible to potential clients. This technology helps identify relevant keywords, understand local search nuances, and automate adjustments to online profiles, leading to more qualified leads and increased business opportunities for contractors in competitive markets.",
+        "description": "AI Search for Contractors uses artificial intelligence to optimize online visibility for contractors, helping them appear higher in search results to attract more clients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

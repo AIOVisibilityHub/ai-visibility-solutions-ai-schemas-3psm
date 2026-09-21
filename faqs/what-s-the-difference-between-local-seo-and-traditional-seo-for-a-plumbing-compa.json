@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between local SEO and traditional SEO for a plumbing company?",
+  "description": "Traditional SEO targets broad visibility, while local SEO for plumbers focuses specifically on attracting customers within a defined geographic service area.",
+  "url": "aiovisibility.com/faq/what-s-the-difference-between-local-seo-and-traditional-seo-for-a-plumbing-compa",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between local SEO and traditional SEO for a plumbing company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional SEO aims for broad, national or international visibility, focusing on general keywords and overall website authority. Local SEO, however, specifically targets customers within a defined geographic service area. For a plumbing company, local SEO focuses on optimizing for searches like 'plumber in Chicago' or 'emergency plumbing Houston,' utilizing location-specific keywords, Google Business Profile, and local directories. While both are important, local SEO is paramount for service-based businesses like plumbing that rely on geographically restricted clientele.",
+        "description": "Traditional SEO targets broad visibility, while local SEO for plumbers focuses specifically on attracting customers within a defined geographic service area."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

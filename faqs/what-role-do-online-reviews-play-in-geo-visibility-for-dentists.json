@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What role do online reviews play in GEO visibility for dentists?",
+  "description": "Online reviews are crucial for GEO visibility, influencing local search rankings and patient decisions by signaling trust and quality to search engines and pros",
+  "url": "aiovisibility.com/faq/what-role-do-online-reviews-play-in-geo-visibility-for-dentists",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What role do online reviews play in GEO visibility for dentists?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Online reviews are fundamental to GEO visibility for dentists. Search engines factor review quantity, quality, and recency into local ranking algorithms. Positive reviews on platforms like Google My Business signal to both search engines and potential patients that a practice is reputable and trustworthy. They significantly influence patient decisions, as most people read reviews before choosing a dentist. Actively managing and soliciting reviews is crucial for boosting local search presence and attracting new patients.",
+        "description": "Online reviews are crucial for GEO visibility, influencing local search rankings and patient decisions by signaling trust and quality to search engines and prospective patients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

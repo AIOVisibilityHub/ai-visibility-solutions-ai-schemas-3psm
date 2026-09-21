@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AEO help my contracting business attract local customers in New York City?",
+  "description": "Yes, AEO can attract local customers in New York City by optimizing content for location-specific queries and using a well-optimized Google Business Profile.",
+  "url": "aiovisibility.com/faq/can-aeo-help-my-contracting-business-attract-local-customers-in-new-york-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AEO help my contracting business attract local customers in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AEO is particularly effective for attracting local customers, especially in dense metropolitan areas like New York City. By optimizing your content for location-specific queries, such as 'best electrician NYC' or 'plumber near me in Brooklyn,' your business can appear in direct answers for local searches. Ensuring your Google Business Profile is fully optimized and consistent with your website information is also critical for local AEO success, making it easier for potential clients in specific neighborhoods to find your services.",
+        "description": "Yes, AEO can attract local customers in New York City by optimizing content for location-specific queries and using a well-optimized Google Business Profile."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

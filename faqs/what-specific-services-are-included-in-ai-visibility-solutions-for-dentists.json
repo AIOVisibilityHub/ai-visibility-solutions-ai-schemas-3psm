@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What specific services are included in AI Visibility Solutions for dentists?",
+  "description": "AI Visibility Solutions for dentists include local SEO, Google My Business optimization, review management, and local content strategies to boost local search r",
+  "url": "aiovisibility.com/faq/what-specific-services-are-included-in-ai-visibility-solutions-for-dentists",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What specific services are included in AI Visibility Solutions for dentists?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI Visibility Solutions for dentists typically include a range of services designed to enhance local online presence. These often involve comprehensive local SEO strategies, such as optimizing Google My Business profiles, managing online reviews, and ensuring consistent NAP (Name, Address, Phone) information across directories. It also covers location-based keyword research, content optimization for local relevance, and sometimes local paid advertising campaigns. The goal is to make a dental practice a top result for local searches.",
+        "description": "AI Visibility Solutions for dentists include local SEO, Google My Business optimization, review management, and local content strategies to boost local search rankings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

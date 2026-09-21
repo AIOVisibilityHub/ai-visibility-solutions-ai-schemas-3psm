@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is GEO for Plumbers?",
+  "description": "GEO for Plumbers optimizes a plumbing business's online presence to attract local customers through strategies like Google Business Profile and local SEO.",
+  "url": "aiovisibility.com/faq/what-is-geo-for-plumbers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GEO for Plumbers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO for Plumbers refers to optimizing a plumbing business's online presence to attract local customers. This involves strategies like Google Business Profile optimization, local SEO, and geo-targeted advertising. The goal is to ensure that when potential customers in a specific geographic area search for plumbing services, your business appears prominently in their search results. It helps plumbers connect with clients in their service areas, such as New York City, Los Angeles, Chicago, Houston, or Phoenix, increasing call volume and job opportunities.",
+        "description": "GEO for Plumbers optimizes a plumbing business's online presence to attract local customers through strategies like Google Business Profile and local SEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

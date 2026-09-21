@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content is optimized through AEO for construction companies?",
+  "description": "AEO optimizes service pages, project portfolios, blog posts, and technical SEO elements for construction companies, identifying new content opportunities.",
+  "url": "aiovisibility.com/faq/what-kind-of-content-is-optimized-through-aeo-for-construction-companies",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content is optimized through AEO for construction companies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO optimizes a wide range of content relevant to construction companies. This includes service pages for specific trades (e.g., commercial construction, residential remodeling, civil engineering), project portfolios showcasing past work, blog posts addressing common client questions, and even technical website elements like meta descriptions and image alt tags. The AI identifies opportunities to make existing content more discoverable and recommends new content based on search demand.",
+        "description": "AEO optimizes service pages, project portfolios, blog posts, and technical SEO elements for construction companies, identifying new content opportunities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the typical costs associated with AEO services for remodelers in a city like New York City?",
+  "description": "Costs for AEO services for remodelers in New York City vary, depending on scope and market. Expect investments comparable to comprehensive SEO, tailored to impr",
+  "url": "aiovisibility.com/faq/what-are-the-typical-costs-associated-with-aeo-services-for-remodelers-in-a-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the typical costs associated with AEO services for remodelers in a city like New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The costs for AEO services for remodelers in New York City can vary significantly based on the scope of work, the competitiveness of the local market, and the agency's expertise. Factors include content creation, technical optimization for structured data, ongoing analysis, and local search optimization. While a general range is difficult to provide without a specific project, expect investments to be comparable to or an extension of comprehensive SEO packages, often starting from several hundred to a few thousand dollars per month, tailored to deliver measurable improvements in search visibility and lead generation.",
+        "description": "Costs for AEO services for remodelers in New York City vary, depending on scope and market. Expect investments comparable to comprehensive SEO, tailored to improve visibility and leads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

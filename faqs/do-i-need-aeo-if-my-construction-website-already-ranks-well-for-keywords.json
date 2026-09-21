@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need AEO if my construction website already ranks well for keywords?",
+  "description": "Yes, AEO is crucial even with good keyword rankings. It ensures your construction company provides direct answers in zero-click search results and evolving AI e",
+  "url": "aiovisibility.com/faq/do-i-need-aeo-if-my-construction-website-already-ranks-well-for-keywords",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need AEO if my construction website already ranks well for keywords?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, even if your construction website ranks well for keywords, AEO is increasingly important. Traditional keyword rankings primarily aim for clicks to your site. However, answer engines and generative AI often provide answers directly on the search results page, reducing the need for users to click through. AEO ensures your company is the source for these direct answers, preventing competitors from dominating the 'zero-click' search landscape and maintaining your visibility as search behavior evolves.",
+        "description": "Yes, AEO is crucial even with good keyword rankings. It ensures your construction company provides direct answers in zero-click search results and evolving AI environments."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

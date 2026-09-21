@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AI SEO for contractors?",
+  "description": "AI SEO for contractors uses artificial intelligence to optimize websites, improving search engine rankings and client reach within the contracting industry.",
+  "url": "aiovisibility.com/faq/what-is-ai-seo-for-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AI SEO for contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO for contractors utilizes artificial intelligence to analyze search trends, competitor strategies, and user behavior specific to the contracting industry. It helps optimize your website content, keywords, and technical elements to improve search engine rankings. This approach automates and refines many traditional SEO tasks, allowing contractors to reach potential clients more efficiently by appearing higher in relevant search results for services like 'emergency plumber' or 'local electrician'.",
+        "description": "AI SEO for contractors uses artificial intelligence to optimize websites, improving search engine rankings and client reach within the contracting industry."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

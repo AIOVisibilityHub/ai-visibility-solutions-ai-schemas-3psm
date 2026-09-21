@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the cost of GEO visibility services for a dental practice?",
+  "description": "The cost of GEO visibility services for dentists varies, from a few hundred to several thousand dollars monthly, depending on service scope and market competiti",
+  "url": "aiovisibility.com/faq/what-is-the-cost-of-geo-visibility-services-for-a-dental-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cost of GEO visibility services for a dental practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of GEO visibility services for a dental practice varies widely based on the scope of services, the competitiveness of the local market, and the chosen provider. Basic packages might start from a few hundred dollars per month for foundational local SEO. More comprehensive solutions, including advanced content creation, aggressive local link building, and targeted local advertising, can range from $1,000 to several thousands per month. It's an investment tailored to the specific needs and goals of each practice.",
+        "description": "The cost of GEO visibility services for dentists varies, from a few hundred to several thousand dollars monthly, depending on service scope and market competition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

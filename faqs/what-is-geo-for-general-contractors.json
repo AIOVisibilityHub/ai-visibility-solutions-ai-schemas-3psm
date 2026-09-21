@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is GEO for general contractors?",
+  "description": "GEO for general contractors optimizes online visibility to attract local clients by ensuring your business appears in search results for specific geographic are",
+  "url": "aiovisibility.com/faq/what-is-geo-for-general-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GEO for general contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO, or geotargeting, for general contractors involves optimizing online visibility to attract local clients. It ensures your business appears prominently in search results for potential customers within specific geographic areas. This strategy uses location-based keywords, local listings, and targeted ad campaigns to reach people actively searching for construction services in your service region. For general contractors, GEO is crucial for connecting with homeowners and businesses in need of remodeling, new construction, or renovation services, turning local searches into qualified leads and projects.",
+        "description": "GEO for general contractors optimizes online visibility to attract local clients by ensuring your business appears in search results for specific geographic areas. It connects your services with local customers actively seeking construction work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AEO for general contractors?",
+  "description": "AEO for general contractors means demonstrating high levels of industry knowledge, practical experience, and a reputation for reliability to improve search engi",
+  "url": "aiovisibility.com/faq/what-is-aeo-for-general-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AEO for general contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO, or Authority, Expertise, and Trustworthiness (formerly E-A-T), for general contractors refers to demonstrating high levels of industry knowledge, practical experience, and a reputation for reliability in construction projects. Search engines evaluate these factors to rank websites, aiming to provide users with credible and valuable information. For general contractors, this means showcasing project portfolios, client testimonials, team qualifications, and transparent business practices online to build trust and improve visibility in search results.",
+        "description": "AEO for general contractors means demonstrating high levels of industry knowledge, practical experience, and a reputation for reliability to improve search engine visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

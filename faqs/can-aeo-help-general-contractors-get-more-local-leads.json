@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AEO help general contractors get more local leads?",
+  "description": "Yes, AEO significantly boosts local leads for contractors by optimizing for local queries and Google Business Profile, increasing visibility in local answer res",
+  "url": "aiovisibility.com/faq/can-aeo-help-general-contractors-get-more-local-leads",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AEO help general contractors get more local leads?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AEO is highly effective for general contractors seeking more local leads. Many answer engine queries have local intent, such as 'best kitchen remodeler near me' or 'commercial construction companies in Los Angeles.' By optimizing content for these specific local questions and ensuring your Google Business Profile is fully optimized, your business is more likely to appear in local answer packs, featured snippets, and voice search results. This direct visibility to users explicitly searching for local services significantly increases the chances of attracting qualified local leads who are ready to engage with a contractor in their area.",
+        "description": "Yes, AEO significantly boosts local leads for contractors by optimizing for local queries and Google Business Profile, increasing visibility in local answer results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

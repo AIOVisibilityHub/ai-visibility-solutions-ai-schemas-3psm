@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I look for when choosing a GOE provider for my contracting business?",
+  "description": "When choosing a GOE provider, look for a proven track record in the contractor industry, transparent reporting, ethical SEO practices, and a customized strategy",
+  "url": "aiovisibility.com/faq/what-should-i-look-for-when-choosing-a-goe-provider-for-my-contracting-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I look for when choosing a GOE provider for my contracting business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a GOE provider for your contracting business, look for a company with a proven track record in the contractor industry and verifiable case studies or testimonials. Ensure they offer transparent reporting on key metrics like rankings, traffic, and lead generation. Inquire about their specific strategies, emphasizing ethical (white-hat) SEO practices. A good provider will also communicate regularly, understand your business goals, and customize their approach to your unique market and services.",
+        "description": "When choosing a GOE provider, look for a proven track record in the contractor industry, transparent reporting, ethical SEO practices, and a customized strategy tailored to your business goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

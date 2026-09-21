@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AEO help my restoration company get more local leads in New York City?",
+  "description": "AEO helps generate local leads by optimizing content for location-specific queries, ensuring your restoration company appears prominently in local search and vo",
+  "url": "aiovisibility.com/faq/can-aeo-help-my-restoration-company-get-more-local-leads-in-new-york-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AEO help my restoration company get more local leads in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AEO is highly effective for generating local leads. By optimizing content to answer location-specific queries like 'water damage repair New York City' or 'mold remediation NYC,' your company can directly appear in local search results and voice assistant responses. This ensures that when potential clients in your service areas, such as New York City, are urgently searching for restoration services, your business is prominently featured as a direct, relevant answer, leading to more targeted inquiries and service calls.",
+        "description": "AEO helps generate local leads by optimizing content for location-specific queries, ensuring your restoration company appears prominently in local search and voice results in areas like New York City."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from a GEO marketing campaign for a general contractor?",
+  "description": "Organic local search results usually appear within 3-6 months, with significant growth after 6-12 months. Paid advertising can generate immediate leads. The tim",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-a-geo-marketing-campaign-for-a-general",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from a GEO marketing campaign for a general contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seeing results from a GEO marketing campaign typically takes time, as many components of local SEO build authority and visibility gradually. For organic local search rankings, noticeable improvements often begin within 3 to 6 months, with more significant and sustained growth appearing after 6 to 12 months. Paid advertising campaigns, however, can generate leads almost immediately, though continuous optimization is needed for efficiency. Factors like your current online presence, market competition, and the consistency of optimization efforts influence the timeline. Patience and a long-term perspective are key for maximizing ROI.",
+        "description": "Organic local search results usually appear within 3-6 months, with significant growth after 6-12 months. Paid advertising can generate immediate leads. The timeline depends on your current presence, competition, and consistent effort."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

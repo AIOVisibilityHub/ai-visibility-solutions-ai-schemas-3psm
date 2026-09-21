@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical investment for AEO services for a construction company?",
+  "description": "AEO costs for construction companies vary based on company size, market competition, current online presence, and required services. A custom proposal follows a",
+  "url": "aiovisibility.com/faq/what-is-the-typical-investment-for-aeo-services-for-a-construction-company",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical investment for AEO services for a construction company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The investment for AEO services for a construction company depends on the specific needs and goals. Factors influencing cost include the size of the company, the competitiveness of its target markets, the current state of its online presence, and the breadth of services required (e.g., content creation, technical SEO, local SEO). A customized proposal is typically provided after an initial assessment, tailoring the solution to deliver maximum ROI.",
+        "description": "AEO costs for construction companies vary based on company size, market competition, current online presence, and required services. A custom proposal follows an assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

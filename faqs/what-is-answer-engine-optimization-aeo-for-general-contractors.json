@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Answer Engine Optimization (AEO) for general contractors?",
+  "description": "AEO for general contractors optimizes digital content to appear in answer engine results like featured snippets and voice search, providing direct answers to us",
+  "url": "aiovisibility.com/faq/what-is-answer-engine-optimization-aeo-for-general-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Answer Engine Optimization (AEO) for general contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer Engine Optimization (AEO) for general contractors focuses on optimizing digital content to appear prominently in answer engines like Google's featured snippets, voice search results, and 'People Also Ask' sections. This strategy ensures that when potential clients search for contractor-related queries, your business's information is directly provided as the answer. It involves structuring content with clear, concise answers to common questions, using relevant keywords, and ensuring your online profiles are accurate and comprehensive. AEO helps contractors capture immediate attention from users seeking quick information, positioning them as an authoritative source.",
+        "description": "AEO for general contractors optimizes digital content to appear in answer engine results like featured snippets and voice search, providing direct answers to user queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

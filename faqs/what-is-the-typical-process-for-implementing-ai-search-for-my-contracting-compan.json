@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for implementing AI Search for my contracting company?",
+  "description": "The process involves an initial assessment, AI-driven analysis, strategy development, implementation of optimizations, and continuous monitoring with regular re",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-implementing-ai-search-for-my-contracting-compan",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for implementing AI Search for my contracting company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The implementation process typically begins with an initial assessment of your current online presence and target audience. Our team then deploys AI tools to analyze your website, local listings, and competitor data to identify optimization opportunities. Following this, we develop a tailored strategy focusing on relevant keywords, content enhancements, and technical SEO adjustments. Continuous monitoring and AI-driven adjustments ensure ongoing performance improvements. Regular reports provide insights into your visibility and lead generation progress.",
+        "description": "The process involves an initial assessment, AI-driven analysis, strategy development, implementation of optimizations, and continuous monitoring with regular reporting to improve your online presence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

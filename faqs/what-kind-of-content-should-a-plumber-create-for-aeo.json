@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content should a plumber create for AEO?",
+  "description": "Plumbers should create content like detailed FAQs, clear service pages, and blog posts that directly answer common plumbing questions and offer practical soluti",
+  "url": "aiovisibility.com/faq/what-kind-of-content-should-a-plumber-create-for-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content should a plumber create for AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For effective AEO, plumbers should create content that directly answers common plumbing questions and provides practical solutions. This includes detailed FAQ pages addressing specific problems like 'why is my water heater leaking?' or 'how to unclog a kitchen sink'. Service pages should clearly define what each service entails and common issues it solves. Blog posts can offer DIY tips or explain complex plumbing systems in simple terms. The content should be structured with clear headings, bullet points, and concise answers, making it easy for search engines to extract information and present it as direct answers.",
+        "description": "Plumbers should create content like detailed FAQs, clear service pages, and blog posts that directly answer common plumbing questions and offer practical solutions, structured for easy search engine extraction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
