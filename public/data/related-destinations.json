@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-21T22:58:17.813Z",
+  "generatedAt": "2026-09-21T23:00:16.086Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -11,20 +11,20 @@
   "notALinkWheel": true,
   "entity": {
     "name": "AI Visibility Solutions",
-    "canonicalUrl": "https://data.aiovisibility.com",
+    "canonicalUrl": "https://ai-data.aiovisibility.com",
     "primaryWebsiteUrl": "aiovisibility.com",
-    "aiDataHub": "https://data.aiovisibility.com/ai-data.html"
+    "aiDataHub": "https://ai-data.aiovisibility.com/ai-data.html"
   },
   "related": [
     {
       "role": "canonical",
       "label": "AI Visibility Solutions — canonical website",
-      "url": "https://data.aiovisibility.com"
+      "url": "https://ai-data.aiovisibility.com"
     },
     {
       "role": "ai-data-hub",
       "label": "AI Visibility Solutions — AI Data Hub",
-      "url": "https://data.aiovisibility.com/ai-data.html"
+      "url": "https://ai-data.aiovisibility.com/ai-data.html"
     },
     {
       "role": "mirror-repo",
@@ -37,42 +37,6 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "https://aiovisibilityhub.github.io/ai-visibility-solutions-ai-schemas-3psm/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "gitlab",
-      "label": "GitLab repository",
-      "url": "https://gitlab.com/aiovisibilityhub/ai-visibility-solutions-ai-schemas-93iu"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "gitlab",
-      "label": "GitLab — AI Data Hub mirror",
-      "url": "https://ai-visibility-solutions-ai-schemas-93iu-693b17.gitlab.io/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "kaggle",
-      "label": "Kaggle repository",
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/ai-visibility-solutions-ai-schemas"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "sourcehut",
-      "label": "SourceHut repository",
-      "url": "https://aiovisibilityhub.srht.site/"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "sourcehut",
-      "label": "SourceHut — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.srht.site/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "zenodo",
-      "label": "Zenodo repository",
-      "url": "https://zenodo.org/record/22884341"
     }
   ],
   "destinations": {
@@ -80,20 +44,6 @@
       "url": "https://github.com/AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm",
       "pagesUrl": "https://aiovisibilityhub.github.io/ai-visibility-solutions-ai-schemas-3psm/",
       "repo": "AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/ai-visibility-solutions-ai-schemas-93iu",
-      "pagesUrl": "https://ai-visibility-solutions-ai-schemas-93iu-693b17.gitlab.io/"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/ai-visibility-solutions-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/22884341"
     }
   }
 }

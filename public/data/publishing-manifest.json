@@ -1,11 +1,11 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-21T22:58:17.839Z",
+  "generatedAt": "2026-09-21T23:00:16.135Z",
   "client": {
     "name": "AI Visibility Solutions",
-    "canonicalUrl": "https://data.aiovisibility.com",
+    "canonicalUrl": "https://ai-data.aiovisibility.com",
     "primaryWebsiteUrl": "aiovisibility.com",
-    "pagesUrl": "https://data.aiovisibility.com",
+    "pagesUrl": "https://ai-data.aiovisibility.com",
     "phone": "(213) 537-5613",
     "email": "js@aiovisibility.com",
     "locations": [],
@@ -416,7 +416,7 @@
   },
   "package": {
     "totalFiles": 3010,
-    "totalBytes": 10269372,
+    "totalBytes": 10611310,
     "stats": {
       "qna": 0,
       "faqs": 2853,
@@ -15196,259 +15196,259 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 21194,
+        "bytes": 27090,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 42014,
+        "bytes": 47720,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 228637,
+        "bytes": 234475,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 18735,
+        "bytes": 24330,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2107178,
+        "bytes": 2112784,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 49281,
+        "bytes": 54936,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 24929,
+        "bytes": 30486,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-your-ai-visibility-isn-t-cutting-through-the-noise.html",
-        "bytes": 9181,
+        "bytes": 15842,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/making-your-website-ai-citable-a-practical-checklist.html",
-        "bytes": 9307,
+        "bytes": 15939,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/top-mistakes-businesses-make-with-ai-visibility-optimization.html",
-        "bytes": 9187,
+        "bytes": 15878,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-bring-in-the-pros-for-answer-engine-optimization.html",
-        "bytes": 9161,
+        "bytes": 15812,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/the-step-by-step-guide-to-implementing-answer-engine-optimization.html",
-        "bytes": 8687,
+        "bytes": 14717,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-your-website-isn-t-showing-up-in-ai-search-results.html",
-        "bytes": 9115,
+        "bytes": 15752,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-aren-t-my-rich-results-showing-up.html",
-        "bytes": 9267,
+        "bytes": 15812,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/choosing-the-right-structured-data-for-your-site.html",
-        "bytes": 8749,
+        "bytes": 14609,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/keeping-your-schema-markup-current.html",
-        "bytes": 9452,
+        "bytes": 15991,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-exactly-is-a-knowledge-graph-for-businesses.html",
-        "bytes": 9289,
+        "bytes": 15908,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/modeling-your-business-s-key-entities.html",
-        "bytes": 8618,
+        "bytes": 14368,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-pitfalls-in-knowledge-graph-implementation.html",
-        "bytes": 9861,
+        "bytes": 16484,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-isn-t-my-website-showing-up-in-ai-search.html",
-        "bytes": 9002,
+        "bytes": 15596,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-website-uses-react-will-ai-crawlers-see-my-content.html",
-        "bytes": 8974,
+        "bytes": 15622,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-implementing-ai-crawlability.html",
-        "bytes": 10154,
+        "bytes": 16785,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-website-schema-not-being-used-by-ai.html",
-        "bytes": 9511,
+        "bytes": 16106,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-generating-per-page-schema.html",
-        "bytes": 10807,
+        "bytes": 17433,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-engage-professionals-for-my-website-schema.html",
-        "bytes": 10121,
+        "bytes": 16796,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-stop-doing-if-you-want-more-ai-citations.html",
-        "bytes": 8892,
+        "bytes": 14752,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/decoding-ai-citations-myths-vs-reality.html",
-        "bytes": 7725,
+        "bytes": 14274,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-isn-t-ai-citing-my-business-more-often.html",
-        "bytes": 9735,
+        "bytes": 16318,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-website-looks-great-so-why-can-t-ai-find-me.html",
-        "bytes": 9522,
+        "bytes": 16127,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/are-you-making-these-mistakes-with-your-ai-visibility-strategy.html",
-        "bytes": 9585,
+        "bytes": 16308,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/the-secret-to-staying-visible-in-an-ai-driven-world.html",
-        "bytes": 7460,
+        "bytes": 14052,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-business-isn-t-performing-in-google-ai-overviews.html",
-        "bytes": 7728,
+        "bytes": 14485,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-your-marketing-campaigns-aren-t-reaching-ai-answer-engines.html",
-        "bytes": 8433,
+        "bytes": 15141,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-measure-your-ai-visibility-beyond-website-traffic.html",
-        "bytes": 7075,
+        "bytes": 13471,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-isn-t-my-structured-data-showing-up-in-google.html",
-        "bytes": 9215,
+        "bytes": 15826,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-fix-common-structured-data-errors.html",
-        "bytes": 8217,
+        "bytes": 13997,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-vs-facts-structured-data-for-ai-visibility.html",
-        "bytes": 9626,
+        "bytes": 16251,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-your-knowledge-graph-isn-t-connecting-the-dots.html",
-        "bytes": 9202,
+        "bytes": 15850,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-mistakes-in-building-a-knowledge-graph.html",
-        "bytes": 8733,
+        "bytes": 14563,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/keeping-your-entity-file-accurate-a-step-by-step-guide.html",
-        "bytes": 9380,
+        "bytes": 16041,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-isn-t-my-website-showing-up-in-ai-answers.html",
-        "bytes": 10209,
+        "bytes": 16804,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/getting-your-website-ai-ready-5-critical-steps.html",
-        "bytes": 9722,
+        "bytes": 15568,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-mistakes-that-make-your-site-invisible-to-ai.html",
-        "bytes": 10559,
+        "bytes": 17211,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-every-page-needs-its-own-schema-tlc.html",
-        "bytes": 10470,
+        "bytes": 17017,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/are-you-making-these-json-ld-schema-mistakes.html",
-        "bytes": 10499,
+        "bytes": 17087,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-keep-your-website-s-schema-up-to-date.html",
-        "bytes": 6093,
+        "bytes": 11913,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-your-business-isn-t-showing-up-in-google-ai-overviews.html",
-        "bytes": 9899,
+        "bytes": 16578,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-businesses-make-when-trying-to-get-ai-citations.html",
-        "bytes": 9829,
+        "bytes": 16498,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/a-checklist-for-boosting-your-ai-citation-rate.html",
-        "bytes": 10087,
+        "bytes": 16665,
         "purpose": "LLM-optimized public page"
       }
     ],
     "root": [
       {
         "path": "robots.txt",
-        "bytes": 301,
+        "bytes": 307,
         "purpose": "Robots policy"
       },
       {
         "path": "llms.txt",
-        "bytes": 13257,
+        "bytes": 12664,
         "purpose": "LLM hint"
       },
       {
@@ -15458,7 +15458,7 @@
       },
       {
         "path": "index.html",
-        "bytes": 354,
+        "bytes": 357,
         "purpose": "Landing page (redirects to ai-data.html)"
       },
       {
@@ -15468,42 +15468,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 3329,
+        "bytes": 1690,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1428844,
+        "bytes": 1436483,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 376817,
+        "bytes": 385215,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 376817,
+        "bytes": 385215,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 13285,
+        "bytes": 12677,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 523539,
+        "bytes": 522931,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 395854,
+        "bytes": 404878,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 5651,
+        "bytes": 5807,
         "purpose": "Standard sitemap"
       }
     ]
@@ -15513,20 +15513,6 @@
       "url": "https://github.com/AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm",
       "pagesUrl": "https://aiovisibilityhub.github.io/ai-visibility-solutions-ai-schemas-3psm/",
       "repo": "AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/ai-visibility-solutions-ai-schemas-93iu",
-      "pagesUrl": "https://ai-visibility-solutions-ai-schemas-93iu-693b17.gitlab.io/"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/ai-visibility-solutions-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/22884341"
     }
   }
 }
