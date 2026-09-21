@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for implementing an AI SEO content strategy for a small to medium-sized business?",
+  "description": "Costs for an AI SEO content strategy for SMBs vary from basic strategy development at a few hundred dollars to comprehensive packages ranging from $1,500 to $5,",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-for-implementing-an-ai-seo-content-strategy-for-a-small",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for implementing an AI SEO content strategy for a small to medium-sized business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of implementing an AI SEO content strategy for an SMB varies widely, depending on the scope of services, the specific AI tools utilized, and the level of ongoing support required. Initial consultations and basic strategy development might range from a few hundred to a couple of thousand dollars. Comprehensive packages, including AI-driven content generation, optimization, and performance monitoring, could range from $1,500 to $5,000 per month or more. It's best to discuss your specific needs with a provider to get an accurate quote tailored to your business goals.",
+        "description": "Costs for an AI SEO content strategy for SMBs vary from basic strategy development at a few hundred dollars to comprehensive packages ranging from $1,500 to $5,000+ per month."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

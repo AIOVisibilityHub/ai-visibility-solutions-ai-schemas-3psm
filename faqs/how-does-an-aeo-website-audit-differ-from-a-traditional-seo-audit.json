@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does an AEO Website Audit differ from a traditional SEO Audit?",
+  "description": "A traditional SEO audit focuses on general search visibility and keyword rankings. An AEO audit specifically optimizes content to directly answer user questions",
+  "url": "aiovisibility.com/faq/how-does-an-aeo-website-audit-differ-from-a-traditional-seo-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does an AEO Website Audit differ from a traditional SEO Audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A traditional SEO audit primarily focuses on keyword rankings, backlinks, technical SEO issues like crawlability, and overall site performance to improve organic search visibility. An AEO audit, however, specifically targets how well your website answers user questions directly, aiming for featured snippets, 'People Also Ask' sections, and voice search results. While both contribute to visibility, AEO emphasizes content structure for direct answers and intent matching, rather than just keyword presence. An AEO audit deepens the analysis into semantic understanding and user intent, optimizing for direct question-and-answer formats.",
+        "description": "A traditional SEO audit focuses on general search visibility and keyword rankings. An AEO audit specifically optimizes content to directly answer user questions, aiming for featured snippets and voice search results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

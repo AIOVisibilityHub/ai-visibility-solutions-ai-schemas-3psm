@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Answer Engine Optimization (AEO) for CPAs?",
+  "description": "Answer Engine Optimization (AEO) for CPAs optimizes content for AI search engines to directly answer user queries about accounting services, enhancing visibilit",
+  "url": "aiovisibility.com/faq/what-is-answer-engine-optimization-aeo-for-cpas",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Answer Engine Optimization (AEO) for CPAs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer Engine Optimization (AEO) for CPAs focuses on optimizing your digital content so that AI-powered search engines, like Google's SGE or ChatGPT, can accurately and directly answer user queries about accounting services. Unlike traditional SEO, which aims to rank websites, AEO ensures your firm's expertise is delivered as the direct, authoritative answer when users ask questions related to tax, auditing, financial planning, and other CPA services. This helps your firm gain visibility in new search landscapes where direct answers are prioritized over traditional search result listings.",
+        "description": "Answer Engine Optimization (AEO) for CPAs optimizes content for AI search engines to directly answer user queries about accounting services, enhancing visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

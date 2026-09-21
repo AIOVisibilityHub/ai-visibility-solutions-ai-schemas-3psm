@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can my local business appear in Google's AI Overviews?",
+  "description": "Optimize your Google Business Profile, create high-quality website content with structured data, and maintain consistent local citations and positive reviews.",
+  "url": "aiovisibility.com/faq/how-can-my-local-business-appear-in-google-s-ai-overviews",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can my local business appear in Google's AI Overviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To appear in Google's AI Overviews, focus on comprehensive and accurate online presence. Ensure your Google Business Profile is fully optimized with correct business hours, services, photos, and reviews. Create high-quality, informative content on your website that directly answers common questions related to your services and products. Using structured data markup (schema.org) can help search engines better understand your content. Consistent local citations and positive customer reviews also signal authority and relevance to Google's AI, increasing the likelihood of your business being featured.",
+        "description": "Optimize your Google Business Profile, create high-quality website content with structured data, and maintain consistent local citations and positive reviews."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

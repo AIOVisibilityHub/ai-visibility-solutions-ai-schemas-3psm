@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does an AEO Content Strategy service cost in major cities like New York City or Los Angeles?",
+  "description": "AEO service costs in major cities vary widely based on project scope, content volume, technical work, and ongoing support; request detailed proposals for accura",
+  "url": "aiovisibility.com/faq/how-much-does-an-aeo-content-strategy-service-cost-in-major-cities-like-new-york",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does an AEO Content Strategy service cost in major cities like New York City or Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of an AEO Content Strategy service in major metropolitan areas like New York City or Los Angeles can vary significantly based on the scope of work, the size of your business, and the agency's expertise. Factors influencing price include the extent of keyword and question research, the volume of content creation or optimization required, technical implementation like schema markup, and ongoing monitoring and reporting. Pricing models can range from project-based fees for specific campaigns to monthly retainers for comprehensive, long-term strategy and execution. It's advisable to request detailed proposals tailored to your specific business needs and goals.",
+        "description": "AEO service costs in major cities vary widely based on project scope, content volume, technical work, and ongoing support; request detailed proposals for accurate pricing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

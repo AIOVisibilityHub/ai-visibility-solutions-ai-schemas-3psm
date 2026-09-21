@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the cost associated with implementing an AEO content strategy?",
+  "description": "Costs vary based on scope, content volume, and whether you use in-house or agency resources. Factors include research, optimization, and new content creation.",
+  "url": "aiovisibility.com/faq/what-is-the-cost-associated-with-implementing-an-aeo-content-strategy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cost associated with implementing an AEO content strategy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of implementing an AEO content strategy can vary widely depending on the scope of work, the size of your existing content library, and whether you opt for in-house execution or outsource to an agency. Factors influencing cost include comprehensive keyword and question research, content auditing and optimization, new content creation, and ongoing monitoring and refinement. It's often bundled with broader SEO or content marketing services. Businesses in major cities like New York City or Los Angeles might find agency rates reflect higher operational costs, but the investment typically yields benefits through increased organic visibility and qualified traffic.",
+        "description": "Costs vary based on scope, content volume, and whether you use in-house or agency resources. Factors include research, optimization, and new content creation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

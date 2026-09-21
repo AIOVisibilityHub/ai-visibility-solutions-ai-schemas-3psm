@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should local businesses prioritize Google Business Profile or website content for AI Overviews?",
+  "description": "Both Google Business Profile and website content are crucial; GBP provides foundational data, while website content offers detailed information for AI synthesis",
+  "url": "aiovisibility.com/faq/should-local-businesses-prioritize-google-business-profile-or-website-content-fo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should local businesses prioritize Google Business Profile or website content for AI Overviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Both Google Business Profile (GBP) and website content are crucial for AI Overviews optimization, and neither should be prioritized exclusively. GBP provides foundational, verified business information directly to Google's knowledge graph, which AI heavily relies on for factual summaries. An optimized GBP ensures accurate contact details, services, and reviews are readily available. Website content, on the other hand, allows for more detailed, rich, and context-specific information that can be synthesized by AI to answer complex queries. A holistic approach integrating both platforms ensures maximum visibility and accuracy in AI Overviews.",
+        "description": "Both Google Business Profile and website content are crucial; GBP provides foundational data, while website content offers detailed information for AI synthesis."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What common mistakes should local businesses avoid when doing AEO?",
+  "description": "Avoid inconsistent business info, unoptimized Google Business Profiles, neglecting schema markup, and creating generic content that doesn't answer specific cust",
+  "url": "aiovisibility.com/faq/what-common-mistakes-should-local-businesses-avoid-when-doing-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What common mistakes should local businesses avoid when doing AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local businesses should avoid several common mistakes in AEO. One is providing inconsistent or outdated business information across various online platforms, which confuses answer engines and users. Another is failing to optimize their Google Business Profile fully or neglecting to respond to reviews. Businesses also often overlook the importance of schema markup on their website, which helps structure data for answer engines. Lastly, creating generic content that doesn't directly answer specific customer questions or using keyword stuffing instead of natural language for their FAQs can hinder AEO effectiveness. Focus on clarity, accuracy, and user intent.",
+        "description": "Avoid inconsistent business info, unoptimized Google Business Profiles, neglecting schema markup, and creating generic content that doesn't answer specific customer questions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

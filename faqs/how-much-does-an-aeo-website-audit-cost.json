@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does an AEO Website Audit cost?",
+  "description": "The cost of an AEO Website Audit varies based on your website's size, content volume, and complexity. We provide customized quotes after an initial consultation",
+  "url": "aiovisibility.com/faq/how-much-does-an-aeo-website-audit-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does an AEO Website Audit cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of an AEO Website Audit varies depending on the complexity and size of your website, the volume of content to be analyzed, and the depth of the competitive analysis required. Factors such as the number of pages, existing content quality, and your specific business goals will influence the final pricing. We offer customized quotes after an initial consultation to understand your unique needs. Our goal is to provide a comprehensive audit that delivers tangible value and actionable insights tailored to your investment.",
+        "description": "The cost of an AEO Website Audit varies based on your website's size, content volume, and complexity. We provide customized quotes after an initial consultation to match your specific needs and business goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

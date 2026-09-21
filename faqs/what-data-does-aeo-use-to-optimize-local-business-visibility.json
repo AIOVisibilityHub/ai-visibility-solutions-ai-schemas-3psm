@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What data does AEO use to optimize local business visibility?",
+  "description": "AEO uses local search queries, Google My Business insights, competitor data, website traffic, social media trends, and customer sentiment to optimize visibility",
+  "url": "aiovisibility.com/faq/what-data-does-aeo-use-to-optimize-local-business-visibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What data does AEO use to optimize local business visibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO platforms utilize a broad spectrum of data points to optimize local business visibility. This includes local search query data, Google My Business insights (reviews, ratings, engagement), competitor performance metrics, website traffic analytics, social media trends, customer sentiment analysis, and even local event data. By synthesizing this information, AI algorithms can identify patterns, predict customer intent, and recommend strategic adjustments to content, listings, and advertising campaigns, ensuring your business reaches the most relevant local audience.",
+        "description": "AEO uses local search queries, Google My Business insights, competitor data, website traffic, social media trends, and customer sentiment to optimize visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

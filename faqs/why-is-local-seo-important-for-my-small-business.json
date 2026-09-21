@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is local SEO important for my small business?",
+  "description": "Local SEO is crucial for small businesses to attract nearby customers, drive foot traffic, and increase local sales.",
+  "url": "aiovisibility.com/faq/why-is-local-seo-important-for-my-small-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is local SEO important for my small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local SEO is crucial for small businesses because a significant percentage of online searches have local intent. Customers often look for nearby services or products, and local SEO ensures your business is discoverable at that critical moment. It helps you compete with larger businesses, drives foot traffic, increases phone calls, and ultimately leads to more local sales and conversions by connecting you directly with your target audience.",
+        "description": "Local SEO is crucial for small businesses to attract nearby customers, drive foot traffic, and increase local sales."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

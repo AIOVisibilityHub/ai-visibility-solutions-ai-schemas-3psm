@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is an AI SEO website audit?",
+  "description": "An AI SEO website audit analyzes your site's performance and content for optimization with AI search engines and algorithms.",
+  "url": "aiovisibility.com/faq/what-is-an-ai-seo-website-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an AI SEO website audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI SEO website audit is a comprehensive analysis of your website's performance and content, specifically tailored to how AI search engines and algorithms interpret and rank your site. It evaluates technical SEO, content relevance, user experience, and data structure to ensure your site is optimized for AI-driven search, focusing on semantic understanding and user intent. This process identifies areas for improvement to enhance your visibility in modern search results.",
+        "description": "An AI SEO website audit analyzes your site's performance and content for optimization with AI search engines and algorithms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

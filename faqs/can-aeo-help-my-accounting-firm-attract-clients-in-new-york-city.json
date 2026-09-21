@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AEO help my accounting firm attract clients in New York City?",
+  "description": "Yes, AEO helps attract NYC clients by optimizing content to answer local-specific accounting questions, ensuring your firm appears prominently in local AI and v",
+  "url": "aiovisibility.com/faq/can-aeo-help-my-accounting-firm-attract-clients-in-new-york-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AEO help my accounting firm attract clients in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AEO can significantly help your accounting firm attract clients in New York City. By optimizing your content to directly answer local-specific accounting questions, such as 'best tax accountant in NYC' or 'bookkeeping services for small businesses in Manhattan,' your firm can appear as a direct answer to local searches. This targeted approach ensures that when potential clients in New York City use AI search or voice assistants to find accounting services, your firm's relevant information is prominently displayed, driving local leads to your practice.",
+        "description": "Yes, AEO helps attract NYC clients by optimizing content to answer local-specific accounting questions, ensuring your firm appears prominently in local AI and voice searches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

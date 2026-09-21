@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does AEO service typically cost for a multi-location business?",
+  "description": "AEO costs for multi-location businesses vary based on location count, online presence complexity, industry competitiveness, and service scope, requiring a custo",
+  "url": "aiovisibility.com/faq/how-much-does-aeo-service-typically-cost-for-a-multi-location-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does AEO service typically cost for a multi-location business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services for a multi-location business can vary widely depending on factors like the number of locations, the complexity of your current online presence, the competitiveness of your industry, and the scope of services required. Packages often include initial audits, ongoing optimization of Google Business Profiles, citation management, review management, local content strategy, and performance reporting. Some providers offer tiered pricing based on the number of locations, while others customize proposals. It's advisable to request a detailed quote after an initial assessment of your specific needs, as a one-size-fits-all approach is rare for multi-location strategies.",
+        "description": "AEO costs for multi-location businesses vary based on location count, online presence complexity, industry competitiveness, and service scope, requiring a custom quote after assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I implement a GEO content strategy for my business in New York City?",
+  "description": "For NYC, optimize Google My Business, create borough-specific service pages, and develop content around local NYC events or landmarks. Ensure your website displ",
+  "url": "aiovisibility.com/faq/how-do-i-implement-a-geo-content-strategy-for-my-business-in-new-york-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I implement a GEO content strategy for my business in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To implement a GEO content strategy in New York City, start by optimizing your Google My Business profile with accurate city-specific information. Create dedicated service pages for each borough or neighborhood you serve, such as 'Digital Marketing in Brooklyn' or 'SEO Services in Manhattan'. Develop blog content around local NYC events, landmarks, or community issues. Ensure your website features your NYC address and phone number prominently. Build local citations from NYC-based directories and encourage customers to leave reviews that mention your location.",
+        "description": "For NYC, optimize Google My Business, create borough-specific service pages, and develop content around local NYC events or landmarks. Ensure your website displays your NYC details and gather local reviews."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

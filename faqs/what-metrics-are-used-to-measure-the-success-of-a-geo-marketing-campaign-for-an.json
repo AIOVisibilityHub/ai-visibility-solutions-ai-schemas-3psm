@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics are used to measure the success of a GEO marketing campaign for an insurance agency?",
+  "description": "Key metrics include local search ranking improvements, increased calls and website visits from local listings, Google My Business engagement, local organic traf",
+  "url": "aiovisibility.com/faq/what-metrics-are-used-to-measure-the-success-of-a-geo-marketing-campaign-for-an",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics are used to measure the success of a GEO marketing campaign for an insurance agency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Success in a GEO marketing campaign is measured through several key metrics. These include improvements in local search rankings for relevant keywords, increased direct calls and website visits from local listings, higher engagement with Google My Business profiles (e.g., map views, direction requests), and growth in local organic traffic. We also track the number of new leads and client conversions attributed to local search efforts. Monitoring online reviews and overall brand sentiment within target locales also provides valuable insights.",
+        "description": "Key metrics include local search ranking improvements, increased calls and website visits from local listings, Google My Business engagement, local organic traffic growth, and new lead/client conversions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

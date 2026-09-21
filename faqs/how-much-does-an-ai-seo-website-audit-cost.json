@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does an AI SEO website audit cost?",
+  "description": "The cost of an AI SEO website audit varies by site size, complexity, and analysis depth; custom quotes are provided after consultation.",
+  "url": "aiovisibility.com/faq/how-much-does-an-ai-seo-website-audit-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does an AI SEO website audit cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of an AI SEO website audit varies significantly based on factors such as the size and complexity of your website, the depth of analysis required, and the specific services included. Smaller websites with fewer pages might have a lower cost, while large enterprise sites requiring extensive data analysis and competitive benchmarking will incur higher fees. We provide custom quotes after an initial consultation to understand your needs.",
+        "description": "The cost of an AI SEO website audit varies by site size, complexity, and analysis depth; custom quotes are provided after consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a GEO website audit cost?",
+  "description": "The cost of a GEO website audit varies based on website complexity, target locations, and audit depth. Factors include site size, market competitiveness, and in",
+  "url": "aiovisibility.com/faq/how-much-does-a-geo-website-audit-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a GEO website audit cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a GEO website audit can vary significantly based on the complexity of your website, the number of geographic locations you target, and the depth of the analysis required. Factors influencing price include the size of your website, the competitiveness of your local market, and whether the audit includes competitor analysis or ongoing consultation. Some agencies offer tiered packages, while others provide custom quotes. It's best to discuss your specific needs with a digital marketing agency to receive an accurate estimate tailored to your business and its local SEO objectives.",
+        "description": "The cost of a GEO website audit varies based on website complexity, target locations, and audit depth. Factors include site size, market competitiveness, and included services, so a custom quote is often necessary."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

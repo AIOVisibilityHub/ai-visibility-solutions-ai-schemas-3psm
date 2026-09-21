@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI SEO expensive for small accounting practices?",
+  "description": "The cost of AI SEO varies; small practices can find affordable options, especially by focusing on local search and high-impact keywords.",
+  "url": "aiovisibility.com/faq/is-ai-seo-expensive-for-small-accounting-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI SEO expensive for small accounting practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AI SEO for small accounting practices can vary widely depending on the scope of services and the specific tools utilized. While some advanced AI platforms can have higher price points, many providers offer tiered packages or specialized services suitable for smaller budgets. The key is to find a solution that offers a strong return on investment by attracting high-quality leads. Consider starting with foundational AI SEO services that focus on local search optimization and high-impact keyword targeting to maximize budget efficiency.",
+        "description": "The cost of AI SEO varies; small practices can find affordable options, especially by focusing on local search and high-impact keywords."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

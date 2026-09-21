@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does an AI SEO website audit take?",
+  "description": "An AI SEO audit typically takes a few days for smaller sites, up to several weeks for large, complex websites.",
+  "url": "aiovisibility.com/faq/how-long-does-an-ai-seo-website-audit-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does an AI SEO website audit take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an AI SEO website audit can vary depending on the size and complexity of your website. For smaller sites, the initial AI analysis and report generation might take a few days to a week. For larger, more complex enterprise websites with extensive content, the process could extend to two to three weeks. This timeframe includes data collection, AI processing, human review of the AI's findings, and the compilation of a comprehensive, actionable strategy.",
+        "description": "An AI SEO audit typically takes a few days for smaller sites, up to several weeks for large, complex websites."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

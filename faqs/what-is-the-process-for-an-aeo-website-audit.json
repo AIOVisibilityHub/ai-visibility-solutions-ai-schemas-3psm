@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for an AEO Website Audit?",
+  "description": "The audit process involves analyzing existing content, schema, and competitor strategies. We then provide actionable recommendations for content restructuring a",
+  "url": "aiovisibility.com/faq/what-is-the-process-for-an-aeo-website-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for an AEO Website Audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our AEO Website Audit process begins with a comprehensive analysis of your current website content, focusing on existing question-and-answer formats, schema markup implementation, and content clarity. We identify missed opportunities for direct answers and featured snippets. Next, we analyze competitor strategies in the answer engine space. We then provide actionable recommendations for content restructuring, schema enhancement, and strategic keyword usage aimed at specific user questions. The final step involves a detailed report outlining findings, recommended changes, and a roadmap for improved AEO performance.",
+        "description": "The audit process involves analyzing existing content, schema, and competitor strategies. We then provide actionable recommendations for content restructuring and schema enhancement, culminating in a detailed report and roadmap for improved AEO performance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between a general SEO audit and a GEO website audit?",
+  "description": "A general SEO audit covers overall organic search, while a GEO website audit specifically focuses on factors influencing local search rankings and visibility wi",
+  "url": "aiovisibility.com/faq/what-s-the-difference-between-a-general-seo-audit-and-a-geo-website-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between a general SEO audit and a GEO website audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A general SEO audit focuses on overall website performance for organic search visibility, covering technical SEO, content quality, backlinks, and keyword rankings across a broad spectrum. A GEO website audit, while including some general SEO elements, specifically emphasizes factors that influence local search rankings and visibility within defined geographic areas. It deeply investigates local citations, Google My Business optimization, local keyword targeting, and local landing page effectiveness. The core distinction is the specialized focus on attracting customers from specific cities, towns, or neighborhoods, rather than a global or national audience.",
+        "description": "A general SEO audit covers overall organic search, while a GEO website audit specifically focuses on factors influencing local search rankings and visibility within defined geographic areas to attract local customers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

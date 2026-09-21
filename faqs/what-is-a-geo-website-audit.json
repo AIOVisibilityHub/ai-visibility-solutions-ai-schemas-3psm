@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a GEO website audit?",
+  "description": "A GEO website audit assesses a website's local search performance and identifies opportunities to improve visibility in specific geographic areas.",
+  "url": "aiovisibility.com/faq/what-is-a-geo-website-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a GEO website audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A GEO website audit evaluates a website's current performance and relevance for local search results. It identifies technical SEO issues, content gaps, and off-page factors that impact visibility in specific geographic areas. The audit includes analyzing local keywords, Google My Business profiles, local citations, and competitor strategies. The goal is to provide actionable recommendations to improve local rankings and attract geographically targeted customers.",
+        "description": "A GEO website audit assesses a website's local search performance and identifies opportunities to improve visibility in specific geographic areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does GEO for small businesses cost?",
+  "description": "The cost of GEO for small businesses varies based on service scope, industry competitiveness, and service area size; custom quotes are common.",
+  "url": "aiovisibility.com/faq/how-much-does-geo-for-small-businesses-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does GEO for small businesses cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of GEO services for small businesses varies widely based on the scope of work, the competitiveness of your industry, and the size of your service area. Factors influencing cost include Google Business Profile optimization, local citation building, on-page SEO, content creation, and review management. Many agencies offer tiered packages or custom quotes to fit different budgets and needs.",
+        "description": "The cost of GEO for small businesses varies based on service scope, industry competitiveness, and service area size; custom quotes are common."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

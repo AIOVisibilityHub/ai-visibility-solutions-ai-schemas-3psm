@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider an AI SEO website audit for my business?",
+  "description": "Consider an AI SEO audit if your rankings or traffic are declining, for new websites, or if you need deep, fast insights for complex sites.",
+  "url": "aiovisibility.com/faq/when-should-i-consider-an-ai-seo-website-audit-for-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider an AI SEO website audit for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider an AI SEO website audit if your website is experiencing a decline in search rankings, traffic, or conversions, despite ongoing SEO efforts. It's also beneficial for businesses launching a new website, redesigning an existing one, or entering new markets. If your site is large and complex, or if you need to quickly identify sophisticated optimization opportunities that manual audits might miss, AI can provide the necessary depth and speed to stay competitive.",
+        "description": "Consider an AI SEO audit if your rankings or traffic are declining, for new websites, or if you need deep, fast insights for complex sites."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

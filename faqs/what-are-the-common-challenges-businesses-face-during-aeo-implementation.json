@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common challenges businesses face during AEO implementation?",
+  "description": "Common AEO implementation challenges include lack of internal expertise, integrating new procedures, extensive documentation, staff buy-in, and resource managem",
+  "url": "aiovisibility.com/faq/what-are-the-common-challenges-businesses-face-during-aeo-implementation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common challenges businesses face during AEO implementation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Businesses often encounter several challenges during AEO implementation. These can include a lack of internal expertise to navigate complex customs regulations, difficulty in integrating new security and compliance procedures into existing operations, and the extensive documentation requirements. Securing buy-in from all levels of staff and ensuring consistent adherence to new protocols can also be an hurdle. Additionally, managing the time and resources required for the project while maintaining daily operations often proves challenging.",
+        "description": "Common AEO implementation challenges include lack of internal expertise, integrating new procedures, extensive documentation, staff buy-in, and resource management."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

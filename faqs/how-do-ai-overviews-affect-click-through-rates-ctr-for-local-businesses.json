@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do AI Overviews affect click-through rates (CTR) for local businesses?",
+  "description": "AI Overviews can reduce CTR if they fully answer queries, but they can also increase high-intent clicks and brand visibility, leading to better overall engageme",
+  "url": "aiovisibility.com/faq/how-do-ai-overviews-affect-click-through-rates-ctr-for-local-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do AI Overviews affect click-through rates (CTR) for local businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI Overviews can have a mixed impact on click-through rates (CTR) for local businesses. For some queries, if the AI Overview provides a complete answer, users might not click further, potentially reducing CTR to your website. However, if the overview sparks further interest or links directly to your business for more details or action, it can significantly increase high-intent clicks. Appearing in an AI Overview also boosts brand visibility and credibility, which can lead to higher CTR for subsequent searches or direct navigation to your site. The impact often depends on the completeness and nature of the AI-generated summary.",
+        "description": "AI Overviews can reduce CTR if they fully answer queries, but they can also increase high-intent clicks and brand visibility, leading to better overall engagement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

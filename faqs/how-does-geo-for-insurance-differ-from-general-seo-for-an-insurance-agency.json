@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does GEO for insurance differ from general SEO for an insurance agency?",
+  "description": "GEO for insurance focuses on local search intent and geographic targeting (e.g., Google My Business, local citations), while general SEO targets broader keyword",
+  "url": "aiovisibility.com/faq/how-does-geo-for-insurance-differ-from-general-seo-for-an-insurance-agency",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does GEO for insurance differ from general SEO for an insurance agency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While general SEO aims to improve overall website visibility across a broad spectrum of keywords, GEO for insurance specifically targets local search intent. General SEO might focus on national or broad industry terms, whereas GEO strategies concentrate on phrases like 'car insurance in Phoenix' or 'home insurance agents near me.' GEO emphasizes optimizing local profiles (like Google My Business), managing local reviews, and building local citations to capture clients within defined geographic boundaries. Both are important, but GEO provides a hyper-local focus for community-based agencies.",
+        "description": "GEO for insurance focuses on local search intent and geographic targeting (e.g., Google My Business, local citations), while general SEO targets broader keywords for overall website visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

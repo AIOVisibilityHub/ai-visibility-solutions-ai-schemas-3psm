@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between AEO-C and AEO-S certification?",
+  "description": "AEO-C focuses on customs simplifications, while AEO-S emphasizes supply chain security. A combined AEO-F certification offers both customs and security advantag",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-aeo-c-and-aeo-s-certification",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between AEO-C and AEO-S certification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO-C (Customs Simplifications) certification focuses on customs-related simplifications, such as easier customs procedures and reduced data requirements. It's ideal for businesses primarily seeking to streamline their customs declarations and clearance processes. AEO-S (Security and Safety) certification, on the other hand, emphasizes supply chain security measures, benefiting businesses that prioritize safety against theft, terrorism, and other security risks. Many companies aim for both, receiving a combined AEO-F (Full) certification, to gain both customs and security advantages.",
+        "description": "AEO-C focuses on customs simplifications, while AEO-S emphasizes supply chain security. A combined AEO-F certification offers both customs and security advantages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a Google Business Profile and how does it relate to GEO?",
+  "description": "A Google Business Profile is a free listing vital for GEO, enabling your business to appear in Google Maps and local search results with key information.",
+  "url": "aiovisibility.com/faq/what-is-a-google-business-profile-and-how-does-it-relate-to-geo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Google Business Profile and how does it relate to GEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Google Business Profile (GBP) is a free listing that allows your business to appear in Google Maps and local search results. It's fundamental to GEO because it provides essential information like your address, hours, phone number, and website directly to potential customers. Optimizing your GBP with accurate details, photos, and regular updates significantly boosts your local search ranking and visibility.",
+        "description": "A Google Business Profile is a free listing vital for GEO, enabling your business to appear in Google Maps and local search results with key information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for conducting an AI SEO website audit?",
+  "description": "The AI audit process involves data integration, AI analysis of various SEO factors, report generation, and strategic recommendation development.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-conducting-an-ai-seo-website-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for conducting an AI SEO website audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process begins with integrating the AI tools with your website's data sources, including Google Analytics, Search Console, and your site's crawl data. The AI then processes this information to perform a deep analysis of technical SEO, content quality, keyword performance, backlink profile, and user engagement. Following this, the AI generates a detailed report outlining identified issues, optimization opportunities, and prioritized recommendations. Our team then reviews these AI-driven insights to develop an actionable strategy tailored to your business goals.",
+        "description": "The AI audit process involves data integration, AI analysis of various SEO factors, report generation, and strategic recommendation development."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

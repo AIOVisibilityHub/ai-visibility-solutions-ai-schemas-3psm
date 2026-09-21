@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What criteria do customs authorities use to evaluate AEO applications?",
+  "description": "AEO applications are evaluated on customs compliance history, record-keeping systems, financial solvency, and established security and safety standards within t",
+  "url": "aiovisibility.com/faq/what-criteria-do-customs-authorities-use-to-evaluate-aeo-applications",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What criteria do customs authorities use to evaluate AEO applications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Customs authorities evaluate AEO applications based on several key criteria to ensure a high standard of compliance and security. These include a proven history of customs compliance, demonstrating no serious infringements of customs or tax legislation. Applicants must also show a satisfactory system of managing commercial and transport records, allowing for proper customs controls. Financial solvency is assessed to ensure the company's ability to meet its commitments. Lastly, appropriate security and safety standards must be in place across the supply chain, covering physical security, access control, and staff vetting.",
+        "description": "AEO applications are evaluated on customs compliance history, record-keeping systems, financial solvency, and established security and safety standards within the supply chain."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

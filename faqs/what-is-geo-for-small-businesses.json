@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is GEO for small businesses?",
+  "description": "GEO, or Geographic SEO, optimizes your online presence to attract local customers by appearing in local search results.",
+  "url": "aiovisibility.com/faq/what-is-geo-for-small-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GEO for small businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO, or Geographic SEO, focuses on optimizing your online presence to attract local customers. For small businesses, this means appearing prominently in local search results when people in your service area search for products or services you offer. It involves optimizing your Google Business Profile, local citations, and website content with location-specific keywords to ensure your business is visible to your immediate community.",
+        "description": "GEO, or Geographic SEO, optimizes your online presence to attract local customers by appearing in local search results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

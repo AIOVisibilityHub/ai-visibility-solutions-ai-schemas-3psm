@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does the AEO implementation process typically take?",
+  "description": "AEO implementation typically takes 6 to 18 months, depending on business size and complexity, including assessment, procedure development, training, and customs",
+  "url": "aiovisibility.com/faq/how-long-does-the-aeo-implementation-process-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the AEO implementation process typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of the AEO implementation process can vary significantly depending on the size and complexity of your business, existing compliance infrastructure, and the resources dedicated to the project. Typically, it can range from 6 to 18 months, encompassing initial assessment, gap analysis, development and implementation of new procedures, staff training, and the application and audit phase by customs authorities. Thorough preparation and a structured approach can help streamline the timeline.",
+        "description": "AEO implementation typically takes 6 to 18 months, depending on business size and complexity, including assessment, procedure development, training, and customs audit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

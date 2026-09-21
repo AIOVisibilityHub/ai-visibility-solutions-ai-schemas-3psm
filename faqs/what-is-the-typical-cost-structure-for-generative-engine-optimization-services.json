@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost structure for Generative Engine Optimization services?",
+  "description": "GEO costs vary based on scope, firm size, and digital footprint, typically using retainer or project-based fees after an initial needs assessment.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-structure-for-generative-engine-optimization-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost structure for Generative Engine Optimization services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost structure for GEO services can vary widely based on the scope of work, the size of your firm, and your current digital footprint. Services are typically offered on a retainer basis, project-based fees, or a combination. Factors influencing cost include the depth of content creation, technical SEO requirements, ongoing monitoring, and strategic consulting. A detailed proposal is usually provided after an initial assessment of your specific needs and goals.",
+        "description": "GEO costs vary based on scope, firm size, and digital footprint, typically using retainer or project-based fees after an initial needs assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

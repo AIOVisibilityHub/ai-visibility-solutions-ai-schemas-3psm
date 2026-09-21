@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common mistakes insurance agents make with AEO?",
+  "description": "Common AEO mistakes include poor keyword research, vague content, lack of proper structure, using jargon, not updating, and neglecting schema markup or user int",
+  "url": "aiovisibility.com/faq/what-are-the-common-mistakes-insurance-agents-make-with-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common mistakes insurance agents make with AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common AEO mistakes for insurance agents include failing to conduct thorough keyword research to identify real customer questions, creating content that is too broad or not directly answering questions, and neglecting to structure content for search engine extractability. Other errors involve using jargon without explanation, not updating content regularly, or overlooking the importance of schema markup to help search engines understand the content's context. A lack of focus on user intent also hinders success.",
+        "description": "Common AEO mistakes include poor keyword research, vague content, lack of proper structure, using jargon, not updating, and neglecting schema markup or user intent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

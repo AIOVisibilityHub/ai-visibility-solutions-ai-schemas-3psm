@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of Generative Engine Optimization for a small business in Chicago?",
+  "description": "GEO boosts local search visibility for Chicago businesses, attracting more qualified leads and increasing foot traffic by optimizing for precise local queries.",
+  "url": "aiovisibility.com/faq/what-are-the-benefits-of-generative-engine-optimization-for-a-small-business-in",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of Generative Engine Optimization for a small business in Chicago?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a small business in Chicago, Generative Engine Optimization offers several key benefits. It can significantly increase local search visibility, making it easier for nearby customers to find your services. By generating highly specific and relevant content, GEO improves your chances of appearing in local pack results and voice search queries like 'best pizza near me.' This leads to more qualified leads, increased foot traffic, and ultimately, higher revenue. It also helps your business adapt quickly to changes in search behavior and AI understanding, providing a competitive edge in a crowded market.",
+        "description": "GEO boosts local search visibility for Chicago businesses, attracting more qualified leads and increasing foot traffic by optimizing for precise local queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

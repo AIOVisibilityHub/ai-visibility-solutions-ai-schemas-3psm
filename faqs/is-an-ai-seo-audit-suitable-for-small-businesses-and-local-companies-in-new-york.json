@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is an AI SEO audit suitable for small businesses and local companies in New York City?",
+  "description": "Yes, AI SEO audits benefit small and local businesses, like those in New York City, by providing sophisticated insights and refining local SEO strategies.",
+  "url": "aiovisibility.com/faq/is-an-ai-seo-audit-suitable-for-small-businesses-and-local-companies-in-new-york",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is an AI SEO audit suitable for small businesses and local companies in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, an AI SEO audit is highly suitable for small businesses and local companies, including those in New York City. While large enterprises benefit from its scalability, AI also provides small businesses with sophisticated insights typically accessible only with extensive manual effort. For local companies, AI can refine local SEO strategies by analyzing local search patterns and competitive landscapes, helping them rank higher in specific geographic areas like New York City and connect with local customers more effectively.",
+        "description": "Yes, AI SEO audits benefit small and local businesses, like those in New York City, by providing sophisticated insights and refining local SEO strategies."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

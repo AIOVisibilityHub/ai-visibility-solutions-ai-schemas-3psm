@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics are used to measure AEO success for CPA firms?",
+  "description": "AEO success for CPAs is measured by appearances as direct answers, brand mentions in AI summaries, improved visibility for specific queries, and lead generation",
+  "url": "aiovisibility.com/faq/what-metrics-are-used-to-measure-aeo-success-for-cpa-firms",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics are used to measure AEO success for CPA firms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Measuring AEO success for CPA firms involves tracking metrics that indicate how well your content is being used by answer engines. Key metrics include the number of times your content appears as a direct answer or in featured snippets, increased brand mentions in AI-generated summaries, and improved visibility for specific, high-value queries. While direct traffic changes are also important, AEO specifically focuses on establishing authority and being the source of truth for AI. We also look at engagement with specific question-and-answer formatted content, and ultimately, lead generation attributed to direct answer visibility.",
+        "description": "AEO success for CPAs is measured by appearances as direct answers, brand mentions in AI summaries, improved visibility for specific queries, and lead generation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

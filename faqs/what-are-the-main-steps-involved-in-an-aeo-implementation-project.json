@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main steps involved in an AEO implementation project?",
+  "description": "AEO implementation involves pre-assessment, developing compliant policies and procedures, staff training, establishing internal audits, and submitting an applic",
+  "url": "aiovisibility.com/faq/what-are-the-main-steps-involved-in-an-aeo-implementation-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main steps involved in an AEO implementation project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AEO implementation project typically begins with a thorough pre-assessment or gap analysis to identify areas needing improvement against AEO criteria. This is followed by developing and documenting new or revised policies, procedures, and internal controls to meet compliance requirements, often covering security, financial solvency, and customs record-keeping. Key steps include staff training, establishing internal audit mechanisms, and preparing the formal application. The final stage involves submitting the application and undergoing an audit by customs authorities.",
+        "description": "AEO implementation involves pre-assessment, developing compliant policies and procedures, staff training, establishing internal audits, and submitting an application for customs audit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

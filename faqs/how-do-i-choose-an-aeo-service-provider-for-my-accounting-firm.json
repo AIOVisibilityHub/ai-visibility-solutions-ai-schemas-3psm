@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose an AEO service provider for my accounting firm?",
+  "description": "Select an AEO provider by checking their experience, industry understanding, case studies, and transparent reporting. They should explain strategy clearly and f",
+  "url": "aiovisibility.com/faq/how-do-i-choose-an-aeo-service-provider-for-my-accounting-firm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose an AEO service provider for my accounting firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing an AEO service provider for your accounting firm involves evaluating their experience, understanding of the accounting industry, and their track record. Look for providers who demonstrate a deep understanding of AI search technologies and how to structure content for direct answers. Request case studies or examples of their work with similar businesses. A good provider will conduct a thorough initial assessment, clearly explain their strategy, and offer transparent reporting. Prioritize those who focus on measurable results and have communication practices that align with your firm's needs.",
+        "description": "Select an AEO provider by checking their experience, industry understanding, case studies, and transparent reporting. They should explain strategy clearly and focus on measurable results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

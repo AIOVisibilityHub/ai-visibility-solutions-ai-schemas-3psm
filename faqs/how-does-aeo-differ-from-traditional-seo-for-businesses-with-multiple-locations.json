@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO differ from traditional SEO for businesses with multiple locations?",
+  "description": "AEO optimizes for AI search and voice assistant answers, focusing on consistent local data across platforms, unlike traditional SEO which primarily targets webs",
+  "url": "aiovisibility.com/faq/how-does-aeo-differ-from-traditional-seo-for-businesses-with-multiple-locations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO differ from traditional SEO for businesses with multiple locations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While traditional SEO focuses on ranking websites in organic search results, AEO specifically targets how AI search engines and voice assistants comprehend and present information. For multi-location businesses, this means optimizing not just your website, but also your Google Business Profile, local directories, and review platforms for accurate and consistent data across all branches. AEO emphasizes structured data and natural language understanding to directly answer user queries, whereas traditional SEO often aims to drive traffic to your site for users to find answers themselves. AEO is about being the direct answer, not just a link.",
+        "description": "AEO optimizes for AI search and voice assistant answers, focusing on consistent local data across platforms, unlike traditional SEO which primarily targets website rankings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

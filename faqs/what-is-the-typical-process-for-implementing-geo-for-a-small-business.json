@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for implementing GEO for a small business?",
+  "description": "The GEO process includes auditing, optimizing your Google Business Profile and online directories, on-page website optimization, and managing local citations an",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-implementing-geo-for-a-small-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for implementing GEO for a small business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implementing GEO typically starts with an audit of your current online presence and local search performance. Next, we optimize your Google Business Profile and ensure consistent business information across all online directories. This is followed by on-page website optimization using local keywords and creating location-specific content. Building local citations and managing online reviews are also key ongoing steps to enhance local search authority.",
+        "description": "The GEO process includes auditing, optimizing your Google Business Profile and online directories, on-page website optimization, and managing local citations and reviews."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

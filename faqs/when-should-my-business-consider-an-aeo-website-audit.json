@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should my business consider an AEO Website Audit?",
+  "description": "Consider an AEO audit if organic traffic is declining, you're not appearing in featured snippets, or if your content strategy needs to adapt to modern search be",
+  "url": "aiovisibility.com/faq/when-should-my-business-consider-an-aeo-website-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should my business consider an AEO Website Audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your business should consider an AEO Website Audit if you notice declining organic traffic despite good keyword rankings, or if you're struggling to appear in featured snippets or voice search results. It's particularly beneficial for businesses that provide informational content, frequently asked questions, or have services that directly address common user problems. An audit is also advisable when refreshing your content strategy, launching new services, or if your competitors are successfully capturing direct answer space in search results. It helps ensure your content is positioned for modern search behaviors.",
+        "description": "Consider an AEO audit if organic traffic is declining, you're not appearing in featured snippets, or if your content strategy needs to adapt to modern search behaviors and voice search. It's ideal for businesses with informational content or services addressing common user problems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

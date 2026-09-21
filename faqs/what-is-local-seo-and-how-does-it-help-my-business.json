@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is local SEO and how does it help my business?",
+  "description": "Local SEO optimizes your online presence to attract nearby customers by appearing in local search results and maps.",
+  "url": "aiovisibility.com/faq/what-is-local-seo-and-how-does-it-help-my-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is local SEO and how does it help my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local SEO (Search Engine Optimization) focuses on optimizing your online presence to attract more local customers. This involves optimizing your Google Business Profile, building local citations, and ensuring your website content is relevant to local searches. When customers in your area search for products or services you offer, effective local SEO helps your business appear prominently in local search results and maps, driving foot traffic and inquiries to your business. It's crucial for businesses that serve a specific geographic area.",
+        "description": "Local SEO optimizes your online presence to attract nearby customers by appearing in local search results and maps."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

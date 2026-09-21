@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you identify target questions for AEO content?",
+  "description": "Target questions are identified by analyzing 'People Also Ask' sections, using keyword research tools for question-based queries, and reviewing customer support",
+  "url": "aiovisibility.com/faq/how-do-you-identify-target-questions-for-aeo-content",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you identify target questions for AEO content?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Identifying target questions for AEO content involves a combination of research methods. Start by analyzing 'People Also Ask' sections on Google for relevant topics, as these directly reflect common user questions. Utilize keyword research tools to find question-based keywords and long-tail queries. Review customer support inquiries, forums, and social media discussions to understand what problems or questions your audience frequently has. Competitor analysis can also reveal questions they are successfully answering. The goal is to uncover the specific informational needs of your target users.",
+        "description": "Target questions are identified by analyzing 'People Also Ask' sections, using keyword research tools for question-based queries, and reviewing customer support data."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

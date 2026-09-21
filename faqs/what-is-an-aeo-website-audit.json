@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is an AEO website audit?",
+  "description": "An AEO website audit assesses your site's readiness and performance for AI-driven search engines and large language models, optimizing for AI visibility.",
+  "url": "aiovisibility.com/faq/what-is-an-aeo-website-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an AEO website audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AEO (AI Engine Optimization) website audit evaluates your digital presence for optimal visibility and performance within AI-driven search environments and large language models. This audit goes beyond traditional SEO by analyzing content structure, data relevance, entity recognition, and user intent alignment from an AI perspective. It identifies areas for improvement to ensure your website is effectively understood and ranked by sophisticated AI algorithms, improving discoverability and authority.",
+        "description": "An AEO website audit assesses your site's readiness and performance for AI-driven search engines and large language models, optimizing for AI visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

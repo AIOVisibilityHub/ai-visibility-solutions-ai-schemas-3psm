@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common pitfalls to avoid when doing AEO for an insurance agency?",
+  "description": "Avoid using jargon, neglecting structured data, focusing on broad keywords, creating thin content, and failing to regularly update content; prioritize direct an",
+  "url": "aiovisibility.com/faq/what-are-the-common-pitfalls-to-avoid-when-doing-aeo-for-an-insurance-agency",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common pitfalls to avoid when doing AEO for an insurance agency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common pitfalls in AEO for insurance agencies include creating content that isn't truly answering a question directly, using overly technical jargon instead of plain language, or neglecting structured data markup. Other issues arise from focusing only on broad keywords rather than specific user queries, failing to regularly update and audit content for accuracy, or ignoring the user experience on pages optimized for answers. Agencies should also avoid keyword stuffing or creating thin content solely for AEO, as search engines prioritize quality and relevance. A successful strategy requires genuine value provision and technical precision.",
+        "description": "Avoid using jargon, neglecting structured data, focusing on broad keywords, creating thin content, and failing to regularly update content; prioritize direct answers and user experience."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

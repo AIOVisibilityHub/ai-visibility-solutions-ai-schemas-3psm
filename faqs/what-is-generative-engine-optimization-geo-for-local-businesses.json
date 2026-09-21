@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Generative Engine Optimization (GEO) for local businesses?",
+  "description": "Generative Engine Optimization (GEO) uses AI to create and optimize local content for search engines, improving visibility for local businesses.",
+  "url": "aiovisibility.com/faq/what-is-generative-engine-optimization-geo-for-local-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Generative Engine Optimization (GEO) for local businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization (GEO) is an advanced strategy that leverages AI to create and optimize content for local search engines and platforms. Unlike traditional SEO, GEO focuses on generating highly relevant and context-aware content tailored to specific local queries and user intent. This includes dynamic content for local listings, business profiles, and responses to common local questions, aiming to improve visibility and engagement within a defined geographic area.",
+        "description": "Generative Engine Optimization (GEO) uses AI to create and optimize local content for search engines, improving visibility for local businesses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost structure for GEO services for an insurance agency?",
+  "description": "Costs for GEO services vary based on agency size, number of locations, market competitiveness, and service scope, typically including setup fees and/or ongoing",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-structure-for-geo-services-for-an-insurance-agency",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost structure for GEO services for an insurance agency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost structure for GEO services for an insurance agency can vary based on several factors, including the agency's size, the number of locations, the competitiveness of the target markets, and the scope of services required. Services can range from one-time setup fees for Google My Business optimization and local citation building to ongoing monthly retainers for continuous content creation, review management, and performance monitoring. Some providers may offer tiered packages or custom quotes based on specific agency needs and desired outcomes.",
+        "description": "Costs for GEO services vary based on agency size, number of locations, market competitiveness, and service scope, typically including setup fees and/or ongoing monthly retainers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

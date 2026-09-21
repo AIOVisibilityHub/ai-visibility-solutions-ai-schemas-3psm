@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do you need to conduct an AEO Website Audit?",
+  "description": "We need access to Google Analytics, Google Search Console, and information on your business goals and target audience. Access to your CMS or content inventory c",
+  "url": "aiovisibility.com/faq/what-information-do-you-need-to-conduct-an-aeo-website-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do you need to conduct an AEO Website Audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To conduct a thorough AEO Website Audit, we typically require access to your Google Analytics and Google Search Console accounts to analyze current performance, user behavior, and search queries. We also need an understanding of your business goals, target audience, and key products or services. Providing access to your current content management system (CMS) or content inventory can also be helpful for a deeper analysis. The more information you can provide regarding your current digital marketing efforts and specific challenges, the more tailored and effective our audit will be.",
+        "description": "We need access to Google Analytics, Google Search Console, and information on your business goals and target audience. Access to your CMS or content inventory can also be beneficial for a comprehensive AEO Website Audit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

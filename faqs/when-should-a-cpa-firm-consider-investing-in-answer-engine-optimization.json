@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should a CPA firm consider investing in Answer Engine Optimization?",
+  "description": "A CPA firm should invest in AEO when aiming for a competitive edge in AI-driven search, relying on online visibility, or seeking to be an authoritative source f",
+  "url": "aiovisibility.com/faq/when-should-a-cpa-firm-consider-investing-in-answer-engine-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should a CPA firm consider investing in Answer Engine Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A CPA firm should consider investing in Answer Engine Optimization when they recognize the shift towards AI-driven search and want to maintain or gain a competitive edge. This is especially true if current client acquisition heavily relies on online visibility, or if the firm has a deep well of expertise that isn't being fully leveraged by modern search technologies. If your firm aims to be perceived as an authoritative source for financial and tax information, or if you're looking to attract clients who use AI assistants for their preliminary research, then now is the opportune time to invest in AEO.",
+        "description": "A CPA firm should invest in AEO when aiming for a competitive edge in AI-driven search, relying on online visibility, or seeking to be an authoritative source for financial information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

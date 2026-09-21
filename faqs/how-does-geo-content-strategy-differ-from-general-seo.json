@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does GEO content strategy differ from general SEO?",
+  "description": "GEO content strategy focuses on local search rankings and attracting customers in specific geographic areas, while general SEO aims for broader online visibilit",
+  "url": "aiovisibility.com/faq/how-does-geo-content-strategy-differ-from-general-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does GEO content strategy differ from general SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While general SEO aims to improve a website's overall visibility across a broad audience, GEO content strategy specifically narrows that focus to local search results. General SEO might target national keywords, but GEO content strategy prioritizes terms like 'pizza near me' or 'plumber in [city name]'. It involves local SEO tactics such as Google My Business optimization, local citations, and geo-targeted content creation, whereas general SEO encompasses a wider range of technical and on-page optimization practices not always tied to a specific location.",
+        "description": "GEO content strategy focuses on local search rankings and attracting customers in specific geographic areas, while general SEO aims for broader online visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

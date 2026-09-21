@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for conducting a GEO website audit?",
+  "description": "A GEO website audit involves understanding goals, analyzing technical SEO, on-page content, GMB, and local citations, assessing competitors, and providing a rep",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-conducting-a-geo-website-audit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for conducting a GEO website audit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process typically begins with an initial consultation to understand your business goals and target geographic areas. Next, auditors analyze your current website's technical SEO, on-page content, and backlink profile through a local lens. Key local elements like Google My Business profile accuracy, local citation consistency across directories, and local keyword performance are thoroughly reviewed. Competitor local SEO strategies are also assessed. Finally, a comprehensive report is provided, outlining findings, actionable recommendations, and a prioritized strategy for improving your local search visibility and ranking.",
+        "description": "A GEO website audit involves understanding goals, analyzing technical SEO, on-page content, GMB, and local citations, assessing competitors, and providing a report with actionable recommendations for local search improvement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

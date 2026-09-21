@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is mobile-friendliness important for local businesses?",
+  "description": "Mobile-friendliness is crucial because most local searches happen on phones. It ensures a good user experience and prevents customers from going to competitors.",
+  "url": "aiovisibility.com/faq/why-is-mobile-friendliness-important-for-local-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is mobile-friendliness important for local businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mobile-friendliness is critical for local businesses because a significant portion of local searches are performed on mobile devices. Customers often search for nearby businesses while on the go. A mobile-friendly website ensures your content loads quickly and displays correctly on smartphones, providing a seamless user experience. If your site isn't mobile-optimized, users may become frustrated and seek out competitors, negatively impacting your local search rankings and potential customer engagement.",
+        "description": "Mobile-friendliness is crucial because most local searches happen on phones. It ensures a good user experience and prevents customers from going to competitors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

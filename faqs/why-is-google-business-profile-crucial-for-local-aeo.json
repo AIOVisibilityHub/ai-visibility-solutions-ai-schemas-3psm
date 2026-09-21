@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is Google Business Profile crucial for local AEO?",
+  "description": "Google Business Profile is vital for local AEO as it provides core business information for Google Maps, local search, and direct answers, capturing 'near me' q",
+  "url": "aiovisibility.com/faq/why-is-google-business-profile-crucial-for-local-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is Google Business Profile crucial for local AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google Business Profile (GBP) is crucial for local AEO because it is the primary source of information for Google's local search results, Google Maps, and many direct answer boxes. An optimized GBP ensures that essential business details like address, hours, phone number, website, and services are accurate and easily accessible to both users and answer engines. It also allows businesses to respond to reviews and post updates, further enhancing their presence. For AEO, GBP helps capture 'near me' searches and provides the core data that Google uses to generate quick answers about a local business.",
+        "description": "Google Business Profile is vital for local AEO as it provides core business information for Google Maps, local search, and direct answers, capturing 'near me' queries and building trust."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

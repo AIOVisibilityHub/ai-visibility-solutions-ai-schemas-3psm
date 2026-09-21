@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Answer Engine Optimization (AEO) for local businesses?",
+  "description": "AEO helps local businesses appear in conversational search results by providing direct answers to user queries, especially for voice search and 'near me' search",
+  "url": "aiovisibility.com/faq/what-is-answer-engine-optimization-aeo-for-local-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Answer Engine Optimization (AEO) for local businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer Engine Optimization (AEO) is a strategy focused on making a local business's information readily available and accurately presented in response to conversational search queries, especially on platforms like Google Assistant, Alexa, and Siri. Unlike traditional SEO, which focuses on website rankings, AEO aims for direct answers and featured snippets. For local businesses, this means optimizing their online presence to appear in 'near me' searches, provide immediate answers to specific questions about services, hours, or products, and guide potential customers to their physical location or contact information.",
+        "description": "AEO helps local businesses appear in conversational search results by providing direct answers to user queries, especially for voice search and 'near me' searches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

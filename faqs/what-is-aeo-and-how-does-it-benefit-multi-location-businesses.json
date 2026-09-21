@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AEO and how does it benefit multi-location businesses?",
+  "description": "AEO optimizes your business for AI search and voice, ensuring all your physical locations are visible and authoritative in local searches, driving foot traffic",
+  "url": "aiovisibility.com/faq/what-is-aeo-and-how-does-it-benefit-multi-location-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AEO and how does it benefit multi-location businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO, or Answer Engine Optimization, focuses on making your business discoverable and authoritative in AI-powered search engines and voice assistants. For multi-location businesses, AEO ensures each physical location appears accurately and consistently when customers search for products or services nearby. It optimizes for specific location-based queries, driving local foot traffic and online engagement. By establishing your brand as a trusted source of information across all locations, AEO enhances overall visibility and captures a larger share of local markets, directly impacting sales and customer acquisition.",
+        "description": "AEO optimizes your business for AI search and voice, ensuring all your physical locations are visible and authoritative in local searches, driving foot traffic and online engagement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

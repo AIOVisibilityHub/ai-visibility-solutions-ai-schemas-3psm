@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are AI Overviews and how do they impact local businesses?",
+  "description": "AI Overviews are AI-powered summaries in Google search results. They impact local businesses by influencing visibility and direct engagement through concise inf",
+  "url": "aiovisibility.com/faq/what-are-ai-overviews-and-how-do-they-impact-local-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are AI Overviews and how do they impact local businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI Overviews, formerly known as Search Generative Experience (SGE), are AI-powered summaries displayed at the top of Google search results. For local businesses, AI Overviews can significantly impact visibility by providing concise answers directly on the search results page. Optimizing for these overviews involves ensuring your business information is accurate, up-to-date, and aligns with search intent, as Google's AI pulls data from various sources to generate these summaries. Appearing in an AI Overview can drive direct engagement and traffic to your business by establishing authority and providing immediate value to searchers.",
+        "description": "AI Overviews are AI-powered summaries in Google search results. They impact local businesses by influencing visibility and direct engagement through concise information display."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
