@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-07-25T18:36:38.906Z",
+  "generatedAt": "2026-09-21T22:51:29.653Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -11,19 +11,20 @@
   "notALinkWheel": true,
   "entity": {
     "name": "AI Visibility Solutions",
-    "canonicalUrl": "aiovisibility.com",
-    "aiDataHub": "https://AIOVisibilityHub.github.io/ai-visibility-solutions-ai-schemas-3psm/ai-data.html"
+    "canonicalUrl": "https://data.aiovisibility.com",
+    "primaryWebsiteUrl": "aiovisibility.com",
+    "aiDataHub": "https://data.aiovisibility.com/ai-data.html"
   },
   "related": [
     {
       "role": "canonical",
       "label": "AI Visibility Solutions — canonical website",
-      "url": "aiovisibility.com"
+      "url": "https://data.aiovisibility.com"
     },
     {
       "role": "ai-data-hub",
       "label": "AI Visibility Solutions — AI Data Hub",
-      "url": "https://AIOVisibilityHub.github.io/ai-visibility-solutions-ai-schemas-3psm/ai-data.html"
+      "url": "https://data.aiovisibility.com/ai-data.html"
     },
     {
       "role": "mirror-repo",

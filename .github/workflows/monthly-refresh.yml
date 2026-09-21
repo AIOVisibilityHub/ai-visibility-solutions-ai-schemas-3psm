@@ -22,7 +22,18 @@ jobs:
           git config user.email 'noreply@schema.publisher'
           git add -A
           git diff --staged --quiet || (git commit -m '📅 Monthly refresh - AI Visibility Solutions' && git push)
-      - name: Ping Google & Bing
+      - name: Ping IndexNow (Bing, Copilot, Yandex, AI crawlers)
         run: |
-          curl -s "https://www.google.com/ping?sitemap=https://AIOVisibilityHub.github.io/ai-visibility-solutions-ai-schemas-3psm/ai-sitemap.xml" || true
-          curl -s "https://www.bing.com/ping?sitemap=https://AIOVisibilityHub.github.io/ai-visibility-solutions-ai-schemas-3psm/ai-sitemap.xml" || true
+          SITE="https://data.aiovisibility.com"
+          KEY="ad245c4008b18bcedaf6665625e2402c"
+          HOST=$(echo "$SITE" | sed -E 's#https?://##; s#/.*##')
+          if [ -f ai-sitemap.xml ]; then
+            URLS=$(grep -o '<loc>[^<]*</loc>' ai-sitemap.xml | sed 's#</\?loc>##g' | grep "^$SITE" | head -9000 | jq -R . | jq -sc .)
+          else
+            URLS="[\"$SITE/\"]"
+          fi
+          if [ "$URLS" != "[]" ]; then
+            curl -s -X POST "https://api.indexnow.org/indexnow" \
+              -H "Content-Type: application/json" \
+              -d "{\"host\":\"$HOST\",\"key\":\"$KEY\",\"keyLocation\":\"$SITE/$KEY.txt\",\"urlList\":$URLS}" || true
+          fi
