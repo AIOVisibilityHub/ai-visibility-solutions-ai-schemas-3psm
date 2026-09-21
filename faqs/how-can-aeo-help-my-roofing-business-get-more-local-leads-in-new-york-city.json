@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can AEO help my roofing business get more local leads in New York City?",
+  "description": "AEO helps roofing businesses in New York City get local leads by optimizing content for location-specific queries, appearing in 'near me' searches, and local ma",
+  "url": "aiovisibility.com/faq/how-can-aeo-help-my-roofing-business-get-more-local-leads-in-new-york-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can AEO help my roofing business get more local leads in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For roofing businesses in New York City, AEO can significantly boost local leads by optimizing content for location-specific queries. This means creating content that answers questions like 'Best roofing contractors in NYC for flat roofs?' or 'Cost of roof replacement in Brooklyn?' By clearly stating your service areas and optimizing for local keywords, your business is more likely to appear in 'near me' searches, local map packs, and voice search results when residents in New York City seek roofing services. This direct visibility helps potential clients find and contact you quickly.",
+        "description": "AEO helps roofing businesses in New York City get local leads by optimizing content for location-specific queries, appearing in 'near me' searches, and local map results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

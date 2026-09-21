@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What data is required from my dealership to implement a GEO strategy?",
+  "description": "Implementing GEO requires your dealership's inventory feed, service offerings, location details, unique selling propositions, target demographics, and competiti",
+  "url": "aiovisibility.com/faq/what-data-is-required-from-my-dealership-to-implement-a-geo-strategy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What data is required from my dealership to implement a GEO strategy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To implement an effective GEO strategy, your dealership typically needs to provide data such as your inventory feed (make, model, year, trim, features, pricing), service offerings, location details (address, hours, service areas), and any unique selling propositions. Information on target demographics, past marketing performance, and competitive insights also helps refine the AI's content generation. This data enables the AI to produce accurate, compelling, and highly relevant content.",
+        "description": "Implementing GEO requires your dealership's inventory feed, service offerings, location details, unique selling propositions, target demographics, and competitive insights."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

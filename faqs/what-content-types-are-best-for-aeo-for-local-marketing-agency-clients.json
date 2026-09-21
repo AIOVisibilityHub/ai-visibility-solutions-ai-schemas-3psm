@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What content types are best for AEO for local marketing agency clients?",
+  "description": "FAQ pages, 'how-to' guides, question-based blog posts, and optimized service/about pages are best for AEO, as they provide clear, concise answers to common quer",
+  "url": "aiovisibility.com/faq/what-content-types-are-best-for-aeo-for-local-marketing-agency-clients",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What content types are best for AEO for local marketing agency clients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For AEO, content types that directly answer questions are most effective. This includes dedicated FAQ pages that address common customer queries, detailed 'how-to' guides related to local services, and blog posts structured around specific questions. Service pages should be optimized to clearly define what's offered and answer potential customer concerns. 'About Us' pages can also be optimized to answer questions about the business's history, values, and team. Ensuring content is well-organized, uses clear headings, and provides concise answers helps search engines extract the necessary information for direct responses.",
+        "description": "FAQ pages, 'how-to' guides, question-based blog posts, and optimized service/about pages are best for AEO, as they provide clear, concise answers to common queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

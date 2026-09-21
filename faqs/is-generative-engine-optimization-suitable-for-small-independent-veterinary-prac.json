@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is generative engine optimization suitable for small, independent veterinary practices?",
+  "description": "Yes, GEO is suitable for small practices, helping them create optimized content efficiently and compete with larger clinics by improving local search visibility",
+  "url": "aiovisibility.com/faq/is-generative-engine-optimization-suitable-for-small-independent-veterinary-prac",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is generative engine optimization suitable for small, independent veterinary practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, generative engine optimization is highly suitable for small, independent veterinary practices. It levels the playing field by allowing smaller clinics to create professional, optimized content efficiently without needing extensive in-house marketing teams. GEO can help these practices compete with larger chains by improving their local search visibility and establishing them as authoritative sources in their communities. This focused approach ensures their services reach local pet owners actively searching for care.",
+        "description": "Yes, GEO is suitable for small practices, helping them create optimized content efficiently and compete with larger clinics by improving local search visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

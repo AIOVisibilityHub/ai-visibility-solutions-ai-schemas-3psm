@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does GEO differ from traditional SEO for an automotive dealership?",
+  "description": "GEO differs from traditional SEO by actively generating new, unique, and often localized content at scale using AI, rather than just optimizing existing content",
+  "url": "aiovisibility.com/faq/how-does-geo-differ-from-traditional-seo-for-an-automotive-dealership",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does GEO differ from traditional SEO for an automotive dealership?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While traditional SEO focuses on optimizing existing content and technical aspects, GEO actively generates new, unique content at scale. Traditional SEO might optimize a single vehicle page, whereas GEO can create hundreds of unique, localized vehicle descriptions or blog posts. GEO leverages AI to understand search patterns and buyer intent, then crafts content that directly addresses those specific needs, offering a more dynamic and personalized approach to digital visibility.",
+        "description": "GEO differs from traditional SEO by actively generating new, unique, and often localized content at scale using AI, rather than just optimizing existing content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often should a roofing website be updated or optimized?",
+  "description": "A roofing website should be regularly updated and optimized: content quarterly, technical audits every 6-12 months, and local listings/reviews continuously, to",
+  "url": "aiovisibility.com/faq/how-often-should-a-roofing-website-be-updated-or-optimized",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should a roofing website be updated or optimized?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A roofing website should be regularly updated and optimized, as online trends and search engine algorithms constantly evolve. Content, including service pages and blog posts, should be reviewed and refreshed at least quarterly to ensure accuracy and relevance. Technical SEO audits should ideally be conducted every 6-12 months to identify and fix issues that could hinder performance. Local business listings and customer reviews require ongoing management. Consistent updates and optimizations ensure your website remains competitive, visible, and effective in generating leads over time.",
+        "description": "A roofing website should be regularly updated and optimized: content quarterly, technical audits every 6-12 months, and local listings/reviews continuously, to maintain competitiveness."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

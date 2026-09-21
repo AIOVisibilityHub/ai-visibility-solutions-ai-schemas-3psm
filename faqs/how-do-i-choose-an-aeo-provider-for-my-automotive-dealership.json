@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose an AEO provider for my automotive dealership?",
+  "description": "Choose an AEO provider with automotive industry experience, proven results, transparent methodology for content and GBP optimization, and clear reporting on rel",
+  "url": "aiovisibility.com/faq/how-do-i-choose-an-aeo-provider-for-my-automotive-dealership",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose an AEO provider for my automotive dealership?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting an AEO provider, look for agencies with proven experience specifically in the automotive industry and a strong understanding of dealership operations. Evaluate their case studies and client testimonials to see tangible results. Inquire about their methodology for keyword research, content optimization, Google Business Profile management, and schema markup implementation. A good provider should offer transparent reporting on key metrics like featured snippet impressions, voice search rankings, and qualified leads. Ensure they offer customized strategies rather than a one-size-fits-all approach and clearly communicate their fees and what's included in their service.",
+        "description": "Choose an AEO provider with automotive industry experience, proven results, transparent methodology for content and GBP optimization, and clear reporting on relevant metrics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

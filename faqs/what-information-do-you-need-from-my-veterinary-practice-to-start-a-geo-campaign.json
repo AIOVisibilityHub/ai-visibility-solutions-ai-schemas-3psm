@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do you need from my veterinary practice to start a GEO campaign?",
+  "description": "We need your services, target demographics, service area, website access, Google Business Profile access, and any specific marketing goals.",
+  "url": "aiovisibility.com/faq/what-information-do-you-need-from-my-veterinary-practice-to-start-a-geo-campaign",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do you need from my veterinary practice to start a GEO campaign?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To start a generative engine optimization campaign, we typically require basic information about your practice, including your services offered (e.g., preventative care, surgery, dentistry), your target patient demographics, and your service area. We also need access to your existing website and Google Business Profile. Any previous marketing efforts, unique selling propositions, or specific goals for growth (e.g., increasing new patient bookings for a particular service) are also valuable to tailor the GEO strategy effectively.",
+        "description": "We need your services, target demographics, service area, website access, Google Business Profile access, and any specific marketing goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

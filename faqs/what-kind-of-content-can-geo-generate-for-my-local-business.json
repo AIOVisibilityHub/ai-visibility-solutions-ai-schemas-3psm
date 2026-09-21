@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content can GEO generate for my local business?",
+  "description": "GEO can generate optimized descriptions for local listings, social media posts, blog articles, FAQs, and review responses, all tailored to your local audience.",
+  "url": "aiovisibility.com/faq/what-kind-of-content-can-geo-generate-for-my-local-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content can GEO generate for my local business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization can create a wide array of local content. This includes optimized descriptions for local business listings across various platforms, engaging posts for social media relevant to local events or offers, blog articles targeting specific local keywords, and even FAQs tailored to common customer inquiries in your area. It can also assist in crafting responses to reviews, ensuring consistent and relevant messaging that resonates with your local audience.",
+        "description": "GEO can generate optimized descriptions for local listings, social media posts, blog articles, FAQs, and review responses, all tailored to your local audience."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

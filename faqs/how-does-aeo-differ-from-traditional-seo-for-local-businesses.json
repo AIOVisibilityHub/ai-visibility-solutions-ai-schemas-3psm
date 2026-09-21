@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO differ from traditional SEO for local businesses?",
+  "description": "Traditional SEO focuses on website rankings, while AEO targets direct answers in search results and voice assistants. AEO provides immediate information without",
+  "url": "aiovisibility.com/faq/how-does-aeo-differ-from-traditional-seo-for-local-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO differ from traditional SEO for local businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While traditional SEO focuses on ranking websites highly for keywords, AEO targets the direct answers provided by search engines and voice assistants. SEO aims for visibility through organic search results, often requiring users to click through to a website. AEO seeks to provide the answer directly within the search interface or via voice, making information immediately accessible. For local businesses, this translates to being the direct answer when someone asks about 'best plumber near me' or 'hours for [business type] in New York City'. AEO complements SEO by ensuring answers are structured for instant retrieval.",
+        "description": "Traditional SEO focuses on website rankings, while AEO targets direct answers in search results and voice assistants. AEO provides immediate information without a click-through."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

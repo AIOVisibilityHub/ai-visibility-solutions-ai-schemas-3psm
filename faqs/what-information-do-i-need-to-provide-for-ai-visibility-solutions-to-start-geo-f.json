@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to provide for AI Visibility Solutions to start GEO for my practice?",
+  "description": "To start GEO, provide your practice's name, address, contact, services, target demographics, specializations, service areas, and access to website analytics and",
+  "url": "aiovisibility.com/faq/what-information-do-i-need-to-provide-for-ai-visibility-solutions-to-start-geo-f",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to provide for AI Visibility Solutions to start GEO for my practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To initiate Generative Engine Optimization for your chiropractic practice, we typically require foundational information such as your practice's name, physical address, and contact details. We'll also need details about your primary services (e.g., pain management, sports chiropractic), target patient demographics, any specific conditions you specialize in, and your geographic service areas. Access to your existing website analytics and Google Business Profile is also highly beneficial for a comprehensive AI-driven audit. This information allows us to tailor the GEO strategy to your unique practice and market effectively.",
+        "description": "To start GEO, provide your practice's name, address, contact, services, target demographics, specializations, service areas, and access to website analytics and Google Business Profile."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

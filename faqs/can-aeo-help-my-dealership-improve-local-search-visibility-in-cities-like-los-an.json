@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AEO help my dealership improve local search visibility in cities like Los Angeles or Chicago?",
+  "description": "Yes, AEO significantly boosts local search visibility in competitive cities by ensuring your dealership's accurate information appears directly in local search",
+  "url": "aiovisibility.com/faq/can-aeo-help-my-dealership-improve-local-search-visibility-in-cities-like-los-an",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AEO help my dealership improve local search visibility in cities like Los Angeles or Chicago?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. AEO is particularly impactful for local search, which is crucial for automotive dealerships. In competitive markets like Los Angeles or Chicago, optimizing for answer engines means your dealership can appear directly in local pack results, Google Maps searches, and voice queries when customers ask for 'car dealerships near me,' 'oil change cost [dealership name],' or 'used trucks New York City'. By providing clear, verified information about your location, services, inventory, and hours through your Google Business Profile and local landing pages, AEO ensures your dealership is the immediate, authoritative answer for local searchers, driving foot traffic and inquiries.",
+        "description": "Yes, AEO significantly boosts local search visibility in competitive cities by ensuring your dealership's accurate information appears directly in local search results and voice queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

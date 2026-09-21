@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is your process for implementing AI SEO for a new client?",
+  "description": "Our AI SEO process starts with an audit, followed by AI-driven keyword research, competitor analysis, and strategy development. We implement AI-driven content,",
+  "url": "aiovisibility.com/faq/what-is-your-process-for-implementing-ai-seo-for-a-new-client",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is your process for implementing AI SEO for a new client?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our implementation process for a new AI SEO client begins with a comprehensive audit of their current local online presence and target market. We then use AI tools to conduct in-depth local keyword research, competitor analysis, and identify opportunities for Google My Business optimization. Next, we develop a tailored strategy that includes AI-driven content generation, technical SEO adjustments, and local link building. Continuous monitoring and refinement using AI analytics ensure ongoing performance improvements and adaptation to market changes.",
+        "description": "Our AI SEO process starts with an audit, followed by AI-driven keyword research, competitor analysis, and strategy development. We implement AI-driven content, technical SEO, and continuously monitor for performance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

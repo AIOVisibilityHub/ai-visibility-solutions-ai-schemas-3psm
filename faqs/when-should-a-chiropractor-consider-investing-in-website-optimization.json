@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should a chiropractor consider investing in website optimization?",
+  "description": "Chiropractors should invest in website optimization when launching a new practice, seeing fewer new patients, struggling with search rankings, or expanding serv",
+  "url": "aiovisibility.com/faq/when-should-a-chiropractor-consider-investing-in-website-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should a chiropractor consider investing in website optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A chiropractor should consider investing in website optimization at various stages of their practice, but particularly when launching a new practice, seeing a decline in new patient inquiries, or struggling to rank competitively in local search results. It's also beneficial when expanding services or opening new locations. Proactively optimizing your website ensures you capture the attention of potential patients from the outset, rather than waiting for business to slow down. Essentially, if you want your practice to grow and be easily found online, optimization is a continuous need.",
+        "description": "Chiropractors should invest in website optimization when launching a new practice, seeing fewer new patients, struggling with search rankings, or expanding services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

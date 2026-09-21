@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should agencies track to measure AEO success for local clients?",
+  "description": "Track featured snippet appearances, direct answer visibility, organic traffic from informational queries, click-through rates, and conversions like calls or vis",
+  "url": "aiovisibility.com/faq/what-metrics-should-agencies-track-to-measure-aeo-success-for-local-clients",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should agencies track to measure AEO success for local clients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Agencies should track several key metrics to measure AEO success. These include the number of featured snippets achieved, direct answer appearances, and 'People Also Ask' box inclusions. Monitoring organic traffic from specific informational queries and measuring click-through rates (CTR) from featured snippets provides insight into engagement. Tracking calls, form submissions, and in-store visits that originate from AEO-optimized search terms are crucial for demonstrating business impact. Ranking for specific answer-focused keywords and improvements in voice search visibility also indicate progress.",
+        "description": "Track featured snippet appearances, direct answer visibility, organic traffic from informational queries, click-through rates, and conversions like calls or visits to measure AEO success."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

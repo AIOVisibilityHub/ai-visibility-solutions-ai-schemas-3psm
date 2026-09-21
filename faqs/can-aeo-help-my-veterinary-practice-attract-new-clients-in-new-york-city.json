@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AEO help my veterinary practice attract new clients in New York City?",
+  "description": "Yes, AEO helps attract new clients in New York City by optimizing content for local pet owner questions, increasing local visibility, and driving relevant traff",
+  "url": "aiovisibility.com/faq/can-aeo-help-my-veterinary-practice-attract-new-clients-in-new-york-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AEO help my veterinary practice attract new clients in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AEO can significantly help attract new clients in competitive markets like New York City. By optimizing your content to answer local pet owner questions directly, your practice can appear in featured snippets for queries such as 'best vet for dog allergies NYC' or 'emergency pet care near me New York City'. This increases your local visibility, establishes your practice as a trusted local resource, and drives relevant traffic to your website or direct calls, converting pet owners seeking specific local services into new clients.",
+        "description": "Yes, AEO helps attract new clients in New York City by optimizing content for local pet owner questions, increasing local visibility, and driving relevant traffic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

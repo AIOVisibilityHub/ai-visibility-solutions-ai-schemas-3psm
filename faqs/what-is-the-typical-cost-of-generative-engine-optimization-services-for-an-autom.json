@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of Generative Engine Optimization services for an automotive dealership?",
+  "description": "The cost of GEO services varies based on scope, dealership size, and market, often involving monthly retainers, performance fees, or project costs after assessm",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-of-generative-engine-optimization-services-for-an-autom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of Generative Engine Optimization services for an automotive dealership?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of Generative Engine Optimization services for an automotive dealership varies widely based on the scope of work, the size of the dealership, and the competitiveness of the local market. Pricing models can include monthly retainers, performance-based fees, or project-based costs. A customized quote is usually provided after an initial assessment of your dealership's specific needs and marketing goals to ensure the strategy aligns with your budget and desired outcomes.",
+        "description": "The cost of GEO services varies based on scope, dealership size, and market, often involving monthly retainers, performance fees, or project costs after assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

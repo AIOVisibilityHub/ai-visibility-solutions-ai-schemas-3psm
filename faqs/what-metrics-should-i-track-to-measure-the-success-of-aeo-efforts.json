@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should I track to measure the success of AEO efforts?",
+  "description": "Measure AEO success by tracking featured snippet impressions, Google Business Profile insights (searches, clicks, calls), local ranking, qualified website traff",
+  "url": "aiovisibility.com/faq/what-metrics-should-i-track-to-measure-the-success-of-aeo-efforts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should I track to measure the success of AEO efforts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure the success of your AEO efforts, several key metrics should be tracked. Monitor the number of impressions and clicks from featured snippets and direct answers in Google Search Console. Analyze your Google Business Profile insights for increases in direct searches, discovery searches, website clicks, and calls. Track voice search performance if data is available, and look for improvements in local ranking for specific question-based queries. Increases in qualified website traffic (if users click through) and, ultimately, new patient appointments directly attributed to organic search visibility will indicate successful AEO implementation. Engagement metrics like time on page for FAQ sections can also be insightful.",
+        "description": "Measure AEO success by tracking featured snippet impressions, Google Business Profile insights (searches, clicks, calls), local ranking, qualified website traffic, and new patient appointments."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

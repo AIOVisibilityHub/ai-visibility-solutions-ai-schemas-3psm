@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is generative engine optimization (GEO) for veterinarians?",
+  "description": "Generative Engine Optimization (GEO) for veterinarians uses AI to create and optimize online content, improving a practice's visibility for pet owner searches.",
+  "url": "aiovisibility.com/faq/what-is-generative-engine-optimization-geo-for-veterinarians",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is generative engine optimization (GEO) for veterinarians?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization (GEO) for veterinarians uses AI to enhance a practice's online visibility. It involves creating and optimizing content, such as website text, blog posts, and local business listings, in a way that aligns with search engine algorithms and the specific information pet owners are searching for. This approach focuses on understanding the nuances of veterinary services and pet owner queries to generate highly relevant and engaging online presence, ultimately driving more qualified traffic to your practice.",
+        "description": "Generative Engine Optimization (GEO) for veterinarians uses AI to create and optimize online content, improving a practice's visibility for pet owner searches."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

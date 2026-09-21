@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What reporting and analytics are provided with AI SEO services for chiropractors?",
+  "description": "AI SEO services provide comprehensive reports on website traffic, search rankings, conversions, and patient behavior, often monthly, to track progress.",
+  "url": "aiovisibility.com/faq/what-reporting-and-analytics-are-provided-with-ai-seo-services-for-chiropractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What reporting and analytics are provided with AI SEO services for chiropractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With AI SEO services, chiropractic practices typically receive comprehensive reporting and analytics that detail the performance of their online presence. These reports often include key metrics such as website traffic, search ranking improvements for targeted keywords, conversion rates (e.g., appointment bookings, form submissions), and patient inquiry sources. Advanced analytics powered by AI can also provide insights into patient behavior on your site, competitive analysis, and recommendations for future optimizations. Reports are usually delivered monthly, offering clear, actionable data to track progress and demonstrate ROI.",
+        "description": "AI SEO services provide comprehensive reports on website traffic, search rankings, conversions, and patient behavior, often monthly, to track progress."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

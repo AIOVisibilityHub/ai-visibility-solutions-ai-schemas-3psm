@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right AEO partner for my veterinary practice?",
+  "description": "Choose an AEO partner with veterinary marketing and AEO experience, a clear strategy, and transparent reporting. Check their case studies and ensure ethical pra",
+  "url": "aiovisibility.com/faq/how-do-i-choose-the-right-aeo-partner-for-my-veterinary-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right AEO partner for my veterinary practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing an AEO partner, look for an agency with demonstrated experience in both veterinary marketing and Answer Engine Optimization. Evaluate their understanding of your practice's unique needs, their proposed strategy for content creation and optimization, and their reporting methods. Request case studies or testimonials from other veterinary clients. Ensure they focus on sustainable, ethical practices and can clearly articulate how their services will contribute to your practice's growth by answering pet owners' direct questions.",
+        "description": "Choose an AEO partner with veterinary marketing and AEO experience, a clear strategy, and transparent reporting. Check their case studies and ensure ethical practices."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

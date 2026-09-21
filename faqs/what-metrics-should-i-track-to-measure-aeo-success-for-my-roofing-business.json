@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should I track to measure AEO success for my roofing business?",
+  "description": "Track organic traffic to optimized pages, featured snippet visibility, brand mentions, and conversion rates like lead submissions to measure AEO success.",
+  "url": "aiovisibility.com/faq/what-metrics-should-i-track-to-measure-aeo-success-for-my-roofing-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should I track to measure AEO success for my roofing business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure AEO success, track metrics such as increases in organic search traffic to pages optimized for direct answers, improvements in your website's visibility in featured snippets and 'People Also Ask' sections, and an uptick in brand mentions. Also, monitor conversion rates from AEO-driven traffic, such as lead form submissions or phone calls. Google Search Console and analytics tools can help identify which queries your site ranks for as direct answers and how those answers are performing in terms of user engagement.",
+        "description": "Track organic traffic to optimized pages, featured snippet visibility, brand mentions, and conversion rates like lead submissions to measure AEO success."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

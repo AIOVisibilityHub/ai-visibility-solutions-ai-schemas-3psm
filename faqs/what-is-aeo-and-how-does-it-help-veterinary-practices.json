@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AEO and how does it help veterinary practices?",
+  "description": "AEO uses AI to boost a veterinary practice's online visibility, helping them attract new clients through improved search engine rankings and online presence.",
+  "url": "aiovisibility.com/faq/what-is-aeo-and-how-does-it-help-veterinary-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AEO and how does it help veterinary practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO, or AI-Enhanced Optimization, uses artificial intelligence to improve a veterinary practice's online visibility. This includes optimizing websites for search engines, managing online reviews, and enhancing local search presence. For veterinarians, AEO helps attract new clients by making their practice more discoverable to pet owners searching for local veterinary services, ultimately leading to increased patient appointments and practice growth. It analyzes complex data to identify optimal strategies for digital marketing, ensuring a competitive edge in online search results.",
+        "description": "AEO uses AI to boost a veterinary practice's online visibility, helping them attract new clients through improved search engine rankings and online presence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

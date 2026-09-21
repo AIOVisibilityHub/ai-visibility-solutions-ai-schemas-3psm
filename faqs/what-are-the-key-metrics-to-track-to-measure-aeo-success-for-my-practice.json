@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the key metrics to track to measure AEO success for my practice?",
+  "description": "Track direct answer/featured snippet appearances, voice search queries, and question-based search visibility. Monitor new patient inquiries from these sources t",
+  "url": "aiovisibility.com/faq/what-are-the-key-metrics-to-track-to-measure-aeo-success-for-my-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the key metrics to track to measure AEO success for my practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure AEO success, focus on metrics beyond traditional website traffic. Key performance indicators include the number of times your practice appears as a direct answer or featured snippet, increases in voice search queries leading to your practice, and improvements in your visibility for specific question-based searches. Tracking branded vs. non-branded question queries, new patient inquiries originating from direct answer snippets, and engagement with your answer-optimized content can also provide valuable insights into your AEO performance.",
+        "description": "Track direct answer/featured snippet appearances, voice search queries, and question-based search visibility. Monitor new patient inquiries from these sources to measure AEO success."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

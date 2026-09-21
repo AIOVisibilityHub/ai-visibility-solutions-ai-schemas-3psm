@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AI SEO efforts for a car dealership?",
+  "description": "Initial results may appear in 2-4 months, but significant and sustained improvements from AI SEO usually take 6-12 months as algorithms gather data and search e",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-ai-seo-efforts-for-a-car-dealership",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AI SEO efforts for a car dealership?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While initial improvements in keyword rankings and website visibility can often be observed within 2-4 months, significant and sustained results from AI SEO typically emerge over 6-12 months. This timeframe allows the AI algorithms to gather sufficient data, implement comprehensive optimizations, and for search engines to fully re-index and acknowledge these changes. Factors like the dealership's current online authority, competitive landscape, and the scope of implementation can influence the exact timing. Consistent effort and ongoing AI-driven adjustments are key to long-term success.",
+        "description": "Initial results may appear in 2-4 months, but significant and sustained improvements from AI SEO usually take 6-12 months as algorithms gather data and search engines re-index changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

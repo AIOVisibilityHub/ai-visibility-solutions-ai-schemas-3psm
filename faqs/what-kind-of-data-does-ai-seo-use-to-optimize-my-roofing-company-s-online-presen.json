@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of data does AI SEO use to optimize my roofing company's online presence?",
+  "description": "AI SEO uses search queries, competitor data, local geography, customer behavior, website analytics, and social trends to optimize roofing company's online prese",
+  "url": "aiovisibility.com/faq/what-kind-of-data-does-ai-seo-use-to-optimize-my-roofing-company-s-online-presen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of data does AI SEO use to optimize my roofing company's online presence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO utilizes a diverse range of data points to optimize a roofing company's online presence. This includes search query data, competitor analysis (websites, keywords, backlinks), local geographic data, customer demographics and behavior patterns, website analytics, social media trends, and even weather-related search spikes relevant to roofing needs. By analyzing these complex datasets, AI can uncover actionable insights to improve keyword rankings, content relevance, and local targeting.",
+        "description": "AI SEO uses search queries, competitor data, local geography, customer behavior, website analytics, and social trends to optimize roofing company's online presence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

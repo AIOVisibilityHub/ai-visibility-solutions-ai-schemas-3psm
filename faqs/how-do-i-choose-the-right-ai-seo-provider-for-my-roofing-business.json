@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right AI SEO provider for my roofing business?",
+  "description": "Choose an AI SEO provider by evaluating their experience with roofing contractors, market understanding, transparency, and measurable results. Request case stud",
+  "url": "aiovisibility.com/faq/how-do-i-choose-the-right-ai-seo-provider-for-my-roofing-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right AI SEO provider for my roofing business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right AI SEO provider involves evaluating their experience specifically with roofing contractors or similar local service businesses, their understanding of your target market, and their transparency regarding processes and reporting. Look for providers who offer clear strategies, demonstrate measurable results, and communicate regularly. Request case studies, client testimonials, and a detailed proposal outlining the AI tools they use, their methodology, and expected outcomes to ensure they align with your business goals.",
+        "description": "Choose an AI SEO provider by evaluating their experience with roofing contractors, market understanding, transparency, and measurable results. Request case studies and detailed proposals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

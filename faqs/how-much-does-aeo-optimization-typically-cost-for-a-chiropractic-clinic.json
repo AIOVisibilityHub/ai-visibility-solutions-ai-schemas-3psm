@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does AEO optimization typically cost for a chiropractic clinic?",
+  "description": "AEO costs for chiropractic clinics vary based on service scope, content needs, market competitiveness, and service bundles, with custom quotes provided after as",
+  "url": "aiovisibility.com/faq/how-much-does-aeo-optimization-typically-cost-for-a-chiropractic-clinic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does AEO optimization typically cost for a chiropractic clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO optimization for a chiropractic clinic is not fixed and depends on the scope of services. Factors influencing the price include the number of conditions or treatments you want to optimize for, the volume of content creation required, the competitiveness of your service area, and whether the service is bundled with other digital marketing efforts. Most providers offer custom quotes after an initial assessment of your practice's needs. A basic package might start in the low hundreds per month, while comprehensive strategies could be significantly higher.",
+        "description": "AEO costs for chiropractic clinics vary based on service scope, content needs, market competitiveness, and service bundles, with custom quotes provided after assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

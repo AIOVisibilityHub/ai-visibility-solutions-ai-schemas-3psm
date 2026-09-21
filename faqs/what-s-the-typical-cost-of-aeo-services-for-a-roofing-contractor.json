@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the typical cost of AEO services for a roofing contractor?",
+  "description": "The cost of AEO services for roofing contractors varies based on factors like website size, market competition, and scope of work, typically involving project-b",
+  "url": "aiovisibility.com/faq/what-s-the-typical-cost-of-aeo-services-for-a-roofing-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the typical cost of AEO services for a roofing contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services for a roofing contractor varies widely based on the scope of work, the size of your website, and the competitiveness of your market. Factors influencing cost include content creation and optimization, technical SEO audits, ongoing monitoring, and strategy adjustments. Some agencies may offer project-based fees for initial setup, while others provide monthly retainers for continuous optimization. It's advisable to get a detailed proposal that outlines the specific services included and how they align with your business goals and budget.",
+        "description": "The cost of AEO services for roofing contractors varies based on factors like website size, market competition, and scope of work, typically involving project-based or monthly retainer fees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

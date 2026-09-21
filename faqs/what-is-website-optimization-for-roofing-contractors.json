@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is website optimization for roofing contractors?",
+  "description": "Website optimization for roofing contractors improves a website's visibility, performance, and user experience to attract more local customers and generate lead",
+  "url": "aiovisibility.com/faq/what-is-website-optimization-for-roofing-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is website optimization for roofing contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Website optimization for roofing contractors involves improving a website's visibility, performance, and user experience to attract more potential customers. This includes search engine optimization (SEO) to rank higher in search results, local SEO to target specific geographic areas, website speed improvements, mobile responsiveness, and clear calls to action. The goal is to ensure your roofing business website is easily found by local homeowners and businesses seeking roofing services, converting visitors into leads.",
+        "description": "Website optimization for roofing contractors improves a website's visibility, performance, and user experience to attract more local customers and generate leads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

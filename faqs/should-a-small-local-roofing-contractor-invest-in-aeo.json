@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should a small local roofing contractor invest in AEO?",
+  "description": "Small local roofing contractors should invest in AEO to capture local, question-based search queries, appearing in local search results and gaining a competitiv",
+  "url": "aiovisibility.com/faq/should-a-small-local-roofing-contractor-invest-in-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should a small local roofing contractor invest in AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a small local roofing contractor should strongly consider investing in AEO. Local search queries are often question-based (e.g., 'who replaces roofs near me?', 'cost to repair roof in New York City'). By optimizing for AEO, your business can directly answer these questions, increasing your chances of appearing in local search results, Google's Local Pack, and voice search. This direct visibility is crucial for capturing local customers who are actively looking for immediate roofing solutions, giving smaller contractors a competitive edge against larger companies.",
+        "description": "Small local roofing contractors should invest in AEO to capture local, question-based search queries, appearing in local search results and gaining a competitive edge."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

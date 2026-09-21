@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AI SEO for a roofing company?",
+  "description": "Initial results from AI SEO for roofers often appear within 3-6 months, with more significant lead increases seen over 6-12 months.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-ai-seo-for-a-roofing-company",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AI SEO for a roofing company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing results from AI SEO can vary depending on several factors, including your current online presence, website authority, competitive landscape, and the specific keywords targeted. Generally, you can expect to see initial improvements in rankings and traffic within 3 to 6 months. More significant results, such as a substantial increase in leads and conversions, typically emerge over 6 to 12 months as the AI-driven strategies have more time to fully optimize and gain traction with search engines.",
+        "description": "Initial results from AI SEO for roofers often appear within 3-6 months, with more significant lead increases seen over 6-12 months."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

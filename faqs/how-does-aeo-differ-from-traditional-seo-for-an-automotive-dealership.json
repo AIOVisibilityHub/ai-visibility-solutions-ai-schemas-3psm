@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO differ from traditional SEO for an automotive dealership?",
+  "description": "AEO focuses on direct answers to specific questions in search results, like featured snippets, whereas traditional SEO aims for higher page rankings for general",
+  "url": "aiovisibility.com/faq/how-does-aeo-differ-from-traditional-seo-for-an-automotive-dealership",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO differ from traditional SEO for an automotive dealership?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While traditional SEO aims to rank web pages higher in general search results, Answer Engine Optimization (AEO) specifically targets direct answers to user questions, often appearing in featured snippets, 'People Also Ask' sections, and voice search results. For automotive dealerships, SEO might focus on ranking for terms like 'used cars New York City', while AEO ensures that questions like 'What are the service hours for [dealership name]?' or 'Do you offer financing for bad credit?' are answered directly and concisely in the search results themselves. AEO is about being the definitive answer source, not just a link in a list.",
+        "description": "AEO focuses on direct answers to specific questions in search results, like featured snippets, whereas traditional SEO aims for higher page rankings for general search terms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

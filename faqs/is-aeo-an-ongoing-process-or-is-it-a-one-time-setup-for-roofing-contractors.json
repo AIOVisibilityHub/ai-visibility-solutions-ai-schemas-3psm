@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AEO an ongoing process, or is it a one-time setup for roofing contractors?",
+  "description": "AEO is an ongoing process that requires regular content review and updates to stay visible in evolving search engine results for roofing contractors.",
+  "url": "aiovisibility.com/faq/is-aeo-an-ongoing-process-or-is-it-a-one-time-setup-for-roofing-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AEO an ongoing process, or is it a one-time setup for roofing contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO is an ongoing process, not a one-time setup. Search engine algorithms evolve, new questions emerge, and competitors continuously optimize their content. For roofing contractors, this means regularly reviewing your content, updating answers to reflect current industry standards or pricing trends, and identifying new questions your target audience is asking. Consistent monitoring of performance and adapting your strategy ensures your business maintains its visibility in answer engine results and continues to attract new leads over time.",
+        "description": "AEO is an ongoing process that requires regular content review and updates to stay visible in evolving search engine results for roofing contractors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

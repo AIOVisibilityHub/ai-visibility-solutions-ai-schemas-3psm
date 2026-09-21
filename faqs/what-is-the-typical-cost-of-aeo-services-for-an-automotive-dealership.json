@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of AEO services for an automotive dealership?",
+  "description": "The cost of AEO services varies based on project scope and dealership size, ranging from hundreds to several thousands of dollars monthly for comprehensive solu",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-of-aeo-services-for-an-automotive-dealership",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of AEO services for an automotive dealership?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services for an automotive dealership varies widely depending on the scope of work, the size of the dealership, and the chosen provider. Factors influencing cost include the extent of content auditing and creation required, the complexity of schema markup implementation, ongoing Google Business Profile management, and analytics reporting. Smaller, more focused projects might start in the low hundreds per month, while comprehensive, enterprise-level solutions for multiple locations could range into several thousands monthly. It's best to obtain a detailed proposal tailored to your specific needs and goals.",
+        "description": "The cost of AEO services varies based on project scope and dealership size, ranging from hundreds to several thousands of dollars monthly for comprehensive solutions. Obtain a tailored proposal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

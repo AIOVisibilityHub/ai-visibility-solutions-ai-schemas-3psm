@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should a local marketing agency track to measure AEO success?",
+  "description": "Track featured snippets, 'People Also Ask' appearances, voice search answers, and organic visibility for direct answer queries. Monitor local leads and conversi",
+  "url": "aiovisibility.com/faq/what-metrics-should-a-local-marketing-agency-track-to-measure-aeo-success",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should a local marketing agency track to measure AEO success?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure AEO success, a local marketing agency should track several key metrics. These include the number of featured snippets captured, appearances in 'People Also Ask' boxes, voice search query impressions and answers, and organic search visibility for direct answer queries. It's also important to monitor changes in brand mentions and citations, as well as traffic driven to pages that hold answer engine positions. Ultimately, tracking increases in qualified local leads and client conversions resulting from enhanced visibility through direct answers will provide the most direct measure of AEO's business impact.",
+        "description": "Track featured snippets, 'People Also Ask' appearances, voice search answers, and organic visibility for direct answer queries. Monitor local leads and conversions for business impact."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

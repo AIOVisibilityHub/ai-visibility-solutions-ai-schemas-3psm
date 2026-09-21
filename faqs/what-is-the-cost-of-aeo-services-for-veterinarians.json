@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the cost of AEO services for veterinarians?",
+  "description": "AEO service costs for veterinarians vary based on practice size, market goals, current online presence, and service scope. Custom quotes are typically provided",
+  "url": "aiovisibility.com/faq/what-is-the-cost-of-aeo-services-for-veterinarians",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cost of AEO services for veterinarians?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services for veterinarians is not fixed and varies based on the scope and complexity of the strategy. Factors influencing the price include the size of the practice, the desired level of local market penetration, the current state of their online presence, and the specific services included (e.g., advanced AI analytics, content creation, reputation management). Most providers offer tiered packages or custom quotes after an initial consultation to assess the clinic's unique needs and goals. It is an investment designed to yield a positive return through increased client acquisition.",
+        "description": "AEO service costs for veterinarians vary based on practice size, market goals, current online presence, and service scope. Custom quotes are typically provided after a consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

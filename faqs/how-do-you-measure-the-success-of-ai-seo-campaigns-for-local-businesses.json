@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you measure the success of AI SEO campaigns for local businesses?",
+  "description": "Success is measured by improved local search rankings, increased organic traffic, higher Google My Business engagement, more calls/directions, and conversions.",
+  "url": "aiovisibility.com/faq/how-do-you-measure-the-success-of-ai-seo-campaigns-for-local-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you measure the success of AI SEO campaigns for local businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We measure the success of AI SEO campaigns for local businesses through several key performance indicators. These include improvements in local search rankings for targeted keywords, increased organic traffic to the business website and Google My Business profile, higher engagement on local listings, and growth in phone calls or direction requests from local searches. We also track conversion rates, lead generation, and ultimately, the return on investment for our clients, providing regular reports on these metrics.",
+        "description": "Success is measured by improved local search rankings, increased organic traffic, higher Google My Business engagement, more calls/directions, and conversions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

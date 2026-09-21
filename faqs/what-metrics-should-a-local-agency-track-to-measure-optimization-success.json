@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should a local agency track to measure optimization success?",
+  "description": "Track local search rankings, organic local traffic, leads/inquiries, Google My Business insights, conversion rates, and bounce rate to measure success.",
+  "url": "aiovisibility.com/faq/what-metrics-should-a-local-agency-track-to-measure-optimization-success",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should a local agency track to measure optimization success?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local agencies should track several key metrics to measure optimization success. These include local search rankings for target keywords, organic traffic from local searches, number of leads or inquiries originating from the website, Google My Business insights (e.g., calls, direction requests, website visits), conversion rates, and bounce rate. Monitoring these metrics helps assess the effectiveness of optimization efforts, identify areas for improvement, and demonstrate the return on investment for their local marketing strategies.",
+        "description": "Track local search rankings, organic local traffic, leads/inquiries, Google My Business insights, conversion rates, and bounce rate to measure success."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

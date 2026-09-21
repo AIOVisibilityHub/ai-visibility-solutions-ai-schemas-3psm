@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should my chiropractic practice prioritize AEO over traditional SEO?",
+  "description": "Integrate AEO with traditional SEO, rather than prioritizing one over the other. Both strategies are complementary, enhancing overall online visibility and pati",
+  "url": "aiovisibility.com/faq/should-my-chiropractic-practice-prioritize-aeo-over-traditional-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should my chiropractic practice prioritize AEO over traditional SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is generally not advisable to prioritize AEO *over* traditional SEO, but rather to integrate both as complementary strategies. Traditional SEO builds the foundational visibility and authority of your website, which is still crucial for many patient journeys. AEO then enhances this by specifically targeting direct answers in emerging search platforms. A balanced approach ensures your practice is discoverable across all major search avenues. Both work in synergy to maximize your online presence and attract a wider range of potential patients.",
+        "description": "Integrate AEO with traditional SEO, rather than prioritizing one over the other. Both strategies are complementary, enhancing overall online visibility and patient acquisition for your chiropractic practice."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

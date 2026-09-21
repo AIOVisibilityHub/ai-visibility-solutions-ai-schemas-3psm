@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AI SEO a fully automated solution, or does it require human oversight for veterinary marketing?",
+  "description": "AI SEO is not fully automated; it requires human oversight for strategic direction, interpreting insights, brand consistency, and final decision-making in veter",
+  "url": "aiovisibility.com/faq/is-ai-seo-a-fully-automated-solution-or-does-it-require-human-oversight-for-vete",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AI SEO a fully automated solution, or does it require human oversight for veterinary marketing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While AI SEO leverages automation for data analysis, optimization suggestions, and even some content generation, it is not a fully automated, hands-off solution for veterinary marketing. Human oversight is crucial for strategic direction, interpreting AI insights, ensuring brand voice consistency, and making final decisions based on your practice's specific goals and ethical considerations. An expert team guides the AI, refines its output, and integrates the findings into a cohesive marketing strategy, combining the efficiency of AI with the nuance of human expertise.",
+        "description": "AI SEO is not fully automated; it requires human oversight for strategic direction, interpreting insights, brand consistency, and final decision-making in veterinary marketing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

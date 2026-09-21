@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO differ from traditional SEO for chiropractors?",
+  "description": "AEO directly answers user questions within search engines and voice assistants, while traditional SEO focuses on ranking websites to drive traffic. Both are vit",
+  "url": "aiovisibility.com/faq/how-does-aeo-differ-from-traditional-seo-for-chiropractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO differ from traditional SEO for chiropractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional SEO for chiropractors primarily aims to improve website rankings on search engine results pages (SERPs) for relevant keywords, often driving traffic to your site. AEO, on the other hand, is designed to directly answer user queries within the search engine or voice assistant interface, often without requiring a click to your website. While both are crucial for online visibility, AEO emphasizes content structured for direct answers, featured snippets, and voice search results, capturing users who are looking for quick, specific information rather than browsing a list of links. A comprehensive digital strategy often integrates both approaches.",
+        "description": "AEO directly answers user questions within search engines and voice assistants, while traditional SEO focuses on ranking websites to drive traffic. Both are vital for chiropractic online visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

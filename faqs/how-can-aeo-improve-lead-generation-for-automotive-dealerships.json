@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can AEO improve lead generation for automotive dealerships?",
+  "description": "AEO improves lead generation by providing direct answers to high-intent customer questions, boosting visibility, and positioning the dealership as an authoritat",
+  "url": "aiovisibility.com/faq/how-can-aeo-improve-lead-generation-for-automotive-dealerships",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can AEO improve lead generation for automotive dealerships?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO improves lead generation by placing dealership content directly in front of customers who are actively searching for specific information, often with high purchase intent. By providing direct answers to questions like 'What is the warranty on a new Ford F-150?' or 'Can I get pre-approved for a car loan with bad credit?', dealerships capture attention at critical decision-making points. This increased visibility in prime search results positions the dealership as an authoritative source, building trust and encouraging users to click through, fill out forms, or call for more details, ultimately driving more qualified leads.",
+        "description": "AEO improves lead generation by providing direct answers to high-intent customer questions, boosting visibility, and positioning the dealership as an authoritative source."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information does my veterinary practice need to provide to start with AI SEO?",
+  "description": "You'll need to provide website analytics, service details, target audience, geographic areas, unique selling propositions, and marketing goals to start AI SEO.",
+  "url": "aiovisibility.com/faq/what-information-does-my-veterinary-practice-need-to-provide-to-start-with-ai-se",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information does my veterinary practice need to provide to start with AI SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To effectively implement AI SEO, your veterinary practice will typically need to provide access to your current website analytics (e.g., Google Analytics, Google Search Console), information about your services, target audience, and geographic service areas. Details about your practice's unique selling propositions, any specific treatments or specialties, and current marketing goals are also valuable. Providing competitive insights or any past marketing data can further refine the AI's understanding and strategy development, ensuring the approach is tailored to your specific needs.",
+        "description": "You'll need to provide website analytics, service details, target audience, geographic areas, unique selling propositions, and marketing goals to start AI SEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

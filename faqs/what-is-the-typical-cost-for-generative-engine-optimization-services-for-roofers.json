@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for generative engine optimization services for roofers?",
+  "description": "The cost of GEO for roofers varies by scope, target areas, content volume, and support; customized packages are offered after a consultation to assess needs and",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-for-generative-engine-optimization-services-for-roofers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for generative engine optimization services for roofers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for generative engine optimization services for roofers can vary significantly based on the scope of work, the number of service areas targeted, the volume of content required, and the level of ongoing support and reporting. We offer customized packages designed to fit different business sizes and marketing objectives. A detailed proposal is provided after an initial consultation to assess your specific needs and outline a transparent pricing structure. Investing in GEO is an investment in scalable, targeted online visibility.",
+        "description": "The cost of GEO for roofers varies by scope, target areas, content volume, and support; customized packages are offered after a consultation to assess needs and provide transparent pricing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

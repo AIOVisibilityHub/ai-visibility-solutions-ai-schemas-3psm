@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from generative engine optimization for a vet practice?",
+  "description": "Initial GEO results may appear in 3-6 months, with comprehensive improvements taking 6-12 months. It's an ongoing process for sustained growth.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-generative-engine-optimization-for-a-v",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from generative engine optimization for a vet practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing results from generative engine optimization can vary. Initial improvements in search visibility and website traffic may become noticeable within 3-6 months, especially for local searches. However, comprehensive improvements, such as significant ranking increases for competitive keywords and consistent client acquisition, typically develop over 6-12 months. GEO is an ongoing strategy, with continuous optimization leading to sustained long-term growth in online presence and new patient inquiries.",
+        "description": "Initial GEO results may appear in 3-6 months, with comprehensive improvements taking 6-12 months. It's an ongoing process for sustained growth."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

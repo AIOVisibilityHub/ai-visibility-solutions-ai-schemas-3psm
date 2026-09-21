@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of data does AI SEO analyze for a roofing company's website?",
+  "description": "AI SEO analyzes search queries, competitor strategies, user behavior, conversion rates, and technical site performance to optimize a roofing company's website.",
+  "url": "aiovisibility.com/faq/what-kind-of-data-does-ai-seo-analyze-for-a-roofing-company-s-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of data does AI SEO analyze for a roofing company's website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO for a roofing company's website analyzes a wide range of data points to optimize performance. This includes search query data to understand what potential customers are searching for, competitor website content and backlink profiles, user behavior on your site (e.g., bounce rate, time on page), conversion rates, and technical website performance metrics. Additionally, it processes local search data, seasonal trends for roofing services, and algorithm updates to ensure strategies remain effective and targeted.",
+        "description": "AI SEO analyzes search queries, competitor strategies, user behavior, conversion rates, and technical site performance to optimize a roofing company's website."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you measure the success of generative engine optimization for a veterinary clinic?",
+  "description": "Success is measured by increased organic traffic, higher search rankings, improved local visibility, more new patient inquiries, and conversion rates.",
+  "url": "aiovisibility.com/faq/how-do-you-measure-the-success-of-generative-engine-optimization-for-a-veterinar",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you measure the success of generative engine optimization for a veterinary clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Success in generative engine optimization for a veterinary clinic is measured through various key performance indicators (KPIs). These include increased organic website traffic, higher search engine rankings for relevant keywords, improved local search visibility, and a rise in new patient inquiries or appointment bookings originating from online channels. We also track engagement metrics like time on site and bounce rate, along with conversions such as form submissions or phone calls, to demonstrate the tangible return on investment for your practice.",
+        "description": "Success is measured by increased organic traffic, higher search rankings, improved local visibility, more new patient inquiries, and conversion rates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

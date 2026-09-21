@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should a roofing contractor track to measure website optimization success?",
+  "description": "Track organic traffic, keyword rankings, lead generation, conversion rates, bounce rate, site speed, and Google My Business insights to measure success.",
+  "url": "aiovisibility.com/faq/what-metrics-should-a-roofing-contractor-track-to-measure-website-optimization-s",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should a roofing contractor track to measure website optimization success?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure website optimization success, roofing contractors should track several key metrics. These include organic search traffic, keyword rankings (especially for local terms), lead generation (form submissions, phone calls), conversion rates, bounce rate, and website loading speed. Monitoring your Google My Business insights for map views and calls is also vital for local SEO. Regularly analyzing these metrics provides insight into what's working and where further improvements are needed to attract and convert more clients.",
+        "description": "Track organic traffic, keyword rankings, lead generation, conversion rates, bounce rate, site speed, and Google My Business insights to measure success."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

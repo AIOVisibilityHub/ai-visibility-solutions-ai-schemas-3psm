@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AEO for a roofing contractor?",
+  "description": "Initial AEO results can be seen in 3-6 months, with more consistent direct answers taking 6-12 months or longer, depending on content and competition.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-aeo-for-a-roofing-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AEO for a roofing contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeframe for seeing results from Answer Engine Optimization can vary. Initial improvements, such as appearing in more 'People Also Ask' sections or seeing slight increases in organic visibility, might occur within 3-6 months as search engines re-index and understand your optimized content. Achieving consistent featured snippets or direct answer placements for competitive queries can take 6-12 months or longer, depending on the current state of your website, content quality, and competitor activity. AEO is an ongoing strategy.",
+        "description": "Initial AEO results can be seen in 3-6 months, with more consistent direct answers taking 6-12 months or longer, depending on content and competition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

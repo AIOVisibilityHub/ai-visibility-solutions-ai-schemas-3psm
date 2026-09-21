@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is a mobile-friendly website crucial for roofers today?",
+  "description": "A mobile-friendly website is crucial for roofers because most customers use smartphones to search, and Google prioritizes mobile sites, impacting rankings and l",
+  "url": "aiovisibility.com/faq/why-is-a-mobile-friendly-website-crucial-for-roofers-today",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is a mobile-friendly website crucial for roofers today?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A mobile-friendly website is crucial for roofers because a significant portion of potential customers search for services using their smartphones. Google prioritizes mobile-first indexing, meaning your site's mobile version largely determines its search ranking. If your website isn't optimized for mobile devices, visitors will likely have a poor experience, leading to higher bounce rates and missed opportunities. A responsive design ensures your site is easy to navigate, read, and interact with on any device, making it simpler for customers to contact you for estimates or emergencies, directly impacting lead generation.",
+        "description": "A mobile-friendly website is crucial for roofers because most customers use smartphones to search, and Google prioritizes mobile sites, impacting rankings and lead generation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a new website if my current veterinary site isn't optimized?",
+  "description": "You might not need a new website; often, existing sites can be optimized. A detailed audit will determine if improvements or a complete rebuild is the best path",
+  "url": "aiovisibility.com/faq/do-i-need-a-new-website-if-my-current-veterinary-site-isn-t-optimized",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a new website if my current veterinary site isn't optimized?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not necessarily. Often, an existing veterinary website can be optimized without needing a complete rebuild. Our initial assessment would determine if your current site's foundation is suitable for optimization. We can improve aspects like SEO, mobile responsiveness, content, and site speed. However, if your website is very old, uses outdated technology, or has significant structural issues that hinder optimization efforts and user experience, a new website might be a more cost-effective and beneficial long-term solution. A comprehensive audit will clarify the best approach.",
+        "description": "You might not need a new website; often, existing sites can be optimized. A detailed audit will determine if improvements or a complete rebuild is the best path."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

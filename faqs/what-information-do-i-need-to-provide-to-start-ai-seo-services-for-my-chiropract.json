@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to provide to start AI SEO services for my chiropractic practice?",
+  "description": "You'll need to provide website access, patient demographics, service details, business goals, and current SEO efforts to start AI SEO services.",
+  "url": "aiovisibility.com/faq/what-information-do-i-need-to-provide-to-start-ai-seo-services-for-my-chiropract",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to provide to start AI SEO services for my chiropractic practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To initiate AI SEO services, you typically need to provide access to your existing website (including CMS and Google Analytics/Search Console), information about your target patient demographics, and details regarding your specific services and specialties (e.g., pain management, sports injuries, wellness). Understanding your business goals, target keywords you currently use, and any past SEO efforts is also crucial. This information helps the AI analyze your current online presence, identify opportunities, and tailor a strategy that aligns with your practice's unique needs and objectives.",
+        "description": "You'll need to provide website access, patient demographics, service details, business goals, and current SEO efforts to start AI SEO services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

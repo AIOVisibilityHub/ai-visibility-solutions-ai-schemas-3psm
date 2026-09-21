@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should my roofing company invest in website optimization or paid ads first?",
+  "description": "Consider website optimization for sustainable long-term leads and paid ads for immediate visibility; a combined approach often works best for roofing companies.",
+  "url": "aiovisibility.com/faq/should-my-roofing-company-invest-in-website-optimization-or-paid-ads-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should my roofing company invest in website optimization or paid ads first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The decision between website optimization (SEO) and paid ads (PPC) depends on your immediate and long-term goals. Paid ads can provide immediate visibility and leads, making them suitable if you need quick results, though costs can add up. Website optimization, while taking longer to yield significant results, builds organic authority and provides a more sustainable, cost-effective source of leads over time. Many roofing companies benefit from a combined approach: using paid ads for immediate impact while simultaneously investing in SEO for long-term growth. This strategy helps capture both immediate and future market share effectively.",
+        "description": "Consider website optimization for sustainable long-term leads and paid ads for immediate visibility; a combined approach often works best for roofing companies."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should my roofing website have a dedicated FAQ section for AEO?",
+  "description": "Yes, a dedicated FAQ section is beneficial for AEO, as it provides clear answers for search engines to extract as featured snippets and 'People Also Ask' result",
+  "url": "aiovisibility.com/faq/should-my-roofing-website-have-a-dedicated-faq-section-for-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should my roofing website have a dedicated FAQ section for AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a dedicated and well-structured FAQ section is highly beneficial for AEO. This section provides a clear, concise format for answering common questions directly, making it easier for search engines to identify and extract answers for featured snippets or 'People Also Ask' sections. Each question should be distinct, and its answer should be focused and authoritative. Implementing schema markup (FAQPage schema) on this section further enhances its visibility and helps search engines understand the content's purpose.",
+        "description": "Yes, a dedicated FAQ section is beneficial for AEO, as it provides clear answers for search engines to extract as featured snippets and 'People Also Ask' results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

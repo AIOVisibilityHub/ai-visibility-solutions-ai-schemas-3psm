@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the first steps an automotive dealership should take to implement AEO?",
+  "description": "Begin AEO by auditing your website and Google Business Profile for completeness, researching common customer questions, and then creating or refining content wi",
+  "url": "aiovisibility.com/faq/what-are-the-first-steps-an-automotive-dealership-should-take-to-implement-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the first steps an automotive dealership should take to implement AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The initial steps for implementing AEO involve a thorough audit of your dealership's existing online presence. Start by analyzing your current website content, identifying common customer questions, and evaluating how well these are currently answered. Review your Google Business Profile for accuracy and completeness, ensuring all service areas, hours, and contact details are up-to-date. Research common search queries specific to your inventory and services. Then, begin creating or refining content to directly answer these questions concisely, using clear headings, structured data (schema markup), and a user-friendly format that search engines can easily understand and extract.",
+        "description": "Begin AEO by auditing your website and Google Business Profile for completeness, researching common customer questions, and then creating or refining content with structured data to answer them directly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

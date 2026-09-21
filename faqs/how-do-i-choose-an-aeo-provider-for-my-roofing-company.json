@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose an AEO provider for my roofing company?",
+  "description": "Choose an AEO provider with local SEO and content marketing experience, a clear strategy for direct answers, and a focus on measurable results.",
+  "url": "aiovisibility.com/faq/how-do-i-choose-an-aeo-provider-for-my-roofing-company",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose an AEO provider for my roofing company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing an AEO provider, look for agencies with a proven track record in local SEO and content marketing, preferably with experience in the home services or construction industry. Key considerations include their understanding of your target audience's search intent, their approach to schema markup and structured data, and their reporting methods. Request case studies, client testimonials, and a clear strategy outlining how they plan to optimize your content for direct answers, rather than just general rankings. Ensure they focus on measurable outcomes.",
+        "description": "Choose an AEO provider with local SEO and content marketing experience, a clear strategy for direct answers, and a focus on measurable results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

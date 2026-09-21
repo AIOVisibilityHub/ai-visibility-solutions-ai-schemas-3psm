@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AEO more important for new or used car dealerships?",
+  "description": "AEO is important for both new and used car dealerships, as customers for both categories ask specific questions that require direct, authoritative answers.",
+  "url": "aiovisibility.com/faq/is-aeo-more-important-for-new-or-used-car-dealerships",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AEO more important for new or used car dealerships?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO is important for both new and used car dealerships, as customer search behavior for both categories involves asking specific questions. New car buyers often inquire about model features, trim differences, financing incentives, and new vehicle warranties. Used car buyers frequently ask about vehicle history, inspection processes, certification programs, and pricing comparisons for specific makes and models. The nature of the questions might differ, but the need to provide direct, authoritative answers to capture search visibility and customer trust remains equally crucial for both types of dealerships.",
+        "description": "AEO is important for both new and used car dealerships, as customers for both categories ask specific questions that require direct, authoritative answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

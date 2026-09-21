@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AEO help my roofing business attract more local customers in New York City?",
+  "description": "Yes, AEO helps attract local customers in New York City by optimizing content for geo-specific questions, making your business visible as a local expert.",
+  "url": "aiovisibility.com/faq/can-aeo-help-my-roofing-business-attract-more-local-customers-in-new-york-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AEO help my roofing business attract more local customers in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AEO is highly effective for attracting local customers, especially in competitive markets like New York City. By optimizing content for geographically specific questions (e.g., 'best roofing materials for NYC weather' or 'roofing repair cost Manhattan'), your business can appear as the direct answer for local searches. This direct visibility helps establish your company as a trusted local expert, driving relevant traffic and lead generation from potential clients specifically looking for roofing services in their area.",
+        "description": "Yes, AEO helps attract local customers in New York City by optimizing content for geo-specific questions, making your business visible as a local expert."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

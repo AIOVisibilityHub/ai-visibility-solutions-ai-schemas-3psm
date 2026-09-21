@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from Generative Engine Optimization for a cosmetic surgery practice?",
+  "description": "Initial GEO results can appear within 3-6 months, with significant patient inquiry growth often seen in 6-12 months.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-generative-engine-optimization-for-a-c",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from Generative Engine Optimization for a cosmetic surgery practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing results from Generative Engine Optimization can vary, but practices often observe initial improvements in online visibility and organic traffic within 3 to 6 months. Comprehensive results, including significant growth in qualified patient inquiries and conversions, typically emerge over 6 to 12 months as the generated content accumulates and establishes authority with search engines. Consistency in content deployment is key to sustained success.",
+        "description": "Initial GEO results can appear within 3-6 months, with significant patient inquiry growth often seen in 6-12 months."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

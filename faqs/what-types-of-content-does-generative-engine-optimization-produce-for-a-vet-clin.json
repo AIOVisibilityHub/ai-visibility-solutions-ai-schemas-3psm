@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of content does generative engine optimization produce for a vet clinic?",
+  "description": "GEO produces optimized content such as website service pages, blog posts on pet health, local SEO content, and FAQs to enhance a vet clinic's online visibility.",
+  "url": "aiovisibility.com/faq/what-types-of-content-does-generative-engine-optimization-produce-for-a-vet-clin",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of content does generative engine optimization produce for a vet clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative engine optimization can produce a wide range of content tailored for a vet clinic. This includes optimized website service pages for specific treatments (e.g., dental care, vaccinations), informative blog posts addressing common pet health issues (e.g., 'Signs Your Dog Has Arthritis'), local SEO content for Google Business Profile listings, and FAQs. It can also assist with crafting compelling social media updates and patient education materials, all designed to be highly discoverable by pet owners searching for veterinary services and information.",
+        "description": "GEO produces optimized content such as website service pages, blog posts on pet health, local SEO content, and FAQs to enhance a vet clinic's online visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content should an automotive dealership optimize for AEO?",
+  "description": "Dealerships should optimize FAQs, detailed inventory descriptions, service information, and their Google Business Profile with structured content and schema mar",
+  "url": "aiovisibility.com/faq/what-kind-of-content-should-an-automotive-dealership-optimize-for-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content should an automotive dealership optimize for AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For effective AEO, automotive dealerships should optimize content that directly addresses common customer questions. This includes detailed FAQ pages covering topics like financing, warranty, maintenance schedules, and purchase processes. Inventory pages should have clear, structured data for vehicle specifications. Service pages need precise information on appointment booking, pricing for common services, and operating hours. Your Google Business Profile must be meticulously updated with accurate hours, services, and contact details. Content should be structured using headings, bullet points, and schema markup to make it easily digestible by answer engines.",
+        "description": "Dealerships should optimize FAQs, detailed inventory descriptions, service information, and their Google Business Profile with structured content and schema markup to answer common customer questions directly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AEO for a veterinary practice?",
+  "description": "Initial AEO results may appear in a few weeks to months, while consistent top positions can take 6-12 months. It's a long-term strategy.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-aeo-for-a-veterinary-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AEO for a veterinary practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeframe for seeing results from Answer Engine Optimization can vary. Initial improvements, such as appearing in some 'People Also Ask' sections, might be noticed within a few weeks to a few months, especially for practices that already have robust, well-structured content. Achieving consistent featured snippets or dominant voice search positions can take longer, typically 6 to 12 months, as it depends on search engine algorithms, the competitiveness of the queries, and the ongoing quality and relevance of your content. AEO is a long-term strategy.",
+        "description": "Initial AEO results may appear in a few weeks to months, while consistent top positions can take 6-12 months. It's a long-term strategy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

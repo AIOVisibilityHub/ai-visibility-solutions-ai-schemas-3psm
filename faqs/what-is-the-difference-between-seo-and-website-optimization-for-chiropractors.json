@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between SEO and website optimization for chiropractors?",
+  "description": "SEO focuses on search engine visibility, while website optimization is broader, including SEO, user experience, site speed, and conversion rate optimization. Bo",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-seo-and-website-optimization-for-chiropractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between SEO and website optimization for chiropractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SEO (Search Engine Optimization) is a critical component of overall website optimization, but they are not entirely synonymous. SEO specifically focuses on improving a website's visibility in search engine results pages, primarily through keyword optimization, content quality, technical adjustments, and link building. Website optimization is a broader term that encompasses SEO, but also includes other aspects such as user experience (UX) design, conversion rate optimization (CRO), site speed enhancements, mobile responsiveness, and accessibility. For chiropractors, both are vital: SEO gets patients to your site, while broader optimization ensures they have a positive experience and convert into appointments.",
+        "description": "SEO focuses on search engine visibility, while website optimization is broader, including SEO, user experience, site speed, and conversion rate optimization. Both are crucial for chiropractors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

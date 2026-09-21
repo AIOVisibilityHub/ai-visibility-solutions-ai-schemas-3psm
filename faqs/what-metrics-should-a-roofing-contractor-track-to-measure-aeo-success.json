@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should a roofing contractor track to measure AEO success?",
+  "description": "Roofing contractors should track organic visibility (featured snippets), website traffic from informational queries, lead generation, and conversion rates to me",
+  "url": "aiovisibility.com/faq/what-metrics-should-a-roofing-contractor-track-to-measure-aeo-success",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should a roofing contractor track to measure AEO success?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure AEO success, roofing contractors should track several key metrics. These include an increase in organic visibility, particularly for featured snippets and 'People Also Ask' boxes in search results. Monitor website traffic, focusing on traffic from specific informational queries and direct answer sources. Track lead generation metrics such as conversion rates from organic search, phone calls, and form submissions. Also, pay attention to brand mentions and overall search impression share. Tools like Google Search Console and analytics platforms can help monitor these performance indicators.",
+        "description": "Roofing contractors should track organic visibility (featured snippets), website traffic from informational queries, lead generation, and conversion rates to measure AEO success."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

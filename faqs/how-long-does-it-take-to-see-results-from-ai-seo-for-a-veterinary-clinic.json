@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AI SEO for a veterinary clinic?",
+  "description": "Initial results from AI SEO typically appear within 3-6 months, with significant growth seen over 6-12 months. It's a long-term strategy.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-ai-seo-for-a-veterinary-clinic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AI SEO for a veterinary clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing results from AI SEO can vary depending on several factors, including your current online presence, the competitiveness of your local market, and the comprehensiveness of the AI SEO strategy implemented. Generally, you can expect to see initial improvements in rankings and website traffic within 3 to 6 months. Significant and sustained growth often takes 6 to 12 months as AI algorithms continuously optimize and adapt to search engine changes. It's a long-term investment that builds cumulative benefits over time.",
+        "description": "Initial results from AI SEO typically appear within 3-6 months, with significant growth seen over 6-12 months. It's a long-term strategy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the typical costs associated with implementing Generative Engine Optimization for local agencies?",
+  "description": "Costs for GEO vary by scope, locations, and content complexity. Pricing models include retainers or project fees. Detailed proposals are needed to understand sp",
+  "url": "aiovisibility.com/faq/what-are-the-typical-costs-associated-with-implementing-generative-engine-optimi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the typical costs associated with implementing Generative Engine Optimization for local agencies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of implementing Generative Engine Optimization for local marketing agencies varies widely based on the scope of services, the number of locations, and the complexity of content generation required. Pricing models can include monthly retainers, project-based fees, or performance-based agreements. Factors influencing cost include the depth of AI integration, the volume of content produced, and the level of strategic oversight. Agencies should inquire about detailed proposals that outline specific deliverables and expected outcomes.",
+        "description": "Costs for GEO vary by scope, locations, and content complexity. Pricing models include retainers or project fees. Detailed proposals are needed to understand specific costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

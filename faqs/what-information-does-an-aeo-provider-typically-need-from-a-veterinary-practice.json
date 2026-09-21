@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information does an AEO provider typically need from a veterinary practice to start?",
+  "description": "An AEO provider needs access to a vet practice's website analytics, Google My Business, social media, service details, target audience, and marketing goals to s",
+  "url": "aiovisibility.com/faq/what-information-does-an-aeo-provider-typically-need-from-a-veterinary-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information does an AEO provider typically need from a veterinary practice to start?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To initiate AEO services, a provider typically requires access to the veterinary practice's website analytics (e.g., Google Analytics), Google My Business profile, and other social media or online listing accounts. They will also need information about the clinic's services, target audience, unique selling propositions, and specific marketing goals. Understanding the local competitive landscape and any previous marketing efforts is also helpful. This data allows the AEO provider to conduct a thorough initial assessment and tailor an effective, AI-driven strategy.",
+        "description": "An AEO provider needs access to a vet practice's website analytics, Google My Business, social media, service details, target audience, and marketing goals to start."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

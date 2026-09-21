@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the role of voice search in AEO for dealerships?",
+  "description": "Voice search is crucial for AEO as it often involves question-based queries; AEO helps dealerships provide direct answers to voice assistant users.",
+  "url": "aiovisibility.com/faq/what-is-the-role-of-voice-search-in-aeo-for-dealerships",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the role of voice search in AEO for dealerships?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Voice search plays a significant role in AEO for dealerships because voice queries are typically longer, more conversational, and question-based. Optimizing for AEO helps dealerships directly answer these natural language questions, increasing their chances of being the primary spoken response from voice assistants. For example, a customer might ask, 'Where is the nearest Honda dealership open now?' or 'What are the current offers on a Toyota Camry in Los Angeles?' By structuring content to directly answer such queries, dealerships can capture this growing segment of search traffic and provide immediate, convenient information to potential buyers.",
+        "description": "Voice search is crucial for AEO as it often involves question-based queries; AEO helps dealerships provide direct answers to voice assistant users."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

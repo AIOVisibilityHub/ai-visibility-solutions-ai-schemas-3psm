@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content can AI generate for my roofing company's SEO?",
+  "description": "AI can generate service pages, blog posts, local landing pages, website copy, meta descriptions, and FAQs, all optimized to boost a roofing company's SEO.",
+  "url": "aiovisibility.com/faq/what-kind-of-content-can-ai-generate-for-my-roofing-company-s-seo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content can AI generate for my roofing company's SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can generate a wide range of content tailored for a roofing company's SEO. This includes detailed service pages for various roofing types (e.g., asphalt shingle, metal, TPO), blog posts addressing common homeowner questions (e.g., 'signs you need a new roof,' 'cost of roof replacement'), local landing pages optimized for specific neighborhoods or cities, and engaging website copy that explains your company's unique value proposition. It can also assist in crafting meta descriptions, social media updates, and FAQ sections, all designed to improve search engine rankings and engage potential customers effectively.",
+        "description": "AI can generate service pages, blog posts, local landing pages, website copy, meta descriptions, and FAQs, all optimized to boost a roofing company's SEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

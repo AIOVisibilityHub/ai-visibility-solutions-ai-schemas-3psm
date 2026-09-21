@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Generative Engine Optimization (GEO) for car dealerships?",
+  "description": "Generative Engine Optimization (GEO) uses AI to create and optimize content for automotive dealerships, improving search visibility and attracting leads.",
+  "url": "aiovisibility.com/faq/what-is-generative-engine-optimization-geo-for-car-dealerships",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Generative Engine Optimization (GEO) for car dealerships?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization (GEO) uses AI to create and optimize content for automotive dealerships, enhancing their visibility in search results. This goes beyond traditional SEO by dynamically generating personalized content, such as vehicle descriptions, local landing pages, and responses to customer queries, tailored to specific search intent and geographic locations. It aims to attract more qualified leads by improving relevance and presence across various digital channels.",
+        "description": "Generative Engine Optimization (GEO) uses AI to create and optimize content for automotive dealerships, improving search visibility and attracting leads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

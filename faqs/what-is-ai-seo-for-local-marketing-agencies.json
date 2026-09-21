@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AI SEO for local marketing agencies?",
+  "description": "AI SEO for local agencies uses artificial intelligence to optimize search presence for businesses targeting local customers, improving visibility in local searc",
+  "url": "aiovisibility.com/faq/what-is-ai-seo-for-local-marketing-agencies",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AI SEO for local marketing agencies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO for local marketing agencies leverages artificial intelligence to enhance search engine optimization strategies specifically for businesses targeting local customers. This includes using AI to analyze local search trends, optimize Google My Business profiles, generate localized content, and identify opportunities for local link building. The goal is to improve organic visibility in local search results and attract more customers within specific geographic areas, such as New York City, Los Angeles, Chicago, Houston, or Phoenix.",
+        "description": "AI SEO for local agencies uses artificial intelligence to optimize search presence for businesses targeting local customers, improving visibility in local search results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

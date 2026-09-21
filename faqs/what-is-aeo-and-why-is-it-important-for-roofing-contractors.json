@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AEO and why is it important for roofing contractors?",
+  "description": "AEO (Answer Engine Optimization) helps roofing contractors appear in search engine featured snippets and voice search results, increasing visibility and lead ge",
+  "url": "aiovisibility.com/faq/what-is-aeo-and-why-is-it-important-for-roofing-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AEO and why is it important for roofing contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO stands for Answer Engine Optimization. It's a digital marketing strategy focused on optimizing your online content so that search engines can easily extract direct answers to user queries, rather than just providing links to pages. For roofing contractors, AEO helps your business appear in featured snippets, 'People Also Ask' sections, and voice search results. This increases your visibility to potential customers who are looking for quick answers about roofing services, materials, costs, or local contractors, driving more qualified leads to your business.",
+        "description": "AEO (Answer Engine Optimization) helps roofing contractors appear in search engine featured snippets and voice search results, increasing visibility and lead generation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

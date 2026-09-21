@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AEO help my chiropractic practice attract new patients in New York City?",
+  "description": "Yes, AEO boosts local visibility in competitive markets like New York City by optimizing content to directly answer patient questions, leading to appearances in",
+  "url": "aiovisibility.com/faq/can-aeo-help-my-chiropractic-practice-attract-new-patients-in-new-york-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AEO help my chiropractic practice attract new patients in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AEO can significantly help your chiropractic practice attract new patients, especially in competitive markets like New York City. By optimizing your content to directly answer common questions potential patients in NYC might ask, such as 'best chiropractor for sciatica in Manhattan' or 'chiropractic adjustments for neck pain near me,' you increase your chances of appearing in direct answer boxes, 'People Also Ask' sections, and voice search results. This places your practice directly in front of individuals who are actively seeking chiropractic care and specific solutions in your service area, improving local visibility and driving qualified leads.",
+        "description": "Yes, AEO boosts local visibility in competitive markets like New York City by optimizing content to directly answer patient questions, leading to appearances in direct answer boxes and voice search."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

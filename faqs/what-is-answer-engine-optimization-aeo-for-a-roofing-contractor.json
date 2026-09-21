@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Answer Engine Optimization (AEO) for a roofing contractor?",
+  "description": "AEO optimizes website content to directly answer user questions, aiming for featured snippets and direct answers in search results to increase visibility for ro",
+  "url": "aiovisibility.com/faq/what-is-answer-engine-optimization-aeo-for-a-roofing-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Answer Engine Optimization (AEO) for a roofing contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer Engine Optimization (AEO) for roofing contractors focuses on structuring website content to directly answer user questions, particularly those asked through voice search or search engines designed to provide direct answers. This goes beyond traditional SEO by optimizing for specific queries like 'how much does a new roof cost in Houston?' or 'when should I repair my roof?' The goal is to appear as the featured snippet or direct answer in search results, increasing visibility and authority for local roofing services.",
+        "description": "AEO optimizes website content to directly answer user questions, aiming for featured snippets and direct answers in search results to increase visibility for roofing contractors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

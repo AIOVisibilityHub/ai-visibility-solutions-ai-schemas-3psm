@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO differ from traditional SEO for a roofing company?",
+  "description": "AEO focuses on providing direct answers for search engines, leading to featured snippets, while traditional SEO aims for higher website rankings. Both are vital",
+  "url": "aiovisibility.com/faq/how-does-aeo-differ-from-traditional-seo-for-a-roofing-company",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO differ from traditional SEO for a roofing company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional SEO aims to improve a website's ranking in search results, primarily by optimizing for keywords to bring users to a landing page. AEO, on the other hand, focuses on optimizing content to directly answer specific questions, enabling search engines to provide those answers instantly to users. While both are crucial for online visibility, AEO prioritizes direct answers and rich snippets, whereas traditional SEO often emphasizes organic ranking for broad search terms. For roofing contractors, AEO ensures your expertise is directly presented, while SEO ensures your site is discoverable.",
+        "description": "AEO focuses on providing direct answers for search engines, leading to featured snippets, while traditional SEO aims for higher website rankings. Both are vital for a roofing company's online presence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

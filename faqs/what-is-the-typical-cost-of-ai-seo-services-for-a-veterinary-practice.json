@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of AI SEO services for a veterinary practice?",
+  "description": "AI SEO costs for veterinary practices vary widely, from a few hundred to several thousand dollars per month, depending on service scope and market competitivene",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-of-ai-seo-services-for-a-veterinary-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of AI SEO services for a veterinary practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AI SEO services for a veterinary practice can vary widely based on the scope of work, the specific AI tools used, and the level of customization required. Factors influencing pricing include the number of services you offer, the size of your target geographic area, and the extent of your existing online presence. Basic AI SEO packages might start from a few hundred dollars per month, while comprehensive strategies for highly competitive markets could range into several thousands. It's best to get a customized quote after an assessment of your practice's unique needs.",
+        "description": "AI SEO costs for veterinary practices vary widely, from a few hundred to several thousand dollars per month, depending on service scope and market competitiveness."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content is best for AEO for roofing contractor services?",
+  "description": "Content that directly answers common roofing questions, like detailed FAQs and guides on materials or repair processes, performs best for AEO.",
+  "url": "aiovisibility.com/faq/what-kind-of-content-is-best-for-aeo-for-roofing-contractor-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content is best for AEO for roofing contractor services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Content that directly answers common questions about roofing is ideal for AEO. This includes FAQs pages addressing specific problems like 'How long does a shingle roof last?' or 'What are signs I need a new roof?'. You should also create detailed blog posts or guides that break down complex topics into easily digestible answers, such as 'Understanding different roofing materials' or 'The roof repair process explained.' Using clear headings, bullet points, and concise language helps search engines identify and extract these answers for featured snippets.",
+        "description": "Content that directly answers common roofing questions, like detailed FAQs and guides on materials or repair processes, performs best for AEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

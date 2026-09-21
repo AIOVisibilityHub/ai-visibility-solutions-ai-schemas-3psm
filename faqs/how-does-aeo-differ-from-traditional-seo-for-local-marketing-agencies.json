@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO differ from traditional SEO for local marketing agencies?",
+  "description": "AEO focuses on providing direct answers in search results, while traditional SEO aims for high organic rankings and website clicks. AEO prioritizes intent and d",
+  "url": "aiovisibility.com/faq/how-does-aeo-differ-from-traditional-seo-for-local-marketing-agencies",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO differ from traditional SEO for local marketing agencies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional SEO primarily focuses on ranking high in search results for specific keywords, often driving users to click through to a website. AEO, on the other hand, prioritizes providing the *answer* directly within the search results, often through featured snippets, knowledge panels, or voice search responses. For local marketing agencies, this means shifting from just keyword optimization to optimizing for intent and direct answers. While both aim for visibility, AEO emphasizes being the definitive source of information that an answer engine can readily extract and present, reducing the need for a click.",
+        "description": "AEO focuses on providing direct answers in search results, while traditional SEO aims for high organic rankings and website clicks. AEO prioritizes intent and direct answer extraction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

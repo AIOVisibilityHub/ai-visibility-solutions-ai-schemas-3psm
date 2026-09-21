@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What data is used to inform the Generative Engine Optimization strategy?",
+  "description": "GEO strategies use local search queries, competitor analysis, current rankings, business directories, review platforms, and local customer behavior data for opt",
+  "url": "aiovisibility.com/faq/what-data-is-used-to-inform-the-generative-engine-optimization-strategy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What data is used to inform the Generative Engine Optimization strategy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our Generative Engine Optimization strategy is informed by a comprehensive analysis of various data sources. This includes local search query data, competitor analysis within your target geographic areas, current local ranking performance, and insights from local business directories and review platforms. We also analyze industry trends, seasonal search patterns, and customer behavior data specific to your location to ensure the generated content is highly relevant, timely, and optimized for maximum local visibility and engagement.",
+        "description": "GEO strategies use local search queries, competitor analysis, current rankings, business directories, review platforms, and local customer behavior data for optimization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

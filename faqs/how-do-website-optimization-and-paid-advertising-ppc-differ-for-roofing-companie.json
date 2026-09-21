@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do website optimization and paid advertising (PPC) differ for roofing companies?",
+  "description": "SEO provides long-term organic visibility, while PPC offers immediate, paid visibility. SEO builds sustained presence, PPC gets instant leads.",
+  "url": "aiovisibility.com/faq/how-do-website-optimization-and-paid-advertising-ppc-differ-for-roofing-companie",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do website optimization and paid advertising (PPC) differ for roofing companies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Website optimization (SEO) and paid advertising (PPC) are distinct but complementary strategies. SEO focuses on earning organic, long-term visibility and traffic through search engine ranking improvements, taking time to yield results but providing sustained value. PPC, on the other hand, involves paying for ads to appear at the top of search results, offering immediate visibility and targeted traffic as long as campaigns run. For roofing companies, PPC can provide instant leads during peak season or for emergency services, while SEO builds foundational, sustainable online presence and authority.",
+        "description": "SEO provides long-term organic visibility, while PPC offers immediate, paid visibility. SEO builds sustained presence, PPC gets instant leads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

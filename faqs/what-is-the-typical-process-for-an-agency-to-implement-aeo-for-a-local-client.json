@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for an agency to implement AEO for a local client?",
+  "description": "AEO implementation involves query research, content audits, creating answer-focused content, applying technical optimization like schema markup, and continuous",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-an-agency-to-implement-aeo-for-a-local-client",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for an agency to implement AEO for a local client?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The typical AEO implementation process begins with comprehensive keyword and query research, identifying common questions local customers ask. Next, existing content is audited for answer gaps and optimization opportunities. New content, such as FAQs, 'how-to' guides, and detailed service pages, is then created or optimized to directly address these queries in a concise, structured format. Technical optimization, like schema markup, is applied to help search engines understand the content's context. Finally, performance is monitored, and content is continuously refined based on evolving search patterns and answer engine algorithms.",
+        "description": "AEO implementation involves query research, content audits, creating answer-focused content, applying technical optimization like schema markup, and continuous performance monitoring."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for AEO services for a veterinary clinic?",
+  "description": "AEO service costs for veterinary clinics vary, typically ranging from a few hundred to several thousand dollars monthly, depending on scope, market, and agency",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-for-aeo-services-for-a-veterinary-clinic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for AEO services for a veterinary clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for Answer Engine Optimization services for a veterinary clinic can vary widely based on the scope of work, the size of your practice, the competitiveness of your market, and the agency's expertise. Services typically include content strategy, content creation/optimization, technical SEO audits, and ongoing monitoring. Prices can range from a few hundred dollars per month for basic services to several thousand for comprehensive, ongoing campaigns. A custom quote is usually provided after an initial assessment of your specific needs and goals.",
+        "description": "AEO service costs for veterinary clinics vary, typically ranging from a few hundred to several thousand dollars monthly, depending on scope, market, and agency expertise."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

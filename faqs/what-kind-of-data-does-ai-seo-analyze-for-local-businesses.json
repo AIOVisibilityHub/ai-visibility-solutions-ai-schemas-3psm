@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of data does AI SEO analyze for local businesses?",
+  "description": "AI SEO analyzes local search queries, competitor rankings, Google My Business data, customer reviews, local citations, and website analytics to optimize local s",
+  "url": "aiovisibility.com/faq/what-kind-of-data-does-ai-seo-analyze-for-local-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of data does AI SEO analyze for local businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO analyzes a wide array of data points relevant to local businesses. This includes local search query data, competitor ranking patterns, Google My Business insights, customer reviews and sentiment, local citation consistency, and hyper-local geographical data. It also processes website analytics, backlink profiles, and content performance metrics, all filtered through a local lens. This comprehensive analysis helps in identifying precise opportunities for local search optimization and targeted content creation.",
+        "description": "AI SEO analyzes local search queries, competitor rankings, Google My Business data, customer reviews, local citations, and website analytics to optimize local search."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

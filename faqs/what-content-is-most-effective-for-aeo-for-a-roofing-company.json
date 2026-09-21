@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What content is most effective for AEO for a roofing company?",
+  "description": "Effective AEO content includes detailed FAQs, service pages addressing questions, and blog posts answering common roofing problems, all using clear language and",
+  "url": "aiovisibility.com/faq/what-content-is-most-effective-for-aeo-for-a-roofing-company",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What content is most effective for AEO for a roofing company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Effective AEO content for a roofing company includes detailed FAQ sections, service pages structured with common questions in mind, blog posts that answer specific problems (e.g., 'signs you need a roof replacement'), and local guides addressing regional concerns. Content should directly answer questions about roofing types, materials, repair processes, typical timelines, and maintenance tips. Using clear, concise language and schema markup helps search engines identify and present your content as an authoritative answer.",
+        "description": "Effective AEO content includes detailed FAQs, service pages addressing questions, and blog posts answering common roofing problems, all using clear language and schema markup."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

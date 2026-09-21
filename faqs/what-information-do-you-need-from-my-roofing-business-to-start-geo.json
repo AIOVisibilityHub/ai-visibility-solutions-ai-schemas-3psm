@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do you need from my roofing business to start GEO?",
+  "description": "We need your service areas, specific roofing services, target demographics, unique selling points, existing website, competitor analysis, and business goals to",
+  "url": "aiovisibility.com/faq/what-information-do-you-need-from-my-roofing-business-to-start-geo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do you need from my roofing business to start GEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To effectively implement Generative Engine Optimization, we typically need core information about your roofing business. This includes your service areas (e.g., New York City, Chicago), the specific roofing services you offer (e.g., residential, commercial, repair, replacement, specific materials), your target customer demographics, and any unique selling propositions or specialties. We also look at your existing website, competitor analysis, and any specific goals you have, such as increasing leads for a particular service or expanding into a new location. This foundational data allows the AI to generate highly accurate and relevant content that aligns with your business objectives.",
+        "description": "We need your service areas, specific roofing services, target demographics, unique selling points, existing website, competitor analysis, and business goals to start GEO effectively."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What content should automotive dealerships optimize for AEO?",
+  "description": "Dealerships should optimize content about vehicle models, services, financing, and general dealership information by structuring it as clear questions and answe",
+  "url": "aiovisibility.com/faq/what-content-should-automotive-dealerships-optimize-for-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What content should automotive dealerships optimize for AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Automotive dealerships should optimize a wide range of content for AEO. This includes FAQs about specific models (features, trim levels, fuel efficiency), service offerings (types of maintenance, repair costs, scheduling), financing options (loan terms, lease vs. buy, credit requirements), and dealership-specific information (hours, location, contact details, testimonials). Content should be structured with clear questions and concise, authoritative answers. Vehicle description pages can also be enhanced to answer common questions about each car directly, making it easier for search engines to pull out relevant information.",
+        "description": "Dealerships should optimize content about vehicle models, services, financing, and general dealership information by structuring it as clear questions and answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

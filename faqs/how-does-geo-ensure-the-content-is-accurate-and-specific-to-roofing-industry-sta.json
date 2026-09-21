@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does GEO ensure the content is accurate and specific to roofing industry standards?",
+  "description": "GEO content accuracy is ensured through initial industry-specific input for the AI and subsequent human review by experienced digital marketers, combining effic",
+  "url": "aiovisibility.com/faq/how-does-geo-ensure-the-content-is-accurate-and-specific-to-roofing-industry-sta",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does GEO ensure the content is accurate and specific to roofing industry standards?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our Generative Engine Optimization process includes a critical human oversight component. While AI generates content, it is guided by initial input that incorporates industry-specific keywords, best practices, and your company's service details. Before publication, all generated content undergoes a review by experienced digital marketers who ensure accuracy, adherence to roofing industry standards, and alignment with your brand voice. This hybrid approach combines the efficiency of AI with human expertise to maintain quality and factual correctness.",
+        "description": "GEO content accuracy is ensured through initial industry-specific input for the AI and subsequent human review by experienced digital marketers, combining efficiency with factual correctness and brand alignment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

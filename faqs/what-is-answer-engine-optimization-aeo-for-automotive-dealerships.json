@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is answer engine optimization (AEO) for automotive dealerships?",
+  "description": "AEO optimizes your dealership's online content to directly answer customer questions in search results, improving visibility and providing quick information abo",
+  "url": "aiovisibility.com/faq/what-is-answer-engine-optimization-aeo-for-automotive-dealerships",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is answer engine optimization (AEO) for automotive dealerships?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer Engine Optimization (AEO) focuses on making your dealership's information readily available and accurately presented in search engine results, particularly for direct questions. This involves optimizing website content, Google Business Profile listings, and other digital assets to provide clear, concise answers to user queries, improving visibility in rich snippets, featured snippets, and voice search results. For automotive dealerships, AEO helps customers quickly find details about inventory, service appointments, hours, and directions directly from search results, reducing clicks and improving the customer journey.",
+        "description": "AEO optimizes your dealership's online content to directly answer customer questions in search results, improving visibility and providing quick information about inventory, services, and hours."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

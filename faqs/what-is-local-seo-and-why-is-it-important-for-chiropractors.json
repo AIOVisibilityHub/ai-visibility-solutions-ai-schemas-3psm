@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is local SEO and why is it important for chiropractors?",
+  "description": "Local SEO helps chiropractors appear in local search results, like 'chiropractor near me,' attracting nearby patients. It involves optimizing Google My Business",
+  "url": "aiovisibility.com/faq/what-is-local-seo-and-why-is-it-important-for-chiropractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is local SEO and why is it important for chiropractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local SEO is a specialized form of search engine optimization that focuses on improving a business's visibility in local search results, typically for geographically specific searches (e.g., 'chiropractor near me' or 'chiropractor Los Angeles'). For chiropractors, local SEO is paramount because most patients seek care within a convenient distance from their home or work. Optimizing your Google My Business profile, acquiring local citations, and securing local reviews helps your practice appear prominently on Google Maps and in local packs, directly connecting you with nearby potential patients.",
+        "description": "Local SEO helps chiropractors appear in local search results, like 'chiropractor near me,' attracting nearby patients. It involves optimizing Google My Business and local citations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

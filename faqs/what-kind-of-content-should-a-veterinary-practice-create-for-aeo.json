@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content should a veterinary practice create for AEO?",
+  "description": "Veterinary practices should create content that directly answers common pet owner questions about pet health, care, and services, structured with clear headings",
+  "url": "aiovisibility.com/faq/what-kind-of-content-should-a-veterinary-practice-create-for-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content should a veterinary practice create for AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Veterinary practices should create content that directly answers common pet owner questions. This includes FAQs about pet health conditions, preventative care, common symptoms, treatment options, and practice-specific information like appointment procedures or emergency services. Blog posts, service pages, and dedicated Q&A sections should be structured with clear headings, concise answers, and schema markup to help search engines understand and extract the information effectively. Focus on the 'who, what, when, where, why, and how' of pet care.",
+        "description": "Veterinary practices should create content that directly answers common pet owner questions about pet health, care, and services, structured with clear headings and concise answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

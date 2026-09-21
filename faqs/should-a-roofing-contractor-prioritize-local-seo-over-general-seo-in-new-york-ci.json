@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should a roofing contractor prioritize local SEO over general SEO in New York City?",
+  "description": "In New York City, prioritizing local SEO is crucial for roofing contractors to target specific neighborhoods and compete effectively for immediate local needs.",
+  "url": "aiovisibility.com/faq/should-a-roofing-contractor-prioritize-local-seo-over-general-seo-in-new-york-ci",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should a roofing contractor prioritize local SEO over general SEO in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a roofing contractor operating in a densely populated and competitive market like New York City, prioritizing local SEO is essential. While general SEO builds overall authority, local SEO directly targets potential customers in specific boroughs or neighborhoods searching for immediate roofing needs. With numerous competitors, ranking high in local map packs and 'near me' searches is often more effective for generating qualified leads than broader national rankings. A combined approach is ideal, but local SEO offers a more direct path to local clients.",
+        "description": "In New York City, prioritizing local SEO is crucial for roofing contractors to target specific neighborhoods and compete effectively for immediate local needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
