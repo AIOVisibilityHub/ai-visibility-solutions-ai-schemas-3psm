@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do you need from my optometry practice to start GEO?",
+  "description": "We need details on your services, target patients, service area, unique selling points, and existing website content to tailor AI-generated content for your pra",
+  "url": "aiovisibility.com/faq/what-information-do-you-need-from-my-optometry-practice-to-start-geo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do you need from my optometry practice to start GEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To effectively implement Generative Engine Optimization, we typically require foundational information about your practice. This includes your specific services offered (e.g., general eye exams, contact lenses, vision therapy), your target patient demographics, your geographic service area (e.g., Houston and surrounding neighborhoods), and any unique selling propositions. We also review your existing website content, patient testimonials, and any preferred keywords or phrases. The more details you provide about your specializations and goals, the better we can tailor the AI-generated content to your needs.",
+        "description": "We need details on your services, target patients, service area, unique selling points, and existing website content to tailor AI-generated content for your practice."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

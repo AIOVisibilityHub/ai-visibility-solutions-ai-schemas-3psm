@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Answer Engine Optimization (AEO) for electricians?",
+  "description": "Answer Engine Optimization (AEO) for electricians makes your business discoverable in direct answers from search engines and voice assistants, targeting feature",
+  "url": "aiovisibility.com/faq/what-is-answer-engine-optimization-aeo-for-electricians",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Answer Engine Optimization (AEO) for electricians?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer Engine Optimization (AEO) for electricians focuses on making your business discoverable and featured in direct answers provided by search engines and voice assistants. Unlike traditional SEO, which aims for high rankings in search results, AEO targets snippets, knowledge panels, and spoken responses to user queries. For an electrician, this means optimizing content so that when someone asks, \"Who is the best electrician near me?\" or \"How do I fix a flickering light?\", your business or helpful information is directly presented as the answer. This strategy enhances visibility in a growing landscape of conversational search.",
+        "description": "Answer Engine Optimization (AEO) for electricians makes your business discoverable in direct answers from search engines and voice assistants, targeting features like snippets and knowledge panels."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Answer Engine Optimization (AEO) for an optometry practice?",
+  "description": "AEO optimizes an optometry practice's online content to directly answer patient questions within search engines and AI assistants, providing direct and concise",
+  "url": "aiovisibility.com/faq/what-is-answer-engine-optimization-aeo-for-an-optometry-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Answer Engine Optimization (AEO) for an optometry practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer Engine Optimization (AEO) for an optometry practice focuses on optimizing your online content to directly answer patient questions within search engines and AI assistants. This goes beyond traditional SEO by structuring information to be easily extractable for direct answers, featured snippets, and voice search results. For optometrists, it means ensuring details about services like eye exams, contact lens fittings, and common eye conditions are presented clearly, concisely, and accurately, making your practice the authoritative source for patient queries.",
+        "description": "AEO optimizes an optometry practice's online content to directly answer patient questions within search engines and AI assistants, providing direct and concise information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

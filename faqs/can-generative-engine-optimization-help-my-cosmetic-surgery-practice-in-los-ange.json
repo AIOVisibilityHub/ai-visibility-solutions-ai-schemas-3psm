@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can Generative Engine Optimization help my cosmetic surgery practice in Los Angeles attract more local patients?",
+  "description": "Yes, GEO targets local search trends in areas like Los Angeles to create hyper-specific content, increasing your practice's visibility to local patients.",
+  "url": "aiovisibility.com/faq/can-generative-engine-optimization-help-my-cosmetic-surgery-practice-in-los-ange",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can Generative Engine Optimization help my cosmetic surgery practice in Los Angeles attract more local patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, GEO is highly effective for local patient acquisition. By analyzing local search trends and competition in specific areas like Los Angeles, GEO can generate content that is hyper-targeted to local patient intent. This includes optimizing for location-specific keywords, creating local guides, and ensuring your online profiles are consistent. The goal is to make your practice highly visible to individuals searching for cosmetic surgeons within the Los Angeles area.",
+        "description": "Yes, GEO targets local search trends in areas like Los Angeles to create hyper-specific content, increasing your practice's visibility to local patients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

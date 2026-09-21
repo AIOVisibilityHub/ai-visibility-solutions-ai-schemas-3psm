@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for website optimization services for an automotive dealership?",
+  "description": "Website optimization costs for dealerships range from a few hundred to over $5,000 monthly, depending on service scope, dealership size, and competitive landsca",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-for-website-optimization-services-for-an-automotive-dea",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for website optimization services for an automotive dealership?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost for website optimization services for an automotive dealership can vary widely based on the scope of work and the provider's expertise. Basic services, such as technical SEO audits and minor content updates, might start from a few hundred dollars per month. Comprehensive packages, including ongoing SEO, local SEO, content creation, conversion rate optimization (CRO), and advanced analytics, can range from $1,500 to $5,000+ per month. The investment often depends on the dealership's size, competitive landscape, and desired level of support.",
+        "description": "Website optimization costs for dealerships range from a few hundred to over $5,000 monthly, depending on service scope, dealership size, and competitive landscape."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

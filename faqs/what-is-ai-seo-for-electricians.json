@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AI SEO for electricians?",
+  "description": "AI SEO for electricians uses artificial intelligence to optimize online content and local listings, improving search engine visibility for electrical service pr",
+  "url": "aiovisibility.com/faq/what-is-ai-seo-for-electricians",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AI SEO for electricians?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO for electricians uses artificial intelligence to optimize online content, website structure, and local listings for electrical service providers. It helps identify relevant keywords, analyze competitor strategies, and predict search trends to improve visibility in search engine results. This technology streamlines the SEO process, making it more efficient and effective for electricians to attract potential customers looking for their services online.",
+        "description": "AI SEO for electricians uses artificial intelligence to optimize online content and local listings, improving search engine visibility for electrical service providers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

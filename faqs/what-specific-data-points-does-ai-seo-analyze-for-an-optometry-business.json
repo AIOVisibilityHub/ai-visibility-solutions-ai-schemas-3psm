@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What specific data points does AI SEO analyze for an optometry business?",
+  "description": "AI SEO analyzes patient search queries, local intent, competitor performance, website traffic, user behavior, keyword effectiveness, and content engagement for",
+  "url": "aiovisibility.com/faq/what-specific-data-points-does-ai-seo-analyze-for-an-optometry-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What specific data points does AI SEO analyze for an optometry business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI SEO for an optometry business analyzes a broad spectrum of data points to optimize online visibility. This includes patient search queries, local search intent, competitor performance, website traffic patterns, user behavior on your site (e.g., bounce rates, time on page), keyword effectiveness, content engagement metrics, and backlink profiles. Additionally, AI can process data from reviews, social media, and even voice search queries to understand patient needs and emerging trends. This comprehensive analysis helps identify the most impactful strategies for attracting new patients.",
+        "description": "AI SEO analyzes patient search queries, local intent, competitor performance, website traffic, user behavior, keyword effectiveness, and content engagement for optometry businesses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

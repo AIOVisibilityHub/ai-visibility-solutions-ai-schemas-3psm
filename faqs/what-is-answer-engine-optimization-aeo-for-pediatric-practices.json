@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Answer Engine Optimization (AEO) for pediatric practices?",
+  "description": "AEO optimizes pediatric website content to answer patient questions directly, making it discoverable by AI search engines and voice assistants for improved visi",
+  "url": "aiovisibility.com/faq/what-is-answer-engine-optimization-aeo-for-pediatric-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Answer Engine Optimization (AEO) for pediatric practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer Engine Optimization (AEO) for pediatric practices focuses on structuring your website content to directly answer patient questions, making it easily discoverable by AI-powered search engines and voice assistants. This involves optimizing for featured snippets, 'People Also Ask' sections, and direct answers in search results. For pediatricians, this means ensuring your services, common conditions, and patient resources are presented in a Q&A format that addresses specific concerns parents frequently search for online, improving visibility and patient engagement.",
+        "description": "AEO optimizes pediatric website content to answer patient questions directly, making it discoverable by AI search engines and voice assistants for improved visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

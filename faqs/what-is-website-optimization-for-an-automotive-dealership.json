@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is website optimization for an automotive dealership?",
+  "description": "Website optimization for dealerships improves online visibility, user experience, and conversion rates to attract more customers and drive sales.",
+  "url": "aiovisibility.com/faq/what-is-website-optimization-for-an-automotive-dealership",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is website optimization for an automotive dealership?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Website optimization for an automotive dealership involves improving various aspects of your online presence to attract more potential customers and convert them into leads or sales. This includes enhancing search engine visibility (SEO), ensuring your site is mobile-friendly, speeding up page load times, and designing intuitive navigation. The goal is to make it easier for customers to find your dealership online, explore inventory, schedule service, and ultimately visit your physical location, leading to increased traffic, leads, and sales.",
+        "description": "Website optimization for dealerships improves online visibility, user experience, and conversion rates to attract more customers and drive sales."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

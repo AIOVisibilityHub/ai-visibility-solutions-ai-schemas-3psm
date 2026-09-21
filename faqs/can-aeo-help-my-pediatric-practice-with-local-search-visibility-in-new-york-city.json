@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AEO help my pediatric practice with local search visibility in New York City?",
+  "description": "AEO significantly boosts local search visibility for pediatric practices in cities like New York, by optimizing content for location-specific queries and integr",
+  "url": "aiovisibility.com/faq/can-aeo-help-my-pediatric-practice-with-local-search-visibility-in-new-york-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AEO help my pediatric practice with local search visibility in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AEO is highly effective for improving local search visibility, especially for pediatric practices in competitive markets like New York City. By optimizing your content for location-specific questions (e.g., 'pediatrician near me with evening hours NYC,' 'urgent care for kids Manhattan'), you increase your chances of appearing in local pack results and voice search queries like 'find a pediatrician in Brooklyn.' Ensuring your Google Business Profile is fully optimized and consistent with your website's AEO content further amplifies your local presence and helps parents find your practice when they need it most.",
+        "description": "AEO significantly boosts local search visibility for pediatric practices in cities like New York, by optimizing content for location-specific queries and integrating with Google Business Profile."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

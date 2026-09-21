@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What content should an electrician create for AEO?",
+  "description": "Electricians should create FAQ sections, detailed service pages, and blog posts that directly answer common customer questions and electrical problems to optimi",
+  "url": "aiovisibility.com/faq/what-content-should-an-electrician-create-for-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What content should an electrician create for AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For effective AEO, an electrician should create content that directly answers common customer questions and problems. This includes detailed FAQs on your website addressing issues like 'Why is my circuit breaker tripping?' or 'How often should I inspect my wiring?'. Develop service pages that clearly explain what each service entails, its benefits, and how you deliver it. Create blog posts or guides offering solutions to frequent electrical concerns. Ensuring your content is structured with clear headings, bullet points, and concise language helps search engines easily extract answers, making your business a valuable resource.",
+        "description": "Electricians should create FAQ sections, detailed service pages, and blog posts that directly answer common customer questions and electrical problems to optimize for AEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

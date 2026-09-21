@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content is best for AI Overviews optimization for an optometrist?",
+  "description": "Content should directly answer patient questions about eye health, conditions, treatments, and services, including detailed FAQs, informative blog posts, and cl",
+  "url": "aiovisibility.com/faq/what-kind-of-content-is-best-for-ai-overviews-optimization-for-an-optometrist",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content is best for AI Overviews optimization for an optometrist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Content that directly answers common patient questions about eye health, conditions, treatments, and services is most effective. This includes detailed FAQs, blog posts explaining symptoms and preventative care, service pages with clear descriptions, and educational resources on topics like",
+        "description": "Content should directly answer patient questions about eye health, conditions, treatments, and services, including detailed FAQs, informative blog posts, and clear service descriptions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

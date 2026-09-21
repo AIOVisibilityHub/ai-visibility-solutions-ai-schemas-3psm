@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is mobile responsiveness critical for an auto dealer website?",
+  "description": "Mobile responsiveness is crucial for auto dealers because most car buyers use smartphones, influencing user experience, bounce rates, and Google search rankings",
+  "url": "aiovisibility.com/faq/why-is-mobile-responsiveness-critical-for-an-auto-dealer-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is mobile responsiveness critical for an auto dealer website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mobile responsiveness is critical for an auto dealer website because a significant portion of potential car buyers use smartphones to research vehicles, compare prices, and locate dealerships. A non-responsive site provides a poor user experience, leading to high bounce rates and lost leads. Google also prioritizes mobile-first indexing, meaning sites that are not optimized for mobile devices may suffer in search rankings. Ensuring your site adapts seamlessly to all screen sizes improves accessibility, user engagement, and search visibility, directly impacting your dealership's online success.",
+        "description": "Mobile responsiveness is crucial for auto dealers because most car buyers use smartphones, influencing user experience, bounce rates, and Google search rankings. A mobile-friendly site improves accessibility and search visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

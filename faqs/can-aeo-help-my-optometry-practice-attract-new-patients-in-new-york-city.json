@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AEO help my optometry practice attract new patients in New York City?",
+  "description": "Yes, AEO helps attract new patients in competitive markets like New York City by optimizing content for local queries, making your practice a prominent source o",
+  "url": "aiovisibility.com/faq/can-aeo-help-my-optometry-practice-attract-new-patients-in-new-york-city",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AEO help my optometry practice attract new patients in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AEO can significantly help your optometry practice attract new patients in competitive markets like New York City. By optimizing your content to directly answer local patient queries, such as \"best optometrist for dry eyes NYC\" or \"eye exam cost downtown Manhattan,\" your practice becomes the go-to source for immediate information. This hyper-local focus ensures that when potential patients search for eye care services or solutions to vision problems in specific New York City neighborhoods, your practice is prominently featured with direct, authoritative answers, driving relevant local traffic and inquiries.",
+        "description": "Yes, AEO helps attract new patients in competitive markets like New York City by optimizing content for local queries, making your practice a prominent source of direct, authoritative answers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

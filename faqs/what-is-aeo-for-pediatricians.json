@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AEO for pediatricians?",
+  "description": "AEO (AI Visibility Solutions) for pediatricians optimizes your practice's online presence using AI to improve search visibility and patient acquisition.",
+  "url": "aiovisibility.com/faq/what-is-aeo-for-pediatricians",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AEO for pediatricians?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO stands for AI Visibility Solutions. For pediatricians, it refers to optimizing your practice's online presence using artificial intelligence tools and strategies. This helps your practice appear more prominently in search results, online directories, and voice search, making it easier for parents to find and choose your services. It encompasses areas like local search optimization, content strategy, and reputation management, all enhanced by AI insights to improve visibility and patient acquisition.",
+        "description": "AEO (AI Visibility Solutions) for pediatricians optimizes your practice's online presence using AI to improve search visibility and patient acquisition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

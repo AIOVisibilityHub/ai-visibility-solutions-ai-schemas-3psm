@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What content does generative AI create for my optometry website?",
+  "description": "Generative AI creates service pages, blog posts, FAQs, location-specific content, and meta descriptions to inform patients and enhance your optometry website's",
+  "url": "aiovisibility.com/faq/what-content-does-generative-ai-create-for-my-optometry-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What content does generative AI create for my optometry website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative AI can create a wide range of content for your optometry website, all tailored to attract and inform potential patients. This includes service pages detailing different eye exams, contact lens fittings, or medical eye care. It can also generate blog posts on topics like 'Understanding Glaucoma' or 'Choosing the Right Eyewear,' frequently asked questions, location-specific pages (e.g., 'Optometrist in Phoenix'), and compelling meta descriptions. The goal is to produce high-quality, informative content that answers patient questions and establishes your practice's expertise.",
+        "description": "Generative AI creates service pages, blog posts, FAQs, location-specific content, and meta descriptions to inform patients and enhance your optometry website's search performance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

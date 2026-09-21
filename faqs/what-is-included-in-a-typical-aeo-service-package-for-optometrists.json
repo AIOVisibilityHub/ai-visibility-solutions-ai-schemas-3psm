@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in a typical AEO service package for optometrists?",
+  "description": "A typical AEO package includes digital asset audits, AI-driven keyword research, on-page optimization, local SEO, and performance reporting for optometrists.",
+  "url": "aiovisibility.com/faq/what-is-included-in-a-typical-aeo-service-package-for-optometrists",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a typical AEO service package for optometrists?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical AEO service package for optometrists often includes a comprehensive audit of existing digital assets, keyword and intent research driven by AI, on-page optimization recommendations, and ongoing content strategy development. It also frequently involves local SEO optimization, reputation management insights, and regular performance reporting with actionable recommendations. The goal is a holistic approach to improve visibility and attract new patients.",
+        "description": "A typical AEO package includes digital asset audits, AI-driven keyword research, on-page optimization, local SEO, and performance reporting for optometrists."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

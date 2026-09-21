@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Generative Engine Optimization (GEO) for pediatricians?",
+  "description": "Generative Engine Optimization (GEO) for pediatricians uses AI to create and optimize content, improving search ranking and visibility for practices seeking new",
+  "url": "aiovisibility.com/faq/what-is-generative-engine-optimization-geo-for-pediatricians",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Generative Engine Optimization (GEO) for pediatricians?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization (GEO) for pediatricians uses AI to create and optimize content that helps your practice rank higher in search results. This goes beyond traditional SEO by generating tailored content for specific patient queries, improving visibility for parents seeking pediatric care. It identifies common questions, creates informative answers, and ensures your practice information is easily discoverable across various search engines and AI models, driving more relevant traffic to your website.",
+        "description": "Generative Engine Optimization (GEO) for pediatricians uses AI to create and optimize content, improving search ranking and visibility for practices seeking new patients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

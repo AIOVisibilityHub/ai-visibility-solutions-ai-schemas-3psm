@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information does a pediatrician need to provide to start with AI SEO services?",
+  "description": "A pediatrician should provide website analytics, Google My Business access, target demographics, services offered, and business goals to start AI SEO services.",
+  "url": "aiovisibility.com/faq/what-information-does-a-pediatrician-need-to-provide-to-start-with-ai-seo-servic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information does a pediatrician need to provide to start with AI SEO services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To begin AI SEO services, a pediatrician typically needs to provide access to their current website analytics (like Google Analytics), Google My Business profile, and any existing marketing reports. Information about their target patient demographics, specific services offered (e.g., well-child visits, vaccinations, specialized care), and business goals is also crucial. Understanding their unique selling propositions and local competitive landscape helps in tailoring the most effective AI SEO strategy.",
+        "description": "A pediatrician should provide website analytics, Google My Business access, target demographics, services offered, and business goals to start AI SEO services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

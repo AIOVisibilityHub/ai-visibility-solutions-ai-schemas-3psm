@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should an optometry practice consider implementing AEO strategies?",
+  "description": "An optometry practice should consider AEO when aiming to be a trusted source for eye care information, capture voice search traffic, or answer frequent patient",
+  "url": "aiovisibility.com/faq/when-should-an-optometry-practice-consider-implementing-aeo-strategies",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should an optometry practice consider implementing AEO strategies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An optometry practice should consider implementing AEO strategies when patients frequently ask specific questions about services, conditions, or pricing via online searches. If your practice aims to be a primary source of trusted information for local eye care, or if you're looking to capture voice search traffic, AEO is beneficial. It's particularly useful if you want to stand out in a competitive market by providing immediate, authoritative answers, reducing the need for potential patients to navigate through multiple search results.",
+        "description": "An optometry practice should consider AEO when aiming to be a trusted source for eye care information, capture voice search traffic, or answer frequent patient questions directly in search results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

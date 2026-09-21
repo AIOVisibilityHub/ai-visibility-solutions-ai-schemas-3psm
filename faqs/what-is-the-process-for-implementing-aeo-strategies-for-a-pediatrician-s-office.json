@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for implementing AEO strategies for a pediatrician's office?",
+  "description": "AEO implementation involves an initial audit, strategy development focusing on local SEO and content, followed by ongoing monitoring and adjustments for continu",
+  "url": "aiovisibility.com/faq/what-is-the-process-for-implementing-aeo-strategies-for-a-pediatrician-s-office",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for implementing AEO strategies for a pediatrician's office?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implementing AEO typically begins with an audit of your current online presence, including your website, local listings, and online reviews. Next, a customized strategy is developed, focusing on keyword research relevant to pediatric services, optimizing your Google Business Profile, and enhancing your website's technical and content SEO. This is followed by ongoing monitoring, reporting, and adjustments based on performance data and AI insights to ensure continuous improvement in visibility and patient engagement.",
+        "description": "AEO implementation involves an initial audit, strategy development focusing on local SEO and content, followed by ongoing monitoring and adjustments for continuous improvement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

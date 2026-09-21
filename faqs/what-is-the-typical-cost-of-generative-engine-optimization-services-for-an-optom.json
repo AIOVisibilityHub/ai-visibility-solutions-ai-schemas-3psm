@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of generative engine optimization services for an optometrist?",
+  "description": "Costs for GEO services vary based on project scope, market competitiveness, content volume, and ongoing management needs. Custom quotes are provided after consu",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-of-generative-engine-optimization-services-for-an-optom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of generative engine optimization services for an optometrist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of generative engine optimization services for an optometrist varies depending on the scope and scale of the project. Factors influencing pricing include the number of services offered, the competitiveness of your local market (e.g., Houston vs. a smaller town), the volume of content required, and the level of ongoing management. Some providers offer tiered packages, while others customize proposals after an initial consultation. It's advisable to discuss your specific needs with a provider to receive an accurate quote tailored to your practice's goals.",
+        "description": "Costs for GEO services vary based on project scope, market competitiveness, content volume, and ongoing management needs. Custom quotes are provided after consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

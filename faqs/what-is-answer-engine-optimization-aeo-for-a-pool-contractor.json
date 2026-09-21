@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Answer Engine Optimization (AEO) for a pool contractor?",
+  "description": "AEO for pool contractors optimizes content to be direct answers in search engines and voice assistants, increasing visibility in featured snippets and 'People A",
+  "url": "aiovisibility.com/faq/what-is-answer-engine-optimization-aeo-for-a-pool-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Answer Engine Optimization (AEO) for a pool contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer Engine Optimization (AEO) for pool contractors focuses on making your business discoverable through direct answers provided by search engines and voice assistants. Unlike traditional SEO that aims for website clicks, AEO optimizes your content to be the direct answer displayed when potential customers ask specific questions about pool services, designs, or maintenance. This increases your visibility in featured snippets, 'People Also Ask' sections, and voice search results, helping your business appear as the immediate authority.",
+        "description": "AEO for pool contractors optimizes content to be direct answers in search engines and voice assistants, increasing visibility in featured snippets and 'People Also Ask' sections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

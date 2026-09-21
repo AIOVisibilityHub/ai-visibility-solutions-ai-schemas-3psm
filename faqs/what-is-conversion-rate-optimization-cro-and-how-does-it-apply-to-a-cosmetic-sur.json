@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is conversion rate optimization (CRO) and how does it apply to a cosmetic surgery website?",
+  "description": "CRO for cosmetic surgery websites optimizes the site to increase visitors who take desired actions, like booking consultations, by improving calls-to-action and",
+  "url": "aiovisibility.com/faq/what-is-conversion-rate-optimization-cro-and-how-does-it-apply-to-a-cosmetic-sur",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is conversion rate optimization (CRO) and how does it apply to a cosmetic surgery website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Conversion Rate Optimization (CRO) is the process of improving your website to increase the percentage of visitors who complete a desired action, such as booking a consultation or filling out a contact form. For a cosmetic surgery website, CRO involves optimizing calls-to-action, streamlining forms, enhancing page layouts, and ensuring compelling content that addresses patient concerns. The goal is to make it as easy and appealing as possible for visitors to take the next step toward becoming a patient, beyond just attracting them to the site.",
+        "description": "CRO for cosmetic surgery websites optimizes the site to increase visitors who take desired actions, like booking consultations, by improving calls-to-action and content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

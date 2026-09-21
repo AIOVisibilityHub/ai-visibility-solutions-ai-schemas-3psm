@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of AI SEO services for an electrical business?",
+  "description": "The cost of AI SEO for electricians varies based on service scope, market competitiveness, and specific goals. Prices can range from hundreds to several thousan",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-of-ai-seo-services-for-an-electrical-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of AI SEO services for an electrical business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AI SEO services for an electrical business can vary significantly based on the scope of work, the size of your service area, and the competitiveness of your market. Factors influencing price include the number of keywords targeted, content creation needs, technical SEO improvements, and ongoing AI-driven analysis. Packages might range from a few hundred dollars per month for basic local optimization to several thousand for comprehensive strategies in highly competitive regions. Many providers offer tiered pricing or custom quotes after an initial assessment of your specific business goals and current online presence.",
+        "description": "The cost of AI SEO for electricians varies based on service scope, market competitiveness, and specific goals. Prices can range from hundreds to several thousands of dollars per month, often with tiered packages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

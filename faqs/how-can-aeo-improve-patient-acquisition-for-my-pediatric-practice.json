@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can AEO improve patient acquisition for my pediatric practice?",
+  "description": "AEO improves patient acquisition by increasing your practice's digital visibility in search results, leading to more discoveries, website visits, and new patien",
+  "url": "aiovisibility.com/faq/how-can-aeo-improve-patient-acquisition-for-my-pediatric-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can AEO improve patient acquisition for my pediatric practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO strategies focus on increasing your practice's digital visibility where potential patients are searching. By optimizing for relevant keywords, ensuring accurate online listings, and managing your online reputation, AEO helps your practice rank higher in search engine results. This means more parents will discover your practice when searching for pediatric care, leading to increased website traffic, phone calls, and ultimately, new patient appointments. AI-driven insights ensure these efforts are targeted and effective.",
+        "description": "AEO improves patient acquisition by increasing your practice's digital visibility in search results, leading to more discoveries, website visits, and new patient appointments."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

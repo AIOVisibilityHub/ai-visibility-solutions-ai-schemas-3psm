@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does SEO for an auto dealership website work?",
+  "description": "SEO for auto dealerships optimizes website content and technical aspects to rank higher in search results for relevant local and vehicle-specific keywords, driv",
+  "url": "aiovisibility.com/faq/how-does-seo-for-an-auto-dealership-website-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does SEO for an auto dealership website work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SEO for an auto dealership website focuses on ranking higher in search engine results for relevant keywords. This involves optimizing vehicle description pages, service pages, and location-specific content with keywords like 'used cars New York City', 'Honda service [zip code]', or 'new Toyota models near me'. Technical SEO ensures the site is crawlable and fast, while local SEO optimizes Google My Business profiles. Content marketing, like blog posts about car maintenance or model comparisons, also drives organic traffic by providing value to potential buyers and service customers.",
+        "description": "SEO for auto dealerships optimizes website content and technical aspects to rank higher in search results for relevant local and vehicle-specific keywords, driving organic traffic."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

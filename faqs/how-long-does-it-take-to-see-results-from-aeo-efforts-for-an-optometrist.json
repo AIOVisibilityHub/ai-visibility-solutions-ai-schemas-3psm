@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AEO efforts for an optometrist?",
+  "description": "Initial AEO results may appear in weeks to months, with significant patient acquisition impact typically taking 3-6 months or more, requiring continuous monitor",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-aeo-efforts-for-an-optometrist",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AEO efforts for an optometrist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeframe to see results from AEO efforts for an optometrist can vary, but initial improvements in visibility, such as securing featured snippets or direct answers, might be observed within a few weeks to a few months. Achieving sustained and significant impact on patient acquisition typically takes longer, often 3 to 6 months or more, as search engines re-index content and establish your practice's authority. Continuous monitoring and refinement are crucial for long-term success, as search algorithms and patient queries evolve.",
+        "description": "Initial AEO results may appear in weeks to months, with significant patient acquisition impact typically taking 3-6 months or more, requiring continuous monitoring."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

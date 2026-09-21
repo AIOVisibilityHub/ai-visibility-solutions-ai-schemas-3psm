@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are AI Overviews and how do they impact optometry practices?",
+  "description": "AI Overviews are AI-generated summaries at the top of search results. Optimizing for them helps optometry practices gain visibility by directly answering patien",
+  "url": "aiovisibility.com/faq/what-are-ai-overviews-and-how-do-they-impact-optometry-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are AI Overviews and how do they impact optometry practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI Overviews, also known as Search Generative Experience (SGE) or generative AI search results, provide summarized answers at the top of Google search results. For optometry practices, optimizing for AI Overviews means ensuring your website content is structured, authoritative, and easily digestible by AI. This can significantly increase visibility by directly answering patient queries, potentially reducing the need for them to click through multiple websites to find information about eye care services, conditions, or appointment scheduling.",
+        "description": "AI Overviews are AI-generated summaries at the top of search results. Optimizing for them helps optometry practices gain visibility by directly answering patient queries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

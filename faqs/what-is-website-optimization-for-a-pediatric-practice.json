@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is website optimization for a pediatric practice?",
+  "description": "Website optimization for pediatric practices enhances online visibility, user experience, and patient acquisition through improved site performance, SEO, and co",
+  "url": "aiovisibility.com/faq/what-is-website-optimization-for-a-pediatric-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is website optimization for a pediatric practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Website optimization for a pediatric practice involves improving various aspects of your online presence to attract more patients and provide a better user experience. This includes enhancing your website's speed, mobile responsiveness, search engine visibility (SEO), and content quality. The goal is to ensure your practice ranks higher in search results, making it easier for parents to find your services, book appointments, and access important information about pediatric care.",
+        "description": "Website optimization for pediatric practices enhances online visibility, user experience, and patient acquisition through improved site performance, SEO, and content."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

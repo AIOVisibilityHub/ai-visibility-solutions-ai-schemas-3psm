@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does GEO differ from traditional SEO for a pediatric practice?",
+  "description": "GEO uses AI to proactively generate new content based on patient queries, while traditional SEO optimizes existing content. GEO aims for broader search and AI v",
+  "url": "aiovisibility.com/faq/how-does-geo-differ-from-traditional-seo-for-a-pediatric-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does GEO differ from traditional SEO for a pediatric practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional SEO focuses on optimizing existing website content and technical aspects for search engines using keywords. Generative Engine Optimization (GEO) takes this a step further by using AI to *create* new, highly relevant content based on predicted patient queries and emerging search trends. For pediatricians, this means proactively generating answers to common parental concerns, appointment scheduling questions, and service specifics, rather than just optimizing what's already there. GEO aims to dominate a broader spectrum of search and conversational AI results.",
+        "description": "GEO uses AI to proactively generate new content based on patient queries, while traditional SEO optimizes existing content. GEO aims for broader search and AI visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

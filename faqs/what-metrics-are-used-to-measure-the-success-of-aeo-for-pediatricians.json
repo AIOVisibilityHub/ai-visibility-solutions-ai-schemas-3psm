@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics are used to measure the success of AEO for pediatricians?",
+  "description": "AEO success for pediatricians is measured by increased organic traffic, higher keyword rankings, improved local search visibility, more new patient inquiries, a",
+  "url": "aiovisibility.com/faq/what-metrics-are-used-to-measure-the-success-of-aeo-for-pediatricians",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics are used to measure the success of AEO for pediatricians?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Success in AEO for pediatricians is measured through several key performance indicators. These include increases in organic website traffic, higher rankings for relevant keywords, improved visibility in local search results (e.g., Google Maps), growth in new patient inquiries and appointments, and enhanced online reputation scores (e.g., review ratings and volume). AI-powered analytics help track these metrics and provide insights into campaign effectiveness and areas for further optimization.",
+        "description": "AEO success for pediatricians is measured by increased organic traffic, higher keyword rankings, improved local search visibility, more new patient inquiries, and better online reputation scores."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

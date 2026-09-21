@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AI Overviews optimization for an optometry practice?",
+  "description": "Initial benefits may appear in weeks, but significant impact on AI Overview appearances usually takes several months due to ongoing algorithm evaluation and lea",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-ai-overviews-optimization-for-an-optom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AI Overviews optimization for an optometry practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeframe for seeing significant results from AI Overviews optimization can vary. While some improvements, such as enhanced content structure, may show initial benefits within a few weeks, broader impact on AI Overview appearances typically takes several months. This is because search engine algorithms continuously evaluate and learn. Consistent content updates, technical improvements, and monitoring are key to sustained success. We aim for gradual, compounding improvements that build over time.",
+        "description": "Initial benefits may appear in weeks, but significant impact on AI Overview appearances usually takes several months due to ongoing algorithm evaluation and learning."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

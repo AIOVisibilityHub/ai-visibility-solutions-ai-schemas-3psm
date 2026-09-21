@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why should an optometry practice in New York City consider AEO over traditional advertising?",
+  "description": "AEO in New York City targets active online searchers, offering measurable ROI and efficient patient acquisition, unlike broad traditional advertising.",
+  "url": "aiovisibility.com/faq/why-should-an-optometry-practice-in-new-york-city-consider-aeo-over-traditional",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why should an optometry practice in New York City consider AEO over traditional advertising?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In a competitive market like New York City, AEO offers a data-driven advantage over traditional advertising methods. AEO targets patients actively searching for eye care online, leading to higher-quality leads than broad, untargeted campaigns. It provides measurable ROI by tracking organic traffic, patient inquiries, and conversions, allowing for continuous refinement of strategies. This often results in a more cost-effective and efficient patient acquisition model compared to traditional advertising's broader reach.",
+        "description": "AEO in New York City targets active online searchers, offering measurable ROI and efficient patient acquisition, unlike broad traditional advertising."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

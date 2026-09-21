@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Conversion Rate Optimization (CRO) for a dealership website?",
+  "description": "CRO for dealership websites aims to increase the percentage of visitors who complete desired actions like submitting leads or scheduling services by optimizing",
+  "url": "aiovisibility.com/faq/what-is-conversion-rate-optimization-cro-for-a-dealership-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Conversion Rate Optimization (CRO) for a dealership website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Conversion Rate Optimization (CRO) for a dealership website focuses on increasing the percentage of visitors who complete a desired action, such as submitting a lead form, calling the dealership, scheduling a test drive, or booking a service appointment. This involves analyzing user behavior, identifying friction points in the customer journey, and implementing changes like clearer calls-to-action, streamlined forms, prominent phone numbers, and engaging vehicle display pages. The goal is to make it as easy and intuitive as possible for visitors to convert into valuable leads or customers, maximizing the return on existing website traffic.",
+        "description": "CRO for dealership websites aims to increase the percentage of visitors who complete desired actions like submitting leads or scheduling services by optimizing user experience and calls-to-action."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

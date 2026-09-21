@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content is best for AEO for a cosmetic surgeon's website?",
+  "description": "Detailed FAQs, explanatory blog posts, comparison articles, and clear explanations of procedures and recovery, written in natural language, are best for AEO.",
+  "url": "aiovisibility.com/faq/what-kind-of-content-is-best-for-aeo-for-a-cosmetic-surgeon-s-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content is best for AEO for a cosmetic surgeon's website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Content that directly answers common patient questions is ideal for AEO. This includes detailed FAQ sections on procedure pages, blog posts explaining specific treatments, comparison articles (e.g., \"Botox vs. Fillers\"), and clear explanations of recovery processes or expected outcomes. Focus on providing factual, easy-to-understand information. Use natural language that mirrors how a patient would ask a question. Ensuring accuracy and authority in your medical explanations will build trust and improve your chances of being selected as the definitive answer by AI.",
+        "description": "Detailed FAQs, explanatory blog posts, comparison articles, and clear explanations of procedures and recovery, written in natural language, are best for AEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

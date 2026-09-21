@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO differ from traditional SEO for optometrists?",
+  "description": "AEO focuses on providing direct answers in search results, often through featured snippets, while traditional SEO aims for higher website rankings.",
+  "url": "aiovisibility.com/faq/how-does-aeo-differ-from-traditional-seo-for-optometrists",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO differ from traditional SEO for optometrists?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional SEO primarily aims to rank your website high in search results for relevant keywords. AEO takes this further by specifically optimizing content to provide direct, concise answers to patient queries within search results, often appearing as featured snippets, knowledge panels, or voice search responses. While SEO focuses on clicks, AEO prioritizes direct answers. For optometrists, this means patients get immediate information about symptoms, treatments, or services without needing to browse your full site, positioning your practice as an immediate authority.",
+        "description": "AEO focuses on providing direct answers in search results, often through featured snippets, while traditional SEO aims for higher website rankings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

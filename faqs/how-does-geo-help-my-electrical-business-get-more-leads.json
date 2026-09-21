@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does GEO help my electrical business get more leads?",
+  "description": "GEO boosts leads by improving online visibility and matching search intent, driving organic traffic to your website for specific electrical services.",
+  "url": "aiovisibility.com/faq/how-does-geo-help-my-electrical-business-get-more-leads",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does GEO help my electrical business get more leads?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO helps generate more leads by increasing your online visibility and attracting highly qualified prospects. By creating content that directly answers potential customers' questions and matches their search intent, your electrical business appears more prominently when people search for services like 'electrician near me' or 'lighting installation'. This improved ranking drives more organic traffic to your website, turning visitors into leads through clear calls to action and relevant service offerings. It ensures your business is seen by those actively seeking electrical services.",
+        "description": "GEO boosts leads by improving online visibility and matching search intent, driving organic traffic to your website for specific electrical services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

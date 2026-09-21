@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO differ from traditional SEO for pool contractors?",
+  "description": "AEO targets direct answers in search features (like snippets), while traditional SEO focuses on overall website ranking. Both help pool contractors gain online",
+  "url": "aiovisibility.com/faq/how-does-aeo-differ-from-traditional-seo-for-pool-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO differ from traditional SEO for pool contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While traditional SEO focuses broadly on ranking your website high in search results, AEO specifically targets appearing in 'answer engine' formats like featured snippets, knowledge panels, and voice search results. For pool contractors, this means optimizing content to directly answer specific questions potential clients ask, such as 'How much does a new pool cost in New York City?' or 'What's the best material for a swimming pool?'. AEO aims for direct answers and immediate visibility, whereas SEO works on overall domain authority and organic rankings. Both are complementary, but AEO offers a more direct path to showcasing your expertise and services.",
+        "description": "AEO targets direct answers in search features (like snippets), while traditional SEO focuses on overall website ranking. Both help pool contractors gain online visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

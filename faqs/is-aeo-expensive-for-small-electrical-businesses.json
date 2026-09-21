@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AEO expensive for small electrical businesses?",
+  "description": "AEO costs vary; basic optimization can be low-cost, while professional services involve an investment.",
+  "url": "aiovisibility.com/faq/is-aeo-expensive-for-small-electrical-businesses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AEO expensive for small electrical businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO can vary widely depending on whether you handle it in-house or hire a digital marketing agency. Many foundational AEO tasks, such as optimizing your Google Business Profile and creating an FAQ page, can be done with minimal to no direct cost, requiring primarily time and effort. Investing in professional help for more complex technical SEO and content strategy can be a more significant expense, but it often yields faster and more comprehensive results.",
+        "description": "AEO costs vary; basic optimization can be low-cost, while professional services involve an investment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

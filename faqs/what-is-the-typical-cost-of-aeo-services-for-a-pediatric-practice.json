@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of AEO services for a pediatric practice?",
+  "description": "AEO service costs for pediatric practices vary by scope, current online presence, and market competitiveness. Prices can be monthly or project-based; custom quo",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-of-aeo-services-for-a-pediatric-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of AEO services for a pediatric practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services for a pediatric practice varies widely based on the scope of services, the practice's current online presence, and the competitiveness of the local market. Basic packages might cover local SEO and listing management, while comprehensive solutions could include content creation, advanced analytics, and reputation management. Pricing models can be monthly retainers or project-based. It's advisable to get a customized quote after an initial assessment of your specific needs and goals.",
+        "description": "AEO service costs for pediatric practices vary by scope, current online presence, and market competitiveness. Prices can be monthly or project-based; custom quotes are recommended."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What common mistakes should cosmetic surgeons avoid with Answer Engine Optimization?",
+  "description": "Avoid keyword stuffing, jargon, neglecting structured data, outdated content, and ignoring user intent. Focus on clear, accurate, and trustworthy answers for ef",
+  "url": "aiovisibility.com/faq/what-common-mistakes-should-cosmetic-surgeons-avoid-with-answer-engine-optimizat",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What common mistakes should cosmetic surgeons avoid with Answer Engine Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cosmetic surgeons should avoid several common mistakes with AEO. First, don't just keyword stuff; focus on natural, clear language that genuinely answers questions. Second, avoid overly promotional or jargon-filled content; patients seek straightforward information. Third, neglecting structured data (schema markup) will hinder search engines from understanding your answers. Fourth, failing to update content means your answers can become outdated or less relevant. Finally, don't ignore user intent; ensure your content truly addresses the underlying question a patient is asking, rather than just covering a topic broadly. Accuracy and trustworthiness are paramount in medical information.",
+        "description": "Avoid keyword stuffing, jargon, neglecting structured data, outdated content, and ignoring user intent. Focus on clear, accurate, and trustworthy answers for effective AEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

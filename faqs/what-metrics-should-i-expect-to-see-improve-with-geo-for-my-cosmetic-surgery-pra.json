@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should I expect to see improve with GEO for my cosmetic surgery practice?",
+  "description": "Expect to see higher search rankings, increased website traffic, lower bounce rates, more patient inquiries, and better content engagement with GEO.",
+  "url": "aiovisibility.com/faq/what-metrics-should-i-expect-to-see-improve-with-geo-for-my-cosmetic-surgery-pra",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should I expect to see improve with GEO for my cosmetic surgery practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With GEO, you should expect to see improvements in several key metrics. These include higher organic search rankings for relevant keywords, increased website traffic from qualified leads, a lower bounce rate indicating engaged visitors, and a greater number of patient inquiries or appointment requests. We also monitor improvements in content engagement, such as time spent on pages and social media interactions, providing a comprehensive view of success.",
+        "description": "Expect to see higher search rankings, increased website traffic, lower bounce rates, more patient inquiries, and better content engagement with GEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

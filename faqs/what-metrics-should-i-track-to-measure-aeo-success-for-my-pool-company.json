@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should I track to measure AEO success for my pool company?",
+  "description": "Measure AEO success by tracking featured snippet impressions/clicks, 'People Also Ask' appearances, voice search visibility, and increases in qualified leads an",
+  "url": "aiovisibility.com/faq/what-metrics-should-i-track-to-measure-aeo-success-for-my-pool-company",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should I track to measure AEO success for my pool company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure AEO success for your pool company, focus on metrics beyond traditional website traffic. Key indicators include increased impressions and clicks from featured snippets, higher rankings for question-based queries, appearance in 'People Also Ask' sections, and improved visibility in voice search results. Also, track increases in qualified leads, phone calls, and direct inquiries that can be attributed to enhanced answer engine presence. Monitoring these metrics will provide a clearer picture of your AEO strategy's effectiveness.",
+        "description": "Measure AEO success by tracking featured snippet impressions/clicks, 'People Also Ask' appearances, voice search visibility, and increases in qualified leads and inquiries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO differ from traditional SEO for an electrical company?",
+  "description": "AEO focuses on appearing as direct answers in search and voice results, while traditional SEO aims for overall website ranking.",
+  "url": "aiovisibility.com/faq/how-does-aeo-differ-from-traditional-seo-for-an-electrical-company",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO differ from traditional SEO for an electrical company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While traditional SEO aims to rank your website high in search results, AEO specifically targets direct answers, featured snippets, and voice search results. Traditional SEO might focus on keywords and backlinks for overall organic ranking, whereas AEO optimizes for natural language questions, structured data, and clarity that allows search engines to provide a concise answer directly. Both are crucial for comprehensive online visibility, but AEO addresses the growing trend of direct answer queries.",
+        "description": "AEO focuses on appearing as direct answers in search and voice results, while traditional SEO aims for overall website ranking."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

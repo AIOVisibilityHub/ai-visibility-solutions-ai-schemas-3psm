@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of using Generative Engine Optimization for my pediatric clinic?",
+  "description": "GEO increases online visibility, patient acquisition, and engagement for pediatric clinics by establishing them as authoritative resources in pediatric health.",
+  "url": "aiovisibility.com/faq/what-are-the-benefits-of-using-generative-engine-optimization-for-my-pediatric-c",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of using Generative Engine Optimization for my pediatric clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implementing Generative Engine Optimization can significantly boost your pediatric clinic's online presence. Benefits include increased visibility in search results, higher patient acquisition rates, improved engagement with potential and existing patients through informative content, and establishing your practice as an authoritative resource in pediatric health. It helps ensure your services are found when parents search for specific conditions, preventative care, or general pediatric advice, ultimately leading to more appointments and practice growth.",
+        "description": "GEO increases online visibility, patient acquisition, and engagement for pediatric clinics by establishing them as authoritative resources in pediatric health."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

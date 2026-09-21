@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does AEO optimization cost for a cosmetic surgeon?",
+  "description": "AEO costs vary based on the scope of services, including content creation, website audits, and ongoing optimization, with one-time or retainer options available",
+  "url": "aiovisibility.com/faq/how-much-does-aeo-optimization-cost-for-a-cosmetic-surgeon",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does AEO optimization cost for a cosmetic surgeon?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO optimization for a cosmetic surgeon can vary widely, depending on the scope of services. Factors include the number of procedures or topics to be optimized, the current state of your website's content, the need for new content creation, and whether the services are bundled with broader digital marketing efforts. Engagements can range from one-time content audits and strategy development to ongoing monthly retainers for continuous optimization and content production. It's best to consult with a digital marketing specialist to get a tailored quote based on your specific practice needs.",
+        "description": "AEO costs vary based on the scope of services, including content creation, website audits, and ongoing optimization, with one-time or retainer options available."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

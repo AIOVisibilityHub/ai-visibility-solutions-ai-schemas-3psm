@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do you need from my pediatric practice to start GEO services?",
+  "description": "We need details on your services, target demographics, specializations, geographic area, and current website analytics to start GEO services for your pediatric",
+  "url": "aiovisibility.com/faq/what-information-do-you-need-from-my-pediatric-practice-to-start-geo-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do you need from my pediatric practice to start GEO services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To initiate Generative Engine Optimization services, we typically require information about your practice's specific services, target patient demographics, any unique specializations (e.g., behavioral pediatrics, adolescent medicine), and your geographic service area. We also need access to your current website analytics and any existing SEO data to understand your baseline performance. This comprehensive overview allows us to tailor the AI content generation and optimization strategy to align perfectly with your practice's goals and patient needs.",
+        "description": "We need details on your services, target demographics, specializations, geographic area, and current website analytics to start GEO services for your pediatric practice."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will website optimization help my optometry practice rank higher in local searches in New York City?",
+  "description": "Yes, local SEO efforts are key for practices in New York City to rank higher in local searches, using tools like Google My Business and local citations.",
+  "url": "aiovisibility.com/faq/will-website-optimization-help-my-optometry-practice-rank-higher-in-local-search",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will website optimization help my optometry practice rank higher in local searches in New York City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, website optimization, specifically local SEO strategies, are designed to improve your practice's visibility in local search results. For an optometry practice in New York City, this means optimizing your Google My Business profile, ensuring consistent NAP (Name, Address, Phone) information across online directories, acquiring local citations, and generating positive patient reviews. These efforts help your practice appear prominently when potential patients search for 'optometrist near me' or 'optometrist in NYC'.",
+        "description": "Yes, local SEO efforts are key for practices in New York City to rank higher in local searches, using tools like Google My Business and local citations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

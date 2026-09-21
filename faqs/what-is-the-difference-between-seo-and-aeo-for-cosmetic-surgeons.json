@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between SEO and AEO for cosmetic surgeons?",
+  "description": "SEO drives website clicks by ranking high, while AEO aims for search engines to directly answer user queries using your content, often without a click, making y",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-seo-and-aeo-for-cosmetic-surgeons",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between SEO and AEO for cosmetic surgeons?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional SEO for cosmetic surgeons focuses on ranking your website high in search results to drive clicks, using keywords, backlinks, and technical optimization. The goal is often for users to visit your site. AEO, on the other hand, aims to have search engines directly answer user queries using your content, without necessarily requiring a click-through to your website. It optimizes for 'zero-click searches' by structuring content for featured snippets, knowledge panels, and voice search results. While both aim for visibility, SEO drives traffic to your site, whereas AEO establishes your practice as the direct authority for specific answers.",
+        "description": "SEO drives website clicks by ranking high, while AEO aims for search engines to directly answer user queries using your content, often without a click, making your practice an authority."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

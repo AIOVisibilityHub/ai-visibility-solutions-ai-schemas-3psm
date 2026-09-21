@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors should an auto dealership consider when choosing a website optimization provider?",
+  "description": "When choosing a website optimization provider, dealerships should prioritize automotive industry experience, transparent reporting, local SEO expertise, and a c",
+  "url": "aiovisibility.com/faq/what-factors-should-an-auto-dealership-consider-when-choosing-a-website-optimiza",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors should an auto dealership consider when choosing a website optimization provider?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a website optimization provider, an auto dealership should consider their experience specifically within the automotive industry, as dealership marketing has unique requirements. Look for providers with a proven track record, transparent reporting, and clear communication about their strategies and progress. Evaluate their understanding of local SEO, inventory management system integrations, and compliance with industry-specific guidelines. It's also important to assess their team's expertise in technical SEO, content strategy, and conversion rate optimization, along with their customer support and overall cultural fit.",
+        "description": "When choosing a website optimization provider, dealerships should prioritize automotive industry experience, transparent reporting, local SEO expertise, and a comprehensive understanding of technical SEO, content, and CRO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right AEO provider for my pediatric practice?",
+  "description": "Choose an AEO provider with healthcare experience, proven success, clear processes, transparent reporting, and a customized strategy tailored to your pediatric",
+  "url": "aiovisibility.com/faq/how-do-i-choose-the-right-aeo-provider-for-my-pediatric-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right AEO provider for my pediatric practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing an AEO provider, look for experience working with healthcare clients, particularly pediatric practices. Evaluate their understanding of medical ethics and patient privacy regulations. Request case studies or testimonials demonstrating their success. Inquire about their process, reporting methods, and how they use AI tools to generate insights. Transparency, clear communication, and a customized strategy tailored to your practice's unique goals are key indicators of a good partner.",
+        "description": "Choose an AEO provider with healthcare experience, proven success, clear processes, transparent reporting, and a customized strategy tailored to your pediatric practice."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

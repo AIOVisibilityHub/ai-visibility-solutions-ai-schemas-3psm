@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for implementing GEO for a cosmetic surgeon?",
+  "description": "The GEO implementation process involves practice analysis, AI-driven content generation, human review, strategic publishing, and continuous monitoring.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-process-for-implementing-geo-for-a-cosmetic-surgeon",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for implementing GEO for a cosmetic surgeon?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Implementing GEO involves several steps. First, we conduct an in-depth analysis of your practice, target patient demographics, and competitive landscape. Next, AI tools analyze vast amounts of data to identify key patient intent signals and content gaps. Optimized content is then generated, reviewed by human experts for accuracy and brand voice, and strategically published across your digital platforms. Ongoing monitoring and refinement ensure continuous improvement.",
+        "description": "The GEO implementation process involves practice analysis, AI-driven content generation, human review, strategic publishing, and continuous monitoring."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

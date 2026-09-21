@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do you need from my electrical business to start GEO?",
+  "description": "We need your service areas, detailed service list, target customers, unique selling points, and access to website analytics and Google Business Profile.",
+  "url": "aiovisibility.com/faq/what-information-do-you-need-from-my-electrical-business-to-start-geo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do you need from my electrical business to start GEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To effectively implement Generative Engine Optimization, we typically require key information about your electrical business. This includes your service areas (e.g., specific neighborhoods or cities), a detailed list of all electrical services you offer (e.g., residential, commercial, emergency repairs, specific installations), target customer demographics, your unique selling propositions, and any current marketing challenges. Access to your existing website analytics and Google Business Profile is also highly beneficial for a tailored and impactful strategy.",
+        "description": "We need your service areas, detailed service list, target customers, unique selling points, and access to website analytics and Google Business Profile."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

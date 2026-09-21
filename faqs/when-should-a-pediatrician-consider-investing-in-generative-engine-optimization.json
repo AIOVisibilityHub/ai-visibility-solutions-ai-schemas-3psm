@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should a pediatrician consider investing in Generative Engine Optimization?",
+  "description": "Pediatricians should invest in GEO to expand their patient base, improve online reputation, and compete effectively, especially if struggling with low search vi",
+  "url": "aiovisibility.com/faq/when-should-a-pediatrician-consider-investing-in-generative-engine-optimization",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should a pediatrician consider investing in Generative Engine Optimization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A pediatrician should consider investing in Generative Engine Optimization if they are looking to expand their patient base, improve their online reputation, or stay competitive in a crowded market. It is particularly beneficial if your practice struggles with low visibility in search results, receives limited online inquiries, or wants to proactively address patient questions before they even visit. Investing early can establish a strong digital foundation, attracting new families and retaining existing ones by providing valuable, accessible information.",
+        "description": "Pediatricians should invest in GEO to expand their patient base, improve online reputation, and compete effectively, especially if struggling with low search visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

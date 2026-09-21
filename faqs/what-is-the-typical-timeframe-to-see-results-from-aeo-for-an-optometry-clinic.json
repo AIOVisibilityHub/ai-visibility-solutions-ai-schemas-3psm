@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeframe to see results from AEO for an optometry clinic?",
+  "description": "Initial AEO results often appear within 3-6 months, with more significant patient growth typically seen over 6-12 months.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-timeframe-to-see-results-from-aeo-for-an-optometry-clinic",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeframe to see results from AEO for an optometry clinic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeframe to see noticeable results from AEO can vary based on several factors, including the current online presence of the optometry clinic, local competition, and the specific goals set. Generally, clients may start to observe initial improvements in online visibility and website traffic within 3 to 6 months. More significant and sustained growth in patient inquiries typically develops over 6 to 12 months as the AI models continuously refine and optimize strategies.",
+        "description": "Initial AEO results often appear within 3-6 months, with more significant patient growth typically seen over 6-12 months."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

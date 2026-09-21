@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors should I consider when choosing an AI SEO provider for my dealership?",
+  "description": "When choosing an AI SEO provider, consider their automotive industry experience, technological capabilities, reporting transparency, customer support, and integ",
+  "url": "aiovisibility.com/faq/what-factors-should-i-consider-when-choosing-an-ai-seo-provider-for-my-dealershi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors should I consider when choosing an AI SEO provider for my dealership?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing an AI SEO provider, consider their experience specifically with automotive dealerships, their technological capabilities, and their reporting transparency. Look for providers who understand the unique challenges of the auto industry, such as inventory fluctuations and local market competition. Evaluate the sophistication of their AI tools, ensuring they offer comprehensive data analysis, content optimization, and performance tracking. Transparent reporting on key metrics and a clear explanation of their AI methodology are crucial. Also, assess their customer support and ability to integrate with your existing marketing efforts.",
+        "description": "When choosing an AI SEO provider, consider their automotive industry experience, technological capabilities, reporting transparency, customer support, and integration with existing marketing efforts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

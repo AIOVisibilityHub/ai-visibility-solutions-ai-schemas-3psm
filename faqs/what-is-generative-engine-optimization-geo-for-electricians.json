@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Generative Engine Optimization (GEO) for electricians?",
+  "description": "Generative Engine Optimization (GEO) uses AI to create optimized content, helping electricians rank higher in search results and attract more local customers.",
+  "url": "aiovisibility.com/faq/what-is-generative-engine-optimization-geo-for-electricians",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Generative Engine Optimization (GEO) for electricians?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization (GEO) is a specialized digital marketing strategy that uses AI-powered content generation and optimization techniques to improve an electrician's online visibility. It focuses on creating highly relevant and optimized content that addresses specific customer queries, helping their business rank higher in search engine results for services like electrical repairs, installations, and upgrades. This approach helps electricians attract more local customers by ensuring their services are easily discoverable through search engines and other digital platforms.",
+        "description": "Generative Engine Optimization (GEO) uses AI to create optimized content, helping electricians rank higher in search results and attract more local customers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

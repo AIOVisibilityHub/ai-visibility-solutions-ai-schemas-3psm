@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is Generative Engine Optimization suitable for small independent electricians or only larger companies?",
+  "description": "GEO benefits both small independent electricians and larger companies by improving digital visibility and customer acquisition efficiently.",
+  "url": "aiovisibility.com/faq/is-generative-engine-optimization-suitable-for-small-independent-electricians-or",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Generative Engine Optimization suitable for small independent electricians or only larger companies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization is beneficial for electricians of all sizes, from independent contractors to larger electrical companies. For small businesses, it offers an efficient way to compete with larger firms by optimizing for specific local searches and niche services without extensive manual content creation. Larger companies can leverage GEO to scale their content efforts across multiple service areas or specializations. The strategy adapts to various business goals, helping any electrical service provider improve their digital footprint and customer acquisition.",
+        "description": "GEO benefits both small independent electricians and larger companies by improving digital visibility and customer acquisition efficiently."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

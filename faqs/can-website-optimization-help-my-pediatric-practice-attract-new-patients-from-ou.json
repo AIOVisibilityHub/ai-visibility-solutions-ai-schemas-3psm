@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can website optimization help my pediatric practice attract new patients from outside my immediate neighborhood?",
+  "description": "Yes, website optimization can attract patients from a wider area through general SEO efforts, including informational content and broader keyword targeting.",
+  "url": "aiovisibility.com/faq/can-website-optimization-help-my-pediatric-practice-attract-new-patients-from-ou",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can website optimization help my pediatric practice attract new patients from outside my immediate neighborhood?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, website optimization can help your pediatric practice attract new patients from beyond your immediate neighborhood, particularly through broader SEO strategies. While local SEO targets nearby families, general SEO efforts, including keyword research for broader pediatric topics and high-quality informational content, can draw in parents from a wider geographical radius. For example, creating blog posts on common pediatric health concerns can attract parents searching for information, who may then discover your practice even if they are not in your direct vicinity but are willing to travel for quality care.",
+        "description": "Yes, website optimization can attract patients from a wider area through general SEO efforts, including informational content and broader keyword targeting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

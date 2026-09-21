@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does GEO help my optometry practice attract new patients?",
+  "description": "GEO helps attract new patients by optimizing your online content with AI, making your practice highly visible in search results for relevant eye care services.",
+  "url": "aiovisibility.com/faq/how-does-geo-help-my-optometry-practice-attract-new-patients",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does GEO help my optometry practice attract new patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO attracts new patients by ensuring your practice appears prominently in search results when people look for eye care services. It does this by creating high-quality, keyword-rich content that matches search intent. For example, if a patient searches for 'pediatric eye exams in Chicago,' GEO optimizes your site to rank for that phrase, making it easier for them to discover your services. By continuously generating fresh, relevant content, GEO establishes your practice as an authority, building trust and driving more qualified leads to your door.",
+        "description": "GEO helps attract new patients by optimizing your online content with AI, making your practice highly visible in search results for relevant eye care services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to provide to start with Generative Engine Optimization for my pool business?",
+  "description": "To start GEO, provide details about your pool services, target audience, service areas, unique selling propositions, website, and business goals.",
+  "url": "aiovisibility.com/faq/what-information-do-i-need-to-provide-to-start-with-generative-engine-optimizati",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to provide to start with Generative Engine Optimization for my pool business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To begin with Generative Engine Optimization, you typically need to provide details about your pool contracting services, target audience, service areas (e.g., New York City, Los Angeles), and unique selling propositions. Information regarding your current website, any existing marketing efforts, and specific business goals (e.g., more renovation leads, new pool constructions) is also valuable. The more comprehensive the information, the better the AI can tailor content to achieve your objectives and accurately represent your brand.",
+        "description": "To start GEO, provide details about your pool services, target audience, service areas, unique selling propositions, website, and business goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

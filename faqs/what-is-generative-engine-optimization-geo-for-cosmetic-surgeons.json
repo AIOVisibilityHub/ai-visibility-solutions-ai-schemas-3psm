@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is Generative Engine Optimization (GEO) for cosmetic surgeons?",
+  "description": "Generative Engine Optimization (GEO) uses AI to create highly relevant content for cosmetic surgeons, improving search visibility and attracting patients.",
+  "url": "aiovisibility.com/faq/what-is-generative-engine-optimization-geo-for-cosmetic-surgeons",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Generative Engine Optimization (GEO) for cosmetic surgeons?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization (GEO) leverages AI and machine learning to analyze search patterns and patient intent, then generates optimized content. For cosmetic surgeons, this means creating highly relevant web content, social media posts, and ad copy that directly addresses potential patients' questions and concerns, improving visibility in search engine results and attracting qualified leads. It moves beyond traditional SEO by proactively creating content tailored to anticipated queries.",
+        "description": "Generative Engine Optimization (GEO) uses AI to create highly relevant content for cosmetic surgeons, improving search visibility and attracting patients."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

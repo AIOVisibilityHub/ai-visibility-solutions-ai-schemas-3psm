@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content does Generative Engine Optimization produce for electricians?",
+  "description": "GEO generates localized service pages, blog posts on electrical topics, FAQs, and optimized service descriptions to attract customers.",
+  "url": "aiovisibility.com/faq/what-kind-of-content-does-generative-engine-optimization-produce-for-electrician",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content does Generative Engine Optimization produce for electricians?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization produces a variety of content tailored to an electrician's services and target audience. This includes localized service pages for specific towns or neighborhoods, blog posts addressing common electrical issues or safety tips, FAQs, and optimized descriptions for service offerings like panel upgrades, EV charger installations, or troubleshooting. The content is designed to be informative, engaging, and keyword-rich, ensuring it resonates with both search engines and potential customers seeking electrical solutions.",
+        "description": "GEO generates localized service pages, blog posts on electrical topics, FAQs, and optimized service descriptions to attract customers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

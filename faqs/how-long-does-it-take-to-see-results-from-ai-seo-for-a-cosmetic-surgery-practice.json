@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AI SEO for a cosmetic surgery practice?",
+  "description": "Visible improvements can start in 2-3 months, but significant, sustained results usually take 6 to 12 months, depending on various factors and consistent effort",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-ai-seo-for-a-cosmetic-surgery-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AI SEO for a cosmetic surgery practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While some initial improvements in visibility can be observed within 2-3 months, significant and sustained results from AI SEO for a cosmetic surgery practice typically take 6 to 12 months. Search engine optimization is a long-term strategy, and AI helps accelerate the process by quickly identifying and implementing effective changes. The timeframe can also depend on factors such as the current website's authority, competitive landscape, and the consistency of ongoing optimization efforts. Patience and consistent application are key to long-term success.",
+        "description": "Visible improvements can start in 2-3 months, but significant, sustained results usually take 6 to 12 months, depending on various factors and consistent effort."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

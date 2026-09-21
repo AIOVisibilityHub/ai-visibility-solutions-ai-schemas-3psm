@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What specific services are included in website optimization for optometrists?",
+  "description": "Services often include SEO, local SEO, mobile optimization, speed enhancements, content creation, user experience improvements, and analytics.",
+  "url": "aiovisibility.com/faq/what-specific-services-are-included-in-website-optimization-for-optometrists",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What specific services are included in website optimization for optometrists?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Website optimization for optometrists typically includes several key services. These often involve search engine optimization (SEO) to improve rankings, local SEO to attract nearby patients, mobile optimization for device compatibility, website speed enhancements, content creation (blog posts, service pages), user experience (UX) improvements, and analytics tracking to monitor performance. Some providers may also offer social media integration and online reputation management.",
+        "description": "Services often include SEO, local SEO, mobile optimization, speed enhancements, content creation, user experience improvements, and analytics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

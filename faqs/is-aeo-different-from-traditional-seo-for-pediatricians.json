@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is AEO different from traditional SEO for pediatricians?",
+  "description": "AEO focuses on appearing as a direct answer in search features like snippets and voice results, while traditional SEO aims for organic website rankings.",
+  "url": "aiovisibility.com/faq/is-aeo-different-from-traditional-seo-for-pediatricians",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is AEO different from traditional SEO for pediatricians?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While AEO builds upon traditional SEO principles, it has a distinct focus. Traditional SEO often aims to rank your website for keywords, driving traffic primarily through organic search results. AEO specifically targets the 'answer box' features of search engines, such as featured snippets, 'People Also Ask' sections, and voice search results. It emphasizes providing direct, concise answers to user queries, often reducing the need for a user to click through to your site for basic information. For pediatricians, AEO prioritizes being the *direct answer* parents see first.",
+        "description": "AEO focuses on appearing as a direct answer in search features like snippets and voice results, while traditional SEO aims for organic website rankings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

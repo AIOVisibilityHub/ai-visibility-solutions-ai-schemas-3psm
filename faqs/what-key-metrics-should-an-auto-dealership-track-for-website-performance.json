@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What key metrics should an auto dealership track for website performance?",
+  "description": "Dealerships should track organic traffic, conversion rates (leads, calls), bounce rate, page load speed, mobile usability, and VDP/SERP views to assess website",
+  "url": "aiovisibility.com/faq/what-key-metrics-should-an-auto-dealership-track-for-website-performance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What key metrics should an auto dealership track for website performance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key metrics for an auto dealership's website performance include organic search traffic, conversion rates (e.g., lead form submissions, phone calls, service appointments), bounce rate, page load speed, and mobile usability. Tracking how many users view vehicle detail pages (VDPs) and vehicle search results pages (SERPs) is also crucial. Monitoring the source of traffic (organic, paid, referral) helps identify effective channels, while user engagement metrics reveal how visitors interact with the site, informing further optimization efforts to improve the customer journey.",
+        "description": "Dealerships should track organic traffic, conversion rates (leads, calls), bounce rate, page load speed, mobile usability, and VDP/SERP views to assess website performance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

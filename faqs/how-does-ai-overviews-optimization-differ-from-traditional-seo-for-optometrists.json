@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AI Overviews optimization differ from traditional SEO for optometrists?",
+  "description": "AI Overviews optimization focuses on providing direct, concise answers for AI summaries, prioritizing clarity and authority, while traditional SEO aims for orga",
+  "url": "aiovisibility.com/faq/how-does-ai-overviews-optimization-differ-from-traditional-seo-for-optometrists",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AI Overviews optimization differ from traditional SEO for optometrists?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While traditional SEO focuses on ranking high in organic search results through keywords, backlinks, and technical aspects, AI Overviews optimization has a specific emphasis on providing direct, concise answers that AI models can easily summarize. It prioritizes clarity, authority, and comprehensive coverage of topics relevant to user queries, often requiring a more semantic and natural language approach to content creation, rather than just keyword stuffing. It's an evolution that builds upon SEO fundamentals.",
+        "description": "AI Overviews optimization focuses on providing direct, concise answers for AI summaries, prioritizing clarity and authority, while traditional SEO aims for organic search rankings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

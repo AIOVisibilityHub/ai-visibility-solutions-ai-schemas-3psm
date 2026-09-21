@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does AEO typically cost for an optometry practice?",
+  "description": "AEO costs for optometry practices vary based on scope, market competitiveness, and desired optimization, with custom proposals provided after assessment.",
+  "url": "aiovisibility.com/faq/how-much-does-aeo-typically-cost-for-an-optometry-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does AEO typically cost for an optometry practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services for an optometry practice varies based on the scope of work, the competitiveness of the market, and the desired level of optimization. Factors influencing pricing include the number of locations, the breadth of services to promote, and the extent of existing online presence. A customized proposal is usually provided after an initial assessment, detailing the specific strategies and associated investment required to meet the practice's goals.",
+        "description": "AEO costs for optometry practices vary based on scope, market competitiveness, and desired optimization, with custom proposals provided after assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

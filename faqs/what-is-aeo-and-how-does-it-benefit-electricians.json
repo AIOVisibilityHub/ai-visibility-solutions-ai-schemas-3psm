@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AEO and how does it benefit electricians?",
+  "description": "AEO optimizes your online content to appear as direct answers in search engines and voice assistants, helping electricians attract more local customers.",
+  "url": "aiovisibility.com/faq/what-is-aeo-and-how-does-it-benefit-electricians",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AEO and how does it benefit electricians?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO, or Answer Engine Optimization, focuses on making your business visible when customers ask direct questions to search engines or voice assistants. For electricians, this means optimizing your website content, service descriptions, and local listings so that search engines can easily extract and present your information as a direct answer. Benefits include increased online visibility, attracting customers specifically looking for electrical services, and improved rankings in local search results.",
+        "description": "AEO optimizes your online content to appear as direct answers in search engines and voice assistants, helping electricians attract more local customers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

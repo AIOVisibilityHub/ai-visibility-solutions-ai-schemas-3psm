@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for AEO services for a pool contractor?",
+  "description": "AEO service costs for pool contractors vary widely, from hundreds to thousands of dollars monthly, depending on scope, market, and agency expertise.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-for-aeo-services-for-a-pool-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for AEO services for a pool contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AEO services for pool contractors varies significantly based on the scope of work, the size of your business, the competitiveness of your market, and the agency's expertise. Packages can range from a few hundred to several thousand dollars per month. Factors influencing cost include content creation, technical optimization, local SEO integration, and ongoing monitoring. It's best to discuss your specific needs with a provider to get an accurate quote.",
+        "description": "AEO service costs for pool contractors vary widely, from hundreds to thousands of dollars monthly, depending on scope, market, and agency expertise."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

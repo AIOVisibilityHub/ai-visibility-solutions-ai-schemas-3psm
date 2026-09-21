@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What metrics should cosmetic surgeons track to measure AEO success?",
+  "description": "Track direct answer impressions, click-through rates from snippets, organic visibility for specific questions, voice search performance, and conversions like co",
+  "url": "aiovisibility.com/faq/what-metrics-should-cosmetic-surgeons-track-to-measure-aeo-success",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What metrics should cosmetic surgeons track to measure AEO success?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure AEO success, cosmetic surgeons should track metrics beyond just website traffic. Key indicators include direct answer impressions (how often your content appears as a featured snippet or direct answer), click-through rates from these snippets, increases in organic search visibility for specific questions, and improvements in voice search performance. Additionally, monitor conversions stemming from AEO-optimized content, such as consultation requests or form submissions. Tools like Google Search Console and analytics platforms can provide valuable insights into these metrics, helping you understand content effectiveness.",
+        "description": "Track direct answer impressions, click-through rates from snippets, organic visibility for specific questions, voice search performance, and conversions like consultation requests."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

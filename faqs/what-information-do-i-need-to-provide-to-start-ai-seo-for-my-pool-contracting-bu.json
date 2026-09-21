@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to provide to start AI SEO for my pool contracting business?",
+  "description": "Provide website access, analytics data, target service areas, specific services, and business goals to start AI SEO for your pool contracting business.",
+  "url": "aiovisibility.com/faq/what-information-do-i-need-to-provide-to-start-ai-seo-for-my-pool-contracting-bu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to provide to start AI SEO for my pool contracting business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To begin AI SEO for your pool contracting business, you would typically need to provide access to your website, Google Analytics, Google Search Console, and any existing social media profiles. Information about your target service areas, specific services offered (e.g., new pool construction, liner replacement, cleaning, repairs), and any unique selling propositions is also crucial. Understanding your current marketing goals, budget, and primary competitors helps the AI-driven strategy align with your business objectives. The more data and context provided, the more precise the optimization.",
+        "description": "Provide website access, analytics data, target service areas, specific services, and business goals to start AI SEO for your pool contracting business."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

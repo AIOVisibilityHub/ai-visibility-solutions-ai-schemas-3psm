@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AEO and how does it benefit an optometry practice?",
+  "description": "AEO (AI-Enhanced Optimization) uses AI to improve an optometry practice's online visibility, driving more targeted traffic and patient appointments.",
+  "url": "aiovisibility.com/faq/what-is-aeo-and-how-does-it-benefit-an-optometry-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AEO and how does it benefit an optometry practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO, or AI-Enhanced Optimization, uses artificial intelligence to improve an optometry practice's online visibility. It analyzes patient search behavior, competitive landscapes, and website performance data to identify opportunities for growth. This leads to higher rankings in search results, more targeted website traffic, and ultimately, an increase in patient inquiries and appointments. AEO helps optometrists connect with potential patients actively searching for eye care services.",
+        "description": "AEO (AI-Enhanced Optimization) uses AI to improve an optometry practice's online visibility, driving more targeted traffic and patient appointments."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

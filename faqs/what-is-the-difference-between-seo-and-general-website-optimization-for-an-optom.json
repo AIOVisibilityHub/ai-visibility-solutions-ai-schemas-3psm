@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between SEO and general website optimization for an optometrist?",
+  "description": "SEO is a part of broader website optimization, which also includes user experience, speed, mobile responsiveness, and conversion rate optimization.",
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-seo-and-general-website-optimization-for-an-optom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between SEO and general website optimization for an optometrist?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SEO (Search Engine Optimization) is a component of general website optimization. SEO specifically focuses on improving your website's visibility in search engine results pages. General website optimization is a broader term that encompasses SEO, but also includes aspects like user experience (UX) design, website speed, mobile responsiveness, content quality, and conversion rate optimization (CRO) – all aimed at making the entire website more effective for visitors and practice goals.",
+        "description": "SEO is a part of broader website optimization, which also includes user experience, speed, mobile responsiveness, and conversion rate optimization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

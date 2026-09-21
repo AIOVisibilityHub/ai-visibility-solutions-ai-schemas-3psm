@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AI SEO for a pediatrician's website?",
+  "description": "Most pediatric practices see initial AI SEO results in 3-6 months, with significant improvements in new patient appointments typically within 6-12 months.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-ai-seo-for-a-pediatrician-s-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AI SEO for a pediatrician's website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing results from AI SEO can vary, but most pediatric practices begin to observe measurable improvements within 3 to 6 months. Initial changes might include increased website traffic and higher keyword rankings. More significant outcomes, such as a noticeable increase in new patient appointments, typically become evident within 6 to 12 months. AI SEO is a long-term strategy, with ongoing optimization providing sustained growth and improved visibility over time.",
+        "description": "Most pediatric practices see initial AI SEO results in 3-6 months, with significant improvements in new patient appointments typically within 6-12 months."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

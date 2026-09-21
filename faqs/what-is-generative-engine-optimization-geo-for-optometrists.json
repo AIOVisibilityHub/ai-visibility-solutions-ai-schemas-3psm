@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is generative engine optimization (GEO) for optometrists?",
+  "description": "Generative Engine Optimization (GEO) uses AI to create tailored content for optometrists' websites and online listings, improving search rankings and patient en",
+  "url": "aiovisibility.com/faq/what-is-generative-engine-optimization-geo-for-optometrists",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is generative engine optimization (GEO) for optometrists?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization (GEO) leverages AI to create highly relevant and engaging content specifically for optometry practices. This includes optimizing website text, blog posts, service descriptions, and local directory listings to improve search engine rankings. For optometrists, GEO ensures their online presence directly addresses patient queries, showcases their specialized services, and helps them stand out in competitive markets like New York City or Los Angeles. It focuses on generating content that not only ranks well but also resonates with potential patients seeking eye care.",
+        "description": "Generative Engine Optimization (GEO) uses AI to create tailored content for optometrists' websites and online listings, improving search rankings and patient engagement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content is best for AEO for an electrician's website?",
+  "description": "Content that directly answers common customer questions, such as detailed service descriptions, FAQs, and informational blog posts, is best for AEO.",
+  "url": "aiovisibility.com/faq/what-kind-of-content-is-best-for-aeo-for-an-electrician-s-website",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content is best for AEO for an electrician's website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Content that directly answers common customer questions is ideal for AEO. This includes detailed service descriptions, blog posts addressing common electrical issues or FAQs, and guides on electrical safety or energy efficiency. Each piece of content should be clear, concise, and structured so search engines can easily extract information. Think about questions customers ask before hiring an electrician, like 'How much does it cost to install a new outlet?' or 'What are common signs of electrical problems?'",
+        "description": "Content that directly answers common customer questions, such as detailed service descriptions, FAQs, and informational blog posts, is best for AEO."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AEO help my pediatric practice attract new patients?",
+  "description": "AEO helps attract new patients by making your practice's website a top source for parents' health questions in search results, building trust and leading to mor",
+  "url": "aiovisibility.com/faq/how-does-aeo-help-my-pediatric-practice-attract-new-patients",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AEO help my pediatric practice attract new patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AEO helps your pediatric practice attract new patients by positioning your website as a reliable source of information for parents' health queries. When parents search for symptoms, conditions, or general pediatric advice, your optimized content can appear as a direct answer or featured snippet. This instant visibility builds trust and establishes your practice as an authority. By providing concise, helpful answers, you increase the likelihood of parents clicking through to your site, exploring your services, and ultimately scheduling appointments for their children.",
+        "description": "AEO helps attract new patients by making your practice's website a top source for parents' health questions in search results, building trust and leading to more appointments."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

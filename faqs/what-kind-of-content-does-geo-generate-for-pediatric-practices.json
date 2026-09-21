@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content does GEO generate for pediatric practices?",
+  "description": "GEO generates diverse content like blog posts, FAQs, service pages, and localized content to answer patient queries and boost visibility for pediatric practices",
+  "url": "aiovisibility.com/faq/what-kind-of-content-does-geo-generate-for-pediatric-practices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content does GEO generate for pediatric practices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative Engine Optimization creates a wide range of content tailored for pediatric practices. This includes blog posts on common childhood illnesses, FAQs about vaccinations or developmental milestones, optimized service pages for specialties like newborn care or adolescent health, localized content for specific areas, and even scripts for conversational AI tools. The content is designed to answer specific patient queries, provide valuable information to parents, and improve the practice's authority and visibility across various online platforms.",
+        "description": "GEO generates diverse content like blog posts, FAQs, service pages, and localized content to answer patient queries and boost visibility for pediatric practices."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

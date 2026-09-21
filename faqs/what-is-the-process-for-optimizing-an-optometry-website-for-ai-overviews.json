@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for optimizing an optometry website for AI Overviews?",
+  "description": "The process includes content audits, keyword research, content refinement, creation of authoritative content, and technical SEO improvements like schema markup",
+  "url": "aiovisibility.com/faq/what-is-the-process-for-optimizing-an-optometry-website-for-ai-overviews",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for optimizing an optometry website for AI Overviews?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The optimization process involves several key steps. First, we conduct a thorough audit of your current website content for relevance and structure. This is followed by keyword research focusing on patient queries and long-tail questions related to optometry. We then refine existing content and create new, authoritative content that directly answers these questions. Technical SEO aspects, such as schema markup and site speed, are also addressed to improve AI's ability to crawl and understand your site, enhancing the likelihood of your content appearing in AI Overviews.",
+        "description": "The process includes content audits, keyword research, content refinement, creation of authoritative content, and technical SEO improvements like schema markup for better AI visibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

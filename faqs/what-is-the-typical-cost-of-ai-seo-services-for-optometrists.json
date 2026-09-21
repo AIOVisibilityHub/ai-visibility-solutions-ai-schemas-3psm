@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of AI SEO services for optometrists?",
+  "description": "The cost of AI SEO for optometrists varies widely, from hundreds to thousands of dollars per month, depending on the service scope and market complexity.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-of-ai-seo-services-for-optometrists",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of AI SEO services for optometrists?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of AI SEO services for optometrists varies based on the scope of work, the complexity of the market, and the specific features included in the package. Basic AI SEO packages might focus on keyword research and local SEO, while more comprehensive solutions could include content generation, technical SEO audits, and advanced analytics. Pricing can range from several hundred to a few thousand dollars per month. It's advisable to discuss your practice's specific needs and budget with a provider to get an accurate quote and understand the potential return on investment.",
+        "description": "The cost of AI SEO for optometrists varies widely, from hundreds to thousands of dollars per month, depending on the service scope and market complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

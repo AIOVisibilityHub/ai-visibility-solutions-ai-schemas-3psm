@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is local SEO and why is it important for a cosmetic surgery practice in Houston?",
+  "description": "Local SEO optimizes a cosmetic surgeon's online presence to attract nearby patients, crucial for practices in specific cities like Houston to appear in local se",
+  "url": "aiovisibility.com/faq/what-is-local-seo-and-why-is-it-important-for-a-cosmetic-surgery-practice-in-hou",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is local SEO and why is it important for a cosmetic surgery practice in Houston?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local SEO focuses on optimizing your online presence to attract potential patients within your specific geographic service area. For a cosmetic surgery practice in Houston, this means ensuring your practice appears prominently in local search results when people search for terms like 'cosmetic surgeon Houston' or 'breast augmentation near me.' Key elements include optimizing your Google Business Profile, accumulating local reviews, and building local citations. This helps local patients easily find your practice over competitors.",
+        "description": "Local SEO optimizes a cosmetic surgeon's online presence to attract nearby patients, crucial for practices in specific cities like Houston to appear in local search results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

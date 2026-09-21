@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can AEO help my optometry practice attract patients in specific neighborhoods within Los Angeles?",
+  "description": "Yes, AEO uses AI to analyze localized search queries and geographic intent, effectively targeting patients in specific Los Angeles neighborhoods.",
+  "url": "aiovisibility.com/faq/can-aeo-help-my-optometry-practice-attract-patients-in-specific-neighborhoods-wi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can AEO help my optometry practice attract patients in specific neighborhoods within Los Angeles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AEO can be highly effective in targeting specific neighborhoods within larger metropolitan areas like Los Angeles. The AI models analyze localized search queries and geographic intent, allowing for optimization strategies that highlight your practice to potential patients searching for optometrists in their immediate vicinity. This granular targeting helps maximize your visibility among the most relevant local patient base, driving highly qualified leads to your practice.",
+        "description": "Yes, AEO uses AI to analyze localized search queries and geographic intent, effectively targeting patients in specific Los Angeles neighborhoods."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose an AEO service provider for my optometry practice?",
+  "description": "Choose an AEO provider with healthcare experience, proven results in direct answers, transparent reporting, and a strong understanding of medical content and pa",
+  "url": "aiovisibility.com/faq/how-do-i-choose-an-aeo-service-provider-for-my-optometry-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose an AEO service provider for my optometry practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing an AEO service provider for your optometry practice, look for a partner with proven experience in healthcare or a similar specialized industry. Evaluate their understanding of medical terminology, patient intent, and their ability to craft compliant, accurate content. Request case studies or examples of their work, focusing on how they've helped other practices achieve direct answers and featured snippet visibility. A good provider should offer transparent reporting, clearly outlining their strategies and the measurable impact on your practice's online visibility and patient engagement.",
+        "description": "Choose an AEO provider with healthcare experience, proven results in direct answers, transparent reporting, and a strong understanding of medical content and patient intent."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

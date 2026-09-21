@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should a cosmetic surgeon consider investing in AEO?",
+  "description": "Cosmetic surgeons should invest in AEO when they see a rise in conversational search, want to boost visibility by directly answering patient questions, and aim",
+  "url": "aiovisibility.com/faq/when-should-a-cosmetic-surgeon-consider-investing-in-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should a cosmetic surgeon consider investing in AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A cosmetic surgeon should consider investing in AEO when they recognize the shift towards conversational search and want to ensure their practice remains highly visible. If patients are increasingly asking questions directly to search engines or voice assistants, and your current online presence isn't capturing these queries effectively, AEO becomes crucial. It's particularly beneficial for practices looking to establish authority, attract more qualified leads by providing direct answers, and differentiate themselves in a competitive market. Ideally, AEO should be integrated into your overall digital marketing strategy.",
+        "description": "Cosmetic surgeons should invest in AEO when they see a rise in conversational search, want to boost visibility by directly answering patient questions, and aim to establish authority online."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

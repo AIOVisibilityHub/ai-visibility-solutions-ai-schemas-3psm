@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to see results from AEO for a pediatric practice?",
+  "description": "Practices typically see AEO results within 3-6 months, with more significant impact on patient acquisition within 6-12 months. It is a long-term strategy.",
+  "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-aeo-for-a-pediatric-practice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from AEO for a pediatric practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeframe to see significant results from AEO efforts can vary, but generally, practices start observing improvements in online visibility and organic traffic within 3 to 6 months. More substantial impacts on patient acquisition and ranking increases often become apparent over 6 to 12 months. AEO is a long-term strategy, and consistent effort combined with AI-driven adjustments leads to sustainable growth rather than instant results.",
+        "description": "Practices typically see AEO results within 3-6 months, with more significant impact on patient acquisition within 6-12 months. It is a long-term strategy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

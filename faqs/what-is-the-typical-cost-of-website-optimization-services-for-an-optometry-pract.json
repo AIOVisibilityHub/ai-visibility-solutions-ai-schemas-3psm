@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of website optimization services for an optometry practice?",
+  "description": "Costs vary based on service scope, current website status, and market competition, typically ranging from hundreds to several thousands per month.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-of-website-optimization-services-for-an-optometry-pract",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of website optimization services for an optometry practice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of website optimization for an optometry practice can vary widely depending on the scope of services, the current state of your website, and the competitiveness of your market. Basic packages might start from a few hundred dollars per month, while comprehensive strategies including SEO, content marketing, and local search optimization can range into several thousands. A custom quote is usually provided after an initial website audit.",
+        "description": "Costs vary based on service scope, current website status, and market competition, typically ranging from hundreds to several thousands per month."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

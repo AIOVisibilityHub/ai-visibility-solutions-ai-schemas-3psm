@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What key metrics should I track to measure the success of my AEO strategy?",
+  "description": "Track featured snippet placements, voice search visibility, impressions and CTR from answer boxes, and conversion rates from AEO-driven traffic to measure succe",
+  "url": "aiovisibility.com/faq/what-key-metrics-should-i-track-to-measure-the-success-of-my-aeo-strategy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What key metrics should I track to measure the success of my AEO strategy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To measure the success of your AEO strategy, focus on metrics beyond just organic traffic. Key indicators include the number of featured snippets or 'People Also Ask' placements your content achieves, voice search visibility, and impressions from these specific search features. Monitor click-through rates (CTR) from these answer boxes, as well as the conversion rates of visitors arriving from AEO-optimized content. Tracking brand mentions and overall online authority related to specific questions also provides insight. Look at lead generation directly attributable to your AEO efforts, such as contact form submissions or phone calls from relevant pages.",
+        "description": "Track featured snippet placements, voice search visibility, impressions and CTR from answer boxes, and conversion rates from AEO-driven traffic to measure success."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

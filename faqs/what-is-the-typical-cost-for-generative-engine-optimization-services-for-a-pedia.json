@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost for Generative Engine Optimization services for a pediatrician?",
+  "description": "GEO costs for pediatricians vary by service scope, location, and competition. Custom quotes are recommended.",
+  "url": "aiovisibility.com/faq/what-is-the-typical-cost-for-generative-engine-optimization-services-for-a-pedia",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost for Generative Engine Optimization services for a pediatrician?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of Generative Engine Optimization services for a pediatrician varies based on the scope and intensity of the strategy. Factors influencing price include the number of services offered, the competitive landscape in your location (e.g., New York City vs. a smaller market), and the desired level of content generation and optimization. Most providers offer tiered packages, ranging from basic content generation and SEO integration to comprehensive strategies including AI-driven patient communication tools. It's best to get a customized quote after an initial assessment.",
+        "description": "GEO costs for pediatricians vary by service scope, location, and competition. Custom quotes are recommended."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

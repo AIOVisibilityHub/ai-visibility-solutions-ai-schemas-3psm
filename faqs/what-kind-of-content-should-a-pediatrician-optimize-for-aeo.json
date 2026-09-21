@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of content should a pediatrician optimize for AEO?",
+  "description": "Pediatricians should optimize FAQs, common illness guides, developmental information, and practice policies to directly answer parents' questions in search.",
+  "url": "aiovisibility.com/faq/what-kind-of-content-should-a-pediatrician-optimize-for-aeo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of content should a pediatrician optimize for AEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pediatricians should optimize content that addresses common parent concerns and questions. This includes detailed FAQs on topics like vaccination schedules, common childhood illnesses (e.g., flu, colds, allergies), developmental milestones, and routine check-ups. Information on practice policies, appointment scheduling, and patient forms should also be structured for direct answers. Focus on clear, concise language that anticipates specific questions. Condition guides, 'What to Expect' pages, and 'When to Call the Doctor' resources are excellent candidates for AEO optimization.",
+        "description": "Pediatricians should optimize FAQs, common illness guides, developmental information, and practice policies to directly answer parents' questions in search."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

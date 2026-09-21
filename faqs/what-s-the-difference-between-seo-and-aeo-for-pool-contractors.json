@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between SEO and AEO for pool contractors?",
+  "description": "SEO focuses on ranking websites for clicks, while AEO optimizes content to be direct answers in search results, like featured snippets, for immediate visibility",
+  "url": "aiovisibility.com/faq/what-s-the-difference-between-seo-and-aeo-for-pool-contractors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between SEO and AEO for pool contractors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While related, SEO (Search Engine Optimization) primarily aims to rank your website high on search result pages, encouraging clicks to your site. AEO (Answer Engine Optimization) goes a step further by optimizing your content to be the *direct answer* within the search results themselves, often without requiring a click. For pool contractors, this means appearing in featured snippets, 'People Also Ask' boxes, and voice search results. AEO focuses on providing concise, authoritative answers to common questions about pool services, often leading to immediate visibility.",
+        "description": "SEO focuses on ranking websites for clicks, while AEO optimizes content to be direct answers in search results, like featured snippets, for immediate visibility without a click."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
