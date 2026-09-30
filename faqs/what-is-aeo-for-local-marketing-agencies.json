@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is AEO for local marketing agencies?",
-  "description": "AEO for local marketing agencies optimizes digital content to directly answer user queries on search engines and voice assistants, focusing on prominent, concis",
   "url": "aiovisibility.com/faq/what-is-aeo-for-local-marketing-agencies",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is AEO for local marketing agencies?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AEO, or Answer Engine Optimization, for local marketing agencies focuses on optimizing digital content to directly answer user queries on platforms like Google, Bing, and voice assistants. Unlike traditional SEO, which aims for top search results, AEO prioritizes delivering concise, accurate answers that appear prominently, often in 'featured snippets' or direct answers. For local agencies, this means optimizing for questions related to local services, pricing, and business information, ensuring their clients' businesses are the direct solution presented to local searchers.",
-        "description": "AEO for local marketing agencies optimizes digital content to directly answer user queries on search engines and voice assistants, focusing on prominent, concise answers for local services."
-      }
-    }
-  ],
+  "name": "What is AEO for local marketing agencies?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is AEO for local marketing agencies?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AEO, or Answer Engine Optimization, for local marketing agencies focuses on optimizing digital content to directly answer user queries on platforms like Google, Bing, and voice assistants. Unlike traditional SEO, which aims for top search results, AEO prioritizes delivering concise, accurate answers that appear prominently, often in 'featured snippets' or direct answers. For local agencies, this means optimizing for questions related to local services, pricing, and business information, ensuring their clients' businesses are the direct solution presented to local searchers.",
+        "@type": "Answer",
+        "description": "AEO for local marketing agencies optimizes digital content to directly answer user queries on search engines and voice assistants, focusing on prominent, concise answers for local services."
+      }
+    }
+  ],
+  "description": "AEO for local marketing agencies optimizes digital content to directly answer user queries on search engines and voice assistants, focusing on prominent, concis"
 }

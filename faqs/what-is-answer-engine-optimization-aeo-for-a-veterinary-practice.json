@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is Answer Engine Optimization (AEO) for a veterinary practice?",
-  "description": "AEO for veterinarians optimizes online content to directly answer pet owner questions via search engines, increasing visibility and establishing your practice a",
   "url": "aiovisibility.com/faq/what-is-answer-engine-optimization-aeo-for-a-veterinary-practice",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is Answer Engine Optimization (AEO) for a veterinary practice?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Answer Engine Optimization (AEO) for veterinarians focuses on optimizing your practice's online content so that search engines like Google can directly answer user questions, often through featured snippets or direct answer boxes. This goes beyond traditional SEO by targeting the specific questions pet owners ask, ensuring your practice is presented as the authoritative source for information, leading to increased visibility and qualified leads. It involves structuring content, using precise language, and addressing common pet health queries directly.",
-        "description": "AEO for veterinarians optimizes online content to directly answer pet owner questions via search engines, increasing visibility and establishing your practice as an authority."
-      }
-    }
-  ],
+  "name": "What is Answer Engine Optimization (AEO) for a veterinary practice?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is Answer Engine Optimization (AEO) for a veterinary practice?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Answer Engine Optimization (AEO) for veterinarians focuses on optimizing your practice's online content so that search engines like Google can directly answer user questions, often through featured snippets or direct answer boxes. This goes beyond traditional SEO by targeting the specific questions pet owners ask, ensuring your practice is presented as the authoritative source for information, leading to increased visibility and qualified leads. It involves structuring content, using precise language, and addressing common pet health queries directly.",
+        "@type": "Answer",
+        "description": "AEO for veterinarians optimizes online content to directly answer pet owner questions via search engines, increasing visibility and establishing your practice as an authority."
+      }
+    }
+  ],
+  "description": "AEO for veterinarians optimizes online content to directly answer pet owner questions via search engines, increasing visibility and establishing your practice a"
 }

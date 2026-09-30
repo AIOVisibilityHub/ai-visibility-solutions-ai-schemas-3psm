@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can AEO help with emergency veterinary services in Houston?",
-  "description": "AEO helps emergency vet services in Houston by making your practice appear immediately for urgent care queries, like 'emergency vet Houston,' through featured s",
   "url": "aiovisibility.com/faq/how-can-aeo-help-with-emergency-veterinary-services-in-houston",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can AEO help with emergency veterinary services in Houston?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AEO can be particularly effective for emergency veterinary services in Houston by ensuring your practice appears immediately when pet owners search for urgent care. Optimizing for queries like 'emergency vet Houston,' 'my dog is throwing up what do I do,' or '24-hour vet clinic near me Houston' can position your practice as the direct answer in critical moments. This rapid visibility via featured snippets or voice search results can be the difference in pet owners choosing your facility, providing essential care when time is of the essence.",
-        "description": "AEO helps emergency vet services in Houston by making your practice appear immediately for urgent care queries, like 'emergency vet Houston,' through featured snippets or voice search."
-      }
-    }
-  ],
+  "name": "How can AEO help with emergency veterinary services in Houston?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can AEO help with emergency veterinary services in Houston?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AEO can be particularly effective for emergency veterinary services in Houston by ensuring your practice appears immediately when pet owners search for urgent care. Optimizing for queries like 'emergency vet Houston,' 'my dog is throwing up what do I do,' or '24-hour vet clinic near me Houston' can position your practice as the direct answer in critical moments. This rapid visibility via featured snippets or voice search results can be the difference in pet owners choosing your facility, providing essential care when time is of the essence.",
+        "@type": "Answer",
+        "description": "AEO helps emergency vet services in Houston by making your practice appear immediately for urgent care queries, like 'emergency vet Houston,' through featured snippets or voice search."
+      }
+    }
+  ],
+  "description": "AEO helps emergency vet services in Houston by making your practice appear immediately for urgent care queries, like 'emergency vet Houston,' through featured s"
 }

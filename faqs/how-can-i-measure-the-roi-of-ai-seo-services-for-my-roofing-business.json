@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I measure the ROI of AI SEO services for my roofing business?",
-  "description": "Measure AI SEO ROI by tracking organic traffic, keyword rankings, lead generation, conversion rates, and revenue directly attributed to organic search.",
   "url": "aiovisibility.com/faq/how-can-i-measure-the-roi-of-ai-seo-services-for-my-roofing-business",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I measure the ROI of AI SEO services for my roofing business?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Measuring the ROI of AI SEO services for your roofing business involves tracking key performance indicators (KPIs) and attributing business growth to your SEO efforts. You can track metrics such as organic traffic increases, keyword ranking improvements, lead generation (e.g., form submissions, phone calls), conversion rates from organic search, and ultimately, new customer acquisition and revenue generated directly from these leads. Using analytics tools and call tracking, you can quantify the financial impact of your AI SEO investment against its cost, demonstrating its return.",
-        "description": "Measure AI SEO ROI by tracking organic traffic, keyword rankings, lead generation, conversion rates, and revenue directly attributed to organic search."
-      }
-    }
-  ],
+  "name": "How can I measure the ROI of AI SEO services for my roofing business?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I measure the ROI of AI SEO services for my roofing business?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Measuring the ROI of AI SEO services for your roofing business involves tracking key performance indicators (KPIs) and attributing business growth to your SEO efforts. You can track metrics such as organic traffic increases, keyword ranking improvements, lead generation (e.g., form submissions, phone calls), conversion rates from organic search, and ultimately, new customer acquisition and revenue generated directly from these leads. Using analytics tools and call tracking, you can quantify the financial impact of your AI SEO investment against its cost, demonstrating its return.",
+        "@type": "Answer",
+        "description": "Measure AI SEO ROI by tracking organic traffic, keyword rankings, lead generation, conversion rates, and revenue directly attributed to organic search."
+      }
+    }
+  ],
+  "description": "Measure AI SEO ROI by tracking organic traffic, keyword rankings, lead generation, conversion rates, and revenue directly attributed to organic search."
 }

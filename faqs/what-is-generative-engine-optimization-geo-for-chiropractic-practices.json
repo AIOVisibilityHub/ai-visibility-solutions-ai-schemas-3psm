@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is Generative Engine Optimization (GEO) for chiropractic practices?",
-  "description": "Generative Engine Optimization (GEO) uses AI to create and optimize content for chiropractic practices, improving online visibility and attracting local patient",
   "url": "aiovisibility.com/faq/what-is-generative-engine-optimization-geo-for-chiropractic-practices",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is Generative Engine Optimization (GEO) for chiropractic practices?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Generative Engine Optimization (GEO) uses advanced AI models to create and optimize content for search engines, specifically tailored for chiropractic practices. This involves generating website copy, blog posts, social media content, and local listings that resonate with potential patients and meet search algorithm requirements. The goal is to improve online visibility, attract more local patients, and establish the practice as an authority in chiropractic care. Unlike traditional SEO, GEO focuses on producing diverse, contextually rich content at scale, adapting to evolving search trends and user intent.",
-        "description": "Generative Engine Optimization (GEO) uses AI to create and optimize content for chiropractic practices, improving online visibility and attracting local patients."
-      }
-    }
-  ],
+  "name": "What is Generative Engine Optimization (GEO) for chiropractic practices?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is Generative Engine Optimization (GEO) for chiropractic practices?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generative Engine Optimization (GEO) uses advanced AI models to create and optimize content for search engines, specifically tailored for chiropractic practices. This involves generating website copy, blog posts, social media content, and local listings that resonate with potential patients and meet search algorithm requirements. The goal is to improve online visibility, attract more local patients, and establish the practice as an authority in chiropractic care. Unlike traditional SEO, GEO focuses on producing diverse, contextually rich content at scale, adapting to evolving search trends and user intent.",
+        "@type": "Answer",
+        "description": "Generative Engine Optimization (GEO) uses AI to create and optimize content for chiropractic practices, improving online visibility and attracting local patients."
+      }
+    }
+  ],
+  "description": "Generative Engine Optimization (GEO) uses AI to create and optimize content for chiropractic practices, improving online visibility and attracting local patient"
 }

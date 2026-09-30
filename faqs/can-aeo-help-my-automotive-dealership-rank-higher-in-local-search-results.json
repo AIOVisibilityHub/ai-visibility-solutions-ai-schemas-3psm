@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can AEO help my automotive dealership rank higher in local search results?",
-  "description": "Yes, AEO helps dealerships rank higher in local search results by optimizing content and Google Business Profile to answer location-specific questions directly.",
   "url": "aiovisibility.com/faq/can-aeo-help-my-automotive-dealership-rank-higher-in-local-search-results",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can AEO help my automotive dealership rank higher in local search results?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, AEO can significantly help your automotive dealership rank higher in local search results. Local search queries often include specific questions about hours, directions, availability of certain models, or service appointments at a nearby dealership. By optimizing your Google Business Profile and website content to directly answer these location-specific questions, you increase your chances of appearing in local packs, on Google Maps, and in voice search results when users ask 'dealerships near me' or 'Honda service in Chicago.' AEO ensures your essential local information is easily digestible by search engines.",
-        "description": "Yes, AEO helps dealerships rank higher in local search results by optimizing content and Google Business Profile to answer location-specific questions directly."
-      }
-    }
-  ],
+  "name": "Can AEO help my automotive dealership rank higher in local search results?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can AEO help my automotive dealership rank higher in local search results?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AEO can significantly help your automotive dealership rank higher in local search results. Local search queries often include specific questions about hours, directions, availability of certain models, or service appointments at a nearby dealership. By optimizing your Google Business Profile and website content to directly answer these location-specific questions, you increase your chances of appearing in local packs, on Google Maps, and in voice search results when users ask 'dealerships near me' or 'Honda service in Chicago.' AEO ensures your essential local information is easily digestible by search engines.",
+        "@type": "Answer",
+        "description": "Yes, AEO helps dealerships rank higher in local search results by optimizing content and Google Business Profile to answer location-specific questions directly."
+      }
+    }
+  ],
+  "description": "Yes, AEO helps dealerships rank higher in local search results by optimizing content and Google Business Profile to answer location-specific questions directly."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between SEO and general website optimization for veterinarians?",
-  "description": "SEO specifically focuses on improving search engine rankings, while general website optimization is broader, including SEO, user experience, site speed, and mob",
   "url": "aiovisibility.com/faq/what-is-the-difference-between-seo-and-general-website-optimization-for-veterina",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between SEO and general website optimization for veterinarians?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "SEO (Search Engine Optimization) is a critical component of general website optimization. SEO specifically focuses on improving your website's visibility in search engine results pages, primarily Google, to attract organic (unpaid) traffic. This involves keyword research, technical adjustments, and content creation. General website optimization encompasses SEO but also includes other elements like improving overall user experience (UX), ensuring mobile responsiveness, optimizing website speed, and designing clear calls to action. Both work together to create an effective online presence that ranks well and converts visitors into clients.",
-        "description": "SEO specifically focuses on improving search engine rankings, while general website optimization is broader, including SEO, user experience, site speed, and mobile responsiveness."
-      }
-    }
-  ],
+  "name": "What is the difference between SEO and general website optimization for veterinarians?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between SEO and general website optimization for veterinarians?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "SEO (Search Engine Optimization) is a critical component of general website optimization. SEO specifically focuses on improving your website's visibility in search engine results pages, primarily Google, to attract organic (unpaid) traffic. This involves keyword research, technical adjustments, and content creation. General website optimization encompasses SEO but also includes other elements like improving overall user experience (UX), ensuring mobile responsiveness, optimizing website speed, and designing clear calls to action. Both work together to create an effective online presence that ranks well and converts visitors into clients.",
+        "@type": "Answer",
+        "description": "SEO specifically focuses on improving search engine rankings, while general website optimization is broader, including SEO, user experience, site speed, and mobile responsiveness."
+      }
+    }
+  ],
+  "description": "SEO specifically focuses on improving search engine rankings, while general website optimization is broader, including SEO, user experience, site speed, and mob"
 }

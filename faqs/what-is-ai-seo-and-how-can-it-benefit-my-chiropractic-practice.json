@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is AI SEO and how can it benefit my chiropractic practice?",
-  "description": "AI SEO uses artificial intelligence to optimize your chiropractic practice's online presence, leading to higher search rankings and more patient inquiries.",
   "url": "aiovisibility.com/faq/what-is-ai-seo-and-how-can-it-benefit-my-chiropractic-practice",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is AI SEO and how can it benefit my chiropractic practice?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AI SEO leverages artificial intelligence and machine learning to analyze vast amounts of data, identifying optimal keywords, content gaps, and patient search patterns specific to chiropractic care. This technology allows for more precise targeting of potential patients looking for chiropractic services online. By optimizing your website with AI, your practice can achieve higher rankings in search results, attract more qualified leads, and ultimately increase patient appointments and practice growth. It automates and refines many aspects of traditional SEO, making your online presence more effective and efficient.",
-        "description": "AI SEO uses artificial intelligence to optimize your chiropractic practice's online presence, leading to higher search rankings and more patient inquiries."
-      }
-    }
-  ],
+  "name": "What is AI SEO and how can it benefit my chiropractic practice?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is AI SEO and how can it benefit my chiropractic practice?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI SEO leverages artificial intelligence and machine learning to analyze vast amounts of data, identifying optimal keywords, content gaps, and patient search patterns specific to chiropractic care. This technology allows for more precise targeting of potential patients looking for chiropractic services online. By optimizing your website with AI, your practice can achieve higher rankings in search results, attract more qualified leads, and ultimately increase patient appointments and practice growth. It automates and refines many aspects of traditional SEO, making your online presence more effective and efficient.",
+        "@type": "Answer",
+        "description": "AI SEO uses artificial intelligence to optimize your chiropractic practice's online presence, leading to higher search rankings and more patient inquiries."
+      }
+    }
+  ],
+  "description": "AI SEO uses artificial intelligence to optimize your chiropractic practice's online presence, leading to higher search rankings and more patient inquiries."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why is it important for chiropractors to optimize for answer engines now?",
-  "description": "Chiropractors should optimize for answer engines now to adapt to evolving search behaviors, capture patients using voice search, gain a competitive advantage, a",
   "url": "aiovisibility.com/faq/why-is-it-important-for-chiropractors-to-optimize-for-answer-engines-now",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why is it important for chiropractors to optimize for answer engines now?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is important for chiropractors to optimize for answer engines now because the way people search for information is rapidly evolving. A growing number of individuals use voice search and direct questions to find local services and health information. By proactively optimizing for answer engines, chiropractors can ensure their practice is visible in these critical new search pathways, capturing patients who are looking for immediate, specific answers. Early adoption allows practices to establish authority, gain a competitive advantage, and adapt to the future of search, positioning themselves as leading local health providers and securing a steady flow of new patients.",
-        "description": "Chiropractors should optimize for answer engines now to adapt to evolving search behaviors, capture patients using voice search, gain a competitive advantage, and ensure future visibility."
-      }
-    }
-  ],
+  "name": "Why is it important for chiropractors to optimize for answer engines now?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why is it important for chiropractors to optimize for answer engines now?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is important for chiropractors to optimize for answer engines now because the way people search for information is rapidly evolving. A growing number of individuals use voice search and direct questions to find local services and health information. By proactively optimizing for answer engines, chiropractors can ensure their practice is visible in these critical new search pathways, capturing patients who are looking for immediate, specific answers. Early adoption allows practices to establish authority, gain a competitive advantage, and adapt to the future of search, positioning themselves as leading local health providers and securing a steady flow of new patients.",
+        "@type": "Answer",
+        "description": "Chiropractors should optimize for answer engines now to adapt to evolving search behaviors, capture patients using voice search, gain a competitive advantage, and ensure future visibility."
+      }
+    }
+  ],
+  "description": "Chiropractors should optimize for answer engines now to adapt to evolving search behaviors, capture patients using voice search, gain a competitive advantage, a"
 }

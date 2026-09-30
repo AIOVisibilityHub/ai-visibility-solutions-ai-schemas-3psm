@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is AEO suitable for a small, single-location veterinary practice?",
-  "description": "Yes, AEO is well-suited for small, single-location veterinary practices, helping them compete by maximizing local search visibility and targeting pet owners in",
   "url": "aiovisibility.com/faq/is-aeo-suitable-for-a-small-single-location-veterinary-practice",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is AEO suitable for a small, single-location veterinary practice?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, AEO is highly suitable for small, single-location veterinary practices. In fact, it can be particularly beneficial for smaller clinics looking to compete with larger establishments or chains. AEO's focus on local search optimization ensures that even a single-location practice can effectively reach pet owners in its immediate service area. The AI-driven approach helps maximize a limited marketing budget by identifying the most effective strategies for local visibility, driving targeted traffic to the clinic's website and physical location.",
-        "description": "Yes, AEO is well-suited for small, single-location veterinary practices, helping them compete by maximizing local search visibility and targeting pet owners in their service area."
-      }
-    }
-  ],
+  "name": "Is AEO suitable for a small, single-location veterinary practice?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is AEO suitable for a small, single-location veterinary practice?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AEO is highly suitable for small, single-location veterinary practices. In fact, it can be particularly beneficial for smaller clinics looking to compete with larger establishments or chains. AEO's focus on local search optimization ensures that even a single-location practice can effectively reach pet owners in its immediate service area. The AI-driven approach helps maximize a limited marketing budget by identifying the most effective strategies for local visibility, driving targeted traffic to the clinic's website and physical location.",
+        "@type": "Answer",
+        "description": "Yes, AEO is well-suited for small, single-location veterinary practices, helping them compete by maximizing local search visibility and targeting pet owners in their service area."
+      }
+    }
+  ],
+  "description": "Yes, AEO is well-suited for small, single-location veterinary practices, helping them compete by maximizing local search visibility and targeting pet owners in"
 }

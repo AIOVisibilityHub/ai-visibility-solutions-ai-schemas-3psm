@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is Generative Engine Optimization effective for new chiropractic practices or only established ones?",
-  "description": "GEO is effective for both new and established chiropractic practices; it builds rapid online presence for new clinics and revitalizes strategies for existing on",
   "url": "aiovisibility.com/faq/is-generative-engine-optimization-effective-for-new-chiropractic-practices-or-on",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is Generative Engine Optimization effective for new chiropractic practices or only established ones?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Generative Engine Optimization is highly effective for both new and established chiropractic practices. For new practices, GEO can rapidly build an online presence from the ground up, generating a robust content library that quickly establishes authority and visibility in local search results. This helps accelerate patient acquisition. For established practices, GEO can revitalize an existing online strategy, filling content gaps, adapting to new patient needs, and outperforming competitors. Its ability to generate diverse, targeted content quickly makes it a powerful tool regardless of practice maturity.",
-        "description": "GEO is effective for both new and established chiropractic practices; it builds rapid online presence for new clinics and revitalizes strategies for existing ones, accelerating patient acquisition."
-      }
-    }
-  ],
+  "name": "Is Generative Engine Optimization effective for new chiropractic practices or only established ones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is Generative Engine Optimization effective for new chiropractic practices or only established ones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generative Engine Optimization is highly effective for both new and established chiropractic practices. For new practices, GEO can rapidly build an online presence from the ground up, generating a robust content library that quickly establishes authority and visibility in local search results. This helps accelerate patient acquisition. For established practices, GEO can revitalize an existing online strategy, filling content gaps, adapting to new patient needs, and outperforming competitors. Its ability to generate diverse, targeted content quickly makes it a powerful tool regardless of practice maturity.",
+        "@type": "Answer",
+        "description": "GEO is effective for both new and established chiropractic practices; it builds rapid online presence for new clinics and revitalizes strategies for existing ones, accelerating patient acquisition."
+      }
+    }
+  ],
+  "description": "GEO is effective for both new and established chiropractic practices; it builds rapid online presence for new clinics and revitalizes strategies for existing on"
 }

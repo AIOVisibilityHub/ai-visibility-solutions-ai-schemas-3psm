@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is AEO for automotive dealerships?",
-  "description": "AEO for automotive dealerships optimizes digital content to directly answer customer questions, enhancing visibility in search engine results and voice search.",
   "url": "aiovisibility.com/faq/what-is-aeo-for-automotive-dealerships",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is AEO for automotive dealerships?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AEO, or Answer Engine Optimization, for automotive dealerships involves optimizing a dealership's digital content to directly answer customer questions. This goes beyond traditional keyword-based SEO by focusing on providing clear, concise, and accurate responses to queries typed into search engines or spoken to voice assistants. For dealerships, this means structuring content about inventory, services, financing, and locations in a Q&A format. The goal is to appear prominently in featured snippets, 'People Also Ask' sections, and voice search results, driving more qualified traffic and leads by satisfying immediate customer information needs.",
-        "description": "AEO for automotive dealerships optimizes digital content to directly answer customer questions, enhancing visibility in search engine results and voice search."
-      }
-    }
-  ],
+  "name": "What is AEO for automotive dealerships?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is AEO for automotive dealerships?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AEO, or Answer Engine Optimization, for automotive dealerships involves optimizing a dealership's digital content to directly answer customer questions. This goes beyond traditional keyword-based SEO by focusing on providing clear, concise, and accurate responses to queries typed into search engines or spoken to voice assistants. For dealerships, this means structuring content about inventory, services, financing, and locations in a Q&A format. The goal is to appear prominently in featured snippets, 'People Also Ask' sections, and voice search results, driving more qualified traffic and leads by satisfying immediate customer information needs.",
+        "@type": "Answer",
+        "description": "AEO for automotive dealerships optimizes digital content to directly answer customer questions, enhancing visibility in search engine results and voice search."
+      }
+    }
+  ],
+  "description": "AEO for automotive dealerships optimizes digital content to directly answer customer questions, enhancing visibility in search engine results and voice search."
 }
