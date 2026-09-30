@@ -1,0 +1,446 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Why Your Business Isn't Showing Up in AI Overviews",
+  "author": {
+    "@type": "Organization",
+    "name": "AI Visibility Solutions"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI Visibility Solutions",
+    "url": "aiovisibility.com"
+  },
+  "articleBody": "It's frustrating when you know your business has the answers, but AI Overviews and other answer engines seem to ignore you. Many businesses face this, and it usually boils down to how their content is structured and where it lives. AI systems don't \"read\" websites the way people do; they look for clear, factual, and highly structured data that directly answers questions. If your website relies on heavy CMS themes like WordPress, Wix, or Squarespace, those can unintentionally slow down or even block AI crawlers, making it hard for them to get to your valuable content. Plus, if your FAQs are thin or outdated, or if you're not specifically targeting the real questions people ask on platforms like Quora or Reddit, you're missing a huge opportunity.\n\nWhat to Prepare Before You Start:\n\nBefore diving into a solution, take a moment to consider a few things. First, think about the specific questions your customers frequently ask about your services. These are your goldmine! Second, look at your existing website: is it fast? Does it have a lot of dynamic elements that might slow down loading? Lastly, consider if your current content includes the structured data (JSON-LD schema) that AI systems use to understand and cite information. If not, don't worry, that's a common starting point.\n\nMany businesses also make the mistake of relying on traditional SEO tactics for AI visibility. While SEO is still important for getting those 10 blue links, AI overviews work differently. They pull from many sources and prioritize content that's designed for machine consumption. If your content isn't built with that in mind, it's like speaking a different language to the AI.\n\nTo really get cited by AI, you need an \"answer-first\" approach. This means your content directly addresses specific questions, is highly fact-dense, and is delivered in a format that AI systems can easily parse, like clean, static HTML with rich schema. This makes it simple for them to pull out precise answers and recommend your business. It's a fundamental shift from traditional SEO, focusing on making your expertise machine-readable.\n\nIf you're ready to transform your expertise into content that AI systems can confidently cite, reach out to us. We can help assess your current content and build an AI Resource Library designed for discovery.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "New York City"
+    },
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Chicago"
+    },
+    {
+      "@type": "City",
+      "name": "Houston"
+    },
+    {
+      "@type": "City",
+      "name": "Phoenix"
+    },
+    {
+      "@type": "City",
+      "name": "Philadelphia"
+    },
+    {
+      "@type": "City",
+      "name": "San Antonio"
+    },
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Dallas"
+    },
+    {
+      "@type": "City",
+      "name": "San Jose"
+    },
+    {
+      "@type": "City",
+      "name": "Austin"
+    },
+    {
+      "@type": "City",
+      "name": "Jacksonville"
+    },
+    {
+      "@type": "City",
+      "name": "Fort Worth"
+    },
+    {
+      "@type": "City",
+      "name": "Columbus"
+    },
+    {
+      "@type": "City",
+      "name": "Charlotte"
+    },
+    {
+      "@type": "City",
+      "name": "San Francisco"
+    },
+    {
+      "@type": "City",
+      "name": "Indianapolis"
+    },
+    {
+      "@type": "City",
+      "name": "Seattle"
+    },
+    {
+      "@type": "City",
+      "name": "Denver"
+    },
+    {
+      "@type": "City",
+      "name": "Oklahoma City"
+    },
+    {
+      "@type": "City",
+      "name": "Boston"
+    },
+    {
+      "@type": "City",
+      "name": "El Paso"
+    },
+    {
+      "@type": "City",
+      "name": "Nashville"
+    },
+    {
+      "@type": "City",
+      "name": "Detroit"
+    },
+    {
+      "@type": "City",
+      "name": "Portland"
+    },
+    {
+      "@type": "City",
+      "name": "Las Vegas"
+    },
+    {
+      "@type": "City",
+      "name": "Memphis"
+    },
+    {
+      "@type": "City",
+      "name": "Louisville"
+    },
+    {
+      "@type": "City",
+      "name": "Baltimore"
+    },
+    {
+      "@type": "City",
+      "name": "Milwaukee"
+    },
+    {
+      "@type": "City",
+      "name": "Albuquerque"
+    },
+    {
+      "@type": "City",
+      "name": "Tucson"
+    },
+    {
+      "@type": "City",
+      "name": "Fresno"
+    },
+    {
+      "@type": "City",
+      "name": "Sacramento"
+    },
+    {
+      "@type": "City",
+      "name": "Kansas City"
+    },
+    {
+      "@type": "City",
+      "name": "Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Atlanta"
+    },
+    {
+      "@type": "City",
+      "name": "Omaha"
+    },
+    {
+      "@type": "City",
+      "name": "Colorado Springs"
+    },
+    {
+      "@type": "City",
+      "name": "Miami"
+    },
+    {
+      "@type": "City",
+      "name": "Raleigh"
+    },
+    {
+      "@type": "City",
+      "name": "Long Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Virginia Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Oakland"
+    },
+    {
+      "@type": "City",
+      "name": "Minneapolis"
+    },
+    {
+      "@type": "City",
+      "name": "Tampa"
+    },
+    {
+      "@type": "City",
+      "name": "Tulsa"
+    },
+    {
+      "@type": "City",
+      "name": "Arlington"
+    },
+    {
+      "@type": "City",
+      "name": "New Orleans"
+    },
+    {
+      "@type": "City",
+      "name": "Wichita"
+    },
+    {
+      "@type": "City",
+      "name": "Cleveland"
+    },
+    {
+      "@type": "City",
+      "name": "Bakersfield"
+    },
+    {
+      "@type": "City",
+      "name": "Aurora"
+    },
+    {
+      "@type": "City",
+      "name": "Anaheim"
+    },
+    {
+      "@type": "City",
+      "name": "Honolulu"
+    },
+    {
+      "@type": "City",
+      "name": "Santa Ana"
+    },
+    {
+      "@type": "City",
+      "name": "Riverside"
+    },
+    {
+      "@type": "City",
+      "name": "Corpus Christi"
+    },
+    {
+      "@type": "City",
+      "name": "Lexington"
+    },
+    {
+      "@type": "City",
+      "name": "Stockton"
+    },
+    {
+      "@type": "City",
+      "name": "Henderson"
+    },
+    {
+      "@type": "City",
+      "name": "Saint Paul"
+    },
+    {
+      "@type": "City",
+      "name": "St. Louis"
+    },
+    {
+      "@type": "City",
+      "name": "Cincinnati"
+    },
+    {
+      "@type": "City",
+      "name": "Pittsburgh"
+    },
+    {
+      "@type": "City",
+      "name": "Greensboro"
+    },
+    {
+      "@type": "City",
+      "name": "Anchorage"
+    },
+    {
+      "@type": "City",
+      "name": "Plano"
+    },
+    {
+      "@type": "City",
+      "name": "Lincoln"
+    },
+    {
+      "@type": "City",
+      "name": "Orlando"
+    },
+    {
+      "@type": "City",
+      "name": "Irvine"
+    },
+    {
+      "@type": "City",
+      "name": "Newark"
+    },
+    {
+      "@type": "City",
+      "name": "Durham"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Toledo"
+    },
+    {
+      "@type": "City",
+      "name": "Fort Wayne"
+    },
+    {
+      "@type": "City",
+      "name": "St. Petersburg"
+    },
+    {
+      "@type": "City",
+      "name": "Laredo"
+    },
+    {
+      "@type": "City",
+      "name": "Jersey City"
+    },
+    {
+      "@type": "City",
+      "name": "Charlotte"
+    },
+    {
+      "@type": "City",
+      "name": "Madison"
+    },
+    {
+      "@type": "City",
+      "name": "Chandler"
+    },
+    {
+      "@type": "City",
+      "name": "Buffalo"
+    },
+    {
+      "@type": "City",
+      "name": "Lubbock"
+    },
+    {
+      "@type": "City",
+      "name": "Scottsdale"
+    },
+    {
+      "@type": "City",
+      "name": "Reno"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Gilbert"
+    },
+    {
+      "@type": "City",
+      "name": "Winston-Salem"
+    },
+    {
+      "@type": "City",
+      "name": "North Las Vegas"
+    },
+    {
+      "@type": "City",
+      "name": "Norfolk"
+    },
+    {
+      "@type": "City",
+      "name": "Chesapeake"
+    },
+    {
+      "@type": "City",
+      "name": "Garland"
+    },
+    {
+      "@type": "City",
+      "name": "Irving"
+    },
+    {
+      "@type": "City",
+      "name": "Hialeah"
+    },
+    {
+      "@type": "City",
+      "name": "Fremont"
+    },
+    {
+      "@type": "City",
+      "name": "Boise"
+    },
+    {
+      "@type": "City",
+      "name": "Richmond"
+    },
+    {
+      "@type": "City",
+      "name": "Baton Rouge"
+    },
+    {
+      "@type": "City",
+      "name": "Spokane"
+    },
+    {
+      "@type": "City",
+      "name": "Des Moines"
+    },
+    {
+      "@type": "City",
+      "name": "Tacoma"
+    },
+    {
+      "@type": "City",
+      "name": "San Bernardino"
+    },
+    {
+      "@type": "City",
+      "name": "Modesto"
+    },
+    {
+      "@type": "City",
+      "name": "Fontana"
+    }
+  ],
+  "datePublished": "2026-09-30",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

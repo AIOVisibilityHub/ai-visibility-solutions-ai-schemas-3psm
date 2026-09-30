@@ -1,0 +1,481 @@
+{
+  "name": "Getting Your Business Cited by AI: A Step-by-Step Guide",
+  "step": [
+    {
+      "name": "Step 1: Identify relevant AI search systems — Start by figuring out which AI systems your potential customers are using. Is it primarily Google AI Overviews, or are voice assistants like Siri and Alexa also key? Understanding this helps tailor your optimization efforts effectively.",
+      "text": "Step 1: Identify relevant AI search systems — Start by figuring out which AI systems your potential customers are using. Is it primarily Google AI Overviews, or are voice assistants like Siri and Alexa also key? Understanding this helps tailor your optimization efforts effectively.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Audit crawl permissions and indexability — Check your website's `robots.txt` and ensure that AI-specific crawlers like Google-Extended and OAI-SearchBot (for ChatGPT) have permission to access your important content. If ChatGPT search visibility matters to you, verify that `OAI-SearchBot` isn't blocked, as OpenAI notes opting out prevents inclusion in their search answers.",
+      "text": "Step 2: Audit crawl permissions and indexability — Check your website's `robots.txt` and ensure that AI-specific crawlers like Google-Extended and OAI-SearchBot (for ChatGPT) have permission to access your important content. If ChatGPT search visibility matters to you, verify that `OAI-SearchBot` isn't blocked, as OpenAI notes opting out prevents inclusion in their search answers.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Organize pages around clear entities and single topics — AI systems excel at understanding clear, concise information. Structure your content so each page or section focuses on a specific service, question, or factual entity. This makes it easier for AI to extract and cite accurate information.",
+      "text": "Step 3: Organize pages around clear entities and single topics — AI systems excel at understanding clear, concise information. Structure your content so each page or section focuses on a specific service, question, or factual entity. This makes it easier for AI to extract and cite accurate information.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: State important facts directly and consistently — AI often seeks direct answers. Ensure your business name, services, locations, and contact information are explicitly stated and remain consistent across your website, social profiles, and any 'AI Resource Library' you might have. Inconsistencies can hinder AI's ability to confidently cite you.",
+      "text": "Step 4: State important facts directly and consistently — AI often seeks direct answers. Ensure your business name, services, locations, and contact information are explicitly stated and remain consistent across your website, social profiles, and any 'AI Resource Library' you might have. Inconsistencies can hinder AI's ability to confidently cite you.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Strengthen internal links and source-quality signals — Build a robust internal linking structure to connect related pieces of content and establish your site's authority on various topics. AI values well-connected, authoritative sources, so good internal linking can improve your content's perceived quality.",
+      "text": "Step 5: Strengthen internal links and source-quality signals — Build a robust internal linking structure to connect related pieces of content and establish your site's authority on various topics. AI values well-connected, authoritative sources, so good internal linking can improve your content's perceived quality.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Track citations and appearances — Beyond traditional traffic metrics, start monitoring where and how your business is being cited or appearing in AI answers. This involves checking AI Overviews, asking voice assistants questions, and using tools to see if your content is being referenced. This helps you refine your strategy.",
+      "text": "Step 6: Track citations and appearances — Beyond traditional traffic metrics, start monitoring where and how your business is being cited or appearing in AI answers. This involves checking AI Overviews, asking voice assistants questions, and using tools to see if your content is being referenced. This helps you refine your strategy.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Create an AI Resource Library (optional, but highly recommended) — Develop a dedicated knowledge base of FAQs and help articles, built on clean, static HTML with rich JSON-LD schema. Publishing this on high-trust platforms like GitHub can give your content a 'clean data' bias advantage, making it more attractive for AI systems to crawl and cite, especially for competitive local markets or if your main site is complex.",
+      "text": "Step 7: Create an AI Resource Library (optional, but highly recommended) — Develop a dedicated knowledge base of FAQs and help articles, built on clean, static HTML with rich JSON-LD schema. Publishing this on high-trust platforms like GitHub can give your content a 'clean data' bias advantage, making it more attractive for AI systems to crawl and cite, especially for competitive local markets or if your main site is complex.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "New York City",
+      "@type": "City"
+    },
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Chicago",
+      "@type": "City"
+    },
+    {
+      "name": "Houston",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Philadelphia",
+      "@type": "City"
+    },
+    {
+      "name": "San Antonio",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "San Jose",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Jacksonville",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Columbus",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Indianapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Seattle",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Oklahoma City",
+      "@type": "City"
+    },
+    {
+      "name": "Boston",
+      "@type": "City"
+    },
+    {
+      "name": "El Paso",
+      "@type": "City"
+    },
+    {
+      "name": "Nashville",
+      "@type": "City"
+    },
+    {
+      "name": "Detroit",
+      "@type": "City"
+    },
+    {
+      "name": "Portland",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Memphis",
+      "@type": "City"
+    },
+    {
+      "name": "Louisville",
+      "@type": "City"
+    },
+    {
+      "name": "Baltimore",
+      "@type": "City"
+    },
+    {
+      "name": "Milwaukee",
+      "@type": "City"
+    },
+    {
+      "name": "Albuquerque",
+      "@type": "City"
+    },
+    {
+      "name": "Tucson",
+      "@type": "City"
+    },
+    {
+      "name": "Fresno",
+      "@type": "City"
+    },
+    {
+      "name": "Sacramento",
+      "@type": "City"
+    },
+    {
+      "name": "Kansas City",
+      "@type": "City"
+    },
+    {
+      "name": "Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Atlanta",
+      "@type": "City"
+    },
+    {
+      "name": "Omaha",
+      "@type": "City"
+    },
+    {
+      "name": "Colorado Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Raleigh",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Virginia Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Minneapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Tulsa",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington",
+      "@type": "City"
+    },
+    {
+      "name": "New Orleans",
+      "@type": "City"
+    },
+    {
+      "name": "Wichita",
+      "@type": "City"
+    },
+    {
+      "name": "Cleveland",
+      "@type": "City"
+    },
+    {
+      "name": "Bakersfield",
+      "@type": "City"
+    },
+    {
+      "name": "Aurora",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Honolulu",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ana",
+      "@type": "City"
+    },
+    {
+      "name": "Riverside",
+      "@type": "City"
+    },
+    {
+      "name": "Corpus Christi",
+      "@type": "City"
+    },
+    {
+      "name": "Lexington",
+      "@type": "City"
+    },
+    {
+      "name": "Stockton",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Saint Paul",
+      "@type": "City"
+    },
+    {
+      "name": "St. Louis",
+      "@type": "City"
+    },
+    {
+      "name": "Cincinnati",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburgh",
+      "@type": "City"
+    },
+    {
+      "name": "Greensboro",
+      "@type": "City"
+    },
+    {
+      "name": "Anchorage",
+      "@type": "City"
+    },
+    {
+      "name": "Plano",
+      "@type": "City"
+    },
+    {
+      "name": "Lincoln",
+      "@type": "City"
+    },
+    {
+      "name": "Orlando",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Durham",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Toledo",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Wayne",
+      "@type": "City"
+    },
+    {
+      "name": "St. Petersburg",
+      "@type": "City"
+    },
+    {
+      "name": "Laredo",
+      "@type": "City"
+    },
+    {
+      "name": "Jersey City",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "Madison",
+      "@type": "City"
+    },
+    {
+      "name": "Chandler",
+      "@type": "City"
+    },
+    {
+      "name": "Buffalo",
+      "@type": "City"
+    },
+    {
+      "name": "Lubbock",
+      "@type": "City"
+    },
+    {
+      "name": "Scottsdale",
+      "@type": "City"
+    },
+    {
+      "name": "Reno",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Gilbert",
+      "@type": "City"
+    },
+    {
+      "name": "Winston-Salem",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Norfolk",
+      "@type": "City"
+    },
+    {
+      "name": "Chesapeake",
+      "@type": "City"
+    },
+    {
+      "name": "Garland",
+      "@type": "City"
+    },
+    {
+      "name": "Irving",
+      "@type": "City"
+    },
+    {
+      "name": "Hialeah",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Boise",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "Baton Rouge",
+      "@type": "City"
+    },
+    {
+      "name": "Spokane",
+      "@type": "City"
+    },
+    {
+      "name": "Des Moines",
+      "@type": "City"
+    },
+    {
+      "name": "Tacoma",
+      "@type": "City"
+    },
+    {
+      "name": "San Bernardino",
+      "@type": "City"
+    },
+    {
+      "name": "Modesto",
+      "@type": "City"
+    },
+    {
+      "name": "Fontana",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Identify relevant AI search systems — Start by figuring out which AI systems your potential customers are using. Is it primarily Google AI Overviews, or are voice assistants like Siri and Alex"
+}

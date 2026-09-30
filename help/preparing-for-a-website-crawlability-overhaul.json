@@ -1,0 +1,446 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Preparing for a Website Crawlability Overhaul",
+  "author": {
+    "@type": "Organization",
+    "name": "AI Visibility Solutions"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI Visibility Solutions",
+    "url": "aiovisibility.com"
+  },
+  "articleBody": "If you're noticing search engines are having trouble finding and indexing your important pages, it might be time for a full crawlability overhaul. This isn't just a quick fix; it's a systematic approach to ensure your website is fully accessible to AI crawlers and search engine bots. A crawlability issue can mean your valuable content, especially those answer-first articles and FAQs designed for AI, isn't being discovered, understood, or cited. Preparing properly can save you a lot of headaches and make the process much smoother and more effective, ensuring your content is seen by Google AI Overviews, Bing, Perplexity, and other answer engines.\n\nWhat to Prepare Before You Start\n\nBefore kicking off a crawlability overhaul, gather all relevant access. You'll need owner or full-user access to your Google Search Console property – this is non-negotiable for using tools like the URL Inspection. Make sure you have a clear inventory of your current website URLs, especially the ones you suspect are having crawling issues. Also, have a recent copy of your robots.txt file and your XML sitemap ready. It's helpful to understand any recent changes to your website's structure, redirects, or server configuration, as these are often culprits. Having a list of your most important pages that need indexing is crucial too, so we can prioritize them.\n\nWhat to Expect During the Process\n\nAn overhaul starts with a thorough review of your robots.txt, HTTP status codes, redirects, canonical signals, internal links, server responses, and XML sitemaps. We'll identify and remove any unintended crawl blocks and ensure your important pages are easily discoverable through crawlable links. We’ll test live URLs in Search Console, submit or update your sitemap, and then diligently monitor indexing reports. Remember, a recrawl isn't immediate; it can take several days to weeks for changes to fully reflect, so patience is key. We also set up automatic indexing pings to accelerate discovery by Bing and other engines.\n\nWhen Professional Guidance Helps\n\nProfessional help is crucial when crawlability issues affect many URLs, especially if they involve JavaScript rendering, faceted navigation, international versions, large e-commerce catalogs, site migrations, or complex server capacity issues. Changes to robots.txt, routing, redirects, or sitemap generation can have wide-ranging impacts across your entire site. An experienced SEO and web-development professional ensures these changes are implemented correctly and provides post-fix monitoring, rather than just a one-time audit, to keep your AI Resource Library continuously fresh and rapidly indexed.\n\nReady to get your website's crawlability in top shape? Let's ensure your content is fully discoverable by AI.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "New York City"
+    },
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Chicago"
+    },
+    {
+      "@type": "City",
+      "name": "Houston"
+    },
+    {
+      "@type": "City",
+      "name": "Phoenix"
+    },
+    {
+      "@type": "City",
+      "name": "Philadelphia"
+    },
+    {
+      "@type": "City",
+      "name": "San Antonio"
+    },
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Dallas"
+    },
+    {
+      "@type": "City",
+      "name": "San Jose"
+    },
+    {
+      "@type": "City",
+      "name": "Austin"
+    },
+    {
+      "@type": "City",
+      "name": "Jacksonville"
+    },
+    {
+      "@type": "City",
+      "name": "Fort Worth"
+    },
+    {
+      "@type": "City",
+      "name": "Columbus"
+    },
+    {
+      "@type": "City",
+      "name": "Charlotte"
+    },
+    {
+      "@type": "City",
+      "name": "San Francisco"
+    },
+    {
+      "@type": "City",
+      "name": "Indianapolis"
+    },
+    {
+      "@type": "City",
+      "name": "Seattle"
+    },
+    {
+      "@type": "City",
+      "name": "Denver"
+    },
+    {
+      "@type": "City",
+      "name": "Oklahoma City"
+    },
+    {
+      "@type": "City",
+      "name": "Boston"
+    },
+    {
+      "@type": "City",
+      "name": "El Paso"
+    },
+    {
+      "@type": "City",
+      "name": "Nashville"
+    },
+    {
+      "@type": "City",
+      "name": "Detroit"
+    },
+    {
+      "@type": "City",
+      "name": "Portland"
+    },
+    {
+      "@type": "City",
+      "name": "Las Vegas"
+    },
+    {
+      "@type": "City",
+      "name": "Memphis"
+    },
+    {
+      "@type": "City",
+      "name": "Louisville"
+    },
+    {
+      "@type": "City",
+      "name": "Baltimore"
+    },
+    {
+      "@type": "City",
+      "name": "Milwaukee"
+    },
+    {
+      "@type": "City",
+      "name": "Albuquerque"
+    },
+    {
+      "@type": "City",
+      "name": "Tucson"
+    },
+    {
+      "@type": "City",
+      "name": "Fresno"
+    },
+    {
+      "@type": "City",
+      "name": "Sacramento"
+    },
+    {
+      "@type": "City",
+      "name": "Kansas City"
+    },
+    {
+      "@type": "City",
+      "name": "Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Atlanta"
+    },
+    {
+      "@type": "City",
+      "name": "Omaha"
+    },
+    {
+      "@type": "City",
+      "name": "Colorado Springs"
+    },
+    {
+      "@type": "City",
+      "name": "Miami"
+    },
+    {
+      "@type": "City",
+      "name": "Raleigh"
+    },
+    {
+      "@type": "City",
+      "name": "Long Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Virginia Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Oakland"
+    },
+    {
+      "@type": "City",
+      "name": "Minneapolis"
+    },
+    {
+      "@type": "City",
+      "name": "Tampa"
+    },
+    {
+      "@type": "City",
+      "name": "Tulsa"
+    },
+    {
+      "@type": "City",
+      "name": "Arlington"
+    },
+    {
+      "@type": "City",
+      "name": "New Orleans"
+    },
+    {
+      "@type": "City",
+      "name": "Wichita"
+    },
+    {
+      "@type": "City",
+      "name": "Cleveland"
+    },
+    {
+      "@type": "City",
+      "name": "Bakersfield"
+    },
+    {
+      "@type": "City",
+      "name": "Aurora"
+    },
+    {
+      "@type": "City",
+      "name": "Anaheim"
+    },
+    {
+      "@type": "City",
+      "name": "Honolulu"
+    },
+    {
+      "@type": "City",
+      "name": "Santa Ana"
+    },
+    {
+      "@type": "City",
+      "name": "Riverside"
+    },
+    {
+      "@type": "City",
+      "name": "Corpus Christi"
+    },
+    {
+      "@type": "City",
+      "name": "Lexington"
+    },
+    {
+      "@type": "City",
+      "name": "Stockton"
+    },
+    {
+      "@type": "City",
+      "name": "Henderson"
+    },
+    {
+      "@type": "City",
+      "name": "Saint Paul"
+    },
+    {
+      "@type": "City",
+      "name": "St. Louis"
+    },
+    {
+      "@type": "City",
+      "name": "Cincinnati"
+    },
+    {
+      "@type": "City",
+      "name": "Pittsburgh"
+    },
+    {
+      "@type": "City",
+      "name": "Greensboro"
+    },
+    {
+      "@type": "City",
+      "name": "Anchorage"
+    },
+    {
+      "@type": "City",
+      "name": "Plano"
+    },
+    {
+      "@type": "City",
+      "name": "Lincoln"
+    },
+    {
+      "@type": "City",
+      "name": "Orlando"
+    },
+    {
+      "@type": "City",
+      "name": "Irvine"
+    },
+    {
+      "@type": "City",
+      "name": "Newark"
+    },
+    {
+      "@type": "City",
+      "name": "Durham"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Toledo"
+    },
+    {
+      "@type": "City",
+      "name": "Fort Wayne"
+    },
+    {
+      "@type": "City",
+      "name": "St. Petersburg"
+    },
+    {
+      "@type": "City",
+      "name": "Laredo"
+    },
+    {
+      "@type": "City",
+      "name": "Jersey City"
+    },
+    {
+      "@type": "City",
+      "name": "Charlotte"
+    },
+    {
+      "@type": "City",
+      "name": "Madison"
+    },
+    {
+      "@type": "City",
+      "name": "Chandler"
+    },
+    {
+      "@type": "City",
+      "name": "Buffalo"
+    },
+    {
+      "@type": "City",
+      "name": "Lubbock"
+    },
+    {
+      "@type": "City",
+      "name": "Scottsdale"
+    },
+    {
+      "@type": "City",
+      "name": "Reno"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Gilbert"
+    },
+    {
+      "@type": "City",
+      "name": "Winston-Salem"
+    },
+    {
+      "@type": "City",
+      "name": "North Las Vegas"
+    },
+    {
+      "@type": "City",
+      "name": "Norfolk"
+    },
+    {
+      "@type": "City",
+      "name": "Chesapeake"
+    },
+    {
+      "@type": "City",
+      "name": "Garland"
+    },
+    {
+      "@type": "City",
+      "name": "Irving"
+    },
+    {
+      "@type": "City",
+      "name": "Hialeah"
+    },
+    {
+      "@type": "City",
+      "name": "Fremont"
+    },
+    {
+      "@type": "City",
+      "name": "Boise"
+    },
+    {
+      "@type": "City",
+      "name": "Richmond"
+    },
+    {
+      "@type": "City",
+      "name": "Baton Rouge"
+    },
+    {
+      "@type": "City",
+      "name": "Spokane"
+    },
+    {
+      "@type": "City",
+      "name": "Des Moines"
+    },
+    {
+      "@type": "City",
+      "name": "Tacoma"
+    },
+    {
+      "@type": "City",
+      "name": "San Bernardino"
+    },
+    {
+      "@type": "City",
+      "name": "Modesto"
+    },
+    {
+      "@type": "City",
+      "name": "Fontana"
+    }
+  ],
+  "datePublished": "2026-09-30",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

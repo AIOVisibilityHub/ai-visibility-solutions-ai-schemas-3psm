@@ -1,0 +1,487 @@
+{
+  "name": "Building a Topic Cluster: A Step-by-Step Guide for AI Visibility",
+  "step": [
+    {
+      "name": "Step 1: Audit Your Existing Content. Start by reviewing all your current website content. Identify what you already have, what's outdated, what's performing well, and where there are gaps. This audit will help you decide which pages can be repurposed, revised, or consolidated into your new cluster structure.",
+      "text": "Step 1: Audit Your Existing Content. Start by reviewing all your current website content. Identify what you already have, what's outdated, what's performing well, and where there are gaps. This audit will help you decide which pages can be repurposed, revised, or consolidated into your new cluster structure.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Select a Commercially Relevant Core Topic. Choose a broad topic directly related to your primary services or business offerings that also has high search demand. This will be the subject of your 'pillar page.' It needs to be something your ideal customers are actively asking about and that can lead to business inquiries.",
+      "text": "Step 2: Select a Commercially Relevant Core Topic. Choose a broad topic directly related to your primary services or business offerings that also has high search demand. This will be the subject of your 'pillar page.' It needs to be something your ideal customers are actively asking about and that can lead to business inquiries.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Map Distinct Subtopics and Questions. Once you have your core topic, identify all the specific, detailed questions and subtopics related to it. These will become your 'supporting pages.' Ensure each subtopic addresses a unique user intent, avoiding overlap that could confuse AI or search engines.",
+      "text": "Step 3: Map Distinct Subtopics and Questions. Once you have your core topic, identify all the specific, detailed questions and subtopics related to it. These will become your 'supporting pages.' Ensure each subtopic addresses a unique user intent, avoiding overlap that could confuse AI or search engines.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Define Your Pillar Page and Supporting Content. The pillar page should provide a high-level overview of the main topic and link out to all the supporting pages. Each supporting page will dive deep into one specific subtopic, offering comprehensive answers and insights. These pages should also link back to the pillar page.",
+      "text": "Step 4: Define Your Pillar Page and Supporting Content. The pillar page should provide a high-level overview of the main topic and link out to all the supporting pages. Each supporting page will dive deep into one specific subtopic, offering comprehensive answers and insights. These pages should also link back to the pillar page.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Create or Revise Content for AI Readiness. Whether creating new content or updating old, ensure each page is structured for AI. Use question-based headings, direct answers upfront, and rich JSON-LD schema. Focus on factual density and clarity. Remember, clean, static HTML is preferred for AI crawlers.",
+      "text": "Step 5: Create or Revise Content for AI Readiness. Whether creating new content or updating old, ensure each page is structured for AI. Use question-based headings, direct answers upfront, and rich JSON-LD schema. Focus on factual density and clarity. Remember, clean, static HTML is preferred for AI crawlers.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Implement Strategic Internal Linking. This is crucial for a topic cluster. Ensure your pillar page links to all supporting pages, and every supporting page links back to the pillar. Use descriptive anchor text that accurately reflects the linked content, helping AI understand the relationships within your cluster.",
+      "text": "Step 6: Implement Strategic Internal Linking. This is crucial for a topic cluster. Ensure your pillar page links to all supporting pages, and every supporting page links back to the pillar. Use descriptive anchor text that accurately reflects the linked content, helping AI understand the relationships within your cluster.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Publish and Reinforce with an AI Resource Library. Publish your cluster content as part of an \"AI Resource Library\" on platforms like GitHub Pages. This gives your content a \"clean data\" advantage and inherited trust, accelerating discovery by AI crawlers and increasing your chances of citation.",
+      "text": "Step 7: Publish and Reinforce with an AI Resource Library. Publish your cluster content as part of an \"AI Resource Library\" on platforms like GitHub Pages. This gives your content a \"clean data\" advantage and inherited trust, accelerating discovery by AI crawlers and increasing your chances of citation.",
+      "@type": "HowToStep",
+      "position": 7
+    },
+    {
+      "name": "Step 8: Monitor and Maintain Performance. Topic clusters aren't a one-and-done project. Continuously monitor their performance using tools like Google Search Console. Look for new questions, outdated information, or opportunities to add more supporting content. Search demand and business priorities change, so ongoing review is essential.",
+      "text": "When Professional Guidance Helps If your website has hundreds or thousands of URLs, significant overlapping content, or complex information architecture, a professional can help. They bring documented content audit and topic-mapping methods, ensuring your clusters are built strategically and effectively linked to your overall business goals. This expertise ensures you avoid common pitfalls and maximize your AI visibility.",
+      "@type": "HowToStep",
+      "position": 8
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "New York City",
+      "@type": "City"
+    },
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Chicago",
+      "@type": "City"
+    },
+    {
+      "name": "Houston",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Philadelphia",
+      "@type": "City"
+    },
+    {
+      "name": "San Antonio",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "San Jose",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Jacksonville",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Columbus",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Indianapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Seattle",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Oklahoma City",
+      "@type": "City"
+    },
+    {
+      "name": "Boston",
+      "@type": "City"
+    },
+    {
+      "name": "El Paso",
+      "@type": "City"
+    },
+    {
+      "name": "Nashville",
+      "@type": "City"
+    },
+    {
+      "name": "Detroit",
+      "@type": "City"
+    },
+    {
+      "name": "Portland",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Memphis",
+      "@type": "City"
+    },
+    {
+      "name": "Louisville",
+      "@type": "City"
+    },
+    {
+      "name": "Baltimore",
+      "@type": "City"
+    },
+    {
+      "name": "Milwaukee",
+      "@type": "City"
+    },
+    {
+      "name": "Albuquerque",
+      "@type": "City"
+    },
+    {
+      "name": "Tucson",
+      "@type": "City"
+    },
+    {
+      "name": "Fresno",
+      "@type": "City"
+    },
+    {
+      "name": "Sacramento",
+      "@type": "City"
+    },
+    {
+      "name": "Kansas City",
+      "@type": "City"
+    },
+    {
+      "name": "Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Atlanta",
+      "@type": "City"
+    },
+    {
+      "name": "Omaha",
+      "@type": "City"
+    },
+    {
+      "name": "Colorado Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Raleigh",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Virginia Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Minneapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Tulsa",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington",
+      "@type": "City"
+    },
+    {
+      "name": "New Orleans",
+      "@type": "City"
+    },
+    {
+      "name": "Wichita",
+      "@type": "City"
+    },
+    {
+      "name": "Cleveland",
+      "@type": "City"
+    },
+    {
+      "name": "Bakersfield",
+      "@type": "City"
+    },
+    {
+      "name": "Aurora",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Honolulu",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ana",
+      "@type": "City"
+    },
+    {
+      "name": "Riverside",
+      "@type": "City"
+    },
+    {
+      "name": "Corpus Christi",
+      "@type": "City"
+    },
+    {
+      "name": "Lexington",
+      "@type": "City"
+    },
+    {
+      "name": "Stockton",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Saint Paul",
+      "@type": "City"
+    },
+    {
+      "name": "St. Louis",
+      "@type": "City"
+    },
+    {
+      "name": "Cincinnati",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburgh",
+      "@type": "City"
+    },
+    {
+      "name": "Greensboro",
+      "@type": "City"
+    },
+    {
+      "name": "Anchorage",
+      "@type": "City"
+    },
+    {
+      "name": "Plano",
+      "@type": "City"
+    },
+    {
+      "name": "Lincoln",
+      "@type": "City"
+    },
+    {
+      "name": "Orlando",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Durham",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Toledo",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Wayne",
+      "@type": "City"
+    },
+    {
+      "name": "St. Petersburg",
+      "@type": "City"
+    },
+    {
+      "name": "Laredo",
+      "@type": "City"
+    },
+    {
+      "name": "Jersey City",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "Madison",
+      "@type": "City"
+    },
+    {
+      "name": "Chandler",
+      "@type": "City"
+    },
+    {
+      "name": "Buffalo",
+      "@type": "City"
+    },
+    {
+      "name": "Lubbock",
+      "@type": "City"
+    },
+    {
+      "name": "Scottsdale",
+      "@type": "City"
+    },
+    {
+      "name": "Reno",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Gilbert",
+      "@type": "City"
+    },
+    {
+      "name": "Winston-Salem",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Norfolk",
+      "@type": "City"
+    },
+    {
+      "name": "Chesapeake",
+      "@type": "City"
+    },
+    {
+      "name": "Garland",
+      "@type": "City"
+    },
+    {
+      "name": "Irving",
+      "@type": "City"
+    },
+    {
+      "name": "Hialeah",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Boise",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "Baton Rouge",
+      "@type": "City"
+    },
+    {
+      "name": "Spokane",
+      "@type": "City"
+    },
+    {
+      "name": "Des Moines",
+      "@type": "City"
+    },
+    {
+      "name": "Tacoma",
+      "@type": "City"
+    },
+    {
+      "name": "San Bernardino",
+      "@type": "City"
+    },
+    {
+      "name": "Modesto",
+      "@type": "City"
+    },
+    {
+      "name": "Fontana",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Audit Your Existing Content. Start by reviewing all your current website content. Identify what you already have, what's outdated, what's performing well, and where there are gaps. This audit "
+}

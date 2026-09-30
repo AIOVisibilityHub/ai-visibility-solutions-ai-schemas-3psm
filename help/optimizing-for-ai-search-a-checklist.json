@@ -1,0 +1,521 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Optimizing for AI Search: A Checklist",
+  "publisher": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "New York City",
+      "@type": "City"
+    },
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Chicago",
+      "@type": "City"
+    },
+    {
+      "name": "Houston",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Philadelphia",
+      "@type": "City"
+    },
+    {
+      "name": "San Antonio",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "San Jose",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Jacksonville",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Columbus",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Indianapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Seattle",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Oklahoma City",
+      "@type": "City"
+    },
+    {
+      "name": "Boston",
+      "@type": "City"
+    },
+    {
+      "name": "El Paso",
+      "@type": "City"
+    },
+    {
+      "name": "Nashville",
+      "@type": "City"
+    },
+    {
+      "name": "Detroit",
+      "@type": "City"
+    },
+    {
+      "name": "Portland",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Memphis",
+      "@type": "City"
+    },
+    {
+      "name": "Louisville",
+      "@type": "City"
+    },
+    {
+      "name": "Baltimore",
+      "@type": "City"
+    },
+    {
+      "name": "Milwaukee",
+      "@type": "City"
+    },
+    {
+      "name": "Albuquerque",
+      "@type": "City"
+    },
+    {
+      "name": "Tucson",
+      "@type": "City"
+    },
+    {
+      "name": "Fresno",
+      "@type": "City"
+    },
+    {
+      "name": "Sacramento",
+      "@type": "City"
+    },
+    {
+      "name": "Kansas City",
+      "@type": "City"
+    },
+    {
+      "name": "Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Atlanta",
+      "@type": "City"
+    },
+    {
+      "name": "Omaha",
+      "@type": "City"
+    },
+    {
+      "name": "Colorado Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Raleigh",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Virginia Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Minneapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Tulsa",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington",
+      "@type": "City"
+    },
+    {
+      "name": "New Orleans",
+      "@type": "City"
+    },
+    {
+      "name": "Wichita",
+      "@type": "City"
+    },
+    {
+      "name": "Cleveland",
+      "@type": "City"
+    },
+    {
+      "name": "Bakersfield",
+      "@type": "City"
+    },
+    {
+      "name": "Aurora",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Honolulu",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ana",
+      "@type": "City"
+    },
+    {
+      "name": "Riverside",
+      "@type": "City"
+    },
+    {
+      "name": "Corpus Christi",
+      "@type": "City"
+    },
+    {
+      "name": "Lexington",
+      "@type": "City"
+    },
+    {
+      "name": "Stockton",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Saint Paul",
+      "@type": "City"
+    },
+    {
+      "name": "St. Louis",
+      "@type": "City"
+    },
+    {
+      "name": "Cincinnati",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburgh",
+      "@type": "City"
+    },
+    {
+      "name": "Greensboro",
+      "@type": "City"
+    },
+    {
+      "name": "Anchorage",
+      "@type": "City"
+    },
+    {
+      "name": "Plano",
+      "@type": "City"
+    },
+    {
+      "name": "Lincoln",
+      "@type": "City"
+    },
+    {
+      "name": "Orlando",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Durham",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Toledo",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Wayne",
+      "@type": "City"
+    },
+    {
+      "name": "St. Petersburg",
+      "@type": "City"
+    },
+    {
+      "name": "Laredo",
+      "@type": "City"
+    },
+    {
+      "name": "Jersey City",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "Madison",
+      "@type": "City"
+    },
+    {
+      "name": "Chandler",
+      "@type": "City"
+    },
+    {
+      "name": "Buffalo",
+      "@type": "City"
+    },
+    {
+      "name": "Lubbock",
+      "@type": "City"
+    },
+    {
+      "name": "Scottsdale",
+      "@type": "City"
+    },
+    {
+      "name": "Reno",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Gilbert",
+      "@type": "City"
+    },
+    {
+      "name": "Winston-Salem",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Norfolk",
+      "@type": "City"
+    },
+    {
+      "name": "Chesapeake",
+      "@type": "City"
+    },
+    {
+      "name": "Garland",
+      "@type": "City"
+    },
+    {
+      "name": "Irving",
+      "@type": "City"
+    },
+    {
+      "name": "Hialeah",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Boise",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "Baton Rouge",
+      "@type": "City"
+    },
+    {
+      "name": "Spokane",
+      "@type": "City"
+    },
+    {
+      "name": "Des Moines",
+      "@type": "City"
+    },
+    {
+      "name": "Tacoma",
+      "@type": "City"
+    },
+    {
+      "name": "San Bernardino",
+      "@type": "City"
+    },
+    {
+      "name": "Modesto",
+      "@type": "City"
+    },
+    {
+      "name": "Fontana",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Optimizing for AI Search: A Checklist",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 11,
+    "itemListElement": [
+      {
+        "name": "Important pages are publicly accessible and indexable — This ensures AI crawlers can actually find and proc…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Important pages are publicly accessible and indexable — This ensures AI crawlers can actually find and process your content, rather than being blocked by technical restrictions."
+      },
+      {
+        "name": "Business name, services, locations, and contact details are clearly stated — Consistent and prominent displ…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Business name, services, locations, and contact details are clearly stated — Consistent and prominent display of these core details helps AI systems accurately identify and categorize your business."
+      },
+      {
+        "name": "Accurate, original answers to customer questions are published — AI prioritizes fact-dense content that dir…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Accurate, original answers to customer questions are published — AI prioritizes fact-dense content that directly addresses user queries, making original and precise answers essential."
+      },
+      {
+        "name": "Consistent business information across trusted online profiles — Discrepancies confuse AI systems and can r…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Consistent business information across trusted online profiles — Discrepancies confuse AI systems and can reduce your authority, so maintain uniformity across your website and directories."
+      },
+      {
+        "name": "Relevant crawlers (like OAI-SearchBot) are not blocked — Intentionally or unintentionally blocking AI-speci…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Relevant crawlers (like OAI-SearchBot) are not blocked — Intentionally or unintentionally blocking AI-specific crawlers prevents your content from being considered for AI-generated answers."
+      },
+      {
+        "name": "Content is structured for direct answers and fact density — AI favors content where the essential answer is…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Content is structured for direct answers and fact density — AI favors content where the essential answer is near the top and factual claims are easily verifiable."
+      },
+      {
+        "name": "Appropriate JSON-LD schema (e.g., FAQPage, Article) is implemented — Schema provides explicit cues to AI sy…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Appropriate JSON-LD schema (e.g., FAQPage, Article) is implemented — Schema provides explicit cues to AI systems, helping them understand the context and purpose of your content."
+      },
+      {
+        "name": "Outdated service, pricing, or location information is updated — AI systems will cite the information they f…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Outdated service, pricing, or location information is updated — AI systems will cite the information they find, so keeping details current prevents the spread of inaccurate data."
+      },
+      {
+        "name": "Website is fast and uses static HTML where possible — Low-latency, clean HTML is preferred by AI crawlers f…",
+        "@type": "ListItem",
+        "position": 9,
+        "description": "Website is fast and uses static HTML where possible — Low-latency, clean HTML is preferred by AI crawlers for efficient ingestion compared to heavy, JavaScript-dependent sites."
+      },
+      {
+        "name": "Questions on platforms like Quora, Reddit, Avvo are systematically targeted — Researching and answering rea…",
+        "@type": "ListItem",
+        "position": 10,
+        "description": "Questions on platforms like Quora, Reddit, Avvo are systematically targeted — Researching and answering real questions from these platforms shows you're addressing actual user intent."
+      },
+      {
+        "name": "A system for monitoring AI mentions and referral traffic is in place — This helps you track how often your…",
+        "@type": "ListItem",
+        "position": 11,
+        "description": "A system for monitoring AI mentions and referral traffic is in place — This helps you track how often your business is cited by AI and the impact it has on your visibility and customer engagement."
+      }
+    ]
+  },
+  "articleBody": "Getting your business noticed by AI search engines and answer overviews requires a systematic approach. It's not just about adding a few keywords; it's about structuring your content and technical setup so AI systems can easily understand and cite your business as a trusted source. This checklist will help you identify key areas to review and improve, ensuring your business is poised to be the answer when prospects ask questions.\n\n### How to use this checklist\n\nGo through each item and check it off if your business already meets the requirement. For any unchecked items, make a plan to address them. Prioritize items that directly impact the crawlability and clarity of your core business information.\n\n- [ ] **Important pages are publicly accessible and indexable** — This ensures AI crawlers can actually find and process your content, rather than being blocked by technical restrictions.\n- [ ] **Business name, services, locations, and contact details are clearly stated** — Consistent and prominent display of these core details helps AI systems accurately identify and categorize your business.\n- [ ] **Accurate, original answers to customer questions are published** — AI prioritizes fact-dense content that directly addresses user queries, making original and precise answers essential.\n- [ ] **Consistent business information across trusted online profiles** — Discrepancies confuse AI systems and can reduce your authority, so maintain uniformity across your website and directories.\n- [ ] **Relevant crawlers (like OAI-SearchBot) are not blocked** — Intentionally or unintentionally blocking AI-specific crawlers prevents your content from being considered for AI-generated answers.\n- [ ] **Content is structured for direct answers and fact density** — AI favors content where the essential answer is near the top and factual claims are easily verifiable.\n- [ ] **Appropriate JSON-LD schema (e.g., FAQPage, Article) is implemented** — Schema provides explicit cues to AI systems, helping them understand the context and purpose of your content.\n- [ ] **Outdated service, pricing, or location information is updated** — AI systems will cite the information they find, so keeping details current prevents the spread of inaccurate data.\n- [ ] **Website is fast and uses static HTML where possible** — Low-latency, clean HTML is preferred by AI crawlers for efficient ingestion compared to heavy, JavaScript-dependent sites.\n- [ ] **Questions on platforms like Quora, Reddit, Avvo are systematically targeted** — Researching and answering real questions from these platforms shows you're addressing actual user intent.\n- [ ] **A system for monitoring AI mentions and referral traffic is in place** — This helps you track how often your business is cited by AI and the impact it has on your visibility and customer engagement.",
+  "datePublished": "2026-09-23"
+}

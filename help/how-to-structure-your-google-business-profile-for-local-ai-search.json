@@ -1,0 +1,469 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Structure Your Google Business Profile for Local AI Search",
+  "description": "First things first, make sure your business actually qualifies for a Google Business Profile in the first place, and that your primary business category is accurate. Google has specific guidelines on ",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "New York City"
+    },
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Chicago"
+    },
+    {
+      "@type": "City",
+      "name": "Houston"
+    },
+    {
+      "@type": "City",
+      "name": "Phoenix"
+    },
+    {
+      "@type": "City",
+      "name": "Philadelphia"
+    },
+    {
+      "@type": "City",
+      "name": "San Antonio"
+    },
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Dallas"
+    },
+    {
+      "@type": "City",
+      "name": "San Jose"
+    },
+    {
+      "@type": "City",
+      "name": "Austin"
+    },
+    {
+      "@type": "City",
+      "name": "Jacksonville"
+    },
+    {
+      "@type": "City",
+      "name": "Fort Worth"
+    },
+    {
+      "@type": "City",
+      "name": "Columbus"
+    },
+    {
+      "@type": "City",
+      "name": "Charlotte"
+    },
+    {
+      "@type": "City",
+      "name": "San Francisco"
+    },
+    {
+      "@type": "City",
+      "name": "Indianapolis"
+    },
+    {
+      "@type": "City",
+      "name": "Seattle"
+    },
+    {
+      "@type": "City",
+      "name": "Denver"
+    },
+    {
+      "@type": "City",
+      "name": "Oklahoma City"
+    },
+    {
+      "@type": "City",
+      "name": "Boston"
+    },
+    {
+      "@type": "City",
+      "name": "El Paso"
+    },
+    {
+      "@type": "City",
+      "name": "Nashville"
+    },
+    {
+      "@type": "City",
+      "name": "Detroit"
+    },
+    {
+      "@type": "City",
+      "name": "Portland"
+    },
+    {
+      "@type": "City",
+      "name": "Las Vegas"
+    },
+    {
+      "@type": "City",
+      "name": "Memphis"
+    },
+    {
+      "@type": "City",
+      "name": "Louisville"
+    },
+    {
+      "@type": "City",
+      "name": "Baltimore"
+    },
+    {
+      "@type": "City",
+      "name": "Milwaukee"
+    },
+    {
+      "@type": "City",
+      "name": "Albuquerque"
+    },
+    {
+      "@type": "City",
+      "name": "Tucson"
+    },
+    {
+      "@type": "City",
+      "name": "Fresno"
+    },
+    {
+      "@type": "City",
+      "name": "Sacramento"
+    },
+    {
+      "@type": "City",
+      "name": "Kansas City"
+    },
+    {
+      "@type": "City",
+      "name": "Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Atlanta"
+    },
+    {
+      "@type": "City",
+      "name": "Omaha"
+    },
+    {
+      "@type": "City",
+      "name": "Colorado Springs"
+    },
+    {
+      "@type": "City",
+      "name": "Miami"
+    },
+    {
+      "@type": "City",
+      "name": "Raleigh"
+    },
+    {
+      "@type": "City",
+      "name": "Long Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Virginia Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Oakland"
+    },
+    {
+      "@type": "City",
+      "name": "Minneapolis"
+    },
+    {
+      "@type": "City",
+      "name": "Tampa"
+    },
+    {
+      "@type": "City",
+      "name": "Tulsa"
+    },
+    {
+      "@type": "City",
+      "name": "Arlington"
+    },
+    {
+      "@type": "City",
+      "name": "New Orleans"
+    },
+    {
+      "@type": "City",
+      "name": "Wichita"
+    },
+    {
+      "@type": "City",
+      "name": "Cleveland"
+    },
+    {
+      "@type": "City",
+      "name": "Bakersfield"
+    },
+    {
+      "@type": "City",
+      "name": "Aurora"
+    },
+    {
+      "@type": "City",
+      "name": "Anaheim"
+    },
+    {
+      "@type": "City",
+      "name": "Honolulu"
+    },
+    {
+      "@type": "City",
+      "name": "Santa Ana"
+    },
+    {
+      "@type": "City",
+      "name": "Riverside"
+    },
+    {
+      "@type": "City",
+      "name": "Corpus Christi"
+    },
+    {
+      "@type": "City",
+      "name": "Lexington"
+    },
+    {
+      "@type": "City",
+      "name": "Stockton"
+    },
+    {
+      "@type": "City",
+      "name": "Henderson"
+    },
+    {
+      "@type": "City",
+      "name": "Saint Paul"
+    },
+    {
+      "@type": "City",
+      "name": "St. Louis"
+    },
+    {
+      "@type": "City",
+      "name": "Cincinnati"
+    },
+    {
+      "@type": "City",
+      "name": "Pittsburgh"
+    },
+    {
+      "@type": "City",
+      "name": "Greensboro"
+    },
+    {
+      "@type": "City",
+      "name": "Anchorage"
+    },
+    {
+      "@type": "City",
+      "name": "Plano"
+    },
+    {
+      "@type": "City",
+      "name": "Lincoln"
+    },
+    {
+      "@type": "City",
+      "name": "Orlando"
+    },
+    {
+      "@type": "City",
+      "name": "Irvine"
+    },
+    {
+      "@type": "City",
+      "name": "Newark"
+    },
+    {
+      "@type": "City",
+      "name": "Durham"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Toledo"
+    },
+    {
+      "@type": "City",
+      "name": "Fort Wayne"
+    },
+    {
+      "@type": "City",
+      "name": "St. Petersburg"
+    },
+    {
+      "@type": "City",
+      "name": "Laredo"
+    },
+    {
+      "@type": "City",
+      "name": "Jersey City"
+    },
+    {
+      "@type": "City",
+      "name": "Charlotte"
+    },
+    {
+      "@type": "City",
+      "name": "Madison"
+    },
+    {
+      "@type": "City",
+      "name": "Chandler"
+    },
+    {
+      "@type": "City",
+      "name": "Buffalo"
+    },
+    {
+      "@type": "City",
+      "name": "Lubbock"
+    },
+    {
+      "@type": "City",
+      "name": "Scottsdale"
+    },
+    {
+      "@type": "City",
+      "name": "Reno"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Gilbert"
+    },
+    {
+      "@type": "City",
+      "name": "Winston-Salem"
+    },
+    {
+      "@type": "City",
+      "name": "North Las Vegas"
+    },
+    {
+      "@type": "City",
+      "name": "Norfolk"
+    },
+    {
+      "@type": "City",
+      "name": "Chesapeake"
+    },
+    {
+      "@type": "City",
+      "name": "Garland"
+    },
+    {
+      "@type": "City",
+      "name": "Irving"
+    },
+    {
+      "@type": "City",
+      "name": "Hialeah"
+    },
+    {
+      "@type": "City",
+      "name": "Fremont"
+    },
+    {
+      "@type": "City",
+      "name": "Boise"
+    },
+    {
+      "@type": "City",
+      "name": "Richmond"
+    },
+    {
+      "@type": "City",
+      "name": "Baton Rouge"
+    },
+    {
+      "@type": "City",
+      "name": "Spokane"
+    },
+    {
+      "@type": "City",
+      "name": "Des Moines"
+    },
+    {
+      "@type": "City",
+      "name": "Tacoma"
+    },
+    {
+      "@type": "City",
+      "name": "San Bernardino"
+    },
+    {
+      "@type": "City",
+      "name": "Modesto"
+    },
+    {
+      "@type": "City",
+      "name": "Fontana"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Verify Your Business Eligibility and Category",
+      "text": "First things first, make sure your business actually qualifies for a Google Business Profile in the first place, and that your primary business category is accurate. Google has specific guidelines on who can have a profile. Being clear on this from the start avoids issues down the line and ensures AI systems understand what your business does. An accurate category helps AI match your business to relevant queries."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Claim and Verify Your Google Business Profile",
+      "text": "If you haven't already, claim and verify your GBP. This is a foundational step that tells Google you're the official representative of your business. Verification helps establish trust, which AI systems value immensely. Without a verified profile, AI will have less confidence in your business's legitimacy."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Define Accurate Service Areas and Address Visibility",
+      "text": "This is crucial for service-area businesses. Enter your precise service areas using cities or postal codes, keeping in mind Google's limit of 20 areas and the two-hour driving distance guideline from your base. If you don't serve customers at your physical address, make sure to hide it on your profile. This prevents confusion for both human users and AI, ensuring you're only shown for relevant local searches."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Ensure NAP+W Consistency Across Platforms",
+      "text": "\"NAP+W\" stands for Name, Address, Phone, and Website. It's vital that this information is absolutely consistent across your Google Business Profile, your website, and any other online directories or social media. Inconsistent data confuses AI systems and makes them less likely to cite you confidently. This consistency builds a strong entity signal for AI."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Monitor and Assess Performance Over Time",
+      "text": "Don't just set it and forget it! After making changes, monitor your GBP's performance. Look at calls, direction requests (if applicable), and website visits coming from your profile. Remember that AI visibility isn't about immediate ranking changes but sustained performance. It takes time for AI systems to fully ingest and trust new information. Professional help is particularly useful if your business has multiple locations or a complex service model, as managing consistency can become a big task. AI Visibility Solutions can help you navigate these complexities to ensure your GBP is optimized for AI discovery."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

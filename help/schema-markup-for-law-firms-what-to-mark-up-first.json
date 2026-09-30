@@ -1,0 +1,446 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Schema Markup for Law Firms: What to Mark Up First",
+  "author": {
+    "@type": "Organization",
+    "name": "AI Visibility Solutions"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI Visibility Solutions",
+    "url": "aiovisibility.com"
+  },
+  "articleBody": "Getting your law firm noticed by AI systems can feel like a mystery, but a great place to start is with Schema Markup. This isn't about SEO tricks; it's about making your firm's information crystal clear to Google AI Overviews, Perplexity, and even voice assistants. Think of it as providing a cheat sheet for AI, telling it exactly what your firm does, where you're located, and who your attorneys are. But with so many options, what should you prioritize?\n\nStart by focusing on the core identity of your firm. Your `LocalBusiness` or `LegalService` schema should be your foundational layer, clearly stating your firm's name, address, and phone number. This helps AI understand who you are and where you operate. Next, move to your office locations; if you have multiple, make sure each is uniquely marked up with precise details to help AI connect location-based queries to the right office. Then, highlight your attorneys using `Person` schema, linking them to their specific expertise and any relevant `LegalService` practice areas. This builds authority and helps AI understand who the experts are within your firm. Don't forget to mark up your core services using appropriate `Service` or `LegalService` types, describing exactly what you offer in plain language. Finally, if you have existing FAQs, marking them up with `FAQPage` schema can quickly boost your visibility for specific questions. Prioritizing these foundational elements ensures AI has a robust, interconnected understanding of your firm, making you a more reliable answer source.\n\nCommon Mistakes to Avoid:\nWhen implementing schema, a big mistake is marking up information that isn't actually visible on your website. Google's policies are pretty clear: what you mark up must be what users see. Another frequent error is using outdated contact details or inconsistent firm names across different pages. Make sure all your information is current and consistent everywhere it appears on your site.\n\nReady to make your firm an AI-citable authority? Let's talk about the best schema strategy for your practice.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "New York City"
+    },
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Chicago"
+    },
+    {
+      "@type": "City",
+      "name": "Houston"
+    },
+    {
+      "@type": "City",
+      "name": "Phoenix"
+    },
+    {
+      "@type": "City",
+      "name": "Philadelphia"
+    },
+    {
+      "@type": "City",
+      "name": "San Antonio"
+    },
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Dallas"
+    },
+    {
+      "@type": "City",
+      "name": "San Jose"
+    },
+    {
+      "@type": "City",
+      "name": "Austin"
+    },
+    {
+      "@type": "City",
+      "name": "Jacksonville"
+    },
+    {
+      "@type": "City",
+      "name": "Fort Worth"
+    },
+    {
+      "@type": "City",
+      "name": "Columbus"
+    },
+    {
+      "@type": "City",
+      "name": "Charlotte"
+    },
+    {
+      "@type": "City",
+      "name": "San Francisco"
+    },
+    {
+      "@type": "City",
+      "name": "Indianapolis"
+    },
+    {
+      "@type": "City",
+      "name": "Seattle"
+    },
+    {
+      "@type": "City",
+      "name": "Denver"
+    },
+    {
+      "@type": "City",
+      "name": "Oklahoma City"
+    },
+    {
+      "@type": "City",
+      "name": "Boston"
+    },
+    {
+      "@type": "City",
+      "name": "El Paso"
+    },
+    {
+      "@type": "City",
+      "name": "Nashville"
+    },
+    {
+      "@type": "City",
+      "name": "Detroit"
+    },
+    {
+      "@type": "City",
+      "name": "Portland"
+    },
+    {
+      "@type": "City",
+      "name": "Las Vegas"
+    },
+    {
+      "@type": "City",
+      "name": "Memphis"
+    },
+    {
+      "@type": "City",
+      "name": "Louisville"
+    },
+    {
+      "@type": "City",
+      "name": "Baltimore"
+    },
+    {
+      "@type": "City",
+      "name": "Milwaukee"
+    },
+    {
+      "@type": "City",
+      "name": "Albuquerque"
+    },
+    {
+      "@type": "City",
+      "name": "Tucson"
+    },
+    {
+      "@type": "City",
+      "name": "Fresno"
+    },
+    {
+      "@type": "City",
+      "name": "Sacramento"
+    },
+    {
+      "@type": "City",
+      "name": "Kansas City"
+    },
+    {
+      "@type": "City",
+      "name": "Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Atlanta"
+    },
+    {
+      "@type": "City",
+      "name": "Omaha"
+    },
+    {
+      "@type": "City",
+      "name": "Colorado Springs"
+    },
+    {
+      "@type": "City",
+      "name": "Miami"
+    },
+    {
+      "@type": "City",
+      "name": "Raleigh"
+    },
+    {
+      "@type": "City",
+      "name": "Long Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Virginia Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Oakland"
+    },
+    {
+      "@type": "City",
+      "name": "Minneapolis"
+    },
+    {
+      "@type": "City",
+      "name": "Tampa"
+    },
+    {
+      "@type": "City",
+      "name": "Tulsa"
+    },
+    {
+      "@type": "City",
+      "name": "Arlington"
+    },
+    {
+      "@type": "City",
+      "name": "New Orleans"
+    },
+    {
+      "@type": "City",
+      "name": "Wichita"
+    },
+    {
+      "@type": "City",
+      "name": "Cleveland"
+    },
+    {
+      "@type": "City",
+      "name": "Bakersfield"
+    },
+    {
+      "@type": "City",
+      "name": "Aurora"
+    },
+    {
+      "@type": "City",
+      "name": "Anaheim"
+    },
+    {
+      "@type": "City",
+      "name": "Honolulu"
+    },
+    {
+      "@type": "City",
+      "name": "Santa Ana"
+    },
+    {
+      "@type": "City",
+      "name": "Riverside"
+    },
+    {
+      "@type": "City",
+      "name": "Corpus Christi"
+    },
+    {
+      "@type": "City",
+      "name": "Lexington"
+    },
+    {
+      "@type": "City",
+      "name": "Stockton"
+    },
+    {
+      "@type": "City",
+      "name": "Henderson"
+    },
+    {
+      "@type": "City",
+      "name": "Saint Paul"
+    },
+    {
+      "@type": "City",
+      "name": "St. Louis"
+    },
+    {
+      "@type": "City",
+      "name": "Cincinnati"
+    },
+    {
+      "@type": "City",
+      "name": "Pittsburgh"
+    },
+    {
+      "@type": "City",
+      "name": "Greensboro"
+    },
+    {
+      "@type": "City",
+      "name": "Anchorage"
+    },
+    {
+      "@type": "City",
+      "name": "Plano"
+    },
+    {
+      "@type": "City",
+      "name": "Lincoln"
+    },
+    {
+      "@type": "City",
+      "name": "Orlando"
+    },
+    {
+      "@type": "City",
+      "name": "Irvine"
+    },
+    {
+      "@type": "City",
+      "name": "Newark"
+    },
+    {
+      "@type": "City",
+      "name": "Durham"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Toledo"
+    },
+    {
+      "@type": "City",
+      "name": "Fort Wayne"
+    },
+    {
+      "@type": "City",
+      "name": "St. Petersburg"
+    },
+    {
+      "@type": "City",
+      "name": "Laredo"
+    },
+    {
+      "@type": "City",
+      "name": "Jersey City"
+    },
+    {
+      "@type": "City",
+      "name": "Charlotte"
+    },
+    {
+      "@type": "City",
+      "name": "Madison"
+    },
+    {
+      "@type": "City",
+      "name": "Chandler"
+    },
+    {
+      "@type": "City",
+      "name": "Buffalo"
+    },
+    {
+      "@type": "City",
+      "name": "Lubbock"
+    },
+    {
+      "@type": "City",
+      "name": "Scottsdale"
+    },
+    {
+      "@type": "City",
+      "name": "Reno"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Gilbert"
+    },
+    {
+      "@type": "City",
+      "name": "Winston-Salem"
+    },
+    {
+      "@type": "City",
+      "name": "North Las Vegas"
+    },
+    {
+      "@type": "City",
+      "name": "Norfolk"
+    },
+    {
+      "@type": "City",
+      "name": "Chesapeake"
+    },
+    {
+      "@type": "City",
+      "name": "Garland"
+    },
+    {
+      "@type": "City",
+      "name": "Irving"
+    },
+    {
+      "@type": "City",
+      "name": "Hialeah"
+    },
+    {
+      "@type": "City",
+      "name": "Fremont"
+    },
+    {
+      "@type": "City",
+      "name": "Boise"
+    },
+    {
+      "@type": "City",
+      "name": "Richmond"
+    },
+    {
+      "@type": "City",
+      "name": "Baton Rouge"
+    },
+    {
+      "@type": "City",
+      "name": "Spokane"
+    },
+    {
+      "@type": "City",
+      "name": "Des Moines"
+    },
+    {
+      "@type": "City",
+      "name": "Tacoma"
+    },
+    {
+      "@type": "City",
+      "name": "San Bernardino"
+    },
+    {
+      "@type": "City",
+      "name": "Modesto"
+    },
+    {
+      "@type": "City",
+      "name": "Fontana"
+    }
+  ],
+  "datePublished": "2026-09-30",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

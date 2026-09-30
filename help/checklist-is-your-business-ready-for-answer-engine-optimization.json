@@ -1,0 +1,503 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Checklist: Is your business ready for Answer Engine Optimization?",
+  "publisher": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "New York City",
+      "@type": "City"
+    },
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Chicago",
+      "@type": "City"
+    },
+    {
+      "name": "Houston",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Philadelphia",
+      "@type": "City"
+    },
+    {
+      "name": "San Antonio",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "San Jose",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Jacksonville",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Columbus",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Indianapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Seattle",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Oklahoma City",
+      "@type": "City"
+    },
+    {
+      "name": "Boston",
+      "@type": "City"
+    },
+    {
+      "name": "El Paso",
+      "@type": "City"
+    },
+    {
+      "name": "Nashville",
+      "@type": "City"
+    },
+    {
+      "name": "Detroit",
+      "@type": "City"
+    },
+    {
+      "name": "Portland",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Memphis",
+      "@type": "City"
+    },
+    {
+      "name": "Louisville",
+      "@type": "City"
+    },
+    {
+      "name": "Baltimore",
+      "@type": "City"
+    },
+    {
+      "name": "Milwaukee",
+      "@type": "City"
+    },
+    {
+      "name": "Albuquerque",
+      "@type": "City"
+    },
+    {
+      "name": "Tucson",
+      "@type": "City"
+    },
+    {
+      "name": "Fresno",
+      "@type": "City"
+    },
+    {
+      "name": "Sacramento",
+      "@type": "City"
+    },
+    {
+      "name": "Kansas City",
+      "@type": "City"
+    },
+    {
+      "name": "Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Atlanta",
+      "@type": "City"
+    },
+    {
+      "name": "Omaha",
+      "@type": "City"
+    },
+    {
+      "name": "Colorado Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Raleigh",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Virginia Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Minneapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Tulsa",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington",
+      "@type": "City"
+    },
+    {
+      "name": "New Orleans",
+      "@type": "City"
+    },
+    {
+      "name": "Wichita",
+      "@type": "City"
+    },
+    {
+      "name": "Cleveland",
+      "@type": "City"
+    },
+    {
+      "name": "Bakersfield",
+      "@type": "City"
+    },
+    {
+      "name": "Aurora",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Honolulu",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ana",
+      "@type": "City"
+    },
+    {
+      "name": "Riverside",
+      "@type": "City"
+    },
+    {
+      "name": "Corpus Christi",
+      "@type": "City"
+    },
+    {
+      "name": "Lexington",
+      "@type": "City"
+    },
+    {
+      "name": "Stockton",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Saint Paul",
+      "@type": "City"
+    },
+    {
+      "name": "St. Louis",
+      "@type": "City"
+    },
+    {
+      "name": "Cincinnati",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburgh",
+      "@type": "City"
+    },
+    {
+      "name": "Greensboro",
+      "@type": "City"
+    },
+    {
+      "name": "Anchorage",
+      "@type": "City"
+    },
+    {
+      "name": "Plano",
+      "@type": "City"
+    },
+    {
+      "name": "Lincoln",
+      "@type": "City"
+    },
+    {
+      "name": "Orlando",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Durham",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Toledo",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Wayne",
+      "@type": "City"
+    },
+    {
+      "name": "St. Petersburg",
+      "@type": "City"
+    },
+    {
+      "name": "Laredo",
+      "@type": "City"
+    },
+    {
+      "name": "Jersey City",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "Madison",
+      "@type": "City"
+    },
+    {
+      "name": "Chandler",
+      "@type": "City"
+    },
+    {
+      "name": "Buffalo",
+      "@type": "City"
+    },
+    {
+      "name": "Lubbock",
+      "@type": "City"
+    },
+    {
+      "name": "Scottsdale",
+      "@type": "City"
+    },
+    {
+      "name": "Reno",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Gilbert",
+      "@type": "City"
+    },
+    {
+      "name": "Winston-Salem",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Norfolk",
+      "@type": "City"
+    },
+    {
+      "name": "Chesapeake",
+      "@type": "City"
+    },
+    {
+      "name": "Garland",
+      "@type": "City"
+    },
+    {
+      "name": "Irving",
+      "@type": "City"
+    },
+    {
+      "name": "Hialeah",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Boise",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "Baton Rouge",
+      "@type": "City"
+    },
+    {
+      "name": "Spokane",
+      "@type": "City"
+    },
+    {
+      "name": "Des Moines",
+      "@type": "City"
+    },
+    {
+      "name": "Tacoma",
+      "@type": "City"
+    },
+    {
+      "name": "San Bernardino",
+      "@type": "City"
+    },
+    {
+      "name": "Modesto",
+      "@type": "City"
+    },
+    {
+      "name": "Fontana",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Checklist: Is your business ready for Answer Engine Optimization?",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Have you identified high-value customer questions related to your services? — AEO starts with knowing the e…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Have you identified high-value customer questions related to your services? — AEO starts with knowing the exact questions prospects are asking online, not just guessing what keywords they might type."
+      },
+      {
+        "name": "Are your business facts (services, locations, qualifications, contact info) directly stated on relevant pag…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Are your business facts (services, locations, qualifications, contact info) directly stated on relevant pages? — AI systems like Bing emphasize independently verifiable facts and clear entity naming, so directness is key."
+      },
+      {
+        "name": "Does each service page focus on answering one main intent or question? — Vague pages with multiple topics c…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Does each service page focus on answering one main intent or question? — Vague pages with multiple topics confuse AI; focused pages with clear answers are more citable."
+      },
+      {
+        "name": "Is your website technically crawlable and indexable by search engines? — If search engine bots can't access…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Is your website technically crawlable and indexable by search engines? — If search engine bots can't access and understand your pages, AI won't be able to either. Check for issues like heavy JavaScript or incorrect `robots.txt` settings."
+      },
+      {
+        "name": "Do you have rich JSON-LD schema implemented that matches your visible content? — Schema is the language AI…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Do you have rich JSON-LD schema implemented that matches your visible content? — Schema is the language AI understands; it helps define your business, services, and FAQs for machine consumption."
+      },
+      {
+        "name": "Have you reviewed your pages for content that is concise and 'fact-dense'? — AI prefers clear, direct answe…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Have you reviewed your pages for content that is concise and 'fact-dense'? — AI prefers clear, direct answers, often just a sentence or two, before additional context. Avoid overly verbose or generic content."
+      },
+      {
+        "name": "Is your content updated regularly when services, hours, or policies change? — AI systems value current and…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Is your content updated regularly when services, hours, or policies change? — AI systems value current and accurate information, so stale content can reduce your chances of being cited."
+      },
+      {
+        "name": "Have you considered how your content performs for voice search? — Voice search often yields only one spoken…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Have you considered how your content performs for voice search? — Voice search often yields only one spoken answer, making speakable schema and concise answers critical for being chosen when someone asks out loud."
+      }
+    ]
+  },
+  "articleBody": "Getting ready for Answer Engine Optimization (AEO) means taking a fresh look at how your business content is structured and presented for AI systems. It's not just about keywords anymore; it's about being the direct, factual answer. Use this checklist to see where your business stands.\n\n- [ ] Have you identified high-value customer questions related to your services? — AEO starts with knowing the exact questions prospects are asking online, not just guessing what keywords they might type.\n- [ ] Are your business facts (services, locations, qualifications, contact info) directly stated on relevant pages? — AI systems like Bing emphasize independently verifiable facts and clear entity naming, so directness is key.\n- [ ] Does each service page focus on answering one main intent or question? — Vague pages with multiple topics confuse AI; focused pages with clear answers are more citable.\n- [ ] Is your website technically crawlable and indexable by search engines? — If search engine bots can't access and understand your pages, AI won't be able to either. Check for issues like heavy JavaScript or incorrect `robots.txt` settings.\n- [ ] Do you have rich JSON-LD schema implemented that matches your visible content? — Schema is the language AI understands; it helps define your business, services, and FAQs for machine consumption.\n- [ ] Have you reviewed your pages for content that is concise and 'fact-dense'? — AI prefers clear, direct answers, often just a sentence or two, before additional context. Avoid overly verbose or generic content.\n- [ ] Is your content updated regularly when services, hours, or policies change? — AI systems value current and accurate information, so stale content can reduce your chances of being cited.\n- [ ] Have you considered how your content performs for voice search? — Voice search often yields only one spoken answer, making speakable schema and concise answers critical for being chosen when someone asks out loud.\n\n**How to use this checklist**\n\nGo through each item and honestly assess your business's current state. If you're checking off many 'no' boxes, it's a good indicator that you have significant opportunities to improve your AI visibility. This checklist is a starting point, and often, getting professional help can accelerate your progress and ensure compliance with best practices.\n\nIf you find yourself with several unchecked boxes, don't worry! AI Visibility Solutions helps small businesses implement a comprehensive AEO strategy, turning your services into an AI-ready knowledge base. We ensure your content is structured, discoverable, and optimized to make you the answer in AI search.",
+  "datePublished": "2026-09-23"
+}
