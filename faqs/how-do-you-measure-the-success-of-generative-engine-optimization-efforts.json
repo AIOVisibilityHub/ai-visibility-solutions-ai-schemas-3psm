@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you measure the success of Generative Engine Optimization efforts?",
-  "description": "GEO success is measured by appearances in AI-generated answers, conversions from conversational search, brand mentions, E-A-T signals, and traditional SEO metri",
   "url": "aiovisibility.com/faq/how-do-you-measure-the-success-of-generative-engine-optimization-efforts",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you measure the success of Generative Engine Optimization efforts?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Measuring GEO success involves tracking metrics beyond traditional website traffic. Key indicators include appearances in AI-generated answer boxes or summaries, direct conversions from conversational searches, brand mentions in AI contexts, and improvement in your expertise, authoritativeness, and trustworthiness (E-A-T) signals. We also monitor traditional SEO metrics like organic traffic and keyword rankings, combined with insights from AI search analytics platforms.",
-        "description": "GEO success is measured by appearances in AI-generated answers, conversions from conversational search, brand mentions, E-A-T signals, and traditional SEO metrics."
-      }
-    }
-  ],
+  "name": "How do you measure the success of Generative Engine Optimization efforts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you measure the success of Generative Engine Optimization efforts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Measuring GEO success involves tracking metrics beyond traditional website traffic. Key indicators include appearances in AI-generated answer boxes or summaries, direct conversions from conversational searches, brand mentions in AI contexts, and improvement in your expertise, authoritativeness, and trustworthiness (E-A-T) signals. We also monitor traditional SEO metrics like organic traffic and keyword rankings, combined with insights from AI search analytics platforms.",
+        "@type": "Answer",
+        "description": "GEO success is measured by appearances in AI-generated answers, conversions from conversational search, brand mentions, E-A-T signals, and traditional SEO metrics."
+      }
+    }
+  ],
+  "description": "GEO success is measured by appearances in AI-generated answers, conversions from conversational search, brand mentions, E-A-T signals, and traditional SEO metri"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does AI content writing improve AEO performance?",
-  "description": "AI content writing optimizes for AEO by analyzing search intent, generating factual answers, and structuring content for direct answers and featured snippets.",
   "url": "aiovisibility.com/faq/how-does-ai-content-writing-improve-aeo-performance",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does AI content writing improve AEO performance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AI content writing improves AEO performance by leveraging AI to analyze search intent, identify popular questions, and generate highly optimized, factual answers. It helps structure content for featured snippets, 'People Also Ask' sections, and direct answer boxes in search results. This process ensures content directly addresses user queries in a clear, concise format that AI algorithms favor, increasing visibility and authority. It also aids in maintaining consistent tone and factual accuracy across large volumes of content.",
-        "description": "AI content writing optimizes for AEO by analyzing search intent, generating factual answers, and structuring content for direct answers and featured snippets."
-      }
-    }
-  ],
+  "name": "How does AI content writing improve AEO performance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does AI content writing improve AEO performance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI content writing improves AEO performance by leveraging AI to analyze search intent, identify popular questions, and generate highly optimized, factual answers. It helps structure content for featured snippets, 'People Also Ask' sections, and direct answer boxes in search results. This process ensures content directly addresses user queries in a clear, concise format that AI algorithms favor, increasing visibility and authority. It also aids in maintaining consistent tone and factual accuracy across large volumes of content.",
+        "@type": "Answer",
+        "description": "AI content writing optimizes for AEO by analyzing search intent, generating factual answers, and structuring content for direct answers and featured snippets."
+      }
+    }
+  ],
+  "description": "AI content writing optimizes for AEO by analyzing search intent, generating factual answers, and structuring content for direct answers and featured snippets."
 }

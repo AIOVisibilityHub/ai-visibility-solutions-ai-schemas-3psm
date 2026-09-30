@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right AI SEO service provider for my business?",
-  "description": "Choose an AI SEO provider with industry experience, proven results, transparency, and customized solutions that align with your business goals.",
   "url": "aiovisibility.com/faq/how-do-i-choose-the-right-ai-seo-service-provider-for-my-business",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right AI SEO service provider for my business?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing an AI SEO provider, look for experience in your industry, proven results with AI-driven strategies, and transparent reporting. Evaluate their understanding of current AI SEO trends and their ability to integrate AI tools effectively. Ensure they offer customized solutions tailored to your specific business goals and provide clear communication about the process and expected outcomes. Ask for case studies or client testimonials.",
-        "description": "Choose an AI SEO provider with industry experience, proven results, transparency, and customized solutions that align with your business goals."
-      }
-    }
-  ],
+  "name": "How do I choose the right AI SEO service provider for my business?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right AI SEO service provider for my business?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing an AI SEO provider, look for experience in your industry, proven results with AI-driven strategies, and transparent reporting. Evaluate their understanding of current AI SEO trends and their ability to integrate AI tools effectively. Ensure they offer customized solutions tailored to your specific business goals and provide clear communication about the process and expected outcomes. Ask for case studies or client testimonials.",
+        "@type": "Answer",
+        "description": "Choose an AI SEO provider with industry experience, proven results, transparency, and customized solutions that align with your business goals."
+      }
+    }
+  ],
+  "description": "Choose an AI SEO provider with industry experience, proven results, transparency, and customized solutions that align with your business goals."
 }

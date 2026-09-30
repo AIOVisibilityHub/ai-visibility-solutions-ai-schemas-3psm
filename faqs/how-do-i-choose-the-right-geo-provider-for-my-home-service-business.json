@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right GEO provider for my home service business?",
-  "description": "Choose a GEO provider with proven home service experience, AI marketing expertise, transparent reporting, and a tailored approach to your business goals.",
   "url": "aiovisibility.com/faq/how-do-i-choose-the-right-geo-provider-for-my-home-service-business",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right GEO provider for my home service business?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting a GEO provider, look for one with proven experience specifically in the home services sector and a deep understanding of AI-driven marketing. Evaluate their methodology for AI content generation, local SEO integration, and performance tracking. Request case studies or client testimonials relevant to your industry. Ensure they offer transparent reporting and clear communication about strategy and results. A good provider will also take the time to understand your unique business goals and tailor their approach accordingly, rather than offering a one-size-fits-all solution.",
-        "description": "Choose a GEO provider with proven home service experience, AI marketing expertise, transparent reporting, and a tailored approach to your business goals."
-      }
-    }
-  ],
+  "name": "How do I choose the right GEO provider for my home service business?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right GEO provider for my home service business?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a GEO provider, look for one with proven experience specifically in the home services sector and a deep understanding of AI-driven marketing. Evaluate their methodology for AI content generation, local SEO integration, and performance tracking. Request case studies or client testimonials relevant to your industry. Ensure they offer transparent reporting and clear communication about strategy and results. A good provider will also take the time to understand your unique business goals and tailor their approach accordingly, rather than offering a one-size-fits-all solution.",
+        "@type": "Answer",
+        "description": "Choose a GEO provider with proven home service experience, AI marketing expertise, transparent reporting, and a tailored approach to your business goals."
+      }
+    }
+  ],
+  "description": "Choose a GEO provider with proven home service experience, AI marketing expertise, transparent reporting, and a tailored approach to your business goals."
 }

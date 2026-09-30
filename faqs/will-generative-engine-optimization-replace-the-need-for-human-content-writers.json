@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will Generative Engine Optimization replace the need for human content writers?",
-  "description": "GEO enhances content creation by augmenting human writers, using AI for efficiency while human oversight ensures accuracy, brand voice, and nuanced expertise.",
   "url": "aiovisibility.com/faq/will-generative-engine-optimization-replace-the-need-for-human-content-writers",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will Generative Engine Optimization replace the need for human content writers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Generative Engine Optimization is designed to augment and enhance the work of human content writers, not entirely replace it. AI excels at generating large volumes of optimized content quickly and identifying patterns in search data. However, human oversight is crucial for ensuring accuracy, maintaining brand voice, infusing creativity, and adding nuanced expertise that AI may lack. The most effective GEO strategies combine AI's efficiency with human creativity and strategic direction, creating a powerful synergy for content creation.",
-        "description": "GEO enhances content creation by augmenting human writers, using AI for efficiency while human oversight ensures accuracy, brand voice, and nuanced expertise."
-      }
-    }
-  ],
+  "name": "Will Generative Engine Optimization replace the need for human content writers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will Generative Engine Optimization replace the need for human content writers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generative Engine Optimization is designed to augment and enhance the work of human content writers, not entirely replace it. AI excels at generating large volumes of optimized content quickly and identifying patterns in search data. However, human oversight is crucial for ensuring accuracy, maintaining brand voice, infusing creativity, and adding nuanced expertise that AI may lack. The most effective GEO strategies combine AI's efficiency with human creativity and strategic direction, creating a powerful synergy for content creation.",
+        "@type": "Answer",
+        "description": "GEO enhances content creation by augmenting human writers, using AI for efficiency while human oversight ensures accuracy, brand voice, and nuanced expertise."
+      }
+    }
+  ],
+  "description": "GEO enhances content creation by augmenting human writers, using AI for efficiency while human oversight ensures accuracy, brand voice, and nuanced expertise."
 }

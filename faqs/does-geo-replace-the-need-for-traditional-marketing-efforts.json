@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does GEO replace the need for traditional marketing efforts?",
-  "description": "GEO complements traditional marketing by enhancing online visibility; it does not replace the need for a comprehensive strategy.",
   "url": "aiovisibility.com/faq/does-geo-replace-the-need-for-traditional-marketing-efforts",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does GEO replace the need for traditional marketing efforts?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No, Generative Engine Optimization complements rather than replaces traditional marketing efforts. While GEO excels at enhancing online visibility and attracting organic search traffic, a comprehensive marketing strategy for a med spa often includes other elements like social media engagement, email marketing, local advertising, and in-clinic promotions. GEO integrates seamlessly with these efforts, providing a strong digital foundation that amplifies the reach and effectiveness of overall marketing initiatives, creating a unified client acquisition funnel.",
-        "description": "GEO complements traditional marketing by enhancing online visibility; it does not replace the need for a comprehensive strategy."
-      }
-    }
-  ],
+  "name": "Does GEO replace the need for traditional marketing efforts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does GEO replace the need for traditional marketing efforts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, Generative Engine Optimization complements rather than replaces traditional marketing efforts. While GEO excels at enhancing online visibility and attracting organic search traffic, a comprehensive marketing strategy for a med spa often includes other elements like social media engagement, email marketing, local advertising, and in-clinic promotions. GEO integrates seamlessly with these efforts, providing a strong digital foundation that amplifies the reach and effectiveness of overall marketing initiatives, creating a unified client acquisition funnel.",
+        "@type": "Answer",
+        "description": "GEO complements traditional marketing by enhancing online visibility; it does not replace the need for a comprehensive strategy."
+      }
+    }
+  ],
+  "description": "GEO complements traditional marketing by enhancing online visibility; it does not replace the need for a comprehensive strategy."
 }

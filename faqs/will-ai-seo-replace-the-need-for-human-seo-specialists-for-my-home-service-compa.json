@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will AI SEO replace the need for human SEO specialists for my home service company?",
-  "description": "AI SEO enhances human specialists by automating tasks, but human expertise is still essential for strategy, content creation, and nuanced decision-making.",
   "url": "aiovisibility.com/faq/will-ai-seo-replace-the-need-for-human-seo-specialists-for-my-home-service-compa",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will AI SEO replace the need for human SEO specialists for my home service company?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AI SEO tools enhance the capabilities of human SEO specialists rather than replacing them entirely. While AI can automate data analysis, identify trends, and perform repetitive optimization tasks with incredible efficiency, human expertise remains crucial for strategic planning, creative content development, interpreting complex data, and making nuanced decisions that align with your brand's unique identity and business goals. The most effective approach combines AI's power with human insight for superior results.",
-        "description": "AI SEO enhances human specialists by automating tasks, but human expertise is still essential for strategy, content creation, and nuanced decision-making."
-      }
-    }
-  ],
+  "name": "Will AI SEO replace the need for human SEO specialists for my home service company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will AI SEO replace the need for human SEO specialists for my home service company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI SEO tools enhance the capabilities of human SEO specialists rather than replacing them entirely. While AI can automate data analysis, identify trends, and perform repetitive optimization tasks with incredible efficiency, human expertise remains crucial for strategic planning, creative content development, interpreting complex data, and making nuanced decisions that align with your brand's unique identity and business goals. The most effective approach combines AI's power with human insight for superior results.",
+        "@type": "Answer",
+        "description": "AI SEO enhances human specialists by automating tasks, but human expertise is still essential for strategy, content creation, and nuanced decision-making."
+      }
+    }
+  ],
+  "description": "AI SEO enhances human specialists by automating tasks, but human expertise is still essential for strategy, content creation, and nuanced decision-making."
 }

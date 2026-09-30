@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to see results from GEO FAQ content optimization?",
-  "description": "Results typically appear within 3-6 months, influenced by market competitiveness, current SEO, and content update frequency.",
   "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-geo-faq-content-optimization",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to see results from GEO FAQ content optimization?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeframe to see results from GEO FAQ content optimization can vary. Generally, initial improvements in local search visibility and ranking may begin to appear within 3 to 6 months. Factors like the competitiveness of your local market, the existing SEO health of your website, and the frequency of content updates can influence this. Consistent monitoring and further optimization ensure sustained long-term benefits.",
-        "description": "Results typically appear within 3-6 months, influenced by market competitiveness, current SEO, and content update frequency."
-      }
-    }
-  ],
+  "name": "How long does it take to see results from GEO FAQ content optimization?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to see results from GEO FAQ content optimization?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe to see results from GEO FAQ content optimization can vary. Generally, initial improvements in local search visibility and ranking may begin to appear within 3 to 6 months. Factors like the competitiveness of your local market, the existing SEO health of your website, and the frequency of content updates can influence this. Consistent monitoring and further optimization ensure sustained long-term benefits.",
+        "@type": "Answer",
+        "description": "Results typically appear within 3-6 months, influenced by market competitiveness, current SEO, and content update frequency."
+      }
+    }
+  ],
+  "description": "Results typically appear within 3-6 months, influenced by market competitiveness, current SEO, and content update frequency."
 }

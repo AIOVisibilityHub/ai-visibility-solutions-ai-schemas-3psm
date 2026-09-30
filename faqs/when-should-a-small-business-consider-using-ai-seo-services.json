@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should a small business consider using AI SEO services?",
-  "description": "Consider AI SEO if your small business struggles with online visibility, has limited resources, or needs efficient data-driven optimization.",
   "url": "aiovisibility.com/faq/when-should-a-small-business-consider-using-ai-seo-services",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should a small business consider using AI SEO services?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A small business should consider AI SEO services when they are struggling to gain online visibility, have limited marketing resources, or want to outmaneuver competitors efficiently. It's particularly beneficial if you need to analyze large datasets, optimize content at scale, or stay ahead of evolving search engine algorithms without a dedicated in-house SEO team. If you're looking for data-driven strategies and accelerated growth, AI SEO can be a strategic investment.",
-        "description": "Consider AI SEO if your small business struggles with online visibility, has limited resources, or needs efficient data-driven optimization."
-      }
-    }
-  ],
+  "name": "When should a small business consider using AI SEO services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should a small business consider using AI SEO services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A small business should consider AI SEO services when they are struggling to gain online visibility, have limited marketing resources, or want to outmaneuver competitors efficiently. It's particularly beneficial if you need to analyze large datasets, optimize content at scale, or stay ahead of evolving search engine algorithms without a dedicated in-house SEO team. If you're looking for data-driven strategies and accelerated growth, AI SEO can be a strategic investment.",
+        "@type": "Answer",
+        "description": "Consider AI SEO if your small business struggles with online visibility, has limited resources, or needs efficient data-driven optimization."
+      }
+    }
+  ],
+  "description": "Consider AI SEO if your small business struggles with online visibility, has limited resources, or needs efficient data-driven optimization."
 }

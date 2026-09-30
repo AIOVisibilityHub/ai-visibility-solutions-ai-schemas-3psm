@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need an AI-optimized website for AEO if I already have good SEO?",
-  "description": "Yes, AEO complements SEO by targeting direct answers and featured snippets, which traditional SEO alone may not fully achieve.",
   "url": "aiovisibility.com/faq/do-i-need-an-ai-optimized-website-for-aeo-if-i-already-have-good-seo",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need an AI-optimized website for AEO if I already have good SEO?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Even with strong traditional SEO, an AI-optimized website for AEO is increasingly beneficial. While SEO helps you rank, AEO helps you *answer*. Search engines are evolving to directly answer user questions, not just provide a list of links. If your competitors are optimizing for AEO, they may capture featured snippets and voice search answers, potentially bypassing your traditional SEO efforts. AEO complements SEO by targeting the specific display formats that gain prime visibility and directly address user intent in the current search landscape.",
-        "description": "Yes, AEO complements SEO by targeting direct answers and featured snippets, which traditional SEO alone may not fully achieve."
-      }
-    }
-  ],
+  "name": "Do I need an AI-optimized website for AEO if I already have good SEO?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an AI-optimized website for AEO if I already have good SEO?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even with strong traditional SEO, an AI-optimized website for AEO is increasingly beneficial. While SEO helps you rank, AEO helps you *answer*. Search engines are evolving to directly answer user questions, not just provide a list of links. If your competitors are optimizing for AEO, they may capture featured snippets and voice search answers, potentially bypassing your traditional SEO efforts. AEO complements SEO by targeting the specific display formats that gain prime visibility and directly address user intent in the current search landscape.",
+        "@type": "Answer",
+        "description": "Yes, AEO complements SEO by targeting direct answers and featured snippets, which traditional SEO alone may not fully achieve."
+      }
+    }
+  ],
+  "description": "Yes, AEO complements SEO by targeting direct answers and featured snippets, which traditional SEO alone may not fully achieve."
 }

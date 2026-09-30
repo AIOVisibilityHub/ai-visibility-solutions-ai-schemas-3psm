@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What benefits can my business expect from an AI-optimized website for AEO?",
-  "description": "Benefits include increased visibility in answer engine results, improved authority, higher quality traffic, better user engagement, and a stronger position in v",
   "url": "aiovisibility.com/faq/what-benefits-can-my-business-expect-from-an-ai-optimized-website-for-aeo",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What benefits can my business expect from an AI-optimized website for AEO?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Businesses can expect several key benefits from an AI-optimized website for AEO. These include increased visibility in prominent search results like featured snippets and 'People Also Ask' sections, improved rankings for specific answer-focused queries, and enhanced authority in your industry. It also leads to higher quality traffic from users actively seeking solutions, better engagement rates due to direct and relevant answers, and a stronger position in the evolving landscape of voice search and AI-driven search experiences. This can translate to more leads and conversions.",
-        "description": "Benefits include increased visibility in answer engine results, improved authority, higher quality traffic, better user engagement, and a stronger position in voice search."
-      }
-    }
-  ],
+  "name": "What benefits can my business expect from an AI-optimized website for AEO?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What benefits can my business expect from an AI-optimized website for AEO?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Businesses can expect several key benefits from an AI-optimized website for AEO. These include increased visibility in prominent search results like featured snippets and 'People Also Ask' sections, improved rankings for specific answer-focused queries, and enhanced authority in your industry. It also leads to higher quality traffic from users actively seeking solutions, better engagement rates due to direct and relevant answers, and a stronger position in the evolving landscape of voice search and AI-driven search experiences. This can translate to more leads and conversions.",
+        "@type": "Answer",
+        "description": "Benefits include increased visibility in answer engine results, improved authority, higher quality traffic, better user engagement, and a stronger position in voice search."
+      }
+    }
+  ],
+  "description": "Benefits include increased visibility in answer engine results, improved authority, higher quality traffic, better user engagement, and a stronger position in v"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should a financial advisor consider implementing GEO strategies?",
-  "description": "Financial advisors should implement GEO strategies now to expand their client base, enhance digital presence, and remain competitive as AI search evolves.",
   "url": "aiovisibility.com/faq/when-should-a-financial-advisor-consider-implementing-geo-strategies",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should a financial advisor consider implementing GEO strategies?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Financial advisors should consider implementing GEO strategies now as AI search capabilities continue to evolve rapidly. If you are looking to expand your client base, enhance your digital presence, or ensure your practice remains competitive in an increasingly AI-driven online environment, starting GEO is advisable. Early adoption allows you to establish a strong foundation and adapt as generative search engines become more prevalent.",
-        "description": "Financial advisors should implement GEO strategies now to expand their client base, enhance digital presence, and remain competitive as AI search evolves."
-      }
-    }
-  ],
+  "name": "When should a financial advisor consider implementing GEO strategies?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should a financial advisor consider implementing GEO strategies?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financial advisors should consider implementing GEO strategies now as AI search capabilities continue to evolve rapidly. If you are looking to expand your client base, enhance your digital presence, or ensure your practice remains competitive in an increasingly AI-driven online environment, starting GEO is advisable. Early adoption allows you to establish a strong foundation and adapt as generative search engines become more prevalent.",
+        "@type": "Answer",
+        "description": "Financial advisors should implement GEO strategies now to expand their client base, enhance digital presence, and remain competitive as AI search evolves."
+      }
+    }
+  ],
+  "description": "Financial advisors should implement GEO strategies now to expand their client base, enhance digital presence, and remain competitive as AI search evolves."
 }

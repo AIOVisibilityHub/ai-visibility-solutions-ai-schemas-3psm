@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does Generative Engine Optimization cost for a dental practice?",
-  "description": "GEO costs vary based on service scope, existing digital footprint, and market competitiveness. Pricing can be project-based or ongoing monthly retainers, determ",
   "url": "aiovisibility.com/faq/how-much-does-generative-engine-optimization-cost-for-a-dental-practice",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does Generative Engine Optimization cost for a dental practice?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of Generative Engine Optimization varies based on the scope of services, the practice's existing digital footprint, and the competitiveness of its local market. Pricing models can include project-based fees for initial setup and content creation, or ongoing monthly retainers for continuous optimization, monitoring, and adaptation to new AI trends. A detailed quote is typically provided after an initial assessment, tailoring the strategy and associated costs to the specific needs and goals of the dental practice.",
-        "description": "GEO costs vary based on service scope, existing digital footprint, and market competitiveness. Pricing can be project-based or ongoing monthly retainers, determined after an initial assessment."
-      }
-    }
-  ],
+  "name": "How much does Generative Engine Optimization cost for a dental practice?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does Generative Engine Optimization cost for a dental practice?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of Generative Engine Optimization varies based on the scope of services, the practice's existing digital footprint, and the competitiveness of its local market. Pricing models can include project-based fees for initial setup and content creation, or ongoing monthly retainers for continuous optimization, monitoring, and adaptation to new AI trends. A detailed quote is typically provided after an initial assessment, tailoring the strategy and associated costs to the specific needs and goals of the dental practice.",
+        "@type": "Answer",
+        "description": "GEO costs vary based on service scope, existing digital footprint, and market competitiveness. Pricing can be project-based or ongoing monthly retainers, determined after an initial assessment."
+      }
+    }
+  ],
+  "description": "GEO costs vary based on service scope, existing digital footprint, and market competitiveness. Pricing can be project-based or ongoing monthly retainers, determ"
 }

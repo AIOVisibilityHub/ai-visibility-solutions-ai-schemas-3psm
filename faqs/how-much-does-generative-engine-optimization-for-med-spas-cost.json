@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does Generative Engine Optimization for med spas cost?",
-  "description": "GEO costs for med spas vary, depending on service scope, competition, and desired outcomes. Obtain a customized quote for accurate pricing.",
   "url": "aiovisibility.com/faq/how-much-does-generative-engine-optimization-for-med-spas-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does Generative Engine Optimization for med spas cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of Generative Engine Optimization for med spas varies widely based on the scope of services, the competitive landscape, and the desired outcomes. Pricing models can include monthly retainers, project-based fees, or performance-based agreements. Factors influencing cost include the number of services to optimize, the volume of content generation, and the extent of technical implementation. It's best to obtain a customized quote after an initial assessment of the med spa's specific needs and marketing goals.",
-        "description": "GEO costs for med spas vary, depending on service scope, competition, and desired outcomes. Obtain a customized quote for accurate pricing."
-      }
-    }
-  ],
+  "name": "How much does Generative Engine Optimization for med spas cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does Generative Engine Optimization for med spas cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of Generative Engine Optimization for med spas varies widely based on the scope of services, the competitive landscape, and the desired outcomes. Pricing models can include monthly retainers, project-based fees, or performance-based agreements. Factors influencing cost include the number of services to optimize, the volume of content generation, and the extent of technical implementation. It's best to obtain a customized quote after an initial assessment of the med spa's specific needs and marketing goals.",
+        "@type": "Answer",
+        "description": "GEO costs for med spas vary, depending on service scope, competition, and desired outcomes. Obtain a customized quote for accurate pricing."
+      }
+    }
+  ],
+  "description": "GEO costs for med spas vary, depending on service scope, competition, and desired outcomes. Obtain a customized quote for accurate pricing."
 }
