@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should an employment law firm consider using AI SEO services?",
-  "description": "An employment law firm should consider AI SEO when seeking to expand its client base, improve online visibility, or attract specific case types through organic",
   "url": "aiovisibility.com/faq/when-should-an-employment-law-firm-consider-using-ai-seo-services",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should an employment law firm consider using AI SEO services?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An employment law firm should consider using AI SEO services when they are looking to expand their client base, improve their online visibility against competitors, or reduce reliance on traditional advertising. It is particularly beneficial for firms that want to attract more specific types of employment law cases, such as wrongful termination or discrimination claims, by targeting precise search queries. Firms seeking sustainable, long-term growth through organic search should also explore AI SEO.",
-        "description": "An employment law firm should consider AI SEO when seeking to expand its client base, improve online visibility, or attract specific case types through organic search."
-      }
-    }
-  ],
+  "name": "When should an employment law firm consider using AI SEO services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should an employment law firm consider using AI SEO services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An employment law firm should consider using AI SEO services when they are looking to expand their client base, improve their online visibility against competitors, or reduce reliance on traditional advertising. It is particularly beneficial for firms that want to attract more specific types of employment law cases, such as wrongful termination or discrimination claims, by targeting precise search queries. Firms seeking sustainable, long-term growth through organic search should also explore AI SEO.",
+        "@type": "Answer",
+        "description": "An employment law firm should consider AI SEO when seeking to expand its client base, improve online visibility, or attract specific case types through organic search."
+      }
+    }
+  ],
+  "description": "An employment law firm should consider AI SEO when seeking to expand its client base, improve online visibility, or attract specific case types through organic"
 }

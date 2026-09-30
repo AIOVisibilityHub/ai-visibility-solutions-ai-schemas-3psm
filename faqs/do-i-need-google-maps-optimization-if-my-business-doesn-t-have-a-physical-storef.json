@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need Google Maps Optimization if my business doesn't have a physical storefront?",
-  "description": "Yes, even without a storefront, service-area businesses can optimize their Google Business Profile to appear in local search results for their service areas.",
   "url": "aiovisibility.com/faq/do-i-need-google-maps-optimization-if-my-business-doesn-t-have-a-physical-storef",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need Google Maps Optimization if my business doesn't have a physical storefront?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, even if your business doesn't have a physical storefront or primarily serves clients at their location (a service-area business), Google Maps Optimization is still highly beneficial. You can set up a Google Business Profile as a service-area business, which allows you to hide your address while still defining the geographic areas you serve. This enables you to appear in local search results when customers in your service area are looking for your services. It's crucial for driving leads and establishing local credibility without needing a public-facing address.",
-        "description": "Yes, even without a storefront, service-area businesses can optimize their Google Business Profile to appear in local search results for their service areas."
-      }
-    }
-  ],
+  "name": "Do I need Google Maps Optimization if my business doesn't have a physical storefront?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need Google Maps Optimization if my business doesn't have a physical storefront?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, even if your business doesn't have a physical storefront or primarily serves clients at their location (a service-area business), Google Maps Optimization is still highly beneficial. You can set up a Google Business Profile as a service-area business, which allows you to hide your address while still defining the geographic areas you serve. This enables you to appear in local search results when customers in your service area are looking for your services. It's crucial for driving leads and establishing local credibility without needing a public-facing address.",
+        "@type": "Answer",
+        "description": "Yes, even without a storefront, service-area businesses can optimize their Google Business Profile to appear in local search results for their service areas."
+      }
+    }
+  ],
+  "description": "Yes, even without a storefront, service-area businesses can optimize their Google Business Profile to appear in local search results for their service areas."
 }

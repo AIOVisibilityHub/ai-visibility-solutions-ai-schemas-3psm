@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is AI SEO for criminal defense lawyers?",
-  "description": "AI SEO for criminal defense lawyers uses artificial intelligence to enhance online visibility and attract more client leads through improved search engine ranki",
   "url": "aiovisibility.com/faq/what-is-ai-seo-for-criminal-defense-lawyers",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is AI SEO for criminal defense lawyers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AI SEO for criminal defense lawyers leverages artificial intelligence tools and strategies to optimize a law firm's online presence. This includes using AI for keyword research, content generation, website optimization, and competitor analysis. The goal is to improve search engine rankings, attract more relevant organic traffic, and ultimately generate more client leads for criminal defense practices.",
-        "description": "AI SEO for criminal defense lawyers uses artificial intelligence to enhance online visibility and attract more client leads through improved search engine rankings."
-      }
-    }
-  ],
+  "name": "What is AI SEO for criminal defense lawyers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is AI SEO for criminal defense lawyers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI SEO for criminal defense lawyers leverages artificial intelligence tools and strategies to optimize a law firm's online presence. This includes using AI for keyword research, content generation, website optimization, and competitor analysis. The goal is to improve search engine rankings, attract more relevant organic traffic, and ultimately generate more client leads for criminal defense practices.",
+        "@type": "Answer",
+        "description": "AI SEO for criminal defense lawyers uses artificial intelligence to enhance online visibility and attract more client leads through improved search engine rankings."
+      }
+    }
+  ],
+  "description": "AI SEO for criminal defense lawyers uses artificial intelligence to enhance online visibility and attract more client leads through improved search engine ranki"
 }

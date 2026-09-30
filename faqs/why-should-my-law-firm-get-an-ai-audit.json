@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why should my law firm get an AI audit?",
-  "description": "An AI audit helps law firms improve efficiency, manage risks, ensure compliance, and strategically integrate AI for competitive advantage.",
   "url": "aiovisibility.com/faq/why-should-my-law-firm-get-an-ai-audit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why should my law firm get an AI audit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An AI audit helps your law firm identify opportunities to leverage artificial intelligence for increased efficiency, accuracy, and cost savings. It uncovers potential risks associated with AI implementation, such as data privacy concerns or ethical considerations, and ensures compliance with industry standards. Ultimately, an audit helps strategize the optimal integration of AI to maintain a competitive edge and improve service delivery.",
-        "description": "An AI audit helps law firms improve efficiency, manage risks, ensure compliance, and strategically integrate AI for competitive advantage."
-      }
-    }
-  ],
+  "name": "Why should my law firm get an AI audit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why should my law firm get an AI audit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An AI audit helps your law firm identify opportunities to leverage artificial intelligence for increased efficiency, accuracy, and cost savings. It uncovers potential risks associated with AI implementation, such as data privacy concerns or ethical considerations, and ensures compliance with industry standards. Ultimately, an audit helps strategize the optimal integration of AI to maintain a competitive edge and improve service delivery.",
+        "@type": "Answer",
+        "description": "An AI audit helps law firms improve efficiency, manage risks, ensure compliance, and strategically integrate AI for competitive advantage."
+      }
+    }
+  ],
+  "description": "An AI audit helps law firms improve efficiency, manage risks, ensure compliance, and strategically integrate AI for competitive advantage."
 }

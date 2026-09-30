@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do Website AI Discovery Files improve search engine rankings?",
-  "description": "They improve rankings by providing AI search algorithms with a clearer, organized understanding of content, leading to better relevance and visibility in AI-dri",
   "url": "aiovisibility.com/faq/how-do-website-ai-discovery-files-improve-search-engine-rankings",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do Website AI Discovery Files improve search engine rankings?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Website AI Discovery Files enhance search engine rankings by providing AI-driven search algorithms with a clearer, more organized understanding of a website's content. By explicitly mapping out topics, entities, and content hierarchies in an AI-readable format, these files help search engines accurately categorize and evaluate relevance. This precision ensures that when users query AI-powered search engines, the website is presented for highly relevant searches, boosting its visibility and organic ranking within AI-influenced search results.",
-        "description": "They improve rankings by providing AI search algorithms with a clearer, organized understanding of content, leading to better relevance and visibility in AI-driven searches."
-      }
-    }
-  ],
+  "name": "How do Website AI Discovery Files improve search engine rankings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do Website AI Discovery Files improve search engine rankings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Website AI Discovery Files enhance search engine rankings by providing AI-driven search algorithms with a clearer, more organized understanding of a website's content. By explicitly mapping out topics, entities, and content hierarchies in an AI-readable format, these files help search engines accurately categorize and evaluate relevance. This precision ensures that when users query AI-powered search engines, the website is presented for highly relevant searches, boosting its visibility and organic ranking within AI-influenced search results.",
+        "@type": "Answer",
+        "description": "They improve rankings by providing AI search algorithms with a clearer, organized understanding of content, leading to better relevance and visibility in AI-driven searches."
+      }
+    }
+  ],
+  "description": "They improve rankings by providing AI search algorithms with a clearer, organized understanding of content, leading to better relevance and visibility in AI-dri"
 }

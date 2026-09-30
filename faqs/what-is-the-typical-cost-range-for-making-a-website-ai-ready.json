@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost range for making a website AI-Ready?",
-  "description": "Costs vary widely based on current website complexity and desired AI features, ranging from a few thousand for basic optimization to tens of thousands for advan",
   "url": "aiovisibility.com/faq/what-is-the-typical-cost-range-for-making-a-website-ai-ready",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost range for making a website AI-Ready?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost to make a website AI-Ready varies significantly based on the existing website's complexity, its current technological stack, and the specific AI functionalities desired. Basic optimizations for AI compatibility might range from a few thousand dollars, while comprehensive overhauls integrating advanced AI features for personalization, chatbots, or complex analytics could extend into tens of thousands or more. A detailed audit is usually required for an accurate quote.",
-        "description": "Costs vary widely based on current website complexity and desired AI features, ranging from a few thousand for basic optimization to tens of thousands for advanced integration."
-      }
-    }
-  ],
+  "name": "What is the typical cost range for making a website AI-Ready?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for making a website AI-Ready?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to make a website AI-Ready varies significantly based on the existing website's complexity, its current technological stack, and the specific AI functionalities desired. Basic optimizations for AI compatibility might range from a few thousand dollars, while comprehensive overhauls integrating advanced AI features for personalization, chatbots, or complex analytics could extend into tens of thousands or more. A detailed audit is usually required for an accurate quote.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on current website complexity and desired AI features, ranging from a few thousand for basic optimization to tens of thousands for advanced integration."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on current website complexity and desired AI features, ranging from a few thousand for basic optimization to tens of thousands for advan"
 }

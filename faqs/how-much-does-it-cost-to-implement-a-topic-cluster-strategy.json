@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to implement a topic cluster strategy?",
-  "description": "The cost of implementing a topic cluster strategy varies, influenced by factors like content volume, complexity, and whether services are outsourced or managed",
   "url": "aiovisibility.com/faq/how-much-does-it-cost-to-implement-a-topic-cluster-strategy",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to implement a topic cluster strategy?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of implementing a topic cluster strategy varies widely based on the scope, complexity, and whether you outsource or manage it in-house. Factors include keyword research, content brief creation, writing pillar content and numerous cluster articles, internal linking optimization, and ongoing maintenance. A full-service agency might charge anywhere from a few thousand dollars to tens of thousands per month, depending on the volume and depth of content required. Costs can also be influenced by the competitiveness of your industry and the desired speed of implementation.",
-        "description": "The cost of implementing a topic cluster strategy varies, influenced by factors like content volume, complexity, and whether services are outsourced or managed in-house."
-      }
-    }
-  ],
+  "name": "How much does it cost to implement a topic cluster strategy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to implement a topic cluster strategy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of implementing a topic cluster strategy varies widely based on the scope, complexity, and whether you outsource or manage it in-house. Factors include keyword research, content brief creation, writing pillar content and numerous cluster articles, internal linking optimization, and ongoing maintenance. A full-service agency might charge anywhere from a few thousand dollars to tens of thousands per month, depending on the volume and depth of content required. Costs can also be influenced by the competitiveness of your industry and the desired speed of implementation.",
+        "@type": "Answer",
+        "description": "The cost of implementing a topic cluster strategy varies, influenced by factors like content volume, complexity, and whether services are outsourced or managed in-house."
+      }
+    }
+  ],
+  "description": "The cost of implementing a topic cluster strategy varies, influenced by factors like content volume, complexity, and whether services are outsourced or managed"
 }

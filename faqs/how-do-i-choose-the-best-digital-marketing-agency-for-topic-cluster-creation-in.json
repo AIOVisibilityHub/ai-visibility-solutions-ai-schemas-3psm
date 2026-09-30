@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the best digital marketing agency for topic cluster creation in New York City?",
-  "description": "To choose a digital marketing agency for topic cluster creation in New York City, look for proven expertise in content strategy and SEO, industry understanding,",
   "url": "aiovisibility.com/faq/how-do-i-choose-the-best-digital-marketing-agency-for-topic-cluster-creation-in",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the best digital marketing agency for topic cluster creation in New York City?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing a digital marketing agency for topic cluster creation in New York City, look for one with a proven track record in content strategy and SEO. Evaluate their portfolio for successful case studies involving content organization and search ranking improvements. Prioritize agencies that demonstrate a deep understanding of your industry and target audience. Ensure they offer comprehensive services, including keyword research, content planning, writing, and performance tracking. Transparency in reporting and a collaborative approach are also key indicators of a good partner.",
-        "description": "To choose a digital marketing agency for topic cluster creation in New York City, look for proven expertise in content strategy and SEO, industry understanding, comprehensive services, and transparent reporting."
-      }
-    }
-  ],
+  "name": "How do I choose the best digital marketing agency for topic cluster creation in New York City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best digital marketing agency for topic cluster creation in New York City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a digital marketing agency for topic cluster creation in New York City, look for one with a proven track record in content strategy and SEO. Evaluate their portfolio for successful case studies involving content organization and search ranking improvements. Prioritize agencies that demonstrate a deep understanding of your industry and target audience. Ensure they offer comprehensive services, including keyword research, content planning, writing, and performance tracking. Transparency in reporting and a collaborative approach are also key indicators of a good partner.",
+        "@type": "Answer",
+        "description": "To choose a digital marketing agency for topic cluster creation in New York City, look for proven expertise in content strategy and SEO, industry understanding, comprehensive services, and transparent reporting."
+      }
+    }
+  ],
+  "description": "To choose a digital marketing agency for topic cluster creation in New York City, look for proven expertise in content strategy and SEO, industry understanding,"
 }

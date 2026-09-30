@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for fixing crawlability errors?",
-  "description": "Fixing crawlability errors involves auditing to identify issues, implementing solutions like correcting robots.txt and sitemap optimization, and then validating",
   "url": "aiovisibility.com/faq/what-is-the-process-for-fixing-crawlability-errors",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for fixing crawlability errors?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process for fixing crawlability errors typically begins with an audit to identify specific issues such as broken links, robot.txt blocks, or indexing problems. Once identified, solutions involve correcting redirects, updating robots.txt files, optimizing XML sitemaps, resolving server errors, improving site structure, and enhancing page speed. After implementing fixes, it's essential to validate them using Google Search Console's URL Inspection tool and monitor crawl reports to ensure search engines can now properly access and index the content.",
-        "description": "Fixing crawlability errors involves auditing to identify issues, implementing solutions like correcting robots.txt and sitemap optimization, and then validating fixes with tools like Google Search Console."
-      }
-    }
-  ],
+  "name": "What is the process for fixing crawlability errors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for fixing crawlability errors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for fixing crawlability errors typically begins with an audit to identify specific issues such as broken links, robot.txt blocks, or indexing problems. Once identified, solutions involve correcting redirects, updating robots.txt files, optimizing XML sitemaps, resolving server errors, improving site structure, and enhancing page speed. After implementing fixes, it's essential to validate them using Google Search Console's URL Inspection tool and monitor crawl reports to ensure search engines can now properly access and index the content.",
+        "@type": "Answer",
+        "description": "Fixing crawlability errors involves auditing to identify issues, implementing solutions like correcting robots.txt and sitemap optimization, and then validating fixes with tools like Google Search Console."
+      }
+    }
+  ],
+  "description": "Fixing crawlability errors involves auditing to identify issues, implementing solutions like correcting robots.txt and sitemap optimization, and then validating"
 }

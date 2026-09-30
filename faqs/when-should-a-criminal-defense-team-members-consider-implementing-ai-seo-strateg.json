@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should a criminal defense lawyer consider implementing AI SEO strategies?",
-  "description": "Consider AI SEO when scaling online presence, enhancing competitive edge, or improving marketing efficiency, especially if current SEO is plateauing.",
   "url": "aiovisibility.com/faq/when-should-a-criminal-defense-lawyer-consider-implementing-ai-seo-strategies",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should a criminal defense lawyer consider implementing AI SEO strategies?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Criminal defense lawyers should consider implementing AI SEO strategies when they are looking to significantly scale their online presence, enhance their competitive edge, or improve the efficiency of their marketing efforts. It is particularly beneficial if current SEO efforts are plateauing, or if they need to reach a broader audience quickly. Early adoption can provide a significant advantage in a competitive market.",
-        "description": "Consider AI SEO when scaling online presence, enhancing competitive edge, or improving marketing efficiency, especially if current SEO is plateauing."
-      }
-    }
-  ],
+  "name": "When should a criminal defense lawyer consider implementing AI SEO strategies?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should a criminal defense lawyer consider implementing AI SEO strategies?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Criminal defense lawyers should consider implementing AI SEO strategies when they are looking to significantly scale their online presence, enhance their competitive edge, or improve the efficiency of their marketing efforts. It is particularly beneficial if current SEO efforts are plateauing, or if they need to reach a broader audience quickly. Early adoption can provide a significant advantage in a competitive market.",
+        "@type": "Answer",
+        "description": "Consider AI SEO when scaling online presence, enhancing competitive edge, or improving marketing efficiency, especially if current SEO is plateauing."
+      }
+    }
+  ],
+  "description": "Consider AI SEO when scaling online presence, enhancing competitive edge, or improving marketing efficiency, especially if current SEO is plateauing."
 }
