@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does AI SEO differ from traditional SEO for garage door businesses?",
-  "description": "AI SEO uses machine learning for automated, data-driven optimization, offering deeper insights and more precise targeting than traditional SEO, leading to more",
   "url": "aiovisibility.com/faq/how-does-ai-seo-differ-from-traditional-seo-for-garage-door-businesses",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does AI SEO differ from traditional SEO for garage door businesses?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AI SEO leverages machine learning and sophisticated algorithms to automate and refine many tasks that are manual or data-intensive in traditional SEO. While both aim to improve search rankings, AI SEO offers deeper insights into user behavior, more precise keyword targeting, and proactive adaptation to algorithm changes. It can process larger datasets to identify complex patterns, leading to more efficient and impactful optimization strategies specifically tailored for garage door service inquiries.",
-        "description": "AI SEO uses machine learning for automated, data-driven optimization, offering deeper insights and more precise targeting than traditional SEO, leading to more efficient results."
-      }
-    }
-  ],
+  "name": "How does AI SEO differ from traditional SEO for garage door businesses?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does AI SEO differ from traditional SEO for garage door businesses?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI SEO leverages machine learning and sophisticated algorithms to automate and refine many tasks that are manual or data-intensive in traditional SEO. While both aim to improve search rankings, AI SEO offers deeper insights into user behavior, more precise keyword targeting, and proactive adaptation to algorithm changes. It can process larger datasets to identify complex patterns, leading to more efficient and impactful optimization strategies specifically tailored for garage door service inquiries.",
+        "@type": "Answer",
+        "description": "AI SEO uses machine learning for automated, data-driven optimization, offering deeper insights and more precise targeting than traditional SEO, leading to more efficient results."
+      }
+    }
+  ],
+  "description": "AI SEO uses machine learning for automated, data-driven optimization, offering deeper insights and more precise targeting than traditional SEO, leading to more"
 }

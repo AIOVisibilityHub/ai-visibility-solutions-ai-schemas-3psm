@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I measure the success of AEO efforts for my weight loss clinic?",
-  "description": "Measure AEO success by tracking organic traffic from featured snippets, click-through rates, voice search presence, and lead generation attributable to optimize",
   "url": "aiovisibility.com/faq/how-do-i-measure-the-success-of-aeo-efforts-for-my-weight-loss-clinic",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I measure the success of AEO efforts for my weight loss clinic?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Measuring AEO success involves tracking key metrics beyond traditional rankings. Monitor organic traffic increases, specifically identifying traffic driven from featured snippets. Look at changes in click-through rates (CTR) for pages that appear in answer boxes. Analyze your presence in voice search results by monitoring queries your clinic answers. Additionally, track lead generation and new patient inquiries directly attributable to AEO-optimized content. Tools like Google Search Console can help identify queries where your content is appearing as a featured snippet or in position zero, providing valuable insights.",
-        "description": "Measure AEO success by tracking organic traffic from featured snippets, click-through rates, voice search presence, and lead generation attributable to optimized content."
-      }
-    }
-  ],
+  "name": "How do I measure the success of AEO efforts for my weight loss clinic?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I measure the success of AEO efforts for my weight loss clinic?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Measuring AEO success involves tracking key metrics beyond traditional rankings. Monitor organic traffic increases, specifically identifying traffic driven from featured snippets. Look at changes in click-through rates (CTR) for pages that appear in answer boxes. Analyze your presence in voice search results by monitoring queries your clinic answers. Additionally, track lead generation and new patient inquiries directly attributable to AEO-optimized content. Tools like Google Search Console can help identify queries where your content is appearing as a featured snippet or in position zero, providing valuable insights.",
+        "@type": "Answer",
+        "description": "Measure AEO success by tracking organic traffic from featured snippets, click-through rates, voice search presence, and lead generation attributable to optimized content."
+      }
+    }
+  ],
+  "description": "Measure AEO success by tracking organic traffic from featured snippets, click-through rates, voice search presence, and lead generation attributable to optimize"
 }

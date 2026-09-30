@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I consider getting an AEO website audit?",
-  "description": "Consider an AEO audit if digital visibility is stagnant, launching a new site, or if competitors are gaining ground in AI search.",
   "url": "aiovisibility.com/faq/when-should-i-consider-getting-an-aeo-website-audit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I consider getting an AEO website audit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider an AEO website audit if your current digital visibility is stagnating, if you're launching a new website, or if you're experiencing changes in search engine algorithms. It's particularly crucial if you notice competitors gaining ground in AI-powered search, or if your website isn't effectively answering user queries through AI. An audit helps you proactively adapt to the evolving landscape of AI-driven information retrieval and maintain a competitive edge.",
-        "description": "Consider an AEO audit if digital visibility is stagnant, launching a new site, or if competitors are gaining ground in AI search."
-      }
-    }
-  ],
+  "name": "When should I consider getting an AEO website audit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider getting an AEO website audit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider an AEO website audit if your current digital visibility is stagnating, if you're launching a new website, or if you're experiencing changes in search engine algorithms. It's particularly crucial if you notice competitors gaining ground in AI-powered search, or if your website isn't effectively answering user queries through AI. An audit helps you proactively adapt to the evolving landscape of AI-driven information retrieval and maintain a competitive edge.",
+        "@type": "Answer",
+        "description": "Consider an AEO audit if digital visibility is stagnant, launching a new site, or if competitors are gaining ground in AI search."
+      }
+    }
+  ],
+  "description": "Consider an AEO audit if digital visibility is stagnant, launching a new site, or if competitors are gaining ground in AI search."
 }

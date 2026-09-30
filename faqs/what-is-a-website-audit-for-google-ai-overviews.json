@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a Website Audit for Google AI Overviews?",
-  "description": "It's an analysis to optimize your website for visibility and relevance within AI-generated search results like Google's AI Overviews.",
   "url": "aiovisibility.com/faq/what-is-a-website-audit-for-google-ai-overviews",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a Website Audit for Google AI Overviews?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A Website Audit for Google AI Overviews is a specialized analysis of your website's content and technical structure to optimize its visibility and relevance for AI-generated search results, like Google's AI Overviews. This audit goes beyond traditional SEO to ensure your content is easily digestible, accurate, and authoritative for AI models. It identifies opportunities to structure data, refine language, and improve overall content quality so that AI systems can confidently extract and summarize information from your site, increasing your chances of appearing in these prominent search features.",
-        "description": "It's an analysis to optimize your website for visibility and relevance within AI-generated search results like Google's AI Overviews."
-      }
-    }
-  ],
+  "name": "What is a Website Audit for Google AI Overviews?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a Website Audit for Google AI Overviews?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Website Audit for Google AI Overviews is a specialized analysis of your website's content and technical structure to optimize its visibility and relevance for AI-generated search results, like Google's AI Overviews. This audit goes beyond traditional SEO to ensure your content is easily digestible, accurate, and authoritative for AI models. It identifies opportunities to structure data, refine language, and improve overall content quality so that AI systems can confidently extract and summarize information from your site, increasing your chances of appearing in these prominent search features.",
+        "@type": "Answer",
+        "description": "It's an analysis to optimize your website for visibility and relevance within AI-generated search results like Google's AI Overviews."
+      }
+    }
+  ],
+  "description": "It's an analysis to optimize your website for visibility and relevance within AI-generated search results like Google's AI Overviews."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should a landscaping business consider investing in AI SEO?",
-  "description": "Invest in AI SEO when seeking to expand, outrank competitors, or improve lead generation, especially in competitive markets or if current marketing falls short.",
   "url": "aiovisibility.com/faq/when-should-a-landscaping-business-consider-investing-in-ai-seo",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should a landscaping business consider investing in AI SEO?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A landscaping business should consider AI SEO when they are looking to expand their customer base, outrank local competitors, or improve their online lead generation efficiency. If current marketing efforts aren't yielding desired results, or if your business operates in a competitive market like New York City or Los Angeles, AI SEO can provide the data-driven advantage needed to stand out. It's particularly beneficial for businesses ready to scale and optimize their digital marketing spend.",
-        "description": "Invest in AI SEO when seeking to expand, outrank competitors, or improve lead generation, especially in competitive markets or if current marketing falls short."
-      }
-    }
-  ],
+  "name": "When should a landscaping business consider investing in AI SEO?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should a landscaping business consider investing in AI SEO?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A landscaping business should consider AI SEO when they are looking to expand their customer base, outrank local competitors, or improve their online lead generation efficiency. If current marketing efforts aren't yielding desired results, or if your business operates in a competitive market like New York City or Los Angeles, AI SEO can provide the data-driven advantage needed to stand out. It's particularly beneficial for businesses ready to scale and optimize their digital marketing spend.",
+        "@type": "Answer",
+        "description": "Invest in AI SEO when seeking to expand, outrank competitors, or improve lead generation, especially in competitive markets or if current marketing falls short."
+      }
+    }
+  ],
+  "description": "Invest in AI SEO when seeking to expand, outrank competitors, or improve lead generation, especially in competitive markets or if current marketing falls short."
 }

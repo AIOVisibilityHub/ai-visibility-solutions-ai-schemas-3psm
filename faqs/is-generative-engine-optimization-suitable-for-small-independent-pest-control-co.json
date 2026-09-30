@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is generative engine optimization suitable for small, independent pest control companies?",
-  "description": "Yes, GEO is suitable for small pest control companies, offering an efficient way to improve local search visibility and compete with larger businesses.",
   "url": "aiovisibility.com/faq/is-generative-engine-optimization-suitable-for-small-independent-pest-control-co",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is generative engine optimization suitable for small, independent pest control companies?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, generative engine optimization is highly suitable for small, independent pest control companies. It provides an efficient and scalable way to compete with larger competitors by generating high-quality, targeted content without requiring extensive manual effort. For small businesses, GEO can level the playing field by improving local search visibility, attracting customers who are actively searching for pest control services in their immediate area, and establishing online authority, all of which are crucial for growth.",
-        "description": "Yes, GEO is suitable for small pest control companies, offering an efficient way to improve local search visibility and compete with larger businesses."
-      }
-    }
-  ],
+  "name": "Is generative engine optimization suitable for small, independent pest control companies?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is generative engine optimization suitable for small, independent pest control companies?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, generative engine optimization is highly suitable for small, independent pest control companies. It provides an efficient and scalable way to compete with larger competitors by generating high-quality, targeted content without requiring extensive manual effort. For small businesses, GEO can level the playing field by improving local search visibility, attracting customers who are actively searching for pest control services in their immediate area, and establishing online authority, all of which are crucial for growth.",
+        "@type": "Answer",
+        "description": "Yes, GEO is suitable for small pest control companies, offering an efficient way to improve local search visibility and compete with larger businesses."
+      }
+    }
+  ],
+  "description": "Yes, GEO is suitable for small pest control companies, offering an efficient way to improve local search visibility and compete with larger businesses."
 }

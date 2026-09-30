@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why is local AI SEO important for businesses in New York City?",
-  "description": "Local AI SEO in New York City is vital for appearing in 'near me' and voice searches, capturing local customers via Google Business Profile and local keywords.",
   "url": "aiovisibility.com/faq/why-is-local-ai-seo-important-for-businesses-in-new-york-city",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why is local AI SEO important for businesses in New York City?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For businesses in New York City, local AI SEO is crucial because a significant portion of local searches are driven by voice commands and AI-powered personalized recommendations. Optimizing for local AI SEO ensures your business appears prominently in 'near me' searches, local map results, and when users ask AI assistants for local services. This involves optimizing Google Business Profile, local keywords, and schema markup that specifies your location and services. In a dense urban market like NYC, accurate and highly visible local listings are essential for capturing foot traffic and local customer engagement.",
-        "description": "Local AI SEO in New York City is vital for appearing in 'near me' and voice searches, capturing local customers via Google Business Profile and local keywords."
-      }
-    }
-  ],
+  "name": "Why is local AI SEO important for businesses in New York City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why is local AI SEO important for businesses in New York City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For businesses in New York City, local AI SEO is crucial because a significant portion of local searches are driven by voice commands and AI-powered personalized recommendations. Optimizing for local AI SEO ensures your business appears prominently in 'near me' searches, local map results, and when users ask AI assistants for local services. This involves optimizing Google Business Profile, local keywords, and schema markup that specifies your location and services. In a dense urban market like NYC, accurate and highly visible local listings are essential for capturing foot traffic and local customer engagement.",
+        "@type": "Answer",
+        "description": "Local AI SEO in New York City is vital for appearing in 'near me' and voice searches, capturing local customers via Google Business Profile and local keywords."
+      }
+    }
+  ],
+  "description": "Local AI SEO in New York City is vital for appearing in 'near me' and voice searches, capturing local customers via Google Business Profile and local keywords."
 }

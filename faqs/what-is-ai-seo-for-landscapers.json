@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is AI SEO for landscapers?",
-  "description": "AI SEO for landscapers uses artificial intelligence to optimize websites and content, improving search engine rankings and attracting more customers.",
   "url": "aiovisibility.com/faq/what-is-ai-seo-for-landscapers",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is AI SEO for landscapers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AI SEO for landscapers uses artificial intelligence tools and algorithms to optimize a landscaping company's website and online content. This helps improve search engine rankings, making it easier for potential customers to find their services. AI analyzes market trends, competitor strategies, and user search behavior to identify the most effective keywords and content strategies, ultimately driving more qualified leads to the business.",
-        "description": "AI SEO for landscapers uses artificial intelligence to optimize websites and content, improving search engine rankings and attracting more customers."
-      }
-    }
-  ],
+  "name": "What is AI SEO for landscapers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is AI SEO for landscapers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI SEO for landscapers uses artificial intelligence tools and algorithms to optimize a landscaping company's website and online content. This helps improve search engine rankings, making it easier for potential customers to find their services. AI analyzes market trends, competitor strategies, and user search behavior to identify the most effective keywords and content strategies, ultimately driving more qualified leads to the business.",
+        "@type": "Answer",
+        "description": "AI SEO for landscapers uses artificial intelligence to optimize websites and content, improving search engine rankings and attracting more customers."
+      }
+    }
+  ],
+  "description": "AI SEO for landscapers uses artificial intelligence to optimize websites and content, improving search engine rankings and attracting more customers."
 }
