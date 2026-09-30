@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What data is typically used for GEO marketing in the construction industry?",
-  "description": "GEO marketing for construction uses data like IP addresses, GPS, Wi-Fi, and demographic info, often combined with business locations and planning permits, to id",
   "url": "aiovisibility.com/faq/what-data-is-typically-used-for-geo-marketing-in-the-construction-industry",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What data is typically used for GEO marketing in the construction industry?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "GEO marketing in construction typically uses various location-based data points. This includes IP addresses, GPS coordinates from mobile devices, Wi-Fi data, and beacon technology. Publicly available demographic information linked to geographic areas can also be integrated. For B2B construction marketing, data on business locations, industry clusters, and local planning permits can be valuable. This data helps identify where potential clients, skilled labor, or relevant industry partners are located, informing targeted outreach.",
-        "description": "GEO marketing for construction uses data like IP addresses, GPS, Wi-Fi, and demographic info, often combined with business locations and planning permits, to identify targets."
-      }
-    }
-  ],
+  "name": "What data is typically used for GEO marketing in the construction industry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What data is typically used for GEO marketing in the construction industry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "GEO marketing in construction typically uses various location-based data points. This includes IP addresses, GPS coordinates from mobile devices, Wi-Fi data, and beacon technology. Publicly available demographic information linked to geographic areas can also be integrated. For B2B construction marketing, data on business locations, industry clusters, and local planning permits can be valuable. This data helps identify where potential clients, skilled labor, or relevant industry partners are located, informing targeted outreach.",
+        "@type": "Answer",
+        "description": "GEO marketing for construction uses data like IP addresses, GPS, Wi-Fi, and demographic info, often combined with business locations and planning permits, to identify targets."
+      }
+    }
+  ],
+  "description": "GEO marketing for construction uses data like IP addresses, GPS, Wi-Fi, and demographic info, often combined with business locations and planning permits, to id"
 }

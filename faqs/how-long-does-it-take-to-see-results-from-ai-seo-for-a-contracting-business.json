@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to see results from AI SEO for a contracting business?",
-  "description": "Initial visibility improvements can appear in weeks, but significant and sustainable AI SEO results typically take 3 to 6 months to develop.",
   "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-ai-seo-for-a-contracting-business",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to see results from AI SEO for a contracting business?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While some initial improvements in website visibility can be seen within a few weeks, substantial and sustainable results from AI SEO typically emerge over 3 to 6 months. This timeline accounts for search engine algorithm indexing, content optimization, and the building of domain authority. Long-term success is a continuous process of refinement and adaptation based on ongoing AI-driven insights.",
-        "description": "Initial visibility improvements can appear in weeks, but significant and sustainable AI SEO results typically take 3 to 6 months to develop."
-      }
-    }
-  ],
+  "name": "How long does it take to see results from AI SEO for a contracting business?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to see results from AI SEO for a contracting business?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some initial improvements in website visibility can be seen within a few weeks, substantial and sustainable results from AI SEO typically emerge over 3 to 6 months. This timeline accounts for search engine algorithm indexing, content optimization, and the building of domain authority. Long-term success is a continuous process of refinement and adaptation based on ongoing AI-driven insights.",
+        "@type": "Answer",
+        "description": "Initial visibility improvements can appear in weeks, but significant and sustainable AI SEO results typically take 3 to 6 months to develop."
+      }
+    }
+  ],
+  "description": "Initial visibility improvements can appear in weeks, but significant and sustainable AI SEO results typically take 3 to 6 months to develop."
 }

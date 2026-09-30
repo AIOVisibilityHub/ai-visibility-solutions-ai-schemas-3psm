@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is AEO for a restoration company?",
-  "description": "AEO optimizes your restoration company's content to provide direct answers to search queries, improving visibility in search results and voice search.",
   "url": "aiovisibility.com/faq/what-is-aeo-for-a-restoration-company",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is AEO for a restoration company?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AEO stands for Answer Engine Optimization. For restoration companies, AEO focuses on optimizing your digital content to rank prominently in search engine results that directly answer user queries, especially on platforms like Google's featured snippets, 'People Also Ask' sections, and voice search. This strategy helps your company appear as a direct, authoritative answer to common questions about water damage, mold remediation, fire restoration, and other services, driving more targeted organic traffic and leads.",
-        "description": "AEO optimizes your restoration company's content to provide direct answers to search queries, improving visibility in search results and voice search."
-      }
-    }
-  ],
+  "name": "What is AEO for a restoration company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is AEO for a restoration company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AEO stands for Answer Engine Optimization. For restoration companies, AEO focuses on optimizing your digital content to rank prominently in search engine results that directly answer user queries, especially on platforms like Google's featured snippets, 'People Also Ask' sections, and voice search. This strategy helps your company appear as a direct, authoritative answer to common questions about water damage, mold remediation, fire restoration, and other services, driving more targeted organic traffic and leads.",
+        "@type": "Answer",
+        "description": "AEO optimizes your restoration company's content to provide direct answers to search queries, improving visibility in search results and voice search."
+      }
+    }
+  ],
+  "description": "AEO optimizes your restoration company's content to provide direct answers to search queries, improving visibility in search results and voice search."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why is local SEO different for dentists compared to other businesses?",
-  "description": "Local SEO for dentists prioritizes proximity and community trust, with a strong focus on GMB reviews and geo-targeted content due to the local nature of patient",
   "url": "aiovisibility.com/faq/why-is-local-seo-different-for-dentists-compared-to-other-businesses",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why is local SEO different for dentists compared to other businesses?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Local SEO for dentists is distinct because patient acquisition is heavily driven by proximity and trust within a specific community. Unlike e-commerce or services that can operate globally, dental practices rely almost entirely on patients living or working nearby. This means a strong emphasis on Google My Business reviews, local citations, and geo-targeted content. Patients often seek emergency care or convenience, making local search ranking even more critical than for businesses with broader service areas.",
-        "description": "Local SEO for dentists prioritizes proximity and community trust, with a strong focus on GMB reviews and geo-targeted content due to the local nature of patient acquisition."
-      }
-    }
-  ],
+  "name": "Why is local SEO different for dentists compared to other businesses?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why is local SEO different for dentists compared to other businesses?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Local SEO for dentists is distinct because patient acquisition is heavily driven by proximity and trust within a specific community. Unlike e-commerce or services that can operate globally, dental practices rely almost entirely on patients living or working nearby. This means a strong emphasis on Google My Business reviews, local citations, and geo-targeted content. Patients often seek emergency care or convenience, making local search ranking even more critical than for businesses with broader service areas.",
+        "@type": "Answer",
+        "description": "Local SEO for dentists prioritizes proximity and community trust, with a strong focus on GMB reviews and geo-targeted content due to the local nature of patient acquisition."
+      }
+    }
+  ],
+  "description": "Local SEO for dentists prioritizes proximity and community trust, with a strong focus on GMB reviews and geo-targeted content due to the local nature of patient"
 }

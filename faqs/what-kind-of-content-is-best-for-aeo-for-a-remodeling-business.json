@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of content is best for AEO for a remodeling business?",
-  "description": "Detailed FAQs, 'how-to' guides, comprehensive service pages, and project galleries that answer specific questions are best for AEO for remodelers.",
   "url": "aiovisibility.com/faq/what-kind-of-content-is-best-for-aeo-for-a-remodeling-business",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of content is best for AEO for a remodeling business?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Effective AEO content for remodelers includes detailed FAQs, 'how-to' guides for various projects, comprehensive service pages addressing common concerns, and blog posts that answer specific questions about materials, timelines, and costs. High-quality project galleries with descriptions that explain the process and solutions provided are also valuable. The key is to provide clear, direct answers using structured data where appropriate, ensuring your content is easily digestible by search engines and users.",
-        "description": "Detailed FAQs, 'how-to' guides, comprehensive service pages, and project galleries that answer specific questions are best for AEO for remodelers."
-      }
-    }
-  ],
+  "name": "What kind of content is best for AEO for a remodeling business?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of content is best for AEO for a remodeling business?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Effective AEO content for remodelers includes detailed FAQs, 'how-to' guides for various projects, comprehensive service pages addressing common concerns, and blog posts that answer specific questions about materials, timelines, and costs. High-quality project galleries with descriptions that explain the process and solutions provided are also valuable. The key is to provide clear, direct answers using structured data where appropriate, ensuring your content is easily digestible by search engines and users.",
+        "@type": "Answer",
+        "description": "Detailed FAQs, 'how-to' guides, comprehensive service pages, and project galleries that answer specific questions are best for AEO for remodelers."
+      }
+    }
+  ],
+  "description": "Detailed FAQs, 'how-to' guides, comprehensive service pages, and project galleries that answer specific questions are best for AEO for remodelers."
 }

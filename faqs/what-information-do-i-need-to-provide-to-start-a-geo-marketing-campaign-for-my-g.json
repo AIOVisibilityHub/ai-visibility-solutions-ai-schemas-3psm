@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information do I need to provide to start a GEO marketing campaign for my general contracting business?",
-  "description": "You need to provide your business name, address, phone, website, specific services, and primary service areas. Existing online assets like Google Business Profi",
   "url": "aiovisibility.com/faq/what-information-do-i-need-to-provide-to-start-a-geo-marketing-campaign-for-my-g",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information do I need to provide to start a GEO marketing campaign for my general contracting business?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To kick off a GEO marketing campaign, general contractors should provide key business information. This typically includes your official business name, address(es), phone number, and website URL. Details about your specific services (e.g., residential remodeling, commercial construction, new builds) are crucial, along with a clear definition of your primary service areas. Any existing online assets, such as your Google Business Profile, social media pages, and review platforms, should also be shared. High-quality photos of your completed projects and testimonials from satisfied clients are also very beneficial for content and profile optimization.",
-        "description": "You need to provide your business name, address, phone, website, specific services, and primary service areas. Existing online assets like Google Business Profile, social media, reviews, and project photos are also helpful."
-      }
-    }
-  ],
+  "name": "What information do I need to provide to start a GEO marketing campaign for my general contracting business?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide to start a GEO marketing campaign for my general contracting business?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To kick off a GEO marketing campaign, general contractors should provide key business information. This typically includes your official business name, address(es), phone number, and website URL. Details about your specific services (e.g., residential remodeling, commercial construction, new builds) are crucial, along with a clear definition of your primary service areas. Any existing online assets, such as your Google Business Profile, social media pages, and review platforms, should also be shared. High-quality photos of your completed projects and testimonials from satisfied clients are also very beneficial for content and profile optimization.",
+        "@type": "Answer",
+        "description": "You need to provide your business name, address, phone, website, specific services, and primary service areas. Existing online assets like Google Business Profile, social media, reviews, and project photos are also helpful."
+      }
+    }
+  ],
+  "description": "You need to provide your business name, address, phone, website, specific services, and primary service areas. Existing online assets like Google Business Profi"
 }

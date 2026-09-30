@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to see results from GEO for Plumbers strategies?",
-  "description": "Initial results from GEO for Plumbers can be seen in a few weeks to months, while significant, sustainable improvements typically take 3 to 6 months.",
   "url": "aiovisibility.com/faq/how-long-does-it-take-to-see-results-from-geo-for-plumbers-strategies",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to see results from GEO for Plumbers strategies?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for seeing results from GEO for Plumbers strategies can vary. Initial improvements, such as increased visibility in local map packs, might be noticeable within a few weeks to a couple of months, especially with consistent Google Business Profile optimization. However, more significant and sustainable results from comprehensive local SEO efforts, including website optimization and citation building, typically take 3 to 6 months. Factors like local competition and the current state of your online presence also influence the speed of results.",
-        "description": "Initial results from GEO for Plumbers can be seen in a few weeks to months, while significant, sustainable improvements typically take 3 to 6 months."
-      }
-    }
-  ],
+  "name": "How long does it take to see results from GEO for Plumbers strategies?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to see results from GEO for Plumbers strategies?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for seeing results from GEO for Plumbers strategies can vary. Initial improvements, such as increased visibility in local map packs, might be noticeable within a few weeks to a couple of months, especially with consistent Google Business Profile optimization. However, more significant and sustainable results from comprehensive local SEO efforts, including website optimization and citation building, typically take 3 to 6 months. Factors like local competition and the current state of your online presence also influence the speed of results.",
+        "@type": "Answer",
+        "description": "Initial results from GEO for Plumbers can be seen in a few weeks to months, while significant, sustainable improvements typically take 3 to 6 months."
+      }
+    }
+  ],
+  "description": "Initial results from GEO for Plumbers can be seen in a few weeks to months, while significant, sustainable improvements typically take 3 to 6 months."
 }

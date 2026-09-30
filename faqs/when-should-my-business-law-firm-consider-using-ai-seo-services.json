@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should my business law firm consider using AI SEO services?",
-  "description": "Consider AI SEO if your firm struggles with online visibility, desires better rankings, aims to attract specific clients, or needs to update its digital marketi",
   "url": "aiovisibility.com/faq/when-should-my-business-law-firm-consider-using-ai-seo-services",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should my business law firm consider using AI SEO services?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Your business law firm should consider using AI SEO services if you are struggling to rank for relevant legal keywords, your online visibility is stagnant, or you are losing ground to competitors. It's also beneficial if you want to expand into new legal practice areas, attract a more specific type of business client, or if your current marketing efforts are not yielding satisfactory results. Implementing AI SEO is a strategic move to future-proof your digital marketing and maintain a competitive edge in a rapidly evolving online landscape.",
-        "description": "Consider AI SEO if your firm struggles with online visibility, desires better rankings, aims to attract specific clients, or needs to update its digital marketing strategy."
-      }
-    }
-  ],
+  "name": "When should my business law firm consider using AI SEO services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should my business law firm consider using AI SEO services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Your business law firm should consider using AI SEO services if you are struggling to rank for relevant legal keywords, your online visibility is stagnant, or you are losing ground to competitors. It's also beneficial if you want to expand into new legal practice areas, attract a more specific type of business client, or if your current marketing efforts are not yielding satisfactory results. Implementing AI SEO is a strategic move to future-proof your digital marketing and maintain a competitive edge in a rapidly evolving online landscape.",
+        "@type": "Answer",
+        "description": "Consider AI SEO if your firm struggles with online visibility, desires better rankings, aims to attract specific clients, or needs to update its digital marketing strategy."
+      }
+    }
+  ],
+  "description": "Consider AI SEO if your firm struggles with online visibility, desires better rankings, aims to attract specific clients, or needs to update its digital marketi"
 }

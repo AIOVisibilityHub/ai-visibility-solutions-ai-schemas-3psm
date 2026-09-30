@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does AEO support lead generation for construction projects?",
-  "description": "AEO generates leads by positioning your construction company as the direct answer to client queries, building trust and guiding users to your services.",
   "url": "aiovisibility.com/faq/how-does-aeo-support-lead-generation-for-construction-projects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does AEO support lead generation for construction projects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AEO supports lead generation by placing your construction company directly in front of potential clients who are actively seeking solutions or information for their projects. When your content provides the authoritative answer to a user's specific query, it establishes credibility and trust. This direct interaction often leads users to explore your services further, fill out contact forms, or call directly, resulting in higher-quality, more qualified leads compared to general website traffic.",
-        "description": "AEO generates leads by positioning your construction company as the direct answer to client queries, building trust and guiding users to your services."
-      }
-    }
-  ],
+  "name": "How does AEO support lead generation for construction projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does AEO support lead generation for construction projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AEO supports lead generation by placing your construction company directly in front of potential clients who are actively seeking solutions or information for their projects. When your content provides the authoritative answer to a user's specific query, it establishes credibility and trust. This direct interaction often leads users to explore your services further, fill out contact forms, or call directly, resulting in higher-quality, more qualified leads compared to general website traffic.",
+        "@type": "Answer",
+        "description": "AEO generates leads by positioning your construction company as the direct answer to client queries, building trust and guiding users to your services."
+      }
+    }
+  ],
+  "description": "AEO generates leads by positioning your construction company as the direct answer to client queries, building trust and guiding users to your services."
 }

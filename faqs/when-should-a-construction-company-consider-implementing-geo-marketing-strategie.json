@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should a construction company consider implementing GEO marketing strategies?",
-  "description": "Construction companies should consider GEO marketing when expanding, launching new services in specific regions, or aiming to boost market share in current serv",
   "url": "aiovisibility.com/faq/when-should-a-construction-company-consider-implementing-geo-marketing-strategie",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should a construction company consider implementing GEO marketing strategies?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A construction company should consider implementing GEO marketing strategies when expanding into new service areas, launching a new specialty service in a specific region, or seeking to increase market share in existing locations. It's particularly useful when demand for construction services varies geographically or when competitors are strong in certain areas. Implementing GEO marketing can also be beneficial if your business has a physical office or project sites you wish to highlight to a local audience.",
-        "description": "Construction companies should consider GEO marketing when expanding, launching new services in specific regions, or aiming to boost market share in current service areas."
-      }
-    }
-  ],
+  "name": "When should a construction company consider implementing GEO marketing strategies?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should a construction company consider implementing GEO marketing strategies?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A construction company should consider implementing GEO marketing strategies when expanding into new service areas, launching a new specialty service in a specific region, or seeking to increase market share in existing locations. It's particularly useful when demand for construction services varies geographically or when competitors are strong in certain areas. Implementing GEO marketing can also be beneficial if your business has a physical office or project sites you wish to highlight to a local audience.",
+        "@type": "Answer",
+        "description": "Construction companies should consider GEO marketing when expanding, launching new services in specific regions, or aiming to boost market share in current service areas."
+      }
+    }
+  ],
+  "description": "Construction companies should consider GEO marketing when expanding, launching new services in specific regions, or aiming to boost market share in current serv"
 }

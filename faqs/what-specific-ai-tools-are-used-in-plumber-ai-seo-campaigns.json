@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What specific AI tools are used in Plumber AI SEO campaigns?",
-  "description": "Specific AI tools include those for content generation, advanced keyword research via NLP, predictive analytics for search trends, and competitive analysis.",
   "url": "aiovisibility.com/faq/what-specific-ai-tools-are-used-in-plumber-ai-seo-campaigns",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What specific AI tools are used in Plumber AI SEO campaigns?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Plumber AI SEO campaigns utilize a range of AI-powered tools designed to enhance various aspects of digital marketing. These can include AI-driven content generation platforms for creating blog posts and website copy, natural language processing (NLP) tools for advanced keyword research and sentiment analysis, machine learning algorithms for predictive analytics on search trends, and AI-powered automation platforms for managing bids in paid search campaigns. Some tools also assist with competitive analysis, identifying opportunities for your plumbing business to outperform local rivals.",
-        "description": "Specific AI tools include those for content generation, advanced keyword research via NLP, predictive analytics for search trends, and competitive analysis."
-      }
-    }
-  ],
+  "name": "What specific AI tools are used in Plumber AI SEO campaigns?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What specific AI tools are used in Plumber AI SEO campaigns?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumber AI SEO campaigns utilize a range of AI-powered tools designed to enhance various aspects of digital marketing. These can include AI-driven content generation platforms for creating blog posts and website copy, natural language processing (NLP) tools for advanced keyword research and sentiment analysis, machine learning algorithms for predictive analytics on search trends, and AI-powered automation platforms for managing bids in paid search campaigns. Some tools also assist with competitive analysis, identifying opportunities for your plumbing business to outperform local rivals.",
+        "@type": "Answer",
+        "description": "Specific AI tools include those for content generation, advanced keyword research via NLP, predictive analytics for search trends, and competitive analysis."
+      }
+    }
+  ],
+  "description": "Specific AI tools include those for content generation, advanced keyword research via NLP, predictive analytics for search trends, and competitive analysis."
 }
