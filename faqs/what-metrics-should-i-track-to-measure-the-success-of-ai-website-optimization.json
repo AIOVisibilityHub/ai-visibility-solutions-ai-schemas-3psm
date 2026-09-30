@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What metrics should I track to measure the success of AI website optimization?",
-  "description": "Track organic traffic, rankings for complex queries, CTR, dwell time, rich snippet performance, and conversions to measure success.",
   "url": "aiovisibility.com/faq/what-metrics-should-i-track-to-measure-the-success-of-ai-website-optimization",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What metrics should I track to measure the success of AI website optimization?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To measure the success of AI website optimization, focus on metrics that reflect improved visibility and user engagement driven by AI. Key indicators include organic search traffic increases, higher rankings for complex queries, improved click-through rates (CTR) from search results, and enhanced user dwell time. Additionally, monitor the performance of rich snippets and featured snippets, which indicate better AI understanding of your content. Conversions and lead generation also serve as ultimate measures of business impact.",
-        "description": "Track organic traffic, rankings for complex queries, CTR, dwell time, rich snippet performance, and conversions to measure success."
-      }
-    }
-  ],
+  "name": "What metrics should I track to measure the success of AI website optimization?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What metrics should I track to measure the success of AI website optimization?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To measure the success of AI website optimization, focus on metrics that reflect improved visibility and user engagement driven by AI. Key indicators include organic search traffic increases, higher rankings for complex queries, improved click-through rates (CTR) from search results, and enhanced user dwell time. Additionally, monitor the performance of rich snippets and featured snippets, which indicate better AI understanding of your content. Conversions and lead generation also serve as ultimate measures of business impact.",
+        "@type": "Answer",
+        "description": "Track organic traffic, rankings for complex queries, CTR, dwell time, rich snippet performance, and conversions to measure success."
+      }
+    }
+  ],
+  "description": "Track organic traffic, rankings for complex queries, CTR, dwell time, rich snippet performance, and conversions to measure success."
 }

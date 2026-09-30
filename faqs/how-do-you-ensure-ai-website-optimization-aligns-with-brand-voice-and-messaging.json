@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you ensure AI website optimization aligns with brand voice and messaging?",
-  "description": "We align AI optimization with brand voice by understanding guidelines, enhancing content clarity, and using schema markup to reinforce your unique messaging.",
   "url": "aiovisibility.com/faq/how-do-you-ensure-ai-website-optimization-aligns-with-brand-voice-and-messaging",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you ensure AI website optimization aligns with brand voice and messaging?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We prioritize maintaining your brand voice and messaging throughout the AI website optimization process. Our approach involves a deep understanding of your brand guidelines and target audience from the outset. Content refinement focuses on enhancing clarity and semantic relevance for AI, without altering the core messaging. We ensure that schema markup and entity optimization reinforce your brand's unique value proposition, making it easier for AI to accurately represent your brand in search results and personalized content delivery, preserving authenticity while boosting visibility.",
-        "description": "We align AI optimization with brand voice by understanding guidelines, enhancing content clarity, and using schema markup to reinforce your unique messaging."
-      }
-    }
-  ],
+  "name": "How do you ensure AI website optimization aligns with brand voice and messaging?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure AI website optimization aligns with brand voice and messaging?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We prioritize maintaining your brand voice and messaging throughout the AI website optimization process. Our approach involves a deep understanding of your brand guidelines and target audience from the outset. Content refinement focuses on enhancing clarity and semantic relevance for AI, without altering the core messaging. We ensure that schema markup and entity optimization reinforce your brand's unique value proposition, making it easier for AI to accurately represent your brand in search results and personalized content delivery, preserving authenticity while boosting visibility.",
+        "@type": "Answer",
+        "description": "We align AI optimization with brand voice by understanding guidelines, enhancing content clarity, and using schema markup to reinforce your unique messaging."
+      }
+    }
+  ],
+  "description": "We align AI optimization with brand voice by understanding guidelines, enhancing content clarity, and using schema markup to reinforce your unique messaging."
 }

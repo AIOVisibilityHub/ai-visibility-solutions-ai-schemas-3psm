@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right AEO agency for my home service business?",
-  "description": "Choose an AEO agency with proven experience in home services, a strong understanding of local search, and transparent reporting on direct answer visibility metr",
   "url": "aiovisibility.com/faq/how-do-i-choose-the-right-aeo-agency-for-my-home-service-business",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right AEO agency for my home service business?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting an AEO agency, look for one with demonstrable experience in optimizing for featured snippets, voice search, and structured data, specifically within the home services industry. Evaluate their understanding of local search nuances and their ability to craft content that directly answers customer queries. Request case studies or examples of their work, focusing on how they've helped other businesses achieve direct answer visibility. Ensure they provide transparent reporting on metrics relevant to AEO, such as impressions in answer boxes or voice search queries, rather than just traditional keyword rankings.",
-        "description": "Choose an AEO agency with proven experience in home services, a strong understanding of local search, and transparent reporting on direct answer visibility metrics."
-      }
-    }
-  ],
+  "name": "How do I choose the right AEO agency for my home service business?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right AEO agency for my home service business?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting an AEO agency, look for one with demonstrable experience in optimizing for featured snippets, voice search, and structured data, specifically within the home services industry. Evaluate their understanding of local search nuances and their ability to craft content that directly answers customer queries. Request case studies or examples of their work, focusing on how they've helped other businesses achieve direct answer visibility. Ensure they provide transparent reporting on metrics relevant to AEO, such as impressions in answer boxes or voice search queries, rather than just traditional keyword rankings.",
+        "@type": "Answer",
+        "description": "Choose an AEO agency with proven experience in home services, a strong understanding of local search, and transparent reporting on direct answer visibility metrics."
+      }
+    }
+  ],
+  "description": "Choose an AEO agency with proven experience in home services, a strong understanding of local search, and transparent reporting on direct answer visibility metr"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does AEO differ from traditional SEO?",
-  "description": "AEO targets direct answers in search results and voice assistants, while traditional SEO focuses on website ranking for clicks and organic traffic.",
   "url": "aiovisibility.com/faq/how-does-aeo-differ-from-traditional-seo",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does AEO differ from traditional SEO?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While traditional SEO primarily focuses on improving website rankings to increase clicks and organic traffic, AEO specifically targets the direct answers provided by search engines. Traditional SEO might optimize for keywords to get a page to rank on page one, whereas AEO crafts content to be the definitive answer displayed in a featured snippet or spoken by a voice assistant. AEO emphasizes clarity, conciseness, and direct responses to common questions, often leveraging structured data and natural language processing. Both are vital for digital visibility, but AEO addresses the evolving way users find information.",
-        "description": "AEO targets direct answers in search results and voice assistants, while traditional SEO focuses on website ranking for clicks and organic traffic."
-      }
-    }
-  ],
+  "name": "How does AEO differ from traditional SEO?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does AEO differ from traditional SEO?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While traditional SEO primarily focuses on improving website rankings to increase clicks and organic traffic, AEO specifically targets the direct answers provided by search engines. Traditional SEO might optimize for keywords to get a page to rank on page one, whereas AEO crafts content to be the definitive answer displayed in a featured snippet or spoken by a voice assistant. AEO emphasizes clarity, conciseness, and direct responses to common questions, often leveraging structured data and natural language processing. Both are vital for digital visibility, but AEO addresses the evolving way users find information.",
+        "@type": "Answer",
+        "description": "AEO targets direct answers in search results and voice assistants, while traditional SEO focuses on website ranking for clicks and organic traffic."
+      }
+    }
+  ],
+  "description": "AEO targets direct answers in search results and voice assistants, while traditional SEO focuses on website ranking for clicks and organic traffic."
 }

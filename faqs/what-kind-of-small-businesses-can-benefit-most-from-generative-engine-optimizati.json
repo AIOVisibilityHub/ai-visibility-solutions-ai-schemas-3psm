@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of small businesses can benefit most from Generative Engine Optimization?",
-  "description": "E-commerce stores, local service providers, consultants, and content-driven businesses can benefit most, especially if they struggle with consistent content cre",
   "url": "aiovisibility.com/faq/what-kind-of-small-businesses-can-benefit-most-from-generative-engine-optimizati",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of small businesses can benefit most from Generative Engine Optimization?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Small businesses that rely heavily on online presence for lead generation, sales, or customer engagement can benefit significantly from GEO. This includes e-commerce stores, local service providers, consultants, and content-driven businesses such as blogs or niche publications. If your business struggles with consistent content creation, keeping up with SEO trends, or competing in crowded online markets, GEO can provide a scalable solution to enhance visibility and attract a relevant audience.",
-        "description": "E-commerce stores, local service providers, consultants, and content-driven businesses can benefit most, especially if they struggle with consistent content creation or keeping up with SEO trends."
-      }
-    }
-  ],
+  "name": "What kind of small businesses can benefit most from Generative Engine Optimization?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of small businesses can benefit most from Generative Engine Optimization?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small businesses that rely heavily on online presence for lead generation, sales, or customer engagement can benefit significantly from GEO. This includes e-commerce stores, local service providers, consultants, and content-driven businesses such as blogs or niche publications. If your business struggles with consistent content creation, keeping up with SEO trends, or competing in crowded online markets, GEO can provide a scalable solution to enhance visibility and attract a relevant audience.",
+        "@type": "Answer",
+        "description": "E-commerce stores, local service providers, consultants, and content-driven businesses can benefit most, especially if they struggle with consistent content creation or keeping up with SEO trends."
+      }
+    }
+  ],
+  "description": "E-commerce stores, local service providers, consultants, and content-driven businesses can benefit most, especially if they struggle with consistent content cre"
 }

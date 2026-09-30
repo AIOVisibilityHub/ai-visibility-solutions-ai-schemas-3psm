@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does AEO help with local patient acquisition in cities like Houston?",
-  "description": "AEO greatly supports local patient acquisition in cities like Houston by optimizing for local keywords, improving Google Business Profile presence, and providin",
   "url": "aiovisibility.com/faq/does-aeo-help-with-local-patient-acquisition-in-cities-like-houston",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does AEO help with local patient acquisition in cities like Houston?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, AEO significantly aids local patient acquisition, especially in large metropolitan areas like Houston. Many medical-related queries are location-specific, such as 'dermatologist near me' or 'urgent care Houston hours.' Optimizing your content for local keywords and ensuring your Google Business Profile is fully updated and consistent with your website information are critical. AEO helps your practice appear in local packs, 'near me' searches, and provides direct answers to geographically relevant patient questions, driving local patients to your specific practice.",
-        "description": "AEO greatly supports local patient acquisition in cities like Houston by optimizing for local keywords, improving Google Business Profile presence, and providing direct answers to location-specific patient queries, leading to more local appointments."
-      }
-    }
-  ],
+  "name": "Does AEO help with local patient acquisition in cities like Houston?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does AEO help with local patient acquisition in cities like Houston?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AEO significantly aids local patient acquisition, especially in large metropolitan areas like Houston. Many medical-related queries are location-specific, such as 'dermatologist near me' or 'urgent care Houston hours.' Optimizing your content for local keywords and ensuring your Google Business Profile is fully updated and consistent with your website information are critical. AEO helps your practice appear in local packs, 'near me' searches, and provides direct answers to geographically relevant patient questions, driving local patients to your specific practice.",
+        "@type": "Answer",
+        "description": "AEO greatly supports local patient acquisition in cities like Houston by optimizing for local keywords, improving Google Business Profile presence, and providing direct answers to location-specific patient queries, leading to more local appointments."
+      }
+    }
+  ],
+  "description": "AEO greatly supports local patient acquisition in cities like Houston by optimizing for local keywords, improving Google Business Profile presence, and providin"
 }

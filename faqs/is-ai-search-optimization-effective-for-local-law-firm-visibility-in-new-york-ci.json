@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is AI search optimization effective for local law firm visibility in New York City?",
-  "description": "Yes, AI search optimization is effective for local law firm visibility in New York City by optimizing for hyper-local search data and Google My Business.",
   "url": "aiovisibility.com/faq/is-ai-search-optimization-effective-for-local-law-firm-visibility-in-new-york-ci",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is AI search optimization effective for local law firm visibility in New York City?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, AI search optimization is highly effective for local law firm visibility in competitive markets like New York City. AI tools can analyze hyper-local search data, optimize Google My Business profiles with greater precision, and identify local content opportunities. This helps law firms stand out in searches like 'personal injury lawyer NYC' or 'estate planning attorney Brooklyn,' ensuring they appear prominently when potential clients in specific neighborhoods or boroughs are looking for legal services.",
-        "description": "Yes, AI search optimization is effective for local law firm visibility in New York City by optimizing for hyper-local search data and Google My Business."
-      }
-    }
-  ],
+  "name": "Is AI search optimization effective for local law firm visibility in New York City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is AI search optimization effective for local law firm visibility in New York City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AI search optimization is highly effective for local law firm visibility in competitive markets like New York City. AI tools can analyze hyper-local search data, optimize Google My Business profiles with greater precision, and identify local content opportunities. This helps law firms stand out in searches like 'personal injury lawyer NYC' or 'estate planning attorney Brooklyn,' ensuring they appear prominently when potential clients in specific neighborhoods or boroughs are looking for legal services.",
+        "@type": "Answer",
+        "description": "Yes, AI search optimization is effective for local law firm visibility in New York City by optimizing for hyper-local search data and Google My Business."
+      }
+    }
+  ],
+  "description": "Yes, AI search optimization is effective for local law firm visibility in New York City by optimizing for hyper-local search data and Google My Business."
 }

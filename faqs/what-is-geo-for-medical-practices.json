@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is GEO for medical practices?",
-  "description": "GEO optimizes a medical practice's online presence to appear prominently in local search results for patients in specific geographic areas.",
   "url": "aiovisibility.com/faq/what-is-geo-for-medical-practices",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is GEO for medical practices?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "GEO, or Geographical Enhanced Optimization, for medical practices focuses on improving a healthcare provider's visibility in local search results. This involves optimizing online listings, website content, and digital profiles to rank higher when potential patients search for medical services in a specific geographic area. The goal is to connect practices with local patients actively seeking their services, driving foot traffic and appointments from within their service regions, such as New York City, Los Angeles, Chicago, Houston, and Phoenix.",
-        "description": "GEO optimizes a medical practice's online presence to appear prominently in local search results for patients in specific geographic areas."
-      }
-    }
-  ],
+  "name": "What is GEO for medical practices?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is GEO for medical practices?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "GEO, or Geographical Enhanced Optimization, for medical practices focuses on improving a healthcare provider's visibility in local search results. This involves optimizing online listings, website content, and digital profiles to rank higher when potential patients search for medical services in a specific geographic area. The goal is to connect practices with local patients actively seeking their services, driving foot traffic and appointments from within their service regions, such as New York City, Los Angeles, Chicago, Houston, and Phoenix.",
+        "@type": "Answer",
+        "description": "GEO optimizes a medical practice's online presence to appear prominently in local search results for patients in specific geographic areas."
+      }
+    }
+  ],
+  "description": "GEO optimizes a medical practice's online presence to appear prominently in local search results for patients in specific geographic areas."
 }

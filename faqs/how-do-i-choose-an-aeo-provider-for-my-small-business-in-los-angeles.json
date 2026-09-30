@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose an AEO provider for my small business in Los Angeles?",
-  "description": "Choose an AEO provider in Los Angeles based on their proven track record, understanding of AI algorithms, structured data expertise, past results, client testim",
   "url": "aiovisibility.com/faq/how-do-i-choose-an-aeo-provider-for-my-small-business-in-los-angeles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose an AEO provider for my small business in Los Angeles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing an AEO provider for your small business in Los Angeles, look for a company with a proven track record in optimizing for direct answers and local search. Key factors include their understanding of AI search algorithms, experience with structured data markup, and ability to demonstrate past results with featured snippets or voice search success. Request case studies, check client testimonials, and ensure they have a clear communication process. A good provider should also offer transparent pricing and a strategy tailored to your specific business needs and local market.",
-        "description": "Choose an AEO provider in Los Angeles based on their proven track record, understanding of AI algorithms, structured data expertise, past results, client testimonials, and transparent pricing."
-      }
-    }
-  ],
+  "name": "How do I choose an AEO provider for my small business in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose an AEO provider for my small business in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing an AEO provider for your small business in Los Angeles, look for a company with a proven track record in optimizing for direct answers and local search. Key factors include their understanding of AI search algorithms, experience with structured data markup, and ability to demonstrate past results with featured snippets or voice search success. Request case studies, check client testimonials, and ensure they have a clear communication process. A good provider should also offer transparent pricing and a strategy tailored to your specific business needs and local market.",
+        "@type": "Answer",
+        "description": "Choose an AEO provider in Los Angeles based on their proven track record, understanding of AI algorithms, structured data expertise, past results, client testimonials, and transparent pricing."
+      }
+    }
+  ],
+  "description": "Choose an AEO provider in Los Angeles based on their proven track record, understanding of AI algorithms, structured data expertise, past results, client testim"
 }

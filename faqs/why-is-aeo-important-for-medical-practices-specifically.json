@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why is AEO important for medical practices specifically?",
-  "description": "AEO is vital for medical practices to provide quick, factual answers to patient queries, establishing authority. It enhances visibility in direct answers and vo",
   "url": "aiovisibility.com/faq/why-is-aeo-important-for-medical-practices-specifically",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why is AEO important for medical practices specifically?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Medical practices benefit significantly from AEO because patients often seek quick, factual answers to health-related questions or local service information. AEO ensures your practice's accurate, expert-vetted information is presented directly by answer engines, positioning you as a trusted authority. This immediate visibility can lead to increased appointments, as patients are more likely to choose a practice that consistently provides helpful, accessible information. It's crucial for reaching patients through modern search methods, including voice search on devices like smart speakers.",
-        "description": "AEO is vital for medical practices to provide quick, factual answers to patient queries, establishing authority. It enhances visibility in direct answers and voice search, potentially increasing appointments."
-      }
-    }
-  ],
+  "name": "Why is AEO important for medical practices specifically?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why is AEO important for medical practices specifically?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Medical practices benefit significantly from AEO because patients often seek quick, factual answers to health-related questions or local service information. AEO ensures your practice's accurate, expert-vetted information is presented directly by answer engines, positioning you as a trusted authority. This immediate visibility can lead to increased appointments, as patients are more likely to choose a practice that consistently provides helpful, accessible information. It's crucial for reaching patients through modern search methods, including voice search on devices like smart speakers.",
+        "@type": "Answer",
+        "description": "AEO is vital for medical practices to provide quick, factual answers to patient queries, establishing authority. It enhances visibility in direct answers and voice search, potentially increasing appointments."
+      }
+    }
+  ],
+  "description": "AEO is vital for medical practices to provide quick, factual answers to patient queries, establishing authority. It enhances visibility in direct answers and vo"
 }

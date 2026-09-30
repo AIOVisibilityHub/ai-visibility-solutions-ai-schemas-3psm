@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should a medical practice consider investing in AEO?",
-  "description": "Invest in AEO when patients use voice search or seek immediate online answers, and your practice aims to be an authoritative information source. It's crucial fo",
   "url": "aiovisibility.com/faq/when-should-a-medical-practice-consider-investing-in-aeo",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should a medical practice consider investing in AEO?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A medical practice should consider investing in AEO when they notice a significant portion of their target audience using voice search or seeking immediate answers online. If your practice aims to be the authoritative source for patient information in your specialty or local area, AEO is crucial. It's particularly beneficial for practices looking to expand their patient reach, improve online visibility beyond traditional search clicks, and adapt to evolving search behaviors where patients expect instant, verified answers directly from search engines.",
-        "description": "Invest in AEO when patients use voice search or seek immediate online answers, and your practice aims to be an authoritative information source. It's crucial for expanding reach and adapting to modern search behaviors."
-      }
-    }
-  ],
+  "name": "When should a medical practice consider investing in AEO?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should a medical practice consider investing in AEO?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A medical practice should consider investing in AEO when they notice a significant portion of their target audience using voice search or seeking immediate answers online. If your practice aims to be the authoritative source for patient information in your specialty or local area, AEO is crucial. It's particularly beneficial for practices looking to expand their patient reach, improve online visibility beyond traditional search clicks, and adapt to evolving search behaviors where patients expect instant, verified answers directly from search engines.",
+        "@type": "Answer",
+        "description": "Invest in AEO when patients use voice search or seek immediate online answers, and your practice aims to be an authoritative information source. It's crucial for expanding reach and adapting to modern search behaviors."
+      }
+    }
+  ],
+  "description": "Invest in AEO when patients use voice search or seek immediate online answers, and your practice aims to be an authoritative information source. It's crucial fo"
 }
