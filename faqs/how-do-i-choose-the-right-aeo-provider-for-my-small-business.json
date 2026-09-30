@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right AEO provider for my small business?",
-  "description": "Choose an AEO provider with proven digital marketing expertise, a strong understanding of AI search and structured data, transparent reporting, and strategies a",
   "url": "aiovisibility.com/faq/how-do-i-choose-the-right-aeo-provider-for-my-small-business",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right AEO provider for my small business?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting an AEO provider, look for a company with a proven track record in digital marketing and a deep understanding of AI-driven search. Assess their experience with structured data, natural language processing, and local SEO. Request case studies or client testimonials specifically related to AEO or advanced search optimization. Ensure they offer transparent reporting, clearly explain their strategies, and align their services with your business goals. A good provider will focus on tangible results and provide ongoing support and strategic insights.",
-        "description": "Choose an AEO provider with proven digital marketing expertise, a strong understanding of AI search and structured data, transparent reporting, and strategies aligned with your business goals."
-      }
-    }
-  ],
+  "name": "How do I choose the right AEO provider for my small business?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right AEO provider for my small business?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting an AEO provider, look for a company with a proven track record in digital marketing and a deep understanding of AI-driven search. Assess their experience with structured data, natural language processing, and local SEO. Request case studies or client testimonials specifically related to AEO or advanced search optimization. Ensure they offer transparent reporting, clearly explain their strategies, and align their services with your business goals. A good provider will focus on tangible results and provide ongoing support and strategic insights.",
+        "@type": "Answer",
+        "description": "Choose an AEO provider with proven digital marketing expertise, a strong understanding of AI search and structured data, transparent reporting, and strategies aligned with your business goals."
+      }
+    }
+  ],
+  "description": "Choose an AEO provider with proven digital marketing expertise, a strong understanding of AI search and structured data, transparent reporting, and strategies a"
 }

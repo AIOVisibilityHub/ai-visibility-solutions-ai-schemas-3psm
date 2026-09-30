@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What data does AI website optimization use?",
-  "description": "AI website optimization uses traffic analytics, user behavior data, conversion funnels, search rankings, competitor analysis, and market trends.",
   "url": "aiovisibility.com/faq/what-data-does-ai-website-optimization-use",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What data does AI website optimization use?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AI website optimization utilizes a broad spectrum of data, including website traffic analytics (e.g., Google Analytics), user behavior data (e.g., click patterns, scroll depth, heatmaps), conversion funnels, search engine ranking data, competitor analysis, and market trends. It also processes content performance metrics and technical website data. This comprehensive data collection allows AI to form a holistic view of user interaction and site performance.",
-        "description": "AI website optimization uses traffic analytics, user behavior data, conversion funnels, search rankings, competitor analysis, and market trends."
-      }
-    }
-  ],
+  "name": "What data does AI website optimization use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What data does AI website optimization use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI website optimization utilizes a broad spectrum of data, including website traffic analytics (e.g., Google Analytics), user behavior data (e.g., click patterns, scroll depth, heatmaps), conversion funnels, search engine ranking data, competitor analysis, and market trends. It also processes content performance metrics and technical website data. This comprehensive data collection allows AI to form a holistic view of user interaction and site performance.",
+        "@type": "Answer",
+        "description": "AI website optimization uses traffic analytics, user behavior data, conversion funnels, search rankings, competitor analysis, and market trends."
+      }
+    }
+  ],
+  "description": "AI website optimization uses traffic analytics, user behavior data, conversion funnels, search rankings, competitor analysis, and market trends."
 }

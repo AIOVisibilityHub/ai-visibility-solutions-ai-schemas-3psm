@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is AI Search Content Strategy?",
-  "description": "AI Search Content Strategy uses AI tools to optimize content for search engines and user intent, improving organic visibility.",
   "url": "aiovisibility.com/faq/what-is-ai-search-content-strategy",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is AI Search Content Strategy?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AI Search Content Strategy involves using artificial intelligence tools and insights to optimize content for search engines and user intent. This includes leveraging AI to research keywords, analyze competitor content, identify content gaps, and predict trending topics. The goal is to create highly relevant, valuable, and discoverable content that ranks well in AI-driven search results and effectively addresses user queries, ultimately improving organic visibility and engagement.",
-        "description": "AI Search Content Strategy uses AI tools to optimize content for search engines and user intent, improving organic visibility."
-      }
-    }
-  ],
+  "name": "What is AI Search Content Strategy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is AI Search Content Strategy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI Search Content Strategy involves using artificial intelligence tools and insights to optimize content for search engines and user intent. This includes leveraging AI to research keywords, analyze competitor content, identify content gaps, and predict trending topics. The goal is to create highly relevant, valuable, and discoverable content that ranks well in AI-driven search results and effectively addresses user queries, ultimately improving organic visibility and engagement.",
+        "@type": "Answer",
+        "description": "AI Search Content Strategy uses AI tools to optimize content for search engines and user intent, improving organic visibility."
+      }
+    }
+  ],
+  "description": "AI Search Content Strategy uses AI tools to optimize content for search engines and user intent, improving organic visibility."
 }

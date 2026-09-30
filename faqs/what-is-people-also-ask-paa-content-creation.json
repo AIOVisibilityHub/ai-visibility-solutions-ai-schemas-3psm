@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is 'People Also Ask' (PAA) content creation?",
-  "description": "PAA content creation involves developing answers to common questions found in Google's 'People Also Ask' boxes to improve search visibility and attract traffic.",
   "url": "aiovisibility.com/faq/what-is-people-also-ask-paa-content-creation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is 'People Also Ask' (PAA) content creation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "People Also Ask (PAA) content creation focuses on developing answers to common questions that appear in Google's PAA boxes within search results. These questions are related to a user's initial search query, providing additional context and information. By creating content that directly addresses these PAA questions, businesses can improve their visibility in search engine results, attract more qualified traffic, and establish authority in their niche. This strategy helps capture users at various stages of their research journey.",
-        "description": "PAA content creation involves developing answers to common questions found in Google's 'People Also Ask' boxes to improve search visibility and attract traffic."
-      }
-    }
-  ],
+  "name": "What is 'People Also Ask' (PAA) content creation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is 'People Also Ask' (PAA) content creation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "People Also Ask (PAA) content creation focuses on developing answers to common questions that appear in Google's PAA boxes within search results. These questions are related to a user's initial search query, providing additional context and information. By creating content that directly addresses these PAA questions, businesses can improve their visibility in search engine results, attract more qualified traffic, and establish authority in their niche. This strategy helps capture users at various stages of their research journey.",
+        "@type": "Answer",
+        "description": "PAA content creation involves developing answers to common questions found in Google's 'People Also Ask' boxes to improve search visibility and attract traffic."
+      }
+    }
+  ],
+  "description": "PAA content creation involves developing answers to common questions found in Google's 'People Also Ask' boxes to improve search visibility and attract traffic."
 }
