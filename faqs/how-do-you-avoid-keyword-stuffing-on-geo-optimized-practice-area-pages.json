@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you avoid keyword stuffing on GEO-optimized practice area pages?",
-  "description": "Avoid keyword stuffing by naturally integrating location and service keywords into high-quality, informative content that provides genuine user value.",
   "url": "aiovisibility.com/faq/how-do-you-avoid-keyword-stuffing-on-geo-optimized-practice-area-pages",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you avoid keyword stuffing on GEO-optimized practice area pages?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Avoiding keyword stuffing is crucial for effective GEO optimization. Instead of simply repeating city names and legal terms, focus on naturally integrating them into high-quality, informative content that addresses client needs. Use variations of keywords, synonyms, and long-tail phrases. Ensure the content reads smoothly and provides genuine value to the user. Search engines prioritize user experience, so unnatural keyword repetition can lead to penalties rather than improved rankings. Prioritize readability and relevance over excessive keyword density.",
-        "description": "Avoid keyword stuffing by naturally integrating location and service keywords into high-quality, informative content that provides genuine user value."
-      }
-    }
-  ],
+  "name": "How do you avoid keyword stuffing on GEO-optimized practice area pages?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you avoid keyword stuffing on GEO-optimized practice area pages?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Avoiding keyword stuffing is crucial for effective GEO optimization. Instead of simply repeating city names and legal terms, focus on naturally integrating them into high-quality, informative content that addresses client needs. Use variations of keywords, synonyms, and long-tail phrases. Ensure the content reads smoothly and provides genuine value to the user. Search engines prioritize user experience, so unnatural keyword repetition can lead to penalties rather than improved rankings. Prioritize readability and relevance over excessive keyword density.",
+        "@type": "Answer",
+        "description": "Avoid keyword stuffing by naturally integrating location and service keywords into high-quality, informative content that provides genuine user value."
+      }
+    }
+  ],
+  "description": "Avoid keyword stuffing by naturally integrating location and service keywords into high-quality, informative content that provides genuine user value."
 }

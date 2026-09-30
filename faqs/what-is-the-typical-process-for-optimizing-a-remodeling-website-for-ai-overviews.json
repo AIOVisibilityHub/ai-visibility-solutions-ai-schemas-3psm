@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical process for optimizing a remodeling website for AI overviews?",
-  "description": "The process involves auditing content, optimizing for local services, implementing schema markup, enhancing Google Business Profile, and continuous monitoring.",
   "url": "aiovisibility.com/faq/what-is-the-typical-process-for-optimizing-a-remodeling-website-for-ai-overviews",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical process for optimizing a remodeling website for AI overviews?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process typically begins with an audit of your existing website content, local listings, and structured data. We then identify key remodeling services and locations to target. Optimization involves refining website content to directly answer common user queries, implementing relevant schema markup (structured data) for services and business information, enhancing Google Business Profile accuracy, and building strong local citations. Continuous monitoring and adjustments are also essential.",
-        "description": "The process involves auditing content, optimizing for local services, implementing schema markup, enhancing Google Business Profile, and continuous monitoring."
-      }
-    }
-  ],
+  "name": "What is the typical process for optimizing a remodeling website for AI overviews?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for optimizing a remodeling website for AI overviews?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an audit of your existing website content, local listings, and structured data. We then identify key remodeling services and locations to target. Optimization involves refining website content to directly answer common user queries, implementing relevant schema markup (structured data) for services and business information, enhancing Google Business Profile accuracy, and building strong local citations. Continuous monitoring and adjustments are also essential.",
+        "@type": "Answer",
+        "description": "The process involves auditing content, optimizing for local services, implementing schema markup, enhancing Google Business Profile, and continuous monitoring."
+      }
+    }
+  ],
+  "description": "The process involves auditing content, optimizing for local services, implementing schema markup, enhancing Google Business Profile, and continuous monitoring."
 }

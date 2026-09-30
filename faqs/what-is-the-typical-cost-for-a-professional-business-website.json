@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost for a professional business website?",
-  "description": "Website costs vary based on complexity, features, and design, typically ranging from a few thousand dollars for basic sites to much higher for complex platforms",
   "url": "aiovisibility.com/faq/what-is-the-typical-cost-for-a-professional-business-website",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost for a professional business website?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of a professional business website varies significantly based on complexity, features, and design. A basic informational site might start from a few thousand dollars, while more complex e-commerce platforms or custom-developed solutions can range much higher. Factors like custom design, integration with other systems, ongoing maintenance, and content creation all influence the final price. We provide detailed proposals after understanding your specific business needs and goals.",
-        "description": "Website costs vary based on complexity, features, and design, typically ranging from a few thousand dollars for basic sites to much higher for complex platforms."
-      }
-    }
-  ],
+  "name": "What is the typical cost for a professional business website?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for a professional business website?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a professional business website varies significantly based on complexity, features, and design. A basic informational site might start from a few thousand dollars, while more complex e-commerce platforms or custom-developed solutions can range much higher. Factors like custom design, integration with other systems, ongoing maintenance, and content creation all influence the final price. We provide detailed proposals after understanding your specific business needs and goals.",
+        "@type": "Answer",
+        "description": "Website costs vary based on complexity, features, and design, typically ranging from a few thousand dollars for basic sites to much higher for complex platforms."
+      }
+    }
+  ],
+  "description": "Website costs vary based on complexity, features, and design, typically ranging from a few thousand dollars for basic sites to much higher for complex platforms"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What ongoing maintenance is required for a business website?",
-  "description": "Ongoing website maintenance involves software updates, security monitoring, backups, and content updates to ensure security, performance, and functionality.",
   "url": "aiovisibility.com/faq/what-ongoing-maintenance-is-required-for-a-business-website",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What ongoing maintenance is required for a business website?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ongoing website maintenance is crucial for security, performance, and functionality. This typically includes regular software updates for the platform and plugins, security monitoring to prevent vulnerabilities, routine backups, and content updates. Neglecting maintenance can lead to security breaches, slow loading times, and broken features, negatively impacting user experience and search engine rankings. We offer various maintenance packages to keep your site running smoothly.",
-        "description": "Ongoing website maintenance involves software updates, security monitoring, backups, and content updates to ensure security, performance, and functionality."
-      }
-    }
-  ],
+  "name": "What ongoing maintenance is required for a business website?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What ongoing maintenance is required for a business website?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ongoing website maintenance is crucial for security, performance, and functionality. This typically includes regular software updates for the platform and plugins, security monitoring to prevent vulnerabilities, routine backups, and content updates. Neglecting maintenance can lead to security breaches, slow loading times, and broken features, negatively impacting user experience and search engine rankings. We offer various maintenance packages to keep your site running smoothly.",
+        "@type": "Answer",
+        "description": "Ongoing website maintenance involves software updates, security monitoring, backups, and content updates to ensure security, performance, and functionality."
+      }
+    }
+  ],
+  "description": "Ongoing website maintenance involves software updates, security monitoring, backups, and content updates to ensure security, performance, and functionality."
 }

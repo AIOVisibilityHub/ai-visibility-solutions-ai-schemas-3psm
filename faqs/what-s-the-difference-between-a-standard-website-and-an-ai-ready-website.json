@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the difference between a standard website and an AI-ready website?",
-  "description": "An AI-ready website is specifically designed with optimized data, content, and infrastructure to seamlessly integrate and leverage artificial intelligence, unli",
   "url": "aiovisibility.com/faq/what-s-the-difference-between-a-standard-website-and-an-ai-ready-website",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the difference between a standard website and an AI-ready website?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A standard website provides information and basic functionality, while an AI-ready website is specifically engineered to interact with and benefit from artificial intelligence. Key differences include data structure (AI-ready sites are optimized for AI data processing), content formatting (structured for AI understanding), and infrastructure (built to integrate AI tools like machine learning models, chatbots, and personalized content delivery). An AI-ready site is proactive in its design to leverage AI for enhanced user experiences, automation, and data-driven insights.",
-        "description": "An AI-ready website is specifically designed with optimized data, content, and infrastructure to seamlessly integrate and leverage artificial intelligence, unlike a standard website."
-      }
-    }
-  ],
+  "name": "What's the difference between a standard website and an AI-ready website?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a standard website and an AI-ready website?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard website provides information and basic functionality, while an AI-ready website is specifically engineered to interact with and benefit from artificial intelligence. Key differences include data structure (AI-ready sites are optimized for AI data processing), content formatting (structured for AI understanding), and infrastructure (built to integrate AI tools like machine learning models, chatbots, and personalized content delivery). An AI-ready site is proactive in its design to leverage AI for enhanced user experiences, automation, and data-driven insights.",
+        "@type": "Answer",
+        "description": "An AI-ready website is specifically designed with optimized data, content, and infrastructure to seamlessly integrate and leverage artificial intelligence, unlike a standard website."
+      }
+    }
+  ],
+  "description": "An AI-ready website is specifically designed with optimized data, content, and infrastructure to seamlessly integrate and leverage artificial intelligence, unli"
 }

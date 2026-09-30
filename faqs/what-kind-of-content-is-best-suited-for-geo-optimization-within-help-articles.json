@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of content is best suited for GEO optimization within help articles?",
-  "description": "Help articles addressing common local problems, questions, or needs related to your services, such as troubleshooting or service explanations, are best.",
   "url": "aiovisibility.com/faq/what-kind-of-content-is-best-suited-for-geo-optimization-within-help-articles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of content is best suited for GEO optimization within help articles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Content that directly addresses common problems, questions, or needs related to your services in a specific area is ideal. This includes troubleshooting guides, how-to articles, product support, and service explanations. For instance, an article titled 'Troubleshooting Wi-Fi Issues in San Antonio' or 'Understanding AI Visibility for Phoenix Businesses' would be excellent candidates. Any article where a local context adds value for the user is a prime candidate for GEO optimization.",
-        "description": "Help articles addressing common local problems, questions, or needs related to your services, such as troubleshooting or service explanations, are best."
-      }
-    }
-  ],
+  "name": "What kind of content is best suited for GEO optimization within help articles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of content is best suited for GEO optimization within help articles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Content that directly addresses common problems, questions, or needs related to your services in a specific area is ideal. This includes troubleshooting guides, how-to articles, product support, and service explanations. For instance, an article titled 'Troubleshooting Wi-Fi Issues in San Antonio' or 'Understanding AI Visibility for Phoenix Businesses' would be excellent candidates. Any article where a local context adds value for the user is a prime candidate for GEO optimization.",
+        "@type": "Answer",
+        "description": "Help articles addressing common local problems, questions, or needs related to your services, such as troubleshooting or service explanations, are best."
+      }
+    }
+  ],
+  "description": "Help articles addressing common local problems, questions, or needs related to your services, such as troubleshooting or service explanations, are best."
 }

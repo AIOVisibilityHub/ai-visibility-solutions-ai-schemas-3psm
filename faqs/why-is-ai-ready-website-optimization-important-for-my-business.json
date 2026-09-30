@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why is AI-ready website optimization important for my business?",
-  "description": "It's important because AI influences how users find content. Optimizing helps your business get higher visibility in AI-driven searches and adapt to future tech",
   "url": "aiovisibility.com/faq/why-is-ai-ready-website-optimization-important-for-my-business",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why is AI-ready website optimization important for my business?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AI-ready website optimization is crucial because artificial intelligence is increasingly influencing how users discover and interact with online content. Search engines use AI to understand user intent and deliver more relevant results, while voice assistants rely on well-structured data for accurate responses. By optimizing your site for AI, your business can achieve higher visibility in AI-driven searches, attract more qualified traffic, and adapt to future technological shifts. This proactive approach ensures your online presence remains competitive and accessible to modern users.",
-        "description": "It's important because AI influences how users find content. Optimizing helps your business get higher visibility in AI-driven searches and adapt to future technology."
-      }
-    }
-  ],
+  "name": "Why is AI-ready website optimization important for my business?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why is AI-ready website optimization important for my business?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI-ready website optimization is crucial because artificial intelligence is increasingly influencing how users discover and interact with online content. Search engines use AI to understand user intent and deliver more relevant results, while voice assistants rely on well-structured data for accurate responses. By optimizing your site for AI, your business can achieve higher visibility in AI-driven searches, attract more qualified traffic, and adapt to future technological shifts. This proactive approach ensures your online presence remains competitive and accessible to modern users.",
+        "@type": "Answer",
+        "description": "It's important because AI influences how users find content. Optimizing helps your business get higher visibility in AI-driven searches and adapt to future technology."
+      }
+    }
+  ],
+  "description": "It's important because AI influences how users find content. Optimizing helps your business get higher visibility in AI-driven searches and adapt to future tech"
 }

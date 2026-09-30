@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is AEO different from traditional SEO for remodeling companies?",
-  "description": "AEO specifically targets question-based queries and direct answers, while traditional SEO focuses on overall website ranking and authority. Both are crucial for",
   "url": "aiovisibility.com/faq/is-aeo-different-from-traditional-seo-for-remodeling-companies",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is AEO different from traditional SEO for remodeling companies?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While AEO and traditional SEO both aim for higher search engine rankings, their approaches differ. Traditional SEO often focuses on keywords, backlinks, and technical aspects to improve overall website authority and organic search placement. AEO, on the other hand, specifically targets the intent behind question-based queries and aims to provide direct, concise answers. It emphasizes structured data, natural language processing, and the creation of content designed to become a featured snippet or direct answer. For remodelers, a holistic strategy combines both, using SEO to build foundational authority and AEO to capture immediate, answer-driven visibility.",
-        "description": "AEO specifically targets question-based queries and direct answers, while traditional SEO focuses on overall website ranking and authority. Both are crucial for remodelers."
-      }
-    }
-  ],
+  "name": "Is AEO different from traditional SEO for remodeling companies?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is AEO different from traditional SEO for remodeling companies?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While AEO and traditional SEO both aim for higher search engine rankings, their approaches differ. Traditional SEO often focuses on keywords, backlinks, and technical aspects to improve overall website authority and organic search placement. AEO, on the other hand, specifically targets the intent behind question-based queries and aims to provide direct, concise answers. It emphasizes structured data, natural language processing, and the creation of content designed to become a featured snippet or direct answer. For remodelers, a holistic strategy combines both, using SEO to build foundational authority and AEO to capture immediate, answer-driven visibility.",
+        "@type": "Answer",
+        "description": "AEO specifically targets question-based queries and direct answers, while traditional SEO focuses on overall website ranking and authority. Both are crucial for remodelers."
+      }
+    }
+  ],
+  "description": "AEO specifically targets question-based queries and direct answers, while traditional SEO focuses on overall website ranking and authority. Both are crucial for"
 }

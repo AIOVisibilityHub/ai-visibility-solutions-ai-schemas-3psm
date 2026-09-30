@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I measure the success of my GEO for Knowledge Bases efforts?",
-  "description": "Measure success by increased local search rankings, local pack visibility, 'near me' search growth, and conversions from local customers.",
   "url": "aiovisibility.com/faq/how-do-i-measure-the-success-of-my-geo-for-knowledge-bases-efforts",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I measure the success of my GEO for Knowledge Bases efforts?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Success is typically measured by metrics such as increased local search rankings for relevant keywords, higher local pack visibility, growth in 'near me' searches, and improved click-through rates from local results. You should also track website traffic originating from local searches, phone calls from Google Business Profile, and conversions driven by local customers. Monitoring engagement with local content within your knowledge base also provides valuable insights.",
-        "description": "Measure success by increased local search rankings, local pack visibility, 'near me' search growth, and conversions from local customers."
-      }
-    }
-  ],
+  "name": "How do I measure the success of my GEO for Knowledge Bases efforts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I measure the success of my GEO for Knowledge Bases efforts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Success is typically measured by metrics such as increased local search rankings for relevant keywords, higher local pack visibility, growth in 'near me' searches, and improved click-through rates from local results. You should also track website traffic originating from local searches, phone calls from Google Business Profile, and conversions driven by local customers. Monitoring engagement with local content within your knowledge base also provides valuable insights.",
+        "@type": "Answer",
+        "description": "Measure success by increased local search rankings, local pack visibility, 'near me' search growth, and conversions from local customers."
+      }
+    }
+  ],
+  "description": "Measure success by increased local search rankings, local pack visibility, 'near me' search growth, and conversions from local customers."
 }

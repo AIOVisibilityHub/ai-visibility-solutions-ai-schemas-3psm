@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can optimizing FAQ pages for local search benefit my business in New York City?",
-  "description": "Local FAQ optimization in New York City connects your business with local customers, improving search rankings for NYC-specific queries and driving qualified le",
   "url": "aiovisibility.com/faq/how-can-optimizing-faq-pages-for-local-search-benefit-my-business-in-new-york-ci",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can optimizing FAQ pages for local search benefit my business in New York City?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Optimizing FAQ pages for local search in New York City helps your business connect directly with the city's vast population looking for services. By detailing how your solutions apply specifically to NYC challenges or opportunities, you can rank higher for local queries. This localized content makes your business more relevant to potential customers searching within New York City, distinguishing you from competitors and driving more qualified local leads. It effectively funnels the right audience to your site, enhancing your local market presence.",
-        "description": "Local FAQ optimization in New York City connects your business with local customers, improving search rankings for NYC-specific queries and driving qualified leads."
-      }
-    }
-  ],
+  "name": "How can optimizing FAQ pages for local search benefit my business in New York City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can optimizing FAQ pages for local search benefit my business in New York City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Optimizing FAQ pages for local search in New York City helps your business connect directly with the city's vast population looking for services. By detailing how your solutions apply specifically to NYC challenges or opportunities, you can rank higher for local queries. This localized content makes your business more relevant to potential customers searching within New York City, distinguishing you from competitors and driving more qualified local leads. It effectively funnels the right audience to your site, enhancing your local market presence.",
+        "@type": "Answer",
+        "description": "Local FAQ optimization in New York City connects your business with local customers, improving search rankings for NYC-specific queries and driving qualified leads."
+      }
+    }
+  ],
+  "description": "Local FAQ optimization in New York City connects your business with local customers, improving search rankings for NYC-specific queries and driving qualified le"
 }

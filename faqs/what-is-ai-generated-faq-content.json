@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is AI-generated FAQ content?",
-  "description": "AI-generated FAQ content uses artificial intelligence to create relevant questions and answers for websites, improving user experience and search visibility.",
   "url": "aiovisibility.com/faq/what-is-ai-generated-faq-content",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is AI-generated FAQ content?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AI-generated FAQ content refers to frequently asked questions and their answers created using artificial intelligence tools. These tools analyze existing data, website content, and search queries to produce relevant and accurate FAQs. The goal is to provide immediate, consistent information to users, improving their experience and reducing the need for direct customer support. AI can also optimize FAQs for search engine visibility, making it easier for potential customers to find answers.",
-        "description": "AI-generated FAQ content uses artificial intelligence to create relevant questions and answers for websites, improving user experience and search visibility."
-      }
-    }
-  ],
+  "name": "What is AI-generated FAQ content?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is AI-generated FAQ content?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI-generated FAQ content refers to frequently asked questions and their answers created using artificial intelligence tools. These tools analyze existing data, website content, and search queries to produce relevant and accurate FAQs. The goal is to provide immediate, consistent information to users, improving their experience and reducing the need for direct customer support. AI can also optimize FAQs for search engine visibility, making it easier for potential customers to find answers.",
+        "@type": "Answer",
+        "description": "AI-generated FAQ content uses artificial intelligence to create relevant questions and answers for websites, improving user experience and search visibility."
+      }
+    }
+  ],
+  "description": "AI-generated FAQ content uses artificial intelligence to create relevant questions and answers for websites, improving user experience and search visibility."
 }
