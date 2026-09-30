@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does AI SEO differ from traditional SEO for insurance agencies?",
-  "description": "AI SEO uses machine learning and data analytics to automate and improve optimization tasks, offering more precise insights and efficiency than traditional, manu",
   "url": "aiovisibility.com/faq/how-does-ai-seo-differ-from-traditional-seo-for-insurance-agencies",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does AI SEO differ from traditional SEO for insurance agencies?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AI SEO distinguishes itself from traditional SEO by leveraging machine learning and data analytics to automate and enhance various optimization tasks. While traditional SEO relies heavily on manual research and human analysis, AI SEO can process vast datasets to uncover more precise keyword opportunities, predict search trends, personalize content at scale, and identify intricate technical issues faster. This leads to more efficient resource allocation, proactive strategy adjustments, and often, more impactful and sustainable ranking improvements for insurance agencies.",
-        "description": "AI SEO uses machine learning and data analytics to automate and improve optimization tasks, offering more precise insights and efficiency than traditional, manual SEO."
-      }
-    }
-  ],
+  "name": "How does AI SEO differ from traditional SEO for insurance agencies?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does AI SEO differ from traditional SEO for insurance agencies?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI SEO distinguishes itself from traditional SEO by leveraging machine learning and data analytics to automate and enhance various optimization tasks. While traditional SEO relies heavily on manual research and human analysis, AI SEO can process vast datasets to uncover more precise keyword opportunities, predict search trends, personalize content at scale, and identify intricate technical issues faster. This leads to more efficient resource allocation, proactive strategy adjustments, and often, more impactful and sustainable ranking improvements for insurance agencies.",
+        "@type": "Answer",
+        "description": "AI SEO uses machine learning and data analytics to automate and improve optimization tasks, offering more precise insights and efficiency than traditional, manual SEO."
+      }
+    }
+  ],
+  "description": "AI SEO uses machine learning and data analytics to automate and improve optimization tasks, offering more precise insights and efficiency than traditional, manu"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of results can a local business expect from successful AEO implementation?",
-  "description": "Successful AEO can lead to increased visibility in local search and voice results, more qualified leads, improved brand authority, and ultimately, higher custom",
   "url": "aiovisibility.com/faq/what-kind-of-results-can-a-local-business-expect-from-successful-aeo-implementat",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of results can a local business expect from successful AEO implementation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Successful AEO implementation can lead to increased visibility in local search results and featured snippets, direct answers to user queries, and a higher likelihood of appearing in voice search responses. Businesses can expect more qualified leads, as AEO targets users with high intent. It can also improve brand authority and trust, as accurate and immediate information positions the business as a reliable source. Ultimately, the goal is often increased foot traffic to a physical location or more direct calls and inquiries for services, leading to business growth.",
-        "description": "Successful AEO can lead to increased visibility in local search and voice results, more qualified leads, improved brand authority, and ultimately, higher customer engagement and sales."
-      }
-    }
-  ],
+  "name": "What kind of results can a local business expect from successful AEO implementation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of results can a local business expect from successful AEO implementation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Successful AEO implementation can lead to increased visibility in local search results and featured snippets, direct answers to user queries, and a higher likelihood of appearing in voice search responses. Businesses can expect more qualified leads, as AEO targets users with high intent. It can also improve brand authority and trust, as accurate and immediate information positions the business as a reliable source. Ultimately, the goal is often increased foot traffic to a physical location or more direct calls and inquiries for services, leading to business growth.",
+        "@type": "Answer",
+        "description": "Successful AEO can lead to increased visibility in local search and voice results, more qualified leads, improved brand authority, and ultimately, higher customer engagement and sales."
+      }
+    }
+  ],
+  "description": "Successful AEO can lead to increased visibility in local search and voice results, more qualified leads, improved brand authority, and ultimately, higher custom"
 }

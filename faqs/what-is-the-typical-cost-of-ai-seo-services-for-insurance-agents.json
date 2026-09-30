@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost of AI SEO services for insurance agents?",
-  "description": "The cost varies depending on service scope, market competitiveness, and specific AI integration levels. A customized proposal is needed for an accurate estimate",
   "url": "aiovisibility.com/faq/what-is-the-typical-cost-of-ai-seo-services-for-insurance-agents",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost of AI SEO services for insurance agents?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of AI SEO services for insurance agents can vary significantly based on several factors, including the scope of services, the agent's current online presence, and the competitiveness of their market. Factors influencing price include the level of AI integration, reporting frequency, and additional services like content creation or local SEO optimization. It's recommended to request a detailed proposal tailored to your specific agency's needs and goals to understand the investment required.",
-        "description": "The cost varies depending on service scope, market competitiveness, and specific AI integration levels. A customized proposal is needed for an accurate estimate."
-      }
-    }
-  ],
+  "name": "What is the typical cost of AI SEO services for insurance agents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of AI SEO services for insurance agents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of AI SEO services for insurance agents can vary significantly based on several factors, including the scope of services, the agent's current online presence, and the competitiveness of their market. Factors influencing price include the level of AI integration, reporting frequency, and additional services like content creation or local SEO optimization. It's recommended to request a detailed proposal tailored to your specific agency's needs and goals to understand the investment required.",
+        "@type": "Answer",
+        "description": "The cost varies depending on service scope, market competitiveness, and specific AI integration levels. A customized proposal is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "The cost varies depending on service scope, market competitiveness, and specific AI integration levels. A customized proposal is needed for an accurate estimate"
 }
