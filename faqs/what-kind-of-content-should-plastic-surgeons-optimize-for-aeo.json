@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of content should plastic surgeons optimize for AEO?",
-  "description": "Plastic surgeons should optimize procedure pages, FAQ sections, surgeon biographies, and informational content to directly answer patient questions.",
   "url": "aiovisibility.com/faq/what-kind-of-content-should-plastic-surgeons-optimize-for-aeo",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of content should plastic surgeons optimize for AEO?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Plastic surgeons should optimize content that directly answers common patient questions. This includes detailed procedure pages addressing 'what it is,' 'who is a candidate,' 'recovery timeline,' and 'expected results.' FAQ sections are crucial, covering topics like preparation, post-operative care, and financing. Biographies should highlight surgeon credentials and philosophy. Information on specific conditions, such as 'best treatments for facial wrinkles,' can also be optimized. The goal is to provide clear, structured, and comprehensive answers to user intent, often using bullet points, numbered lists, and concise paragraphs.",
-        "description": "Plastic surgeons should optimize procedure pages, FAQ sections, surgeon biographies, and informational content to directly answer patient questions."
-      }
-    }
-  ],
+  "name": "What kind of content should plastic surgeons optimize for AEO?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of content should plastic surgeons optimize for AEO?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plastic surgeons should optimize content that directly answers common patient questions. This includes detailed procedure pages addressing 'what it is,' 'who is a candidate,' 'recovery timeline,' and 'expected results.' FAQ sections are crucial, covering topics like preparation, post-operative care, and financing. Biographies should highlight surgeon credentials and philosophy. Information on specific conditions, such as 'best treatments for facial wrinkles,' can also be optimized. The goal is to provide clear, structured, and comprehensive answers to user intent, often using bullet points, numbered lists, and concise paragraphs.",
+        "@type": "Answer",
+        "description": "Plastic surgeons should optimize procedure pages, FAQ sections, surgeon biographies, and informational content to directly answer patient questions."
+      }
+    }
+  ],
+  "description": "Plastic surgeons should optimize procedure pages, FAQ sections, surgeon biographies, and informational content to directly answer patient questions."
 }

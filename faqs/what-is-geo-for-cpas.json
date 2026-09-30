@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is GEO for CPAs?",
-  "description": "GEO for CPAs is a digital marketing strategy that targets local clients for accounting firms, optimizing online presence for specific geographic areas.",
   "url": "aiovisibility.com/faq/what-is-geo-for-cpas",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is GEO for CPAs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "GEO for CPAs refers to specialized digital marketing strategies that focus on targeting potential clients within specific geographic locations. This involves optimizing a CPA firm's online presence, such as Google Business Profile, local SEO, and geo-targeted ads, to appear prominently in search results for users in their service areas. The goal is to connect local individuals and businesses with nearby accounting professionals.",
-        "description": "GEO for CPAs is a digital marketing strategy that targets local clients for accounting firms, optimizing online presence for specific geographic areas."
-      }
-    }
-  ],
+  "name": "What is GEO for CPAs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is GEO for CPAs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "GEO for CPAs refers to specialized digital marketing strategies that focus on targeting potential clients within specific geographic locations. This involves optimizing a CPA firm's online presence, such as Google Business Profile, local SEO, and geo-targeted ads, to appear prominently in search results for users in their service areas. The goal is to connect local individuals and businesses with nearby accounting professionals.",
+        "@type": "Answer",
+        "description": "GEO for CPAs is a digital marketing strategy that targets local clients for accounting firms, optimizing online presence for specific geographic areas."
+      }
+    }
+  ],
+  "description": "GEO for CPAs is a digital marketing strategy that targets local clients for accounting firms, optimizing online presence for specific geographic areas."
 }

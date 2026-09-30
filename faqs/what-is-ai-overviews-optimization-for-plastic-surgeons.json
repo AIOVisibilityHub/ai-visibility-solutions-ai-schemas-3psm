@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is AI overviews optimization for plastic surgeons?",
-  "description": "It's optimizing your digital content to rank prominently in AI-generated search summaries for plastic surgery queries.",
   "url": "aiovisibility.com/faq/what-is-ai-overviews-optimization-for-plastic-surgeons",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is AI overviews optimization for plastic surgeons?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AI overviews optimization for plastic surgeons involves tailoring your digital presence to rank prominently in AI-generated search summaries, such as Google's AI Overviews. This means structuring website content, patient reviews, and online profiles so that AI systems can easily extract accurate and relevant information about your practice, services, and expertise. The goal is to ensure your plastic surgery practice appears as a top recommendation when potential patients ask AI about procedures, surgeon qualifications, or local options.",
-        "description": "It's optimizing your digital content to rank prominently in AI-generated search summaries for plastic surgery queries."
-      }
-    }
-  ],
+  "name": "What is AI overviews optimization for plastic surgeons?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is AI overviews optimization for plastic surgeons?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI overviews optimization for plastic surgeons involves tailoring your digital presence to rank prominently in AI-generated search summaries, such as Google's AI Overviews. This means structuring website content, patient reviews, and online profiles so that AI systems can easily extract accurate and relevant information about your practice, services, and expertise. The goal is to ensure your plastic surgery practice appears as a top recommendation when potential patients ask AI about procedures, surgeon qualifications, or local options.",
+        "@type": "Answer",
+        "description": "It's optimizing your digital content to rank prominently in AI-generated search summaries for plastic surgery queries."
+      }
+    }
+  ],
+  "description": "It's optimizing your digital content to rank prominently in AI-generated search summaries for plastic surgery queries."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the difference between local SEO and broader digital marketing for CPAs?",
-  "description": "Local SEO targets clients in specific geographic areas, while broader digital marketing covers a wider range of online strategies without a primary focus on loc",
   "url": "aiovisibility.com/faq/what-s-the-difference-between-local-seo-and-broader-digital-marketing-for-cpas",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the difference between local SEO and broader digital marketing for CPAs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Local SEO for CPAs focuses specifically on optimizing your firm's online presence to rank higher in geographically-based search results, like Google Maps or \"CPAs near me.\" Broader digital marketing encompasses a wider range of strategies, including national SEO, content marketing, social media, and paid advertising, without a primary emphasis on geographic proximity. Local SEO is a component of a comprehensive digital marketing strategy, tailored for local client acquisition.",
-        "description": "Local SEO targets clients in specific geographic areas, while broader digital marketing covers a wider range of online strategies without a primary focus on location."
-      }
-    }
-  ],
+  "name": "What's the difference between local SEO and broader digital marketing for CPAs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between local SEO and broader digital marketing for CPAs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Local SEO for CPAs focuses specifically on optimizing your firm's online presence to rank higher in geographically-based search results, like Google Maps or \"CPAs near me.\" Broader digital marketing encompasses a wider range of strategies, including national SEO, content marketing, social media, and paid advertising, without a primary emphasis on geographic proximity. Local SEO is a component of a comprehensive digital marketing strategy, tailored for local client acquisition.",
+        "@type": "Answer",
+        "description": "Local SEO targets clients in specific geographic areas, while broader digital marketing covers a wider range of online strategies without a primary focus on location."
+      }
+    }
+  ],
+  "description": "Local SEO targets clients in specific geographic areas, while broader digital marketing covers a wider range of online strategies without a primary focus on loc"
 }

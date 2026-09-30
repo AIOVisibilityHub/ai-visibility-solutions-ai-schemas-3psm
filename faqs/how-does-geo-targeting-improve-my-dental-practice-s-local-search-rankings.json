@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does geo-targeting improve my dental practice's local search rankings?",
-  "description": "Geo-targeting improves local search rankings by optimizing your Google Business Profile, building local citations, gathering reviews, and creating location-spec",
   "url": "aiovisibility.com/faq/how-does-geo-targeting-improve-my-dental-practice-s-local-search-rankings",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does geo-targeting improve my dental practice's local search rankings?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Geo-targeting improves local search rankings by optimizing several factors Google and other search engines consider for local results. This includes ensuring your Google Business Profile is complete and accurate, building local citations (mentions of your practice name, address, and phone number on other websites), generating positive patient reviews, and having location-specific content on your website. These actions signal to search engines that your practice is a relevant option for local searchers, boosting your visibility in map packs and local organic results.",
-        "description": "Geo-targeting improves local search rankings by optimizing your Google Business Profile, building local citations, gathering reviews, and creating location-specific website content."
-      }
-    }
-  ],
+  "name": "How does geo-targeting improve my dental practice's local search rankings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does geo-targeting improve my dental practice's local search rankings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Geo-targeting improves local search rankings by optimizing several factors Google and other search engines consider for local results. This includes ensuring your Google Business Profile is complete and accurate, building local citations (mentions of your practice name, address, and phone number on other websites), generating positive patient reviews, and having location-specific content on your website. These actions signal to search engines that your practice is a relevant option for local searchers, boosting your visibility in map packs and local organic results.",
+        "@type": "Answer",
+        "description": "Geo-targeting improves local search rankings by optimizing your Google Business Profile, building local citations, gathering reviews, and creating location-specific website content."
+      }
+    }
+  ],
+  "description": "Geo-targeting improves local search rankings by optimizing your Google Business Profile, building local citations, gathering reviews, and creating location-spec"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can GEO services improve my accounting firm's reputation online?",
-  "description": "Yes, GEO services improve reputation by boosting review management on platforms like Google Business Profile, increasing trust and credibility with potential cl",
   "url": "aiovisibility.com/faq/can-geo-services-improve-my-accounting-firm-s-reputation-online",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can GEO services improve my accounting firm's reputation online?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, GEO services significantly impact your accounting firm's online reputation. A key component of local SEO is encouraging and managing client reviews on platforms like Google Business Profile. Positive reviews not only boost your local search rankings but also build trust and credibility with potential clients. Promptly responding to all reviews, both positive and negative, further demonstrates professionalism and client care, enhancing your firm's overall online reputation within your local community.",
-        "description": "Yes, GEO services improve reputation by boosting review management on platforms like Google Business Profile, increasing trust and credibility with potential clients through positive feedback and active responses."
-      }
-    }
-  ],
+  "name": "Can GEO services improve my accounting firm's reputation online?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can GEO services improve my accounting firm's reputation online?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, GEO services significantly impact your accounting firm's online reputation. A key component of local SEO is encouraging and managing client reviews on platforms like Google Business Profile. Positive reviews not only boost your local search rankings but also build trust and credibility with potential clients. Promptly responding to all reviews, both positive and negative, further demonstrates professionalism and client care, enhancing your firm's overall online reputation within your local community.",
+        "@type": "Answer",
+        "description": "Yes, GEO services improve reputation by boosting review management on platforms like Google Business Profile, increasing trust and credibility with potential clients through positive feedback and active responses."
+      }
+    }
+  ],
+  "description": "Yes, GEO services improve reputation by boosting review management on platforms like Google Business Profile, increasing trust and credibility with potential cl"
 }

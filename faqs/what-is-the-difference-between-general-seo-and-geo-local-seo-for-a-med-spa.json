@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between general SEO and GEO (local) SEO for a med spa?",
-  "description": "General SEO aims for broad visibility, while GEO (local) SEO for med spas targets local clients within a specific geographic area, focusing on 'near me' searche",
   "url": "aiovisibility.com/faq/what-is-the-difference-between-general-seo-and-geo-local-seo-for-a-med-spa",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between general SEO and GEO (local) SEO for a med spa?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "General SEO focuses on improving a website's overall visibility in national or global search results for broad keywords. GEO (local) SEO, however, specifically targets clients within a defined geographic area. For a med spa, local SEO prioritizes appearing in searches like 'botox near me' or 'med spa [city name]', optimizing your Google Business Profile, and building local citations, whereas general SEO might focus on broader informational content that isn't location-dependent.",
-        "description": "General SEO aims for broad visibility, while GEO (local) SEO for med spas targets local clients within a specific geographic area, focusing on 'near me' searches and local listings."
-      }
-    }
-  ],
+  "name": "What is the difference between general SEO and GEO (local) SEO for a med spa?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between general SEO and GEO (local) SEO for a med spa?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "General SEO focuses on improving a website's overall visibility in national or global search results for broad keywords. GEO (local) SEO, however, specifically targets clients within a defined geographic area. For a med spa, local SEO prioritizes appearing in searches like 'botox near me' or 'med spa [city name]', optimizing your Google Business Profile, and building local citations, whereas general SEO might focus on broader informational content that isn't location-dependent.",
+        "@type": "Answer",
+        "description": "General SEO aims for broad visibility, while GEO (local) SEO for med spas targets local clients within a specific geographic area, focusing on 'near me' searches and local listings."
+      }
+    }
+  ],
+  "description": "General SEO aims for broad visibility, while GEO (local) SEO for med spas targets local clients within a specific geographic area, focusing on 'near me' searche"
 }

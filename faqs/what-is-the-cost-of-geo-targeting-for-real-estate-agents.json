@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the cost of geo-targeting for real estate agents?",
-  "description": "The cost of geo-targeting varies depending on platform, audience size, and ad spend, but can range from hundreds to thousands of dollars monthly.",
   "url": "aiovisibility.com/faq/what-is-the-cost-of-geo-targeting-for-real-estate-agents",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the cost of geo-targeting for real estate agents?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of geo-targeting for real estate agents varies widely based on platform, target audience size, ad spend, and the complexity of the campaign. Many advertising platforms allow agents to set daily or monthly budgets, offering flexibility. Costs can range from a few hundred dollars per month for basic local campaigns to several thousands for extensive, multi-platform strategies across larger metro areas. The return on investment typically justifies the expense, as geo-targeting delivers highly qualified local leads.",
-        "description": "The cost of geo-targeting varies depending on platform, audience size, and ad spend, but can range from hundreds to thousands of dollars monthly."
-      }
-    }
-  ],
+  "name": "What is the cost of geo-targeting for real estate agents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of geo-targeting for real estate agents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of geo-targeting for real estate agents varies widely based on platform, target audience size, ad spend, and the complexity of the campaign. Many advertising platforms allow agents to set daily or monthly budgets, offering flexibility. Costs can range from a few hundred dollars per month for basic local campaigns to several thousands for extensive, multi-platform strategies across larger metro areas. The return on investment typically justifies the expense, as geo-targeting delivers highly qualified local leads.",
+        "@type": "Answer",
+        "description": "The cost of geo-targeting varies depending on platform, audience size, and ad spend, but can range from hundreds to thousands of dollars monthly."
+      }
+    }
+  ],
+  "description": "The cost of geo-targeting varies depending on platform, audience size, and ad spend, but can range from hundreds to thousands of dollars monthly."
 }

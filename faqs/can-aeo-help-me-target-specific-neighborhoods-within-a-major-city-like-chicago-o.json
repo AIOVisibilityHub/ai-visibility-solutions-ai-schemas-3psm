@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can AEO help me target specific neighborhoods within a major city like Chicago or Houston?",
-  "description": "AEO effectively targets specific neighborhoods by optimizing hyper-local content for questions like 'schools in Lincoln Park, Chicago,' capturing highly qualifi",
   "url": "aiovisibility.com/faq/can-aeo-help-me-target-specific-neighborhoods-within-a-major-city-like-chicago-o",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can AEO help me target specific neighborhoods within a major city like Chicago or Houston?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, AEO is highly effective for targeting specific neighborhoods within major cities. By creating hyper-local content that directly answers questions about 'schools in Lincoln Park, Chicago' or 'property values in The Heights, Houston,' you can capture highly qualified leads interested in those precise areas. Optimizing for these specific long-tail queries ensures that when potential clients ask AI about a particular neighborhood, your expertise is presented as the authoritative local source.",
-        "description": "AEO effectively targets specific neighborhoods by optimizing hyper-local content for questions like 'schools in Lincoln Park, Chicago,' capturing highly qualified leads for precise areas."
-      }
-    }
-  ],
+  "name": "Can AEO help me target specific neighborhoods within a major city like Chicago or Houston?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can AEO help me target specific neighborhoods within a major city like Chicago or Houston?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AEO is highly effective for targeting specific neighborhoods within major cities. By creating hyper-local content that directly answers questions about 'schools in Lincoln Park, Chicago' or 'property values in The Heights, Houston,' you can capture highly qualified leads interested in those precise areas. Optimizing for these specific long-tail queries ensures that when potential clients ask AI about a particular neighborhood, your expertise is presented as the authoritative local source.",
+        "@type": "Answer",
+        "description": "AEO effectively targets specific neighborhoods by optimizing hyper-local content for questions like 'schools in Lincoln Park, Chicago,' capturing highly qualified leads for precise areas."
+      }
+    }
+  ],
+  "description": "AEO effectively targets specific neighborhoods by optimizing hyper-local content for questions like 'schools in Lincoln Park, Chicago,' capturing highly qualifi"
 }
