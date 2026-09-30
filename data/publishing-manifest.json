@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-21T23:07:55.992Z",
+  "generatedAt": "2026-09-30T00:19:12.940Z",
   "client": {
     "name": "AI Visibility Solutions",
     "canonicalUrl": "https://ai-data.aiovisibility.com",
@@ -163,7 +163,7 @@
       "GEO for Multi-Location Businesses",
       "AI Citation Optimization",
       "FAQ Content for AI",
-      "ai citable content ",
+      "ai citable content",
       "AI Technical Audit",
       "AI-Ready Website Build",
       "ai ready website optimization",
@@ -415,24 +415,24 @@
     ]
   },
   "package": {
-    "totalFiles": 3010,
-    "totalBytes": 10311086,
+    "totalFiles": 3183,
+    "totalBytes": 12516865,
     "stats": {
-      "qna": 0,
       "faqs": 2853,
-      "press": 0,
-      "total": 2947,
-      "awards": 0,
-      "reviews": 0,
-      "products": 0,
-      "research": 0,
+      "helpArticles": 249,
       "services": 49,
       "webpages": 0,
-      "locations": 1,
       "personnel": 1,
+      "products": 0,
+      "locations": 1,
+      "awards": 0,
       "caseStudies": 0,
-      "helpArticles": 42,
-      "organization": 1
+      "organization": 1,
+      "press": 0,
+      "reviews": 0,
+      "qna": 0,
+      "research": 0,
+      "total": 3449
     }
   },
   "entrypoints": {
@@ -756,7 +756,7 @@
       },
       {
         "path": "help/why-isn-t-my-website-showing-up-in-ai-search.json",
-        "bytes": 1821,
+        "bytes": 5550,
         "purpose": "schema"
       },
       {
@@ -902,6 +902,1046 @@
       {
         "path": "help/a-checklist-for-boosting-your-ai-citation-rate.json",
         "bytes": 2572,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-website-isn-t-showing-up-in-ai-search.json",
+        "bytes": 5988,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-during-an-ai-visibility-website-audit.json",
+        "bytes": 8218,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-ai-search-visibility.json",
+        "bytes": 6865,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-content-ready-for-ai-answer-engines.json",
+        "bytes": 5996,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/optimizing-your-website-for-voice-search-a-checklist.json",
+        "bytes": 10099,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/decoding-ai-visibility-seo-vs-aeo.json",
+        "bytes": 6769,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-website-showing-up-in-ai-overviews.json",
+        "bytes": 6326,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-make-your-website-ai-crawlable.json",
+        "bytes": 6719,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-website-content-isn-t-getting-cited-by-ai.json",
+        "bytes": 5146,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-ai-search-strategy-isn-t-working-what-am-i-doing-wrong.json",
+        "bytes": 4306,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prepare-your-site-for-ai-search-optimization.json",
+        "bytes": 4980,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-ai-search-optimization.json",
+        "bytes": 4713,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-business-showing-up-in-ai-search-overviews.json",
+        "bytes": 5555,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-make-your-small-business-ai-citable.json",
+        "bytes": 4981,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/are-my-faqs-ready-for-answer-engines.json",
+        "bytes": 4722,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-local-businesses-make-with-ai-search-optimization.json",
+        "bytes": 4941,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-it-time-to-get-professional-help-for-ai-search-visibility.json",
+        "bytes": 7392,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-turn-customer-questions-into-ai-powered-answers.json",
+        "bytes": 5077,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-content-showing-up-in-ai-search-results.json",
+        "bytes": 6012,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prepare-your-website-for-ai-search-changes.json",
+        "bytes": 7043,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-kind-of-content-do-ai-overviews-prefer.json",
+        "bytes": 6277,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-my-website-ready-for-ai-search.json",
+        "bytes": 6515,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-website-slow-for-ai-crawlers.json",
+        "bytes": 6802,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-it-time-for-professional-ai-website-optimization.json",
+        "bytes": 6725,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-ai-content-strategy-might-be-missing-the-mark.json",
+        "bytes": 6922,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-create-content-that-ai-actually-wants-to-cite.json",
+        "bytes": 9308,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/are-you-making-these-mistakes-with-your-ai-content-writing.json",
+        "bytes": 7867,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-business-needs-deep-customer-query-research.json",
+        "bytes": 7285,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-uncover-what-your-customers-are-really-asking-online.json",
+        "bytes": 10281,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-customer-query-research-might-be-leading-you-astray.json",
+        "bytes": 7858,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-aren-t-my-faqs-showing-up-in-people-also-ask.json",
+        "bytes": 6456,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-structure-your-content-so-ai-actually-understands-it.json",
+        "bytes": 6984,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/are-all-those-paa-questions-really-worth-answering.json",
+        "bytes": 6641,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-when-your-topic-cluster-isn-t-driving-traffic.json",
+        "bytes": 7096,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-does-my-business-really-need-a-topic-cluster-strategy.json",
+        "bytes": 6942,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-build-a-powerful-topic-cluster-that-ai-will-love.json",
+        "bytes": 7576,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-google-showing-my-rich-results.json",
+        "bytes": 6475,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-add-schema-markup-to-your-site-effectively.json",
+        "bytes": 6853,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-i-update-my-schema-markup.json",
+        "bytes": 6849,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-website-isn-t-being-indexed-by-search-engines-what-gives.json",
+        "bytes": 6984,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-site-just-got-redesigned-why-is-traffic-down.json",
+        "bytes": 6734,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-your-site-seen-by-ai-a-practical-checklist.json",
+        "bytes": 12349,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-website-might-be-invisible-to-ai-search.json",
+        "bytes": 6475,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-structured-data-isn-t-helping-ai.json",
+        "bytes": 6388,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-llms-txt-file-isn-t-working.json",
+        "bytes": 6657,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-business-entity-needs-a-clear-digital-identity.json",
+        "bytes": 6733,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/a-guide-to-creating-an-effective-ai-discovery-file-llms-txt.json",
+        "bytes": 7563,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-entity-optimization-makes-ai-more-confident-in-recommending-you.json",
+        "bytes": 6734,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-website-showing-up-in-ai-search-results.json",
+        "bytes": 6212,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-during-a-website-audit-for-ai-search.json",
+        "bytes": 6076,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-making-your-website-invisible-to-ai.json",
+        "bytes": 6607,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-my-website-s-content-really-ai-friendly.json",
+        "bytes": 6518,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-aren-t-my-faqs-appearing-in-ai-answers.json",
+        "bytes": 6576,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-optimize-your-website-for-ai-visibility.json",
+        "bytes": 6604,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prepare-your-website-for-ai-search.json",
+        "bytes": 8809,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/are-you-making-these-common-ai-website-mistakes.json",
+        "bytes": 6472,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-are-my-ai-search-results-inconsistent.json",
+        "bytes": 6336,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-can-i-get-my-business-cited-by-ai-answer-engines.json",
+        "bytes": 8971,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-the-difference-between-traditional-seo-and-ai-search-optimization.json",
+        "bytes": 7077,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-business-showing-up-in-ai-search-results.json",
+        "bytes": 6667,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-get-your-content-cited-by-voice-assistants.json",
+        "bytes": 6264,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-website-isn-t-driving-ai-citations-what-am-i-doing-wrong.json",
+        "bytes": 6193,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-a-small-business-consider-answer-engine-optimization.json",
+        "bytes": 6059,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/steps-to-get-your-local-business-recommended-by-ai.json",
+        "bytes": 9634,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/comparing-traditional-seo-with-answer-engine-optimization.json",
+        "bytes": 6513,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-content-showing-up-in-ai-overviews.json",
+        "bytes": 5951,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-research-questions-for-ai-content.json",
+        "bytes": 6240,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-ai-seo-just-a-gimmick.json",
+        "bytes": 6324,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-ai-website-optimization.json",
+        "bytes": 6330,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/does-structured-data-really-help-with-ai-search.json",
+        "bytes": 6521,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-ai-content-might-not-be-getting-cited.json",
+        "bytes": 6864,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/are-you-making-these-ai-content-writing-mistakes.json",
+        "bytes": 7294,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-improve-your-ai-content-for-better-visibility.json",
+        "bytes": 9557,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-customer-query-research-isn-t-yielding-results.json",
+        "bytes": 7534,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-uncover-the-real-questions-your-customers-are-asking.json",
+        "bytes": 9890,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-get-help-with-understanding-your-customer-s-questions.json",
+        "bytes": 7268,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-make-your-content-ai-citable-for-people-also-ask.json",
+        "bytes": 9102,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-creating-people-also-ask-content.json",
+        "bytes": 7430,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-content-needs-topic-clusters-to-compete-in-ai-search.json",
+        "bytes": 6372,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/building-a-topic-cluster-a-step-by-step-guide-for-ai-visibility.json",
+        "bytes": 9860,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-to-avoid-when-building-topic-clusters.json",
+        "bytes": 7639,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-website-showing-up-in-google-search.json",
+        "bytes": 6016,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-diagnose-and-fix-website-crawlability-problems.json",
+        "bytes": 9055,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-fixing-website-crawlability.json",
+        "bytes": 6968,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-schema-markup-not-activating-rich-results.json",
+        "bytes": 6396,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-implement-schema-markup-effectively.json",
+        "bytes": 9972,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-professional-help-crucial-for-schema-markup.json",
+        "bytes": 6744,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-your-website-ai-crawlable-a-how-to.json",
+        "bytes": 7846,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/are-my-faqs-actually-helping-my-ai-visibility.json",
+        "bytes": 5947,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-business-name-consistency-matters-for-ai.json",
+        "bytes": 6195,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-entity-optimized-a-checklist-for-ai-trust.json",
+        "bytes": 10068,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-does-my-business-need-expert-entity-optimization.json",
+        "bytes": 6751,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-know-if-your-website-is-ready-for-ai-search.json",
+        "bytes": 9067,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-do-i-need-to-check-before-optimizing-for-ai-search.json",
+        "bytes": 6350,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-ai-citing-my-business-when-people-ask-questions.json",
+        "bytes": 5587,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-can-i-make-my-content-more-attractive-to-ai.json",
+        "bytes": 7851,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-adding-faq-schema-enough-for-ai-visibility.json",
+        "bytes": 6416,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-build-an-ai-friendly-website.json",
+        "bytes": 4870,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-the-difference-between-seo-and-ai-search-optimization.json",
+        "bytes": 6846,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-campaign-stops-converting.json",
+        "bytes": 7280,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-consider-professional-help-for-your-ai-optimized-website.json",
+        "bytes": 7219,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-website-truly-ai-ready-a-quick-checklist.json",
+        "bytes": 9705,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/the-truth-about-guaranteed-ai-citations.json",
+        "bytes": 7327,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-make-your-business-ai-citable.json",
+        "bytes": 7605,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-your-website-ready-for-ai-overviews.json",
+        "bytes": 6957,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/aeo-for-small-businesses-what-s-the-real-difference-from-seo.json",
+        "bytes": 7200,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-faq-page-isn-t-getting-you-cited-by-ai.json",
+        "bytes": 6951,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/checklist-is-your-business-ready-for-answer-engine-optimization.json",
+        "bytes": 10135,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-business-showing-up-in-ai-overviews.json",
+        "bytes": 7301,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prepare-your-business-for-ai-search-changes.json",
+        "bytes": 7522,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-know-if-your-website-needs-ai-optimization.json",
+        "bytes": 7289,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-content-isn-t-getting-ai-citations.json",
+        "bytes": 7698,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-website-crawling-correctly-for-ai.json",
+        "bytes": 7596,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-avoid-when-creating-ai-friendly-content.json",
+        "bytes": 7948,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-strategy-for-ai-visibility.json",
+        "bytes": 7618,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-content-getting-noticed-by-ai.json",
+        "bytes": 6618,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-create-content-that-ai-actually-cites.json",
+        "bytes": 7411,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-find-out-what-your-customers-really-ask.json",
+        "bytes": 7752,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-customer-research-misses-the-mark.json",
+        "bytes": 7599,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-content-lacks-local-relevance-for-ai.json",
+        "bytes": 7647,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-website-isn-t-showing-up-in-ai-overviews.json",
+        "bytes": 6635,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-website-ready-for-ai-search.json",
+        "bytes": 6115,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-ai-visibility-audit-pitfalls.json",
+        "bytes": 6074,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-your-content-ai-friendly-where-to-start.json",
+        "bytes": 7782,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-traditional-seo-isn-t-enough-for-ai-visibility.json",
+        "bytes": 6196,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/troubleshooting-low-ai-visibility-for-your-local-business.json",
+        "bytes": 6425,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-make-your-website-crawlable-for-ai.json",
+        "bytes": 9034,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/are-ai-specific-pages-really-necessary.json",
+        "bytes": 6635,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-your-business-cited-by-ai-a-step-by-step-guide.json",
+        "bytes": 9430,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-get-help-optimizing-your-website-for-ai.json",
+        "bytes": 6590,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-business-isn-t-showing-up-in-ai-overviews.json",
+        "bytes": 6527,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prepare-your-website-for-answer-engine-optimization.json",
+        "bytes": 5461,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/the-biggest-mistakes-businesses-make-with-ai-search-visibility.json",
+        "bytes": 5438,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-my-website-ready-for-ai-search-engines.json",
+        "bytes": 5336,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-measure-success-in-answer-engine-optimization.json",
+        "bytes": 6186,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/optimizing-for-ai-search-a-checklist.json",
+        "bytes": 11177,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-content-appearing-in-google-ai-overviews.json",
+        "bytes": 6124,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-prepare-for-ai-search-content-strategy.json",
+        "bytes": 6546,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-ai-generated-content-bad-for-google-rankings.json",
+        "bytes": 6728,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-website-is-slow-is-it-hurting-my-ai-visibility.json",
+        "bytes": 8156,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-i-get-help-with-my-ai-website-optimization.json",
+        "bytes": 7453,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-are-my-web-pages-not-getting-indexed-by-ai.json",
+        "bytes": 7285,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-content-isn-t-getting-noticed-by-ai-search-engines.json",
+        "bytes": 6153,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-make-sure-ai-systems-cite-your-business-accurately.json",
+        "bytes": 6691,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-to-avoid-in-ai-search-content-writing.json",
+        "bytes": 6526,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/figuring-out-what-your-customers-really-want-to-ask-online.json",
+        "bytes": 6153,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-the-real-questions-your-customers-are-asking.json",
+        "bytes": 6732,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-get-help-with-your-customer-query-research.json",
+        "bytes": 6805,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-businesses-make-with-people-also-ask-content.json",
+        "bytes": 6843,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-build-a-topic-cluster-for-ai-visibility.json",
+        "bytes": 7306,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-topic-cluster-might-be-confusing-ai-and-users.json",
+        "bytes": 7035,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/should-every-question-get-its-own-people-also-ask-page.json",
+        "bytes": 7046,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-website-s-speed-matters-for-ai-discovery.json",
+        "bytes": 7200,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-website-showing-up-in-google-s-ai-overviews.json",
+        "bytes": 6501,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-make-sure-ai-can-read-my-website-content.json",
+        "bytes": 7020,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-when-my-site-s-structured-data-is-wrong.json",
+        "bytes": 7204,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-website-changes-aren-t-appearing-in-search-results-what-now.json",
+        "bytes": 6919,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-fix-broken-links-and-server-errors-that-hurt-my-visibility.json",
+        "bytes": 7410,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-i-get-expert-help-with-my-website-s-technical-seo.json",
+        "bytes": 7465,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-the-point-of-llms-txt.json",
+        "bytes": 4843,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-get-expert-help-for-ai-discovery-files.json",
+        "bytes": 7414,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-ai-struggles-to-understand-my-business-online.json",
+        "bytes": 5010,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-improve-your-business-s-ai-trust-score.json",
+        "bytes": 6156,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-business-details-are-inconsistent-online.json",
+        "bytes": 7777,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/struggling-to-answer-people-also-ask-questions-effectively.json",
+        "bytes": 6655,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-consider-professional-help-for-people-also-ask-content.json",
+        "bytes": 6690,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/creating-topic-clusters-a-step-by-step-guide-for-ai-visibility.json",
+        "bytes": 9736,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-business-needs-a-topic-cluster-strategy.json",
+        "bytes": 6802,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-content-gets-no-ai-traction-common-mistakes-to-avoid.json",
+        "bytes": 7157,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/fixing-broken-website-crawlability-after-a-site-redesign.json",
+        "bytes": 6737,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-why-your-structured-data-isn-t-validating.json",
+        "bytes": 6794,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-look-for-in-a-schema-markup-provider.json",
+        "bytes": 6997,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/preparing-for-a-website-crawlability-overhaul.json",
+        "bytes": 6967,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/deciding-if-your-website-needs-a-crawlability-audit.json",
+        "bytes": 6999,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/comparing-manual-vs-automated-schema-implementation.json",
+        "bytes": 7087,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-google-business-profile-isn-t-showing-up-for-local-searches.json",
+        "bytes": 5958,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/trouble-verifying-your-google-business-profile-here-s-why.json",
+        "bytes": 6355,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/preparing-your-business-for-google-business-profile-optimization.json",
+        "bytes": 6582,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-business-isn-t-appearing-on-google-maps.json",
+        "bytes": 6584,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-google-maps-optimization-for-service-area-businesses.json",
+        "bytes": 6448,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/comparison-google-business-profile-vs-google-maps-optimization-services.json",
+        "bytes": 7398,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-service-area-might-be-hurting-your-ai-visibility.json",
+        "bytes": 7010,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-structure-your-google-business-profile-for-local-ai-search.json",
+        "bytes": 6875,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-a-partner-for-service-area-optimization-what-to-ask.json",
+        "bytes": 7224,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-law-firm-s-ai-content-needs-legal-review.json",
+        "bytes": 7164,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-law-firm-missing-out-on-ai-driven-client-queries.json",
+        "bytes": 7477,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-an-ai-seo-partner-for-your-law-firm-a-checklist.json",
+        "bytes": 10979,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/law-firm-ai-audit-how-to-inventory-your-ai-tools.json",
+        "bytes": 6667,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/schema-markup-for-law-firms-what-to-mark-up-first.json",
+        "bytes": 6274,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/law-firm-ai-audit-avoiding-common-data-confidentiality-mistakes.json",
+        "bytes": 6286,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/schema-markup-for-law-firms-ensuring-your-information-stays-current.json",
+        "bytes": 6462,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/law-firm-ai-audit-is-it-right-for-my-practice.json",
+        "bytes": 6379,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/schema-markup-for-law-firms-when-professional-help-becomes-essential.json",
+        "bytes": 6776,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-personal-injury-firm-isn-t-getting-ai-citations.json",
+        "bytes": 5988,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-when-optimizing-your-firm-for-ai-overviews.json",
+        "bytes": 5717,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/checklist-preparing-your-personal-injury-firm-for-ai-search-optimization.json",
+        "bytes": 8571,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/aeo-for-personal-injury-team-members-is-it-different-from-seo.json",
+        "bytes": 5768,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/aeo-for-personal-injury-team-members-avoiding-common-pitfalls.json",
+        "bytes": 5881,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-for-professional-aeo-for-your-personal-injury-firm.json",
+        "bytes": 5960,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-personal-injury-firm-isn-t-showing-up-in-ai-answers.json",
+        "bytes": 5978,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-a-geo-partner-for-personal-injury-what-to-ask.json",
+        "bytes": 5861,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-personal-injury-geo.json",
+        "bytes": 6093,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-family-law-firm-needs-ai-ready-content-now.json",
+        "bytes": 5924,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/comparing-ai-seo-solutions-for-family-law-practices.json",
+        "bytes": 6038,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ensuring-your-family-law-content-stays-compliant.json",
+        "bytes": 6072,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-family-law-firm-isn-t-showing-up-in-ai-answers.json",
+        "bytes": 6042,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/preparing-your-family-law-content-for-ai-overviews.json",
+        "bytes": 4853,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/publishing-plan.json",
+        "bytes": 73429,
         "purpose": "schema"
       }
     ],
@@ -15193,250 +16233,77 @@
         "purpose": "schema"
       }
     ],
+    "webpages-publishing-plan.json": [
+      {
+        "path": "webpages-publishing-plan.json",
+        "bytes": 25259,
+        "purpose": "schema"
+      }
+    ],
     "public": [
       {
         "path": "index.html",
-        "bytes": 21263,
+        "bytes": 27091,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 42041,
+        "bytes": 48998,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 228664,
+        "bytes": 255466,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 18762,
+        "bytes": 25607,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2107205,
+        "bytes": 2114061,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 49434,
+        "bytes": 26824,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 24956,
+        "bytes": 31763,
         "purpose": "LLM-optimized public page"
       },
       {
-        "path": "help/why-your-ai-visibility-isn-t-cutting-through-the-noise.html",
-        "bytes": 9247,
+        "path": "articles/getting-started.html",
+        "bytes": 421505,
         "purpose": "LLM-optimized public page"
       },
       {
-        "path": "help/making-your-website-ai-citable-a-practical-checklist.html",
-        "bytes": 9373,
+        "path": "articles/services-and-process.html",
+        "bytes": 220633,
         "purpose": "LLM-optimized public page"
       },
       {
-        "path": "help/top-mistakes-businesses-make-with-ai-visibility-optimization.html",
-        "bytes": 9253,
+        "path": "articles/planning-and-preparation.html",
+        "bytes": 134464,
         "purpose": "LLM-optimized public page"
       },
       {
-        "path": "help/when-to-bring-in-the-pros-for-answer-engine-optimization.html",
-        "bytes": 9227,
+        "path": "articles/pricing-and-estimates.html",
+        "bytes": 25836,
         "purpose": "LLM-optimized public page"
       },
       {
-        "path": "help/the-step-by-step-guide-to-implementing-answer-engine-optimization.html",
-        "bytes": 8753,
+        "path": "articles/local-service-guidance.html",
+        "bytes": 41151,
         "purpose": "LLM-optimized public page"
       },
       {
-        "path": "help/why-your-website-isn-t-showing-up-in-ai-search-results.html",
-        "bytes": 9181,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/why-aren-t-my-rich-results-showing-up.html",
-        "bytes": 9333,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/choosing-the-right-structured-data-for-your-site.html",
-        "bytes": 8815,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/keeping-your-schema-markup-current.html",
-        "bytes": 9518,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/what-exactly-is-a-knowledge-graph-for-businesses.html",
-        "bytes": 9355,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/modeling-your-business-s-key-entities.html",
-        "bytes": 8684,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/common-pitfalls-in-knowledge-graph-implementation.html",
-        "bytes": 9927,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/why-isn-t-my-website-showing-up-in-ai-search.html",
-        "bytes": 9068,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/my-website-uses-react-will-ai-crawlers-see-my-content.html",
-        "bytes": 9040,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/mistakes-to-avoid-when-implementing-ai-crawlability.html",
-        "bytes": 10220,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/why-is-my-website-schema-not-being-used-by-ai.html",
-        "bytes": 9577,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/mistakes-to-avoid-when-generating-per-page-schema.html",
-        "bytes": 10873,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/when-should-i-engage-professionals-for-my-website-schema.html",
-        "bytes": 10187,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/what-to-stop-doing-if-you-want-more-ai-citations.html",
-        "bytes": 8958,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/decoding-ai-citations-myths-vs-reality.html",
-        "bytes": 7791,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/why-isn-t-ai-citing-my-business-more-often.html",
-        "bytes": 9801,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/my-website-looks-great-so-why-can-t-ai-find-me.html",
-        "bytes": 9588,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/are-you-making-these-mistakes-with-your-ai-visibility-strategy.html",
-        "bytes": 9651,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/the-secret-to-staying-visible-in-an-ai-driven-world.html",
-        "bytes": 7526,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/what-to-do-when-your-business-isn-t-performing-in-google-ai-overviews.html",
-        "bytes": 7794,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/why-your-marketing-campaigns-aren-t-reaching-ai-answer-engines.html",
-        "bytes": 8499,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/how-to-measure-your-ai-visibility-beyond-website-traffic.html",
-        "bytes": 7141,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/why-isn-t-my-structured-data-showing-up-in-google.html",
-        "bytes": 9281,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/how-to-fix-common-structured-data-errors.html",
-        "bytes": 8283,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/myths-vs-facts-structured-data-for-ai-visibility.html",
-        "bytes": 9692,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/why-your-knowledge-graph-isn-t-connecting-the-dots.html",
-        "bytes": 9268,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/common-mistakes-in-building-a-knowledge-graph.html",
-        "bytes": 8799,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/keeping-your-entity-file-accurate-a-step-by-step-guide.html",
-        "bytes": 9446,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/why-isn-t-my-website-showing-up-in-ai-answers.html",
-        "bytes": 10275,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/getting-your-website-ai-ready-5-critical-steps.html",
-        "bytes": 9788,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/common-mistakes-that-make-your-site-invisible-to-ai.html",
-        "bytes": 10625,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/why-every-page-needs-its-own-schema-tlc.html",
-        "bytes": 10536,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/are-you-making-these-json-ld-schema-mistakes.html",
-        "bytes": 10565,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/how-to-keep-your-website-s-schema-up-to-date.html",
-        "bytes": 6159,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/why-your-business-isn-t-showing-up-in-google-ai-overviews.html",
-        "bytes": 9962,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/mistakes-businesses-make-when-trying-to-get-ai-citations.html",
-        "bytes": 9889,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "help/a-checklist-for-boosting-your-ai-citation-rate.html",
-        "bytes": 10144,
+        "path": "articles/care-and-maintenance.html",
+        "bytes": 28796,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -15448,7 +16315,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 13511,
+        "bytes": 12621,
         "purpose": "LLM hint"
       },
       {
@@ -15468,42 +16335,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 3997,
+        "bytes": 1606,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1438368,
+        "bytes": 1508071,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 386062,
+        "bytes": 403308,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 386062,
+        "bytes": 403308,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 13524,
+        "bytes": 12635,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 523778,
+        "bytes": 547002,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 404878,
+        "bytes": 425560,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 5807,
+        "bytes": 1389,
         "purpose": "Standard sitemap"
       }
     ]
@@ -15513,25 +16380,6 @@
       "url": "https://github.com/AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm",
       "pagesUrl": "http://ai-data.aiovisibility.com/",
       "repo": "AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/ai-visibility-solutions-ai-schemas-93iu",
-      "pagesUrl": "https://ai-visibility-solutions-ai-schemas-93iu-693b17.gitlab.io/"
-    },
-    "huggingface": {
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/ai-visibility-solutions-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub-ai-visibility-solutions-ai-schemas.static.hf.space/",
-      "repo": "AIOVisibilityHub/ai-visibility-solutions-ai-schemas"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/ai-visibility-solutions-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/22884409"
     }
   }
 }

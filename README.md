@@ -10,26 +10,18 @@ Canonical AI Data Package for AI Visibility Solutions.
 
 ## Stats
 - 2853 faqs
+- 249 helpArticles
 - 49 services
-- 1 locations
 - 1 personnel
-- 42 helpArticles
+- 1 locations
 - 1 organization
-- **2947** total
+- **3449** total
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] AI Visibility Solutions — canonical website — https://ai-data.aiovisibility.com
 - [ai-data-hub] AI Visibility Solutions — AI Data Hub — https://ai-data.aiovisibility.com/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm
 - [mirror-pages] GitHub — AI Data Hub mirror — http://ai-data.aiovisibility.com/ai-data.html
-- [mirror-repo] GitLab repository — https://gitlab.com/aiovisibilityhub/ai-visibility-solutions-ai-schemas-93iu
-- [mirror-pages] GitLab — AI Data Hub mirror — https://ai-visibility-solutions-ai-schemas-93iu-693b17.gitlab.io/ai-data.html
-- [mirror-repo] Hugging Face repository — https://huggingface.co/spaces/AIOVisibilityHub/ai-visibility-solutions-ai-schemas
-- [mirror-pages] Hugging Face — AI Data Hub mirror — https://aiovisibilityhub-ai-visibility-solutions-ai-schemas.static.hf.space/ai-data.html
-- [mirror-repo] Kaggle repository — https://www.kaggle.com/datasets/aiovisibilityhub/ai-visibility-solutions-ai-schemas
-- [mirror-repo] SourceHut repository — https://aiovisibilityhub.srht.site/
-- [mirror-pages] SourceHut — AI Data Hub mirror — https://aiovisibilityhub.srht.site/ai-data.html
-- [mirror-repo] Zenodo repository — https://zenodo.org/record/22884409
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
@@ -2961,99 +2953,274 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/will-website-ai-discovery-files-help-with-voice-search-optimization.json`](./faqs/will-website-ai-discovery-files-help-with-voice-search-optimization.json) — schema
 - [`faqs/will-website-optimization-help-my-optometry-practice-rank-higher-in-local-search.json`](./faqs/will-website-optimization-help-my-optometry-practice-rank-higher-in-local-search.json) — schema
 
-### Help Articles (42)
+### Help Articles (250)
 - [`help/a-checklist-for-boosting-your-ai-citation-rate.json`](./help/a-checklist-for-boosting-your-ai-citation-rate.json) — schema
+- [`help/a-guide-to-creating-an-effective-ai-discovery-file-llms-txt.json`](./help/a-guide-to-creating-an-effective-ai-discovery-file-llms-txt.json) — schema
+- [`help/aeo-for-personal-injury-team-members-avoiding-common-pitfalls.json`](./help/aeo-for-personal-injury-team-members-avoiding-common-pitfalls.json) — schema
+- [`help/aeo-for-personal-injury-team-members-is-it-different-from-seo.json`](./help/aeo-for-personal-injury-team-members-is-it-different-from-seo.json) — schema
+- [`help/aeo-for-small-businesses-what-s-the-real-difference-from-seo.json`](./help/aeo-for-small-businesses-what-s-the-real-difference-from-seo.json) — schema
+- [`help/are-ai-specific-pages-really-necessary.json`](./help/are-ai-specific-pages-really-necessary.json) — schema
+- [`help/are-all-those-paa-questions-really-worth-answering.json`](./help/are-all-those-paa-questions-really-worth-answering.json) — schema
+- [`help/are-my-faqs-actually-helping-my-ai-visibility.json`](./help/are-my-faqs-actually-helping-my-ai-visibility.json) — schema
+- [`help/are-my-faqs-ready-for-answer-engines.json`](./help/are-my-faqs-ready-for-answer-engines.json) — schema
+- [`help/are-you-making-these-ai-content-writing-mistakes.json`](./help/are-you-making-these-ai-content-writing-mistakes.json) — schema
+- [`help/are-you-making-these-common-ai-website-mistakes.json`](./help/are-you-making-these-common-ai-website-mistakes.json) — schema
 - [`help/are-you-making-these-json-ld-schema-mistakes.json`](./help/are-you-making-these-json-ld-schema-mistakes.json) — schema
+- [`help/are-you-making-these-mistakes-with-your-ai-content-writing.json`](./help/are-you-making-these-mistakes-with-your-ai-content-writing.json) — schema
 - [`help/are-you-making-these-mistakes-with-your-ai-visibility-strategy.json`](./help/are-you-making-these-mistakes-with-your-ai-visibility-strategy.json) — schema
+- [`help/avoiding-common-ai-visibility-audit-pitfalls.json`](./help/avoiding-common-ai-visibility-audit-pitfalls.json) — schema
+- [`help/avoiding-common-pitfalls-in-ai-search-optimization.json`](./help/avoiding-common-pitfalls-in-ai-search-optimization.json) — schema
+- [`help/avoiding-common-pitfalls-in-ai-search-visibility.json`](./help/avoiding-common-pitfalls-in-ai-search-visibility.json) — schema
+- [`help/avoiding-common-pitfalls-in-ai-website-optimization.json`](./help/avoiding-common-pitfalls-in-ai-website-optimization.json) — schema
+- [`help/avoiding-common-pitfalls-in-personal-injury-geo.json`](./help/avoiding-common-pitfalls-in-personal-injury-geo.json) — schema
+- [`help/building-a-topic-cluster-a-step-by-step-guide-for-ai-visibility.json`](./help/building-a-topic-cluster-a-step-by-step-guide-for-ai-visibility.json) — schema
+- [`help/checklist-is-your-business-ready-for-answer-engine-optimization.json`](./help/checklist-is-your-business-ready-for-answer-engine-optimization.json) — schema
+- [`help/checklist-preparing-your-personal-injury-firm-for-ai-search-optimization.json`](./help/checklist-preparing-your-personal-injury-firm-for-ai-search-optimization.json) — schema
+- [`help/choosing-a-geo-partner-for-personal-injury-what-to-ask.json`](./help/choosing-a-geo-partner-for-personal-injury-what-to-ask.json) — schema
+- [`help/choosing-a-partner-for-service-area-optimization-what-to-ask.json`](./help/choosing-a-partner-for-service-area-optimization-what-to-ask.json) — schema
+- [`help/choosing-an-ai-seo-partner-for-your-law-firm-a-checklist.json`](./help/choosing-an-ai-seo-partner-for-your-law-firm-a-checklist.json) — schema
+- [`help/choosing-the-right-strategy-for-ai-visibility.json`](./help/choosing-the-right-strategy-for-ai-visibility.json) — schema
 - [`help/choosing-the-right-structured-data-for-your-site.json`](./help/choosing-the-right-structured-data-for-your-site.json) — schema
 - [`help/common-mistakes-in-building-a-knowledge-graph.json`](./help/common-mistakes-in-building-a-knowledge-graph.json) — schema
+- [`help/common-mistakes-making-your-website-invisible-to-ai.json`](./help/common-mistakes-making-your-website-invisible-to-ai.json) — schema
 - [`help/common-mistakes-that-make-your-site-invisible-to-ai.json`](./help/common-mistakes-that-make-your-site-invisible-to-ai.json) — schema
+- [`help/common-mistakes-to-avoid-in-ai-search-content-writing.json`](./help/common-mistakes-to-avoid-in-ai-search-content-writing.json) — schema
+- [`help/common-mistakes-to-avoid-when-building-topic-clusters.json`](./help/common-mistakes-to-avoid-when-building-topic-clusters.json) — schema
 - [`help/common-pitfalls-in-knowledge-graph-implementation.json`](./help/common-pitfalls-in-knowledge-graph-implementation.json) — schema
+- [`help/comparing-ai-seo-solutions-for-family-law-practices.json`](./help/comparing-ai-seo-solutions-for-family-law-practices.json) — schema
+- [`help/comparing-manual-vs-automated-schema-implementation.json`](./help/comparing-manual-vs-automated-schema-implementation.json) — schema
+- [`help/comparing-traditional-seo-with-answer-engine-optimization.json`](./help/comparing-traditional-seo-with-answer-engine-optimization.json) — schema
+- [`help/comparison-google-business-profile-vs-google-maps-optimization-services.json`](./help/comparison-google-business-profile-vs-google-maps-optimization-services.json) — schema
+- [`help/creating-topic-clusters-a-step-by-step-guide-for-ai-visibility.json`](./help/creating-topic-clusters-a-step-by-step-guide-for-ai-visibility.json) — schema
+- [`help/deciding-if-your-website-needs-a-crawlability-audit.json`](./help/deciding-if-your-website-needs-a-crawlability-audit.json) — schema
 - [`help/decoding-ai-citations-myths-vs-reality.json`](./help/decoding-ai-citations-myths-vs-reality.json) — schema
+- [`help/decoding-ai-visibility-seo-vs-aeo.json`](./help/decoding-ai-visibility-seo-vs-aeo.json) — schema
+- [`help/does-structured-data-really-help-with-ai-search.json`](./help/does-structured-data-really-help-with-ai-search.json) — schema
+- [`help/ensuring-your-family-law-content-stays-compliant.json`](./help/ensuring-your-family-law-content-stays-compliant.json) — schema
+- [`help/figuring-out-what-your-customers-really-want-to-ask-online.json`](./help/figuring-out-what-your-customers-really-want-to-ask-online.json) — schema
+- [`help/fixing-broken-website-crawlability-after-a-site-redesign.json`](./help/fixing-broken-website-crawlability-after-a-site-redesign.json) — schema
+- [`help/getting-your-business-cited-by-ai-a-step-by-step-guide.json`](./help/getting-your-business-cited-by-ai-a-step-by-step-guide.json) — schema
+- [`help/getting-your-site-seen-by-ai-a-practical-checklist.json`](./help/getting-your-site-seen-by-ai-a-practical-checklist.json) — schema
 - [`help/getting-your-website-ai-ready-5-critical-steps.json`](./help/getting-your-website-ai-ready-5-critical-steps.json) — schema
+- [`help/how-can-i-get-my-business-cited-by-ai-answer-engines.json`](./help/how-can-i-get-my-business-cited-by-ai-answer-engines.json) — schema
+- [`help/how-can-i-make-my-content-more-attractive-to-ai.json`](./help/how-can-i-make-my-content-more-attractive-to-ai.json) — schema
+- [`help/how-entity-optimization-makes-ai-more-confident-in-recommending-you.json`](./help/how-entity-optimization-makes-ai-more-confident-in-recommending-you.json) — schema
+- [`help/how-to-add-schema-markup-to-your-site-effectively.json`](./help/how-to-add-schema-markup-to-your-site-effectively.json) — schema
+- [`help/how-to-build-a-powerful-topic-cluster-that-ai-will-love.json`](./help/how-to-build-a-powerful-topic-cluster-that-ai-will-love.json) — schema
+- [`help/how-to-build-a-topic-cluster-for-ai-visibility.json`](./help/how-to-build-a-topic-cluster-for-ai-visibility.json) — schema
+- [`help/how-to-build-an-ai-friendly-website.json`](./help/how-to-build-an-ai-friendly-website.json) — schema
+- [`help/how-to-create-content-that-ai-actually-cites.json`](./help/how-to-create-content-that-ai-actually-cites.json) — schema
+- [`help/how-to-create-content-that-ai-actually-wants-to-cite.json`](./help/how-to-create-content-that-ai-actually-wants-to-cite.json) — schema
+- [`help/how-to-diagnose-and-fix-website-crawlability-problems.json`](./help/how-to-diagnose-and-fix-website-crawlability-problems.json) — schema
+- [`help/how-to-find-out-what-your-customers-really-ask.json`](./help/how-to-find-out-what-your-customers-really-ask.json) — schema
+- [`help/how-to-fix-broken-links-and-server-errors-that-hurt-my-visibility.json`](./help/how-to-fix-broken-links-and-server-errors-that-hurt-my-visibility.json) — schema
 - [`help/how-to-fix-common-structured-data-errors.json`](./help/how-to-fix-common-structured-data-errors.json) — schema
+- [`help/how-to-get-your-content-cited-by-voice-assistants.json`](./help/how-to-get-your-content-cited-by-voice-assistants.json) — schema
+- [`help/how-to-implement-schema-markup-effectively.json`](./help/how-to-implement-schema-markup-effectively.json) — schema
+- [`help/how-to-improve-your-ai-content-for-better-visibility.json`](./help/how-to-improve-your-ai-content-for-better-visibility.json) — schema
+- [`help/how-to-improve-your-business-s-ai-trust-score.json`](./help/how-to-improve-your-business-s-ai-trust-score.json) — schema
 - [`help/how-to-keep-your-website-s-schema-up-to-date.json`](./help/how-to-keep-your-website-s-schema-up-to-date.json) — schema
+- [`help/how-to-know-if-your-website-is-ready-for-ai-search.json`](./help/how-to-know-if-your-website-is-ready-for-ai-search.json) — schema
+- [`help/how-to-know-if-your-website-needs-ai-optimization.json`](./help/how-to-know-if-your-website-needs-ai-optimization.json) — schema
+- [`help/how-to-make-sure-ai-can-read-my-website-content.json`](./help/how-to-make-sure-ai-can-read-my-website-content.json) — schema
+- [`help/how-to-make-sure-ai-systems-cite-your-business-accurately.json`](./help/how-to-make-sure-ai-systems-cite-your-business-accurately.json) — schema
+- [`help/how-to-make-your-business-ai-citable.json`](./help/how-to-make-your-business-ai-citable.json) — schema
+- [`help/how-to-make-your-content-ai-citable-for-people-also-ask.json`](./help/how-to-make-your-content-ai-citable-for-people-also-ask.json) — schema
+- [`help/how-to-make-your-small-business-ai-citable.json`](./help/how-to-make-your-small-business-ai-citable.json) — schema
+- [`help/how-to-make-your-website-ai-crawlable.json`](./help/how-to-make-your-website-ai-crawlable.json) — schema
+- [`help/how-to-make-your-website-crawlable-for-ai.json`](./help/how-to-make-your-website-crawlable-for-ai.json) — schema
+- [`help/how-to-measure-success-in-answer-engine-optimization.json`](./help/how-to-measure-success-in-answer-engine-optimization.json) — schema
 - [`help/how-to-measure-your-ai-visibility-beyond-website-traffic.json`](./help/how-to-measure-your-ai-visibility-beyond-website-traffic.json) — schema
+- [`help/how-to-optimize-your-website-for-ai-visibility.json`](./help/how-to-optimize-your-website-for-ai-visibility.json) — schema
+- [`help/how-to-prepare-for-ai-search-content-strategy.json`](./help/how-to-prepare-for-ai-search-content-strategy.json) — schema
+- [`help/how-to-prepare-your-business-for-ai-search-changes.json`](./help/how-to-prepare-your-business-for-ai-search-changes.json) — schema
+- [`help/how-to-prepare-your-site-for-ai-search-optimization.json`](./help/how-to-prepare-your-site-for-ai-search-optimization.json) — schema
+- [`help/how-to-prepare-your-website-for-ai-search-changes.json`](./help/how-to-prepare-your-website-for-ai-search-changes.json) — schema
+- [`help/how-to-prepare-your-website-for-ai-search.json`](./help/how-to-prepare-your-website-for-ai-search.json) — schema
+- [`help/how-to-prepare-your-website-for-answer-engine-optimization.json`](./help/how-to-prepare-your-website-for-answer-engine-optimization.json) — schema
+- [`help/how-to-research-questions-for-ai-content.json`](./help/how-to-research-questions-for-ai-content.json) — schema
+- [`help/how-to-structure-your-content-so-ai-actually-understands-it.json`](./help/how-to-structure-your-content-so-ai-actually-understands-it.json) — schema
+- [`help/how-to-structure-your-google-business-profile-for-local-ai-search.json`](./help/how-to-structure-your-google-business-profile-for-local-ai-search.json) — schema
+- [`help/how-to-turn-customer-questions-into-ai-powered-answers.json`](./help/how-to-turn-customer-questions-into-ai-powered-answers.json) — schema
+- [`help/how-to-uncover-the-real-questions-your-customers-are-asking.json`](./help/how-to-uncover-the-real-questions-your-customers-are-asking.json) — schema
+- [`help/how-to-uncover-what-your-customers-are-really-asking-online.json`](./help/how-to-uncover-what-your-customers-are-really-asking-online.json) — schema
+- [`help/is-adding-faq-schema-enough-for-ai-visibility.json`](./help/is-adding-faq-schema-enough-for-ai-visibility.json) — schema
+- [`help/is-ai-generated-content-bad-for-google-rankings.json`](./help/is-ai-generated-content-bad-for-google-rankings.json) — schema
+- [`help/is-ai-seo-just-a-gimmick.json`](./help/is-ai-seo-just-a-gimmick.json) — schema
+- [`help/is-my-website-ready-for-ai-search-engines.json`](./help/is-my-website-ready-for-ai-search-engines.json) — schema
+- [`help/is-my-website-ready-for-ai-search.json`](./help/is-my-website-ready-for-ai-search.json) — schema
+- [`help/is-my-website-s-content-really-ai-friendly.json`](./help/is-my-website-s-content-really-ai-friendly.json) — schema
+- [`help/is-your-content-ready-for-ai-answer-engines.json`](./help/is-your-content-ready-for-ai-answer-engines.json) — schema
+- [`help/is-your-entity-optimized-a-checklist-for-ai-trust.json`](./help/is-your-entity-optimized-a-checklist-for-ai-trust.json) — schema
+- [`help/is-your-law-firm-missing-out-on-ai-driven-client-queries.json`](./help/is-your-law-firm-missing-out-on-ai-driven-client-queries.json) — schema
+- [`help/is-your-website-ready-for-ai-search.json`](./help/is-your-website-ready-for-ai-search.json) — schema
+- [`help/is-your-website-truly-ai-ready-a-quick-checklist.json`](./help/is-your-website-truly-ai-ready-a-quick-checklist.json) — schema
 - [`help/keeping-your-entity-file-accurate-a-step-by-step-guide.json`](./help/keeping-your-entity-file-accurate-a-step-by-step-guide.json) — schema
 - [`help/keeping-your-schema-markup-current.json`](./help/keeping-your-schema-markup-current.json) — schema
+- [`help/law-firm-ai-audit-avoiding-common-data-confidentiality-mistakes.json`](./help/law-firm-ai-audit-avoiding-common-data-confidentiality-mistakes.json) — schema
+- [`help/law-firm-ai-audit-how-to-inventory-your-ai-tools.json`](./help/law-firm-ai-audit-how-to-inventory-your-ai-tools.json) — schema
+- [`help/law-firm-ai-audit-is-it-right-for-my-practice.json`](./help/law-firm-ai-audit-is-it-right-for-my-practice.json) — schema
+- [`help/making-your-content-ai-friendly-where-to-start.json`](./help/making-your-content-ai-friendly-where-to-start.json) — schema
 - [`help/making-your-website-ai-citable-a-practical-checklist.json`](./help/making-your-website-ai-citable-a-practical-checklist.json) — schema
+- [`help/making-your-website-ai-crawlable-a-how-to.json`](./help/making-your-website-ai-crawlable-a-how-to.json) — schema
 - [`help/mistakes-businesses-make-when-trying-to-get-ai-citations.json`](./help/mistakes-businesses-make-when-trying-to-get-ai-citations.json) — schema
+- [`help/mistakes-businesses-make-with-people-also-ask-content.json`](./help/mistakes-businesses-make-with-people-also-ask-content.json) — schema
+- [`help/mistakes-local-businesses-make-with-ai-search-optimization.json`](./help/mistakes-local-businesses-make-with-ai-search-optimization.json) — schema
+- [`help/mistakes-to-avoid-when-creating-people-also-ask-content.json`](./help/mistakes-to-avoid-when-creating-people-also-ask-content.json) — schema
+- [`help/mistakes-to-avoid-when-fixing-website-crawlability.json`](./help/mistakes-to-avoid-when-fixing-website-crawlability.json) — schema
 - [`help/mistakes-to-avoid-when-generating-per-page-schema.json`](./help/mistakes-to-avoid-when-generating-per-page-schema.json) — schema
 - [`help/mistakes-to-avoid-when-implementing-ai-crawlability.json`](./help/mistakes-to-avoid-when-implementing-ai-crawlability.json) — schema
 - [`help/modeling-your-business-s-key-entities.json`](./help/modeling-your-business-s-key-entities.json) — schema
+- [`help/my-ai-search-strategy-isn-t-working-what-am-i-doing-wrong.json`](./help/my-ai-search-strategy-isn-t-working-what-am-i-doing-wrong.json) — schema
+- [`help/my-content-gets-no-ai-traction-common-mistakes-to-avoid.json`](./help/my-content-gets-no-ai-traction-common-mistakes-to-avoid.json) — schema
+- [`help/my-site-just-got-redesigned-why-is-traffic-down.json`](./help/my-site-just-got-redesigned-why-is-traffic-down.json) — schema
+- [`help/my-website-changes-aren-t-appearing-in-search-results-what-now.json`](./help/my-website-changes-aren-t-appearing-in-search-results-what-now.json) — schema
+- [`help/my-website-is-slow-is-it-hurting-my-ai-visibility.json`](./help/my-website-is-slow-is-it-hurting-my-ai-visibility.json) — schema
+- [`help/my-website-isn-t-being-indexed-by-search-engines-what-gives.json`](./help/my-website-isn-t-being-indexed-by-search-engines-what-gives.json) — schema
+- [`help/my-website-isn-t-driving-ai-citations-what-am-i-doing-wrong.json`](./help/my-website-isn-t-driving-ai-citations-what-am-i-doing-wrong.json) — schema
 - [`help/my-website-looks-great-so-why-can-t-ai-find-me.json`](./help/my-website-looks-great-so-why-can-t-ai-find-me.json) — schema
 - [`help/my-website-uses-react-will-ai-crawlers-see-my-content.json`](./help/my-website-uses-react-will-ai-crawlers-see-my-content.json) — schema
 - [`help/myths-vs-facts-structured-data-for-ai-visibility.json`](./help/myths-vs-facts-structured-data-for-ai-visibility.json) — schema
+- [`help/navigating-google-maps-optimization-for-service-area-businesses.json`](./help/navigating-google-maps-optimization-for-service-area-businesses.json) — schema
+- [`help/optimizing-for-ai-search-a-checklist.json`](./help/optimizing-for-ai-search-a-checklist.json) — schema
+- [`help/optimizing-your-website-for-voice-search-a-checklist.json`](./help/optimizing-your-website-for-voice-search-a-checklist.json) — schema
+- [`help/preparing-for-a-website-crawlability-overhaul.json`](./help/preparing-for-a-website-crawlability-overhaul.json) — schema
+- [`help/preparing-your-business-for-google-business-profile-optimization.json`](./help/preparing-your-business-for-google-business-profile-optimization.json) — schema
+- [`help/preparing-your-family-law-content-for-ai-overviews.json`](./help/preparing-your-family-law-content-for-ai-overviews.json) — schema
+- [`help/publishing-plan.json`](./help/publishing-plan.json) — schema
+- [`help/schema-markup-for-law-firms-ensuring-your-information-stays-current.json`](./help/schema-markup-for-law-firms-ensuring-your-information-stays-current.json) — schema
+- [`help/schema-markup-for-law-firms-what-to-mark-up-first.json`](./help/schema-markup-for-law-firms-what-to-mark-up-first.json) — schema
+- [`help/schema-markup-for-law-firms-when-professional-help-becomes-essential.json`](./help/schema-markup-for-law-firms-when-professional-help-becomes-essential.json) — schema
+- [`help/should-every-question-get-its-own-people-also-ask-page.json`](./help/should-every-question-get-its-own-people-also-ask-page.json) — schema
+- [`help/steps-to-get-your-local-business-recommended-by-ai.json`](./help/steps-to-get-your-local-business-recommended-by-ai.json) — schema
+- [`help/struggling-to-answer-people-also-ask-questions-effectively.json`](./help/struggling-to-answer-people-also-ask-questions-effectively.json) — schema
+- [`help/the-biggest-mistakes-businesses-make-with-ai-search-visibility.json`](./help/the-biggest-mistakes-businesses-make-with-ai-search-visibility.json) — schema
 - [`help/the-secret-to-staying-visible-in-an-ai-driven-world.json`](./help/the-secret-to-staying-visible-in-an-ai-driven-world.json) — schema
 - [`help/the-step-by-step-guide-to-implementing-answer-engine-optimization.json`](./help/the-step-by-step-guide-to-implementing-answer-engine-optimization.json) — schema
+- [`help/the-truth-about-guaranteed-ai-citations.json`](./help/the-truth-about-guaranteed-ai-citations.json) — schema
 - [`help/top-mistakes-businesses-make-with-ai-visibility-optimization.json`](./help/top-mistakes-businesses-make-with-ai-visibility-optimization.json) — schema
+- [`help/trouble-verifying-your-google-business-profile-here-s-why.json`](./help/trouble-verifying-your-google-business-profile-here-s-why.json) — schema
+- [`help/troubleshooting-low-ai-visibility-for-your-local-business.json`](./help/troubleshooting-low-ai-visibility-for-your-local-business.json) — schema
+- [`help/understanding-the-real-questions-your-customers-are-asking.json`](./help/understanding-the-real-questions-your-customers-are-asking.json) — schema
+- [`help/understanding-why-your-structured-data-isn-t-validating.json`](./help/understanding-why-your-structured-data-isn-t-validating.json) — schema
+- [`help/what-do-i-need-to-check-before-optimizing-for-ai-search.json`](./help/what-do-i-need-to-check-before-optimizing-for-ai-search.json) — schema
 - [`help/what-exactly-is-a-knowledge-graph-for-businesses.json`](./help/what-exactly-is-a-knowledge-graph-for-businesses.json) — schema
+- [`help/what-happens-during-an-ai-visibility-website-audit.json`](./help/what-happens-during-an-ai-visibility-website-audit.json) — schema
+- [`help/what-happens-when-my-site-s-structured-data-is-wrong.json`](./help/what-happens-when-my-site-s-structured-data-is-wrong.json) — schema
+- [`help/what-happens-when-your-topic-cluster-isn-t-driving-traffic.json`](./help/what-happens-when-your-topic-cluster-isn-t-driving-traffic.json) — schema
+- [`help/what-kind-of-content-do-ai-overviews-prefer.json`](./help/what-kind-of-content-do-ai-overviews-prefer.json) — schema
+- [`help/what-s-the-difference-between-seo-and-ai-search-optimization.json`](./help/what-s-the-difference-between-seo-and-ai-search-optimization.json) — schema
+- [`help/what-s-the-difference-between-traditional-seo-and-ai-search-optimization.json`](./help/what-s-the-difference-between-traditional-seo-and-ai-search-optimization.json) — schema
+- [`help/what-s-the-point-of-llms-txt.json`](./help/what-s-the-point-of-llms-txt.json) — schema
+- [`help/what-to-avoid-when-creating-ai-friendly-content.json`](./help/what-to-avoid-when-creating-ai-friendly-content.json) — schema
 - [`help/what-to-do-when-your-business-isn-t-performing-in-google-ai-overviews.json`](./help/what-to-do-when-your-business-isn-t-performing-in-google-ai-overviews.json) — schema
+- [`help/what-to-do-when-your-campaign-stops-converting.json`](./help/what-to-do-when-your-campaign-stops-converting.json) — schema
+- [`help/what-to-do-when-your-content-isn-t-getting-ai-citations.json`](./help/what-to-do-when-your-content-isn-t-getting-ai-citations.json) — schema
+- [`help/what-to-do-when-your-llms-txt-file-isn-t-working.json`](./help/what-to-do-when-your-llms-txt-file-isn-t-working.json) — schema
+- [`help/what-to-do-when-your-website-content-isn-t-getting-cited-by-ai.json`](./help/what-to-do-when-your-website-content-isn-t-getting-cited-by-ai.json) — schema
+- [`help/what-to-expect-during-a-website-audit-for-ai-search.json`](./help/what-to-expect-during-a-website-audit-for-ai-search.json) — schema
+- [`help/what-to-expect-when-optimizing-your-firm-for-ai-overviews.json`](./help/what-to-expect-when-optimizing-your-firm-for-ai-overviews.json) — schema
+- [`help/what-to-look-for-in-a-schema-markup-provider.json`](./help/what-to-look-for-in-a-schema-markup-provider.json) — schema
 - [`help/what-to-stop-doing-if-you-want-more-ai-citations.json`](./help/what-to-stop-doing-if-you-want-more-ai-citations.json) — schema
+- [`help/when-does-my-business-need-expert-entity-optimization.json`](./help/when-does-my-business-need-expert-entity-optimization.json) — schema
+- [`help/when-does-my-business-really-need-a-topic-cluster-strategy.json`](./help/when-does-my-business-really-need-a-topic-cluster-strategy.json) — schema
+- [`help/when-is-it-time-for-professional-ai-website-optimization.json`](./help/when-is-it-time-for-professional-ai-website-optimization.json) — schema
+- [`help/when-is-it-time-to-get-professional-help-for-ai-search-visibility.json`](./help/when-is-it-time-to-get-professional-help-for-ai-search-visibility.json) — schema
+- [`help/when-is-professional-help-crucial-for-schema-markup.json`](./help/when-is-professional-help-crucial-for-schema-markup.json) — schema
+- [`help/when-is-your-website-ready-for-ai-overviews.json`](./help/when-is-your-website-ready-for-ai-overviews.json) — schema
+- [`help/when-should-a-small-business-consider-answer-engine-optimization.json`](./help/when-should-a-small-business-consider-answer-engine-optimization.json) — schema
 - [`help/when-should-i-engage-professionals-for-my-website-schema.json`](./help/when-should-i-engage-professionals-for-my-website-schema.json) — schema
+- [`help/when-should-i-get-expert-help-with-my-website-s-technical-seo.json`](./help/when-should-i-get-expert-help-with-my-website-s-technical-seo.json) — schema
+- [`help/when-should-i-get-help-with-my-ai-website-optimization.json`](./help/when-should-i-get-help-with-my-ai-website-optimization.json) — schema
+- [`help/when-should-i-update-my-schema-markup.json`](./help/when-should-i-update-my-schema-markup.json) — schema
+- [`help/when-should-you-consider-professional-help-for-people-also-ask-content.json`](./help/when-should-you-consider-professional-help-for-people-also-ask-content.json) — schema
+- [`help/when-should-you-get-help-with-your-customer-query-research.json`](./help/when-should-you-get-help-with-your-customer-query-research.json) — schema
 - [`help/when-to-bring-in-the-pros-for-answer-engine-optimization.json`](./help/when-to-bring-in-the-pros-for-answer-engine-optimization.json) — schema
+- [`help/when-to-call-for-professional-aeo-for-your-personal-injury-firm.json`](./help/when-to-call-for-professional-aeo-for-your-personal-injury-firm.json) — schema
+- [`help/when-to-consider-professional-help-for-your-ai-optimized-website.json`](./help/when-to-consider-professional-help-for-your-ai-optimized-website.json) — schema
+- [`help/when-to-get-expert-help-for-ai-discovery-files.json`](./help/when-to-get-expert-help-for-ai-discovery-files.json) — schema
+- [`help/when-to-get-help-optimizing-your-website-for-ai.json`](./help/when-to-get-help-optimizing-your-website-for-ai.json) — schema
+- [`help/when-to-get-help-with-understanding-your-customer-s-questions.json`](./help/when-to-get-help-with-understanding-your-customer-s-questions.json) — schema
+- [`help/when-your-business-details-are-inconsistent-online.json`](./help/when-your-business-details-are-inconsistent-online.json) — schema
+- [`help/when-your-business-needs-a-topic-cluster-strategy.json`](./help/when-your-business-needs-a-topic-cluster-strategy.json) — schema
+- [`help/when-your-content-lacks-local-relevance-for-ai.json`](./help/when-your-content-lacks-local-relevance-for-ai.json) — schema
+- [`help/when-your-customer-research-misses-the-mark.json`](./help/when-your-customer-research-misses-the-mark.json) — schema
+- [`help/when-your-structured-data-isn-t-helping-ai.json`](./help/when-your-structured-data-isn-t-helping-ai.json) — schema
+- [`help/why-ai-struggles-to-understand-my-business-online.json`](./help/why-ai-struggles-to-understand-my-business-online.json) — schema
+- [`help/why-are-my-ai-search-results-inconsistent.json`](./help/why-are-my-ai-search-results-inconsistent.json) — schema
+- [`help/why-are-my-web-pages-not-getting-indexed-by-ai.json`](./help/why-are-my-web-pages-not-getting-indexed-by-ai.json) — schema
+- [`help/why-aren-t-my-faqs-appearing-in-ai-answers.json`](./help/why-aren-t-my-faqs-appearing-in-ai-answers.json) — schema
+- [`help/why-aren-t-my-faqs-showing-up-in-people-also-ask.json`](./help/why-aren-t-my-faqs-showing-up-in-people-also-ask.json) — schema
 - [`help/why-aren-t-my-rich-results-showing-up.json`](./help/why-aren-t-my-rich-results-showing-up.json) — schema
 - [`help/why-every-page-needs-its-own-schema-tlc.json`](./help/why-every-page-needs-its-own-schema-tlc.json) — schema
+- [`help/why-is-my-schema-markup-not-activating-rich-results.json`](./help/why-is-my-schema-markup-not-activating-rich-results.json) — schema
 - [`help/why-is-my-website-schema-not-being-used-by-ai.json`](./help/why-is-my-website-schema-not-being-used-by-ai.json) — schema
+- [`help/why-is-my-website-slow-for-ai-crawlers.json`](./help/why-is-my-website-slow-for-ai-crawlers.json) — schema
 - [`help/why-isn-t-ai-citing-my-business-more-often.json`](./help/why-isn-t-ai-citing-my-business-more-often.json) — schema
+- [`help/why-isn-t-ai-citing-my-business-when-people-ask-questions.json`](./help/why-isn-t-ai-citing-my-business-when-people-ask-questions.json) — schema
+- [`help/why-isn-t-google-showing-my-rich-results.json`](./help/why-isn-t-google-showing-my-rich-results.json) — schema
+- [`help/why-isn-t-my-business-showing-up-in-ai-overviews.json`](./help/why-isn-t-my-business-showing-up-in-ai-overviews.json) — schema
+- [`help/why-isn-t-my-business-showing-up-in-ai-search-overviews.json`](./help/why-isn-t-my-business-showing-up-in-ai-search-overviews.json) — schema
+- [`help/why-isn-t-my-business-showing-up-in-ai-search-results.json`](./help/why-isn-t-my-business-showing-up-in-ai-search-results.json) — schema
+- [`help/why-isn-t-my-content-appearing-in-google-ai-overviews.json`](./help/why-isn-t-my-content-appearing-in-google-ai-overviews.json) — schema
+- [`help/why-isn-t-my-content-getting-noticed-by-ai.json`](./help/why-isn-t-my-content-getting-noticed-by-ai.json) — schema
+- [`help/why-isn-t-my-content-showing-up-in-ai-overviews.json`](./help/why-isn-t-my-content-showing-up-in-ai-overviews.json) — schema
+- [`help/why-isn-t-my-content-showing-up-in-ai-search-results.json`](./help/why-isn-t-my-content-showing-up-in-ai-search-results.json) — schema
 - [`help/why-isn-t-my-structured-data-showing-up-in-google.json`](./help/why-isn-t-my-structured-data-showing-up-in-google.json) — schema
+- [`help/why-isn-t-my-website-crawling-correctly-for-ai.json`](./help/why-isn-t-my-website-crawling-correctly-for-ai.json) — schema
 - [`help/why-isn-t-my-website-showing-up-in-ai-answers.json`](./help/why-isn-t-my-website-showing-up-in-ai-answers.json) — schema
+- [`help/why-isn-t-my-website-showing-up-in-ai-overviews.json`](./help/why-isn-t-my-website-showing-up-in-ai-overviews.json) — schema
+- [`help/why-isn-t-my-website-showing-up-in-ai-search-results.json`](./help/why-isn-t-my-website-showing-up-in-ai-search-results.json) — schema
 - [`help/why-isn-t-my-website-showing-up-in-ai-search.json`](./help/why-isn-t-my-website-showing-up-in-ai-search.json) — schema
+- [`help/why-isn-t-my-website-showing-up-in-google-s-ai-overviews.json`](./help/why-isn-t-my-website-showing-up-in-google-s-ai-overviews.json) — schema
+- [`help/why-isn-t-my-website-showing-up-in-google-search.json`](./help/why-isn-t-my-website-showing-up-in-google-search.json) — schema
+- [`help/why-traditional-seo-isn-t-enough-for-ai-visibility.json`](./help/why-traditional-seo-isn-t-enough-for-ai-visibility.json) — schema
+- [`help/why-your-ai-content-might-not-be-getting-cited.json`](./help/why-your-ai-content-might-not-be-getting-cited.json) — schema
+- [`help/why-your-ai-content-strategy-might-be-missing-the-mark.json`](./help/why-your-ai-content-strategy-might-be-missing-the-mark.json) — schema
 - [`help/why-your-ai-visibility-isn-t-cutting-through-the-noise.json`](./help/why-your-ai-visibility-isn-t-cutting-through-the-noise.json) — schema
+- [`help/why-your-business-entity-needs-a-clear-digital-identity.json`](./help/why-your-business-entity-needs-a-clear-digital-identity.json) — schema
+- [`help/why-your-business-isn-t-appearing-on-google-maps.json`](./help/why-your-business-isn-t-appearing-on-google-maps.json) — schema
+- [`help/why-your-business-isn-t-showing-up-in-ai-overviews.json`](./help/why-your-business-isn-t-showing-up-in-ai-overviews.json) — schema
 - [`help/why-your-business-isn-t-showing-up-in-google-ai-overviews.json`](./help/why-your-business-isn-t-showing-up-in-google-ai-overviews.json) — schema
+- [`help/why-your-business-name-consistency-matters-for-ai.json`](./help/why-your-business-name-consistency-matters-for-ai.json) — schema
+- [`help/why-your-business-needs-deep-customer-query-research.json`](./help/why-your-business-needs-deep-customer-query-research.json) — schema
+- [`help/why-your-content-isn-t-getting-noticed-by-ai-search-engines.json`](./help/why-your-content-isn-t-getting-noticed-by-ai-search-engines.json) — schema
+- [`help/why-your-content-needs-topic-clusters-to-compete-in-ai-search.json`](./help/why-your-content-needs-topic-clusters-to-compete-in-ai-search.json) — schema
+- [`help/why-your-customer-query-research-isn-t-yielding-results.json`](./help/why-your-customer-query-research-isn-t-yielding-results.json) — schema
+- [`help/why-your-customer-query-research-might-be-leading-you-astray.json`](./help/why-your-customer-query-research-might-be-leading-you-astray.json) — schema
+- [`help/why-your-family-law-firm-isn-t-showing-up-in-ai-answers.json`](./help/why-your-family-law-firm-isn-t-showing-up-in-ai-answers.json) — schema
+- [`help/why-your-family-law-firm-needs-ai-ready-content-now.json`](./help/why-your-family-law-firm-needs-ai-ready-content-now.json) — schema
+- [`help/why-your-faq-page-isn-t-getting-you-cited-by-ai.json`](./help/why-your-faq-page-isn-t-getting-you-cited-by-ai.json) — schema
+- [`help/why-your-google-business-profile-isn-t-showing-up-for-local-searches.json`](./help/why-your-google-business-profile-isn-t-showing-up-for-local-searches.json) — schema
 - [`help/why-your-knowledge-graph-isn-t-connecting-the-dots.json`](./help/why-your-knowledge-graph-isn-t-connecting-the-dots.json) — schema
+- [`help/why-your-law-firm-s-ai-content-needs-legal-review.json`](./help/why-your-law-firm-s-ai-content-needs-legal-review.json) — schema
 - [`help/why-your-marketing-campaigns-aren-t-reaching-ai-answer-engines.json`](./help/why-your-marketing-campaigns-aren-t-reaching-ai-answer-engines.json) — schema
+- [`help/why-your-personal-injury-firm-isn-t-getting-ai-citations.json`](./help/why-your-personal-injury-firm-isn-t-getting-ai-citations.json) — schema
+- [`help/why-your-personal-injury-firm-isn-t-showing-up-in-ai-answers.json`](./help/why-your-personal-injury-firm-isn-t-showing-up-in-ai-answers.json) — schema
+- [`help/why-your-service-area-might-be-hurting-your-ai-visibility.json`](./help/why-your-service-area-might-be-hurting-your-ai-visibility.json) — schema
+- [`help/why-your-topic-cluster-might-be-confusing-ai-and-users.json`](./help/why-your-topic-cluster-might-be-confusing-ai-and-users.json) — schema
+- [`help/why-your-website-isn-t-showing-up-in-ai-overviews.json`](./help/why-your-website-isn-t-showing-up-in-ai-overviews.json) — schema
 - [`help/why-your-website-isn-t-showing-up-in-ai-search-results.json`](./help/why-your-website-isn-t-showing-up-in-ai-search-results.json) — schema
+- [`help/why-your-website-isn-t-showing-up-in-ai-search.json`](./help/why-your-website-isn-t-showing-up-in-ai-search.json) — schema
+- [`help/why-your-website-might-be-invisible-to-ai-search.json`](./help/why-your-website-might-be-invisible-to-ai-search.json) — schema
+- [`help/why-your-website-s-speed-matters-for-ai-discovery.json`](./help/why-your-website-s-speed-matters-for-ai-discovery.json) — schema
 
-### Public Pages (49)
+### Public Pages (13)
 - [`about.html`](./about.html) — LLM-optimized public page
 - [`articles.html`](./articles.html) — LLM-optimized public page
+- [`articles/care-and-maintenance.html`](./articles/care-and-maintenance.html) — LLM-optimized public page
+- [`articles/getting-started.html`](./articles/getting-started.html) — LLM-optimized public page
+- [`articles/local-service-guidance.html`](./articles/local-service-guidance.html) — LLM-optimized public page
+- [`articles/planning-and-preparation.html`](./articles/planning-and-preparation.html) — LLM-optimized public page
+- [`articles/pricing-and-estimates.html`](./articles/pricing-and-estimates.html) — LLM-optimized public page
+- [`articles/services-and-process.html`](./articles/services-and-process.html) — LLM-optimized public page
 - [`contact.html`](./contact.html) — LLM-optimized public page
 - [`faqs.html`](./faqs.html) — LLM-optimized public page
-- [`help/a-checklist-for-boosting-your-ai-citation-rate.html`](./help/a-checklist-for-boosting-your-ai-citation-rate.html) — LLM-optimized public page
-- [`help/are-you-making-these-json-ld-schema-mistakes.html`](./help/are-you-making-these-json-ld-schema-mistakes.html) — LLM-optimized public page
-- [`help/are-you-making-these-mistakes-with-your-ai-visibility-strategy.html`](./help/are-you-making-these-mistakes-with-your-ai-visibility-strategy.html) — LLM-optimized public page
-- [`help/choosing-the-right-structured-data-for-your-site.html`](./help/choosing-the-right-structured-data-for-your-site.html) — LLM-optimized public page
-- [`help/common-mistakes-in-building-a-knowledge-graph.html`](./help/common-mistakes-in-building-a-knowledge-graph.html) — LLM-optimized public page
-- [`help/common-mistakes-that-make-your-site-invisible-to-ai.html`](./help/common-mistakes-that-make-your-site-invisible-to-ai.html) — LLM-optimized public page
-- [`help/common-pitfalls-in-knowledge-graph-implementation.html`](./help/common-pitfalls-in-knowledge-graph-implementation.html) — LLM-optimized public page
-- [`help/decoding-ai-citations-myths-vs-reality.html`](./help/decoding-ai-citations-myths-vs-reality.html) — LLM-optimized public page
-- [`help/getting-your-website-ai-ready-5-critical-steps.html`](./help/getting-your-website-ai-ready-5-critical-steps.html) — LLM-optimized public page
-- [`help/how-to-fix-common-structured-data-errors.html`](./help/how-to-fix-common-structured-data-errors.html) — LLM-optimized public page
-- [`help/how-to-keep-your-website-s-schema-up-to-date.html`](./help/how-to-keep-your-website-s-schema-up-to-date.html) — LLM-optimized public page
-- [`help/how-to-measure-your-ai-visibility-beyond-website-traffic.html`](./help/how-to-measure-your-ai-visibility-beyond-website-traffic.html) — LLM-optimized public page
-- [`help/keeping-your-entity-file-accurate-a-step-by-step-guide.html`](./help/keeping-your-entity-file-accurate-a-step-by-step-guide.html) — LLM-optimized public page
-- [`help/keeping-your-schema-markup-current.html`](./help/keeping-your-schema-markup-current.html) — LLM-optimized public page
-- [`help/making-your-website-ai-citable-a-practical-checklist.html`](./help/making-your-website-ai-citable-a-practical-checklist.html) — LLM-optimized public page
-- [`help/mistakes-businesses-make-when-trying-to-get-ai-citations.html`](./help/mistakes-businesses-make-when-trying-to-get-ai-citations.html) — LLM-optimized public page
-- [`help/mistakes-to-avoid-when-generating-per-page-schema.html`](./help/mistakes-to-avoid-when-generating-per-page-schema.html) — LLM-optimized public page
-- [`help/mistakes-to-avoid-when-implementing-ai-crawlability.html`](./help/mistakes-to-avoid-when-implementing-ai-crawlability.html) — LLM-optimized public page
-- [`help/modeling-your-business-s-key-entities.html`](./help/modeling-your-business-s-key-entities.html) — LLM-optimized public page
-- [`help/my-website-looks-great-so-why-can-t-ai-find-me.html`](./help/my-website-looks-great-so-why-can-t-ai-find-me.html) — LLM-optimized public page
-- [`help/my-website-uses-react-will-ai-crawlers-see-my-content.html`](./help/my-website-uses-react-will-ai-crawlers-see-my-content.html) — LLM-optimized public page
-- [`help/myths-vs-facts-structured-data-for-ai-visibility.html`](./help/myths-vs-facts-structured-data-for-ai-visibility.html) — LLM-optimized public page
-- [`help/the-secret-to-staying-visible-in-an-ai-driven-world.html`](./help/the-secret-to-staying-visible-in-an-ai-driven-world.html) — LLM-optimized public page
-- [`help/the-step-by-step-guide-to-implementing-answer-engine-optimization.html`](./help/the-step-by-step-guide-to-implementing-answer-engine-optimization.html) — LLM-optimized public page
-- [`help/top-mistakes-businesses-make-with-ai-visibility-optimization.html`](./help/top-mistakes-businesses-make-with-ai-visibility-optimization.html) — LLM-optimized public page
-- [`help/what-exactly-is-a-knowledge-graph-for-businesses.html`](./help/what-exactly-is-a-knowledge-graph-for-businesses.html) — LLM-optimized public page
-- [`help/what-to-do-when-your-business-isn-t-performing-in-google-ai-overviews.html`](./help/what-to-do-when-your-business-isn-t-performing-in-google-ai-overviews.html) — LLM-optimized public page
-- [`help/what-to-stop-doing-if-you-want-more-ai-citations.html`](./help/what-to-stop-doing-if-you-want-more-ai-citations.html) — LLM-optimized public page
-- [`help/when-should-i-engage-professionals-for-my-website-schema.html`](./help/when-should-i-engage-professionals-for-my-website-schema.html) — LLM-optimized public page
-- [`help/when-to-bring-in-the-pros-for-answer-engine-optimization.html`](./help/when-to-bring-in-the-pros-for-answer-engine-optimization.html) — LLM-optimized public page
-- [`help/why-aren-t-my-rich-results-showing-up.html`](./help/why-aren-t-my-rich-results-showing-up.html) — LLM-optimized public page
-- [`help/why-every-page-needs-its-own-schema-tlc.html`](./help/why-every-page-needs-its-own-schema-tlc.html) — LLM-optimized public page
-- [`help/why-is-my-website-schema-not-being-used-by-ai.html`](./help/why-is-my-website-schema-not-being-used-by-ai.html) — LLM-optimized public page
-- [`help/why-isn-t-ai-citing-my-business-more-often.html`](./help/why-isn-t-ai-citing-my-business-more-often.html) — LLM-optimized public page
-- [`help/why-isn-t-my-structured-data-showing-up-in-google.html`](./help/why-isn-t-my-structured-data-showing-up-in-google.html) — LLM-optimized public page
-- [`help/why-isn-t-my-website-showing-up-in-ai-answers.html`](./help/why-isn-t-my-website-showing-up-in-ai-answers.html) — LLM-optimized public page
-- [`help/why-isn-t-my-website-showing-up-in-ai-search.html`](./help/why-isn-t-my-website-showing-up-in-ai-search.html) — LLM-optimized public page
-- [`help/why-your-ai-visibility-isn-t-cutting-through-the-noise.html`](./help/why-your-ai-visibility-isn-t-cutting-through-the-noise.html) — LLM-optimized public page
-- [`help/why-your-business-isn-t-showing-up-in-google-ai-overviews.html`](./help/why-your-business-isn-t-showing-up-in-google-ai-overviews.html) — LLM-optimized public page
-- [`help/why-your-knowledge-graph-isn-t-connecting-the-dots.html`](./help/why-your-knowledge-graph-isn-t-connecting-the-dots.html) — LLM-optimized public page
-- [`help/why-your-marketing-campaigns-aren-t-reaching-ai-answer-engines.html`](./help/why-your-marketing-campaigns-aren-t-reaching-ai-answer-engines.html) — LLM-optimized public page
-- [`help/why-your-website-isn-t-showing-up-in-ai-search-results.html`](./help/why-your-website-isn-t-showing-up-in-ai-search-results.html) — LLM-optimized public page
 - [`index.html`](./index.html) — LLM-optimized public page
 - [`services.html`](./services.html) — LLM-optimized public page
 - [`team-members.html`](./team-members.html) — LLM-optimized public page
+
+### webpages-publishing-plan.json (1)
+- [`webpages-publishing-plan.json`](./webpages-publishing-plan.json) — schema
 
 
