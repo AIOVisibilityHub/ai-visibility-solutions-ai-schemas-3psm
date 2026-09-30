@@ -1,0 +1,475 @@
+{
+  "name": "How to Make Your Website AI-Crawlable",
+  "step": [
+    {
+      "name": "Step 1: Verify Crawlability and Indexing Basics",
+      "text": "First things first, ensure search engine bots can actually get to and read your pages. Check your robots.txt file to make sure you're not accidentally blocking important content, and use Google Search Console to monitor your indexing status. AI systems rely on being able to access your content reliably.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Optimize Page Templates and Headings",
+      "text": "Review your website's page templates. Are your titles and headings (H1, H2, H3, etc.) descriptive and logical? AI systems use these elements to understand the hierarchy and main topics of your content. Clear, semantic headings make your content easier to parse.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Ensure Content is Visible and Text-Based",
+      "text": "Avoid hiding critical information within images or JavaScript-heavy elements that are difficult for crawlers to interpret. Important content should always be available as plain, visible text. This ensures AI systems can extract and understand the core message of your pages.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Validate Structured Data Implementation",
+      "text": "While there's no special 'AI schema,' correctly implemented JSON-LD structured data (like FAQPage, Article, LocalBusiness) helps AI understand the context and relationships within your content. Use Google's Rich Results Test to validate your schema and ensure it accurately reflects what's on the page.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Prioritize Mobile Usability and Site Performance",
+      "text": "AI systems, much like human users, prefer fast, mobile-friendly websites. Assess your mobile usability and loading speed. A slow site or one that's hard to use on a phone can negatively impact how AI crawlers perceive and process your content.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Audit for Accessibility Standards",
+      "text": "Accessibility (WCAG 2.2) isn't just about helping users with disabilities; it often improves your site's crawlability. Things like keyboard access, descriptive alt text for images, and proper form labels make your content more robust and understandable for all systems, including AI. Regularly monitoring your site's performance in Search Console after making these changes is crucial. If you're dealing with complex technical issues, redirects, or extensive schema, a technical SEO specialist can provide invaluable support.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "New York City",
+      "@type": "City"
+    },
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Chicago",
+      "@type": "City"
+    },
+    {
+      "name": "Houston",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Philadelphia",
+      "@type": "City"
+    },
+    {
+      "name": "San Antonio",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "San Jose",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Jacksonville",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Columbus",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Indianapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Seattle",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Oklahoma City",
+      "@type": "City"
+    },
+    {
+      "name": "Boston",
+      "@type": "City"
+    },
+    {
+      "name": "El Paso",
+      "@type": "City"
+    },
+    {
+      "name": "Nashville",
+      "@type": "City"
+    },
+    {
+      "name": "Detroit",
+      "@type": "City"
+    },
+    {
+      "name": "Portland",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Memphis",
+      "@type": "City"
+    },
+    {
+      "name": "Louisville",
+      "@type": "City"
+    },
+    {
+      "name": "Baltimore",
+      "@type": "City"
+    },
+    {
+      "name": "Milwaukee",
+      "@type": "City"
+    },
+    {
+      "name": "Albuquerque",
+      "@type": "City"
+    },
+    {
+      "name": "Tucson",
+      "@type": "City"
+    },
+    {
+      "name": "Fresno",
+      "@type": "City"
+    },
+    {
+      "name": "Sacramento",
+      "@type": "City"
+    },
+    {
+      "name": "Kansas City",
+      "@type": "City"
+    },
+    {
+      "name": "Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Atlanta",
+      "@type": "City"
+    },
+    {
+      "name": "Omaha",
+      "@type": "City"
+    },
+    {
+      "name": "Colorado Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Raleigh",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Virginia Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Minneapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Tulsa",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington",
+      "@type": "City"
+    },
+    {
+      "name": "New Orleans",
+      "@type": "City"
+    },
+    {
+      "name": "Wichita",
+      "@type": "City"
+    },
+    {
+      "name": "Cleveland",
+      "@type": "City"
+    },
+    {
+      "name": "Bakersfield",
+      "@type": "City"
+    },
+    {
+      "name": "Aurora",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Honolulu",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ana",
+      "@type": "City"
+    },
+    {
+      "name": "Riverside",
+      "@type": "City"
+    },
+    {
+      "name": "Corpus Christi",
+      "@type": "City"
+    },
+    {
+      "name": "Lexington",
+      "@type": "City"
+    },
+    {
+      "name": "Stockton",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Saint Paul",
+      "@type": "City"
+    },
+    {
+      "name": "St. Louis",
+      "@type": "City"
+    },
+    {
+      "name": "Cincinnati",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburgh",
+      "@type": "City"
+    },
+    {
+      "name": "Greensboro",
+      "@type": "City"
+    },
+    {
+      "name": "Anchorage",
+      "@type": "City"
+    },
+    {
+      "name": "Plano",
+      "@type": "City"
+    },
+    {
+      "name": "Lincoln",
+      "@type": "City"
+    },
+    {
+      "name": "Orlando",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Durham",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Toledo",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Wayne",
+      "@type": "City"
+    },
+    {
+      "name": "St. Petersburg",
+      "@type": "City"
+    },
+    {
+      "name": "Laredo",
+      "@type": "City"
+    },
+    {
+      "name": "Jersey City",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "Madison",
+      "@type": "City"
+    },
+    {
+      "name": "Chandler",
+      "@type": "City"
+    },
+    {
+      "name": "Buffalo",
+      "@type": "City"
+    },
+    {
+      "name": "Lubbock",
+      "@type": "City"
+    },
+    {
+      "name": "Scottsdale",
+      "@type": "City"
+    },
+    {
+      "name": "Reno",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Gilbert",
+      "@type": "City"
+    },
+    {
+      "name": "Winston-Salem",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Norfolk",
+      "@type": "City"
+    },
+    {
+      "name": "Chesapeake",
+      "@type": "City"
+    },
+    {
+      "name": "Garland",
+      "@type": "City"
+    },
+    {
+      "name": "Irving",
+      "@type": "City"
+    },
+    {
+      "name": "Hialeah",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Boise",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "Baton Rouge",
+      "@type": "City"
+    },
+    {
+      "name": "Spokane",
+      "@type": "City"
+    },
+    {
+      "name": "Des Moines",
+      "@type": "City"
+    },
+    {
+      "name": "Tacoma",
+      "@type": "City"
+    },
+    {
+      "name": "San Bernardino",
+      "@type": "City"
+    },
+    {
+      "name": "Modesto",
+      "@type": "City"
+    },
+    {
+      "name": "Fontana",
+      "@type": "City"
+    }
+  ],
+  "description": "First things first, ensure search engine bots can actually get to and read your pages. Check your robots.txt file to make sure you're not accidentally blocking important content, and use Google Search"
+}

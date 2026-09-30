@@ -1,0 +1,446 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Your Website Isn't Showing Up in AI Search",
+  "publisher": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "New York City",
+      "@type": "City"
+    },
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Chicago",
+      "@type": "City"
+    },
+    {
+      "name": "Houston",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Philadelphia",
+      "@type": "City"
+    },
+    {
+      "name": "San Antonio",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "San Jose",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Jacksonville",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Columbus",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Indianapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Seattle",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Oklahoma City",
+      "@type": "City"
+    },
+    {
+      "name": "Boston",
+      "@type": "City"
+    },
+    {
+      "name": "El Paso",
+      "@type": "City"
+    },
+    {
+      "name": "Nashville",
+      "@type": "City"
+    },
+    {
+      "name": "Detroit",
+      "@type": "City"
+    },
+    {
+      "name": "Portland",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Memphis",
+      "@type": "City"
+    },
+    {
+      "name": "Louisville",
+      "@type": "City"
+    },
+    {
+      "name": "Baltimore",
+      "@type": "City"
+    },
+    {
+      "name": "Milwaukee",
+      "@type": "City"
+    },
+    {
+      "name": "Albuquerque",
+      "@type": "City"
+    },
+    {
+      "name": "Tucson",
+      "@type": "City"
+    },
+    {
+      "name": "Fresno",
+      "@type": "City"
+    },
+    {
+      "name": "Sacramento",
+      "@type": "City"
+    },
+    {
+      "name": "Kansas City",
+      "@type": "City"
+    },
+    {
+      "name": "Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Atlanta",
+      "@type": "City"
+    },
+    {
+      "name": "Omaha",
+      "@type": "City"
+    },
+    {
+      "name": "Colorado Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Raleigh",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Virginia Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Minneapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Tulsa",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington",
+      "@type": "City"
+    },
+    {
+      "name": "New Orleans",
+      "@type": "City"
+    },
+    {
+      "name": "Wichita",
+      "@type": "City"
+    },
+    {
+      "name": "Cleveland",
+      "@type": "City"
+    },
+    {
+      "name": "Bakersfield",
+      "@type": "City"
+    },
+    {
+      "name": "Aurora",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Honolulu",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ana",
+      "@type": "City"
+    },
+    {
+      "name": "Riverside",
+      "@type": "City"
+    },
+    {
+      "name": "Corpus Christi",
+      "@type": "City"
+    },
+    {
+      "name": "Lexington",
+      "@type": "City"
+    },
+    {
+      "name": "Stockton",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Saint Paul",
+      "@type": "City"
+    },
+    {
+      "name": "St. Louis",
+      "@type": "City"
+    },
+    {
+      "name": "Cincinnati",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburgh",
+      "@type": "City"
+    },
+    {
+      "name": "Greensboro",
+      "@type": "City"
+    },
+    {
+      "name": "Anchorage",
+      "@type": "City"
+    },
+    {
+      "name": "Plano",
+      "@type": "City"
+    },
+    {
+      "name": "Lincoln",
+      "@type": "City"
+    },
+    {
+      "name": "Orlando",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Durham",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Toledo",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Wayne",
+      "@type": "City"
+    },
+    {
+      "name": "St. Petersburg",
+      "@type": "City"
+    },
+    {
+      "name": "Laredo",
+      "@type": "City"
+    },
+    {
+      "name": "Jersey City",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "Madison",
+      "@type": "City"
+    },
+    {
+      "name": "Chandler",
+      "@type": "City"
+    },
+    {
+      "name": "Buffalo",
+      "@type": "City"
+    },
+    {
+      "name": "Lubbock",
+      "@type": "City"
+    },
+    {
+      "name": "Scottsdale",
+      "@type": "City"
+    },
+    {
+      "name": "Reno",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Gilbert",
+      "@type": "City"
+    },
+    {
+      "name": "Winston-Salem",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Norfolk",
+      "@type": "City"
+    },
+    {
+      "name": "Chesapeake",
+      "@type": "City"
+    },
+    {
+      "name": "Garland",
+      "@type": "City"
+    },
+    {
+      "name": "Irving",
+      "@type": "City"
+    },
+    {
+      "name": "Hialeah",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Boise",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "Baton Rouge",
+      "@type": "City"
+    },
+    {
+      "name": "Spokane",
+      "@type": "City"
+    },
+    {
+      "name": "Des Moines",
+      "@type": "City"
+    },
+    {
+      "name": "Tacoma",
+      "@type": "City"
+    },
+    {
+      "name": "San Bernardino",
+      "@type": "City"
+    },
+    {
+      "name": "Modesto",
+      "@type": "City"
+    },
+    {
+      "name": "Fontana",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's frustrating when your business isn't popping up when people ask AI about services like yours, right? Traditional SEO had us thinking about keywords and search rankings, but AI search is a whole different ballgame. If your site isn't being cited, it's often down to how AI systems interact with your content. They're looking for clean, structured data and direct answers, not just a list of keywords. Heavy website themes or outdated FAQs can actually hinder AI crawlers, making it tough for your business to be seen. AI systems prioritize clear, low-latency HTML and specific structured data to understand and cite information. If your content isn't set up this way, you're missing a big opportunity to be the answer. \n\n### What Can Change the Right Choice\n\nSometimes, the simplest things can block your visibility. Are essential pages accidentally hidden from crawlers by `robots.txt` or `noindex` tags? Does your sitemap actually lead AI bots to your best content? Many businesses inadvertently block their own discoverability. It's not about having a special 'AI file,' but ensuring your technical setup isn't creating hurdles. Google says AI features use the same basic technical and content requirements as regular search, so getting those fundamentals right is crucial. If your site has large-scale indexation issues or complex CMS templates, it might be time to bring in a technical SEO pro. They can help untangle those complexities and ensure your site is truly open for AI discovery.\n\n### What to Do Next\n\nStart by checking your basic crawlability and indexation settings. Make sure your `robots.txt` isn't blocking important content and that your XML sitemap is up-to-date. If you're unsure, a professional website audit for AI search can pinpoint exactly what's holding you back.",
+  "datePublished": "2026-09-23"
+}

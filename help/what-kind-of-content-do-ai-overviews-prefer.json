@@ -1,0 +1,446 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What kind of content do AI Overviews prefer?",
+  "publisher": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "New York City",
+      "@type": "City"
+    },
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Chicago",
+      "@type": "City"
+    },
+    {
+      "name": "Houston",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Philadelphia",
+      "@type": "City"
+    },
+    {
+      "name": "San Antonio",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "San Jose",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Jacksonville",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Columbus",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Indianapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Seattle",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Oklahoma City",
+      "@type": "City"
+    },
+    {
+      "name": "Boston",
+      "@type": "City"
+    },
+    {
+      "name": "El Paso",
+      "@type": "City"
+    },
+    {
+      "name": "Nashville",
+      "@type": "City"
+    },
+    {
+      "name": "Detroit",
+      "@type": "City"
+    },
+    {
+      "name": "Portland",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Memphis",
+      "@type": "City"
+    },
+    {
+      "name": "Louisville",
+      "@type": "City"
+    },
+    {
+      "name": "Baltimore",
+      "@type": "City"
+    },
+    {
+      "name": "Milwaukee",
+      "@type": "City"
+    },
+    {
+      "name": "Albuquerque",
+      "@type": "City"
+    },
+    {
+      "name": "Tucson",
+      "@type": "City"
+    },
+    {
+      "name": "Fresno",
+      "@type": "City"
+    },
+    {
+      "name": "Sacramento",
+      "@type": "City"
+    },
+    {
+      "name": "Kansas City",
+      "@type": "City"
+    },
+    {
+      "name": "Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Atlanta",
+      "@type": "City"
+    },
+    {
+      "name": "Omaha",
+      "@type": "City"
+    },
+    {
+      "name": "Colorado Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Raleigh",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Virginia Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Minneapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Tulsa",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington",
+      "@type": "City"
+    },
+    {
+      "name": "New Orleans",
+      "@type": "City"
+    },
+    {
+      "name": "Wichita",
+      "@type": "City"
+    },
+    {
+      "name": "Cleveland",
+      "@type": "City"
+    },
+    {
+      "name": "Bakersfield",
+      "@type": "City"
+    },
+    {
+      "name": "Aurora",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Honolulu",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ana",
+      "@type": "City"
+    },
+    {
+      "name": "Riverside",
+      "@type": "City"
+    },
+    {
+      "name": "Corpus Christi",
+      "@type": "City"
+    },
+    {
+      "name": "Lexington",
+      "@type": "City"
+    },
+    {
+      "name": "Stockton",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Saint Paul",
+      "@type": "City"
+    },
+    {
+      "name": "St. Louis",
+      "@type": "City"
+    },
+    {
+      "name": "Cincinnati",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburgh",
+      "@type": "City"
+    },
+    {
+      "name": "Greensboro",
+      "@type": "City"
+    },
+    {
+      "name": "Anchorage",
+      "@type": "City"
+    },
+    {
+      "name": "Plano",
+      "@type": "City"
+    },
+    {
+      "name": "Lincoln",
+      "@type": "City"
+    },
+    {
+      "name": "Orlando",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Durham",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Toledo",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Wayne",
+      "@type": "City"
+    },
+    {
+      "name": "St. Petersburg",
+      "@type": "City"
+    },
+    {
+      "name": "Laredo",
+      "@type": "City"
+    },
+    {
+      "name": "Jersey City",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "Madison",
+      "@type": "City"
+    },
+    {
+      "name": "Chandler",
+      "@type": "City"
+    },
+    {
+      "name": "Buffalo",
+      "@type": "City"
+    },
+    {
+      "name": "Lubbock",
+      "@type": "City"
+    },
+    {
+      "name": "Scottsdale",
+      "@type": "City"
+    },
+    {
+      "name": "Reno",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Gilbert",
+      "@type": "City"
+    },
+    {
+      "name": "Winston-Salem",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Norfolk",
+      "@type": "City"
+    },
+    {
+      "name": "Chesapeake",
+      "@type": "City"
+    },
+    {
+      "name": "Garland",
+      "@type": "City"
+    },
+    {
+      "name": "Irving",
+      "@type": "City"
+    },
+    {
+      "name": "Hialeah",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Boise",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "Baton Rouge",
+      "@type": "City"
+    },
+    {
+      "name": "Spokane",
+      "@type": "City"
+    },
+    {
+      "name": "Des Moines",
+      "@type": "City"
+    },
+    {
+      "name": "Tacoma",
+      "@type": "City"
+    },
+    {
+      "name": "San Bernardino",
+      "@type": "City"
+    },
+    {
+      "name": "Modesto",
+      "@type": "City"
+    },
+    {
+      "name": "Fontana",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ever wonder what type of content truly resonates with AI Overviews and answer engines like ChatGPT or Google Gemini? It's a different ballgame than traditional SEO, where you might have focused on long, keyword-stuffed articles. AI systems are on the hunt for clarity, accuracy, and direct answers to specific questions. They're not looking to \"browse\" your site; they want to extract facts.\n\nFirst off, AI loves **fact-dense, precise answers**. Think of it as a helpful assistant that needs to quickly pull out a snippet of information. Your content should have clear, self-contained answers right at the beginning of sections, ideally framed as responses to actual questions people ask. This directness makes it super easy for AI to understand and quote your expertise.\n\nThen there's the focus on **semantic relevance and clear structure**. AI systems are trained to understand meaning and relationships between ideas. Content that's well-organized with question-based headings, lists, and short explanations makes it easier for AI to chunk and reuse. This is why we structure every page and article with clear questions and direct answers up front.\n\nFinally, **originality and value** are paramount. Google's guidelines, especially with the 2026 spam update in mind, really push for useful, original, people-first content. Low-quality, mass-produced machine-generated content, or content that just rehashes what's already out there, isn't going to cut it. It needs to add genuine value and be trustworthy.\n\nWhat Can Change the Right Choice:\n\nThe \"best\" kind of content for AI isn't a one-size-fits-all. For law firms, it's often deep dives into specific case types and the questions surrounding them. For local service businesses like plumbers or HVAC, it's detailed answers to scenario-based or \"near me\" questions. The key decision factor is always your specific audience's questions and your business's unique expertise. If you're trying to cover too many topics superficially, or not really digging into the actual questions people ask, your content won't be as effective.",
+  "datePublished": "2026-09-23"
+}

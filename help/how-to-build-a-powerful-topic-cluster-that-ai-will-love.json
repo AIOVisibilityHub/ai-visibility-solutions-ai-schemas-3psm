@@ -1,0 +1,487 @@
+{
+  "name": "How to Build a Powerful Topic Cluster That AI Will Love",
+  "step": [
+    {
+      "name": "Step 1: Choose Your Core Topic",
+      "text": "Select a commercially relevant core topic that’s central to your business. This isn't just a keyword; it's a broad subject area your audience cares deeply about. It should be specific enough to cover thoroughly but broad enough to have many related subtopics.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Research Keywords and Questions",
+      "text": "Dive deep into related keywords and, more importantly, the actual questions people are asking around your core topic. AI Visibility Solutions uses advanced research methods to identify high-intent questions on platforms like Google, Quora, and Reddit, ensuring your content addresses real-world needs.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Map Content to Search Intent",
+      "text": "Group your researched terms and questions by search intent. Identify what information users are looking for at different stages of their journey. This helps you decide which questions belong on your pillar page versus supporting subpages.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Create Your Pillar Page",
+      "text": "Develop a comprehensive pillar page that covers the core topic broadly but deeply, acting as the central hub for your cluster. This page should link out to all your supporting content and provide a high-level overview of the subject.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Develop Supporting Subpages",
+      "text": "For each narrower subtopic identified in your research, create dedicated supporting pages. These pages should offer detailed answers to specific questions or aspects of the core topic, linking back to the pillar page.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Implement Robust Internal Linking",
+      "text": "Connect your pillar page to all relevant supporting pages, and vice-versa, using descriptive anchor text. This strengthens the topical authority of your cluster and helps AI systems understand the relationships between your content pieces.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Audit Existing Content",
+      "text": "Before creating new pages, audit your existing content. Can any of your current articles be repurposed, updated, or integrated into the cluster? This avoids duplication and leverages your existing assets.",
+      "@type": "HowToStep",
+      "position": 7
+    },
+    {
+      "name": "Step 8: Monitor and Refine",
+      "text": "Once your cluster is live, monitor its performance. Track metrics beyond just rankings, like qualified traffic, engagement, and conversions. Be prepared to refine and update content based on new questions or algorithm changes. What to Expect During the Process: Building a topic cluster is a strategic, ongoing process, not a one-time task. When working with a specialized service like AI Visibility Solutions, you can expect a methodical approach starting with deep research and culminating in an \"AI Resource Library\" of schema-first, static HTML pages. This library is designed to be easily digestible by AI systems, allowing them to understand your expertise and cite your business when prospects ask questions. By consciously creating a clear pillar page, detailed subpages, and smart internal linking, you're not just optimizing for traditional search; you're building an AI-ready knowledge base that positions your business as the definitive answer.",
+      "@type": "HowToStep",
+      "position": 8
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "New York City",
+      "@type": "City"
+    },
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Chicago",
+      "@type": "City"
+    },
+    {
+      "name": "Houston",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Philadelphia",
+      "@type": "City"
+    },
+    {
+      "name": "San Antonio",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "San Jose",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Jacksonville",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Columbus",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Indianapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Seattle",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Oklahoma City",
+      "@type": "City"
+    },
+    {
+      "name": "Boston",
+      "@type": "City"
+    },
+    {
+      "name": "El Paso",
+      "@type": "City"
+    },
+    {
+      "name": "Nashville",
+      "@type": "City"
+    },
+    {
+      "name": "Detroit",
+      "@type": "City"
+    },
+    {
+      "name": "Portland",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Memphis",
+      "@type": "City"
+    },
+    {
+      "name": "Louisville",
+      "@type": "City"
+    },
+    {
+      "name": "Baltimore",
+      "@type": "City"
+    },
+    {
+      "name": "Milwaukee",
+      "@type": "City"
+    },
+    {
+      "name": "Albuquerque",
+      "@type": "City"
+    },
+    {
+      "name": "Tucson",
+      "@type": "City"
+    },
+    {
+      "name": "Fresno",
+      "@type": "City"
+    },
+    {
+      "name": "Sacramento",
+      "@type": "City"
+    },
+    {
+      "name": "Kansas City",
+      "@type": "City"
+    },
+    {
+      "name": "Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Atlanta",
+      "@type": "City"
+    },
+    {
+      "name": "Omaha",
+      "@type": "City"
+    },
+    {
+      "name": "Colorado Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Raleigh",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Virginia Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Minneapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Tulsa",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington",
+      "@type": "City"
+    },
+    {
+      "name": "New Orleans",
+      "@type": "City"
+    },
+    {
+      "name": "Wichita",
+      "@type": "City"
+    },
+    {
+      "name": "Cleveland",
+      "@type": "City"
+    },
+    {
+      "name": "Bakersfield",
+      "@type": "City"
+    },
+    {
+      "name": "Aurora",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Honolulu",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ana",
+      "@type": "City"
+    },
+    {
+      "name": "Riverside",
+      "@type": "City"
+    },
+    {
+      "name": "Corpus Christi",
+      "@type": "City"
+    },
+    {
+      "name": "Lexington",
+      "@type": "City"
+    },
+    {
+      "name": "Stockton",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Saint Paul",
+      "@type": "City"
+    },
+    {
+      "name": "St. Louis",
+      "@type": "City"
+    },
+    {
+      "name": "Cincinnati",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburgh",
+      "@type": "City"
+    },
+    {
+      "name": "Greensboro",
+      "@type": "City"
+    },
+    {
+      "name": "Anchorage",
+      "@type": "City"
+    },
+    {
+      "name": "Plano",
+      "@type": "City"
+    },
+    {
+      "name": "Lincoln",
+      "@type": "City"
+    },
+    {
+      "name": "Orlando",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Durham",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Toledo",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Wayne",
+      "@type": "City"
+    },
+    {
+      "name": "St. Petersburg",
+      "@type": "City"
+    },
+    {
+      "name": "Laredo",
+      "@type": "City"
+    },
+    {
+      "name": "Jersey City",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "Madison",
+      "@type": "City"
+    },
+    {
+      "name": "Chandler",
+      "@type": "City"
+    },
+    {
+      "name": "Buffalo",
+      "@type": "City"
+    },
+    {
+      "name": "Lubbock",
+      "@type": "City"
+    },
+    {
+      "name": "Scottsdale",
+      "@type": "City"
+    },
+    {
+      "name": "Reno",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Gilbert",
+      "@type": "City"
+    },
+    {
+      "name": "Winston-Salem",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Norfolk",
+      "@type": "City"
+    },
+    {
+      "name": "Chesapeake",
+      "@type": "City"
+    },
+    {
+      "name": "Garland",
+      "@type": "City"
+    },
+    {
+      "name": "Irving",
+      "@type": "City"
+    },
+    {
+      "name": "Hialeah",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Boise",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "Baton Rouge",
+      "@type": "City"
+    },
+    {
+      "name": "Spokane",
+      "@type": "City"
+    },
+    {
+      "name": "Des Moines",
+      "@type": "City"
+    },
+    {
+      "name": "Tacoma",
+      "@type": "City"
+    },
+    {
+      "name": "San Bernardino",
+      "@type": "City"
+    },
+    {
+      "name": "Modesto",
+      "@type": "City"
+    },
+    {
+      "name": "Fontana",
+      "@type": "City"
+    }
+  ],
+  "description": "Select a commercially relevant core topic that’s central to your business. This isn't just a keyword; it's a broad subject area your audience cares deeply about. It should be specific enough to cover "
+}

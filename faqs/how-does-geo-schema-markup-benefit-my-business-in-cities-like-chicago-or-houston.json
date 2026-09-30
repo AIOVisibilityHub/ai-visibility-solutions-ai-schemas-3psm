@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does GEO schema markup benefit my business in cities like Chicago or Houston?",
-  "description": "GEO schema markup enhances local SEO, allowing your business to appear in 'near me' searches and map packs, increasing local traffic.",
   "url": "aiovisibility.com/faq/how-does-geo-schema-markup-benefit-my-business-in-cities-like-chicago-or-houston",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does GEO schema markup benefit my business in cities like Chicago or Houston?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Implementing GEO schema markup in cities like Chicago or Houston helps your business stand out in competitive local markets. It directly informs search engines about your physical location, service types, and customer reviews, which can lead to enhanced local SEO performance. This structured data allows your business to appear prominently in 'near me' searches, local map packs, and rich snippets, increasing organic traffic and footfall from customers specifically looking for your services in those areas.",
-        "description": "GEO schema markup enhances local SEO, allowing your business to appear in 'near me' searches and map packs, increasing local traffic."
-      }
-    }
-  ],
+  "name": "How does GEO schema markup benefit my business in cities like Chicago or Houston?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does GEO schema markup benefit my business in cities like Chicago or Houston?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Implementing GEO schema markup in cities like Chicago or Houston helps your business stand out in competitive local markets. It directly informs search engines about your physical location, service types, and customer reviews, which can lead to enhanced local SEO performance. This structured data allows your business to appear prominently in 'near me' searches, local map packs, and rich snippets, increasing organic traffic and footfall from customers specifically looking for your services in those areas.",
+        "@type": "Answer",
+        "description": "GEO schema markup enhances local SEO, allowing your business to appear in 'near me' searches and map packs, increasing local traffic."
+      }
+    }
+  ],
+  "description": "GEO schema markup enhances local SEO, allowing your business to appear in 'near me' searches and map packs, increasing local traffic."
 }

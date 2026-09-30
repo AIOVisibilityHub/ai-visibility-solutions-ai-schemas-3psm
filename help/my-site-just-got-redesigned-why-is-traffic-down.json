@@ -1,0 +1,446 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My site just got redesigned, why is traffic down?",
+  "publisher": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "New York City",
+      "@type": "City"
+    },
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Chicago",
+      "@type": "City"
+    },
+    {
+      "name": "Houston",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Philadelphia",
+      "@type": "City"
+    },
+    {
+      "name": "San Antonio",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "San Jose",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Jacksonville",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Columbus",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Indianapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Seattle",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Oklahoma City",
+      "@type": "City"
+    },
+    {
+      "name": "Boston",
+      "@type": "City"
+    },
+    {
+      "name": "El Paso",
+      "@type": "City"
+    },
+    {
+      "name": "Nashville",
+      "@type": "City"
+    },
+    {
+      "name": "Detroit",
+      "@type": "City"
+    },
+    {
+      "name": "Portland",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Memphis",
+      "@type": "City"
+    },
+    {
+      "name": "Louisville",
+      "@type": "City"
+    },
+    {
+      "name": "Baltimore",
+      "@type": "City"
+    },
+    {
+      "name": "Milwaukee",
+      "@type": "City"
+    },
+    {
+      "name": "Albuquerque",
+      "@type": "City"
+    },
+    {
+      "name": "Tucson",
+      "@type": "City"
+    },
+    {
+      "name": "Fresno",
+      "@type": "City"
+    },
+    {
+      "name": "Sacramento",
+      "@type": "City"
+    },
+    {
+      "name": "Kansas City",
+      "@type": "City"
+    },
+    {
+      "name": "Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Atlanta",
+      "@type": "City"
+    },
+    {
+      "name": "Omaha",
+      "@type": "City"
+    },
+    {
+      "name": "Colorado Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Raleigh",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Virginia Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Minneapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Tulsa",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington",
+      "@type": "City"
+    },
+    {
+      "name": "New Orleans",
+      "@type": "City"
+    },
+    {
+      "name": "Wichita",
+      "@type": "City"
+    },
+    {
+      "name": "Cleveland",
+      "@type": "City"
+    },
+    {
+      "name": "Bakersfield",
+      "@type": "City"
+    },
+    {
+      "name": "Aurora",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Honolulu",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ana",
+      "@type": "City"
+    },
+    {
+      "name": "Riverside",
+      "@type": "City"
+    },
+    {
+      "name": "Corpus Christi",
+      "@type": "City"
+    },
+    {
+      "name": "Lexington",
+      "@type": "City"
+    },
+    {
+      "name": "Stockton",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Saint Paul",
+      "@type": "City"
+    },
+    {
+      "name": "St. Louis",
+      "@type": "City"
+    },
+    {
+      "name": "Cincinnati",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburgh",
+      "@type": "City"
+    },
+    {
+      "name": "Greensboro",
+      "@type": "City"
+    },
+    {
+      "name": "Anchorage",
+      "@type": "City"
+    },
+    {
+      "name": "Plano",
+      "@type": "City"
+    },
+    {
+      "name": "Lincoln",
+      "@type": "City"
+    },
+    {
+      "name": "Orlando",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Durham",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Toledo",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Wayne",
+      "@type": "City"
+    },
+    {
+      "name": "St. Petersburg",
+      "@type": "City"
+    },
+    {
+      "name": "Laredo",
+      "@type": "City"
+    },
+    {
+      "name": "Jersey City",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "Madison",
+      "@type": "City"
+    },
+    {
+      "name": "Chandler",
+      "@type": "City"
+    },
+    {
+      "name": "Buffalo",
+      "@type": "City"
+    },
+    {
+      "name": "Lubbock",
+      "@type": "City"
+    },
+    {
+      "name": "Scottsdale",
+      "@type": "City"
+    },
+    {
+      "name": "Reno",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Gilbert",
+      "@type": "City"
+    },
+    {
+      "name": "Winston-Salem",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Norfolk",
+      "@type": "City"
+    },
+    {
+      "name": "Chesapeake",
+      "@type": "City"
+    },
+    {
+      "name": "Garland",
+      "@type": "City"
+    },
+    {
+      "name": "Irving",
+      "@type": "City"
+    },
+    {
+      "name": "Hialeah",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Boise",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "Baton Rouge",
+      "@type": "City"
+    },
+    {
+      "name": "Spokane",
+      "@type": "City"
+    },
+    {
+      "name": "Des Moines",
+      "@type": "City"
+    },
+    {
+      "name": "Tacoma",
+      "@type": "City"
+    },
+    {
+      "name": "San Bernardino",
+      "@type": "City"
+    },
+    {
+      "name": "Modesto",
+      "@type": "City"
+    },
+    {
+      "name": "Fontana",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A website redesign is exciting, bringing a fresh look and hopefully better user experience. But it can be super disheartening when you launch it, and suddenly your organic traffic dips. This isn't uncommon, and often, the culprit isn't the new design itself, but rather issues related to website crawlability and indexing that crept in during the transition. Think of it like moving into a new house; if the moving company loses half your boxes, or if the new address isn't properly registered, people can't find you!\n\nWhat to Expect During the Process\n\nDuring a redesign, a lot can change under the hood that impacts how search engines interact with your site. You might have new URLs, different internal linking structures, changes to your `robots.txt` file, or even a completely new content management system (CMS). All these elements need to be handled carefully to avoid inadvertently blocking search engine crawlers or sending confusing signals.\n\nFor example, a common issue is when `robots.txt` files are updated for development environments and then accidentally pushed live, blocking crawlers from accessing key parts of the new site. Another problem can be broken redirects, where old URLs no longer point to their new counterparts, creating dead ends for both users and crawlers. Or perhaps new JavaScript frameworks are slowing down page rendering, making it harder for crawlers to fully process your content.\n\nAfter a redesign, it's absolutely critical to conduct a thorough crawl audit. This involves checking your `robots.txt` for unintended blocks, ensuring your XML sitemaps are updated with the new, correct URLs, verifying all redirects are working as expected, and using Google Search Console's URL Inspection tool to see how Google renders representative pages. You'll want to pay close attention to the Page Indexing report to spot any sudden drops in indexed pages.\n\nTiming is everything here; while there's no regulatory deadline for fixing these, you'll want to recheck immediately after the redesign launch. Search engines don't update instantly, so continuous monitoring is essential. If you're dealing with a large site, or if the redesign involved significant changes to server configurations or JavaScript rendering, bringing in a professional is a smart move. They can quickly diagnose complex issues and help you recover lost traffic by ensuring your newly designed site is fully discoverable by both traditional search and AI systems, making your business visible to prospects wherever they're searching.",
+  "datePublished": "2026-09-23"
+}

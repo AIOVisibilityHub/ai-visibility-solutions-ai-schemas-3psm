@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does Website Entity Optimization impact voice search performance?",
-  "description": "It improves voice search performance by making your content understandable to AI assistants, increasing the likelihood of your content being chosen as a direct",
   "url": "aiovisibility.com/faq/how-does-website-entity-optimization-impact-voice-search-performance",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does Website Entity Optimization impact voice search performance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Website Entity Optimization critically impacts voice search performance by making your content more understandable to AI assistants. Voice queries are often natural language questions seeking specific answers about entities. By clearly defining entities and their attributes on your site, you increase the likelihood that AI will extract your content as a direct answer or featured snippet. This improves your chances of being found when users ask questions via voice commands, driving relevant traffic to your site.",
-        "description": "It improves voice search performance by making your content understandable to AI assistants, increasing the likelihood of your content being chosen as a direct answer to natural language queries."
-      }
-    }
-  ],
+  "name": "How does Website Entity Optimization impact voice search performance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does Website Entity Optimization impact voice search performance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Website Entity Optimization critically impacts voice search performance by making your content more understandable to AI assistants. Voice queries are often natural language questions seeking specific answers about entities. By clearly defining entities and their attributes on your site, you increase the likelihood that AI will extract your content as a direct answer or featured snippet. This improves your chances of being found when users ask questions via voice commands, driving relevant traffic to your site.",
+        "@type": "Answer",
+        "description": "It improves voice search performance by making your content understandable to AI assistants, increasing the likelihood of your content being chosen as a direct answer to natural language queries."
+      }
+    }
+  ],
+  "description": "It improves voice search performance by making your content understandable to AI assistants, increasing the likelihood of your content being chosen as a direct"
 }

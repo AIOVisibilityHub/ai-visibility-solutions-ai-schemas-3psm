@@ -1,0 +1,515 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Getting your site seen by AI: a practical checklist",
+  "publisher": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "New York City",
+      "@type": "City"
+    },
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Chicago",
+      "@type": "City"
+    },
+    {
+      "name": "Houston",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Philadelphia",
+      "@type": "City"
+    },
+    {
+      "name": "San Antonio",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "San Jose",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Jacksonville",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Columbus",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Indianapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Seattle",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Oklahoma City",
+      "@type": "City"
+    },
+    {
+      "name": "Boston",
+      "@type": "City"
+    },
+    {
+      "name": "El Paso",
+      "@type": "City"
+    },
+    {
+      "name": "Nashville",
+      "@type": "City"
+    },
+    {
+      "name": "Detroit",
+      "@type": "City"
+    },
+    {
+      "name": "Portland",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Memphis",
+      "@type": "City"
+    },
+    {
+      "name": "Louisville",
+      "@type": "City"
+    },
+    {
+      "name": "Baltimore",
+      "@type": "City"
+    },
+    {
+      "name": "Milwaukee",
+      "@type": "City"
+    },
+    {
+      "name": "Albuquerque",
+      "@type": "City"
+    },
+    {
+      "name": "Tucson",
+      "@type": "City"
+    },
+    {
+      "name": "Fresno",
+      "@type": "City"
+    },
+    {
+      "name": "Sacramento",
+      "@type": "City"
+    },
+    {
+      "name": "Kansas City",
+      "@type": "City"
+    },
+    {
+      "name": "Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Atlanta",
+      "@type": "City"
+    },
+    {
+      "name": "Omaha",
+      "@type": "City"
+    },
+    {
+      "name": "Colorado Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Raleigh",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Virginia Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Minneapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Tulsa",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington",
+      "@type": "City"
+    },
+    {
+      "name": "New Orleans",
+      "@type": "City"
+    },
+    {
+      "name": "Wichita",
+      "@type": "City"
+    },
+    {
+      "name": "Cleveland",
+      "@type": "City"
+    },
+    {
+      "name": "Bakersfield",
+      "@type": "City"
+    },
+    {
+      "name": "Aurora",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Honolulu",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ana",
+      "@type": "City"
+    },
+    {
+      "name": "Riverside",
+      "@type": "City"
+    },
+    {
+      "name": "Corpus Christi",
+      "@type": "City"
+    },
+    {
+      "name": "Lexington",
+      "@type": "City"
+    },
+    {
+      "name": "Stockton",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Saint Paul",
+      "@type": "City"
+    },
+    {
+      "name": "St. Louis",
+      "@type": "City"
+    },
+    {
+      "name": "Cincinnati",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburgh",
+      "@type": "City"
+    },
+    {
+      "name": "Greensboro",
+      "@type": "City"
+    },
+    {
+      "name": "Anchorage",
+      "@type": "City"
+    },
+    {
+      "name": "Plano",
+      "@type": "City"
+    },
+    {
+      "name": "Lincoln",
+      "@type": "City"
+    },
+    {
+      "name": "Orlando",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Durham",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Toledo",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Wayne",
+      "@type": "City"
+    },
+    {
+      "name": "St. Petersburg",
+      "@type": "City"
+    },
+    {
+      "name": "Laredo",
+      "@type": "City"
+    },
+    {
+      "name": "Jersey City",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "Madison",
+      "@type": "City"
+    },
+    {
+      "name": "Chandler",
+      "@type": "City"
+    },
+    {
+      "name": "Buffalo",
+      "@type": "City"
+    },
+    {
+      "name": "Lubbock",
+      "@type": "City"
+    },
+    {
+      "name": "Scottsdale",
+      "@type": "City"
+    },
+    {
+      "name": "Reno",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Gilbert",
+      "@type": "City"
+    },
+    {
+      "name": "Winston-Salem",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Norfolk",
+      "@type": "City"
+    },
+    {
+      "name": "Chesapeake",
+      "@type": "City"
+    },
+    {
+      "name": "Garland",
+      "@type": "City"
+    },
+    {
+      "name": "Irving",
+      "@type": "City"
+    },
+    {
+      "name": "Hialeah",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Boise",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "Baton Rouge",
+      "@type": "City"
+    },
+    {
+      "name": "Spokane",
+      "@type": "City"
+    },
+    {
+      "name": "Des Moines",
+      "@type": "City"
+    },
+    {
+      "name": "Tacoma",
+      "@type": "City"
+    },
+    {
+      "name": "San Bernardino",
+      "@type": "City"
+    },
+    {
+      "name": "Modesto",
+      "@type": "City"
+    },
+    {
+      "name": "Fontana",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Getting your site seen by AI: a practical checklist",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 10,
+    "itemListElement": [
+      {
+        "name": "Ensure your `robots.txt` doesn't block important content — This file tells AI crawlers what parts of your s…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Ensure your `robots.txt` doesn't block important content — This file tells AI crawlers what parts of your site they *can't* access; accidentally blocking key pages or resources will prevent them from being seen at all. Make sure it's not inadvertently blocking CSS, JavaScript, or important HTML files."
+      },
+      {
+        "name": "Verify all critical pages are accessible without login — AI bots can't log in! Any public-facing page you w…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Verify all critical pages are accessible without login — AI bots can't log in! Any public-facing page you want AI to cite must be accessible to anonymous crawlers without requiring a username or password."
+      },
+      {
+        "name": "Check for server errors (e.g., 404s, 500s) on key URLs — If your pages are returning errors, crawlers can't…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Check for server errors (e.g., 404s, 500s) on key URLs — If your pages are returning errors, crawlers can't process them. Regularly audit your site for broken links or server response issues, especially for your most valuable content."
+      },
+      {
+        "name": "Submit a clean, up-to-date XML sitemap to Search Console — This acts as a roadmap for AI crawlers, helping…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Submit a clean, up-to-date XML sitemap to Search Console — This acts as a roadmap for AI crawlers, helping them discover all the important pages on your site. Ensure it only contains canonical, indexable URLs and is free of errors."
+      },
+      {
+        "name": "Implement JSON-LD schema markup for key content — This is essential for AI understanding. Use types like `F…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Implement JSON-LD schema markup for key content — This is essential for AI understanding. Use types like `FAQPage`, `Article`, `Service`, and `LocalBusiness` to describe your content and business in a structured, machine-readable format. Google recommends JSON-LD for its flexibility."
+      },
+      {
+        "name": "Validate all structured data with Google's Rich Results Test — Before deploying, and regularly after, use t…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Validate all structured data with Google's Rich Results Test — Before deploying, and regularly after, use this tool to catch any errors in your schema markup. Incorrect or incomplete schema is often ignored by AI systems."
+      },
+      {
+        "name": "Ensure your schema markup accurately reflects visible content — AI systems are smart; they'll notice if you…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Ensure your schema markup accurately reflects visible content — AI systems are smart; they'll notice if your schema describes content that isn't actually on the page. Only mark up what users can see and read."
+      },
+      {
+        "name": "Monitor Search Console's Page Indexing and Rich Results reports — These reports give you direct feedback fr…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Monitor Search Console's Page Indexing and Rich Results reports — These reports give you direct feedback from Google on how your site is being crawled and indexed, and if your rich results are eligible. Use this data to identify and fix issues promptly."
+      },
+      {
+        "name": "Check that your internal linking is logical and comprehensive — Strong internal linking helps AI crawlers d…",
+        "@type": "ListItem",
+        "position": 9,
+        "description": "Check that your internal linking is logical and comprehensive — Strong internal linking helps AI crawlers discover all your pages naturally, reinforcing the structure and hierarchy of your site's content. Think about how a user would navigate and make sure crawlers can follow that path too."
+      },
+      {
+        "name": "Review how your pages render on mobile devices — AI systems, especially Google, prioritize mobile-first ind…",
+        "@type": "ListItem",
+        "position": 10,
+        "description": "Review how your pages render on mobile devices — AI systems, especially Google, prioritize mobile-first indexing. Ensure your content, including all JavaScript and CSS, renders correctly and quickly on mobile, as this impacts crawlability and perceived quality."
+      }
+    ]
+  },
+  "articleBody": "Getting your website noticed by AI systems like Google AI Overviews, Perplexity, Siri, and Alexa is a whole new ballgame compared to traditional SEO. It's not just about keywords anymore; it's about being machine-readable, fact-dense, and structured in a way AI can easily digest. This checklist focuses on practical steps to boost your AI visibility. Keep in mind, this isn't a one-time fix, but an ongoing process to make your business the go-to answer.\n\nHow to use this checklist\nGo through each item and mark it off. If you're unsure about any step, that's a sign it might be time to get some professional help. The goal is to create a website that AI systems trust and can cite confidently.\n\n- [ ] **Ensure your `robots.txt` doesn't block important content** — This file tells AI crawlers what parts of your site they *can't* access; accidentally blocking key pages or resources will prevent them from being seen at all. Make sure it's not inadvertently blocking CSS, JavaScript, or important HTML files.\n- [ ] **Verify all critical pages are accessible without login** — AI bots can't log in! Any public-facing page you want AI to cite must be accessible to anonymous crawlers without requiring a username or password.\n- [ ] **Check for server errors (e.g., 404s, 500s) on key URLs** — If your pages are returning errors, crawlers can't process them. Regularly audit your site for broken links or server response issues, especially for your most valuable content.\n- [ ] **Submit a clean, up-to-date XML sitemap to Search Console** — This acts as a roadmap for AI crawlers, helping them discover all the important pages on your site. Ensure it only contains canonical, indexable URLs and is free of errors.\n- [ ] **Implement JSON-LD schema markup for key content** — This is essential for AI understanding. Use types like `FAQPage`, `Article`, `Service`, and `LocalBusiness` to describe your content and business in a structured, machine-readable format. Google recommends JSON-LD for its flexibility.\n- [ ] **Validate all structured data with Google's Rich Results Test** — Before deploying, and regularly after, use this tool to catch any errors in your schema markup. Incorrect or incomplete schema is often ignored by AI systems.\n- [ ] **Ensure your schema markup accurately reflects visible content** — AI systems are smart; they'll notice if your schema describes content that isn't actually on the page. Only mark up what users can see and read.\n- [ ] **Monitor Search Console's Page Indexing and Rich Results reports** — These reports give you direct feedback from Google on how your site is being crawled and indexed, and if your rich results are eligible. Use this data to identify and fix issues promptly.\n- [ ] **Check that your internal linking is logical and comprehensive** — Strong internal linking helps AI crawlers discover all your pages naturally, reinforcing the structure and hierarchy of your site's content. Think about how a user would navigate and make sure crawlers can follow that path too.\n- [ ] **Review how your pages render on mobile devices** — AI systems, especially Google, prioritize mobile-first indexing. Ensure your content, including all JavaScript and CSS, renders correctly and quickly on mobile, as this impacts crawlability and perceived quality.\n\nBy systematically working through this checklist, you'll significantly improve your website's fundamental discoverability for AI, moving closer to becoming a trusted source for answer engines. When things get complex, especially with dynamic content or large sites, that's when a specialist can provide invaluable support to ensure everything is perfectly tuned for AI consumption.",
+  "datePublished": "2026-09-23"
+}

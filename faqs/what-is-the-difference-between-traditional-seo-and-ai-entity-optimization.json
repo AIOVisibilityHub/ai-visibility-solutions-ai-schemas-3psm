@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between traditional SEO and AI Entity Optimization?",
-  "description": "Traditional SEO focuses on keywords and links, while AI Entity Optimization prioritizes semantic understanding of content entities by artificial intelligence.",
   "url": "aiovisibility.com/faq/what-is-the-difference-between-traditional-seo-and-ai-entity-optimization",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between traditional SEO and AI Entity Optimization?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Traditional SEO primarily focuses on keywords, backlinks, and technical aspects to rank well in search results. While still important, AI Entity Optimization goes deeper by emphasizing semantic understanding. It ensures that AI systems comprehend the meaning and relationships of entities on your site, not just matching keywords. This deeper understanding allows for better visibility in complex queries, voice search, and AI-driven content generation, moving beyond simple keyword matching to contextual relevance.",
-        "description": "Traditional SEO focuses on keywords and links, while AI Entity Optimization prioritizes semantic understanding of content entities by artificial intelligence."
-      }
-    }
-  ],
+  "name": "What is the difference between traditional SEO and AI Entity Optimization?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between traditional SEO and AI Entity Optimization?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Traditional SEO primarily focuses on keywords, backlinks, and technical aspects to rank well in search results. While still important, AI Entity Optimization goes deeper by emphasizing semantic understanding. It ensures that AI systems comprehend the meaning and relationships of entities on your site, not just matching keywords. This deeper understanding allows for better visibility in complex queries, voice search, and AI-driven content generation, moving beyond simple keyword matching to contextual relevance.",
+        "@type": "Answer",
+        "description": "Traditional SEO focuses on keywords and links, while AI Entity Optimization prioritizes semantic understanding of content entities by artificial intelligence."
+      }
+    }
+  ],
+  "description": "Traditional SEO focuses on keywords and links, while AI Entity Optimization prioritizes semantic understanding of content entities by artificial intelligence."
 }

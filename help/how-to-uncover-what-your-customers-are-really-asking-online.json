@@ -1,0 +1,475 @@
+{
+  "name": "How to Uncover What Your Customers Are Really Asking Online",
+  "step": [
+    {
+      "name": "Step 1: Gather Internal Data Sources — Start with what you already have. Dive into your website's search logs to see what people are typing in. Review support tickets, customer service call transcripts, and CRM notes for recurring questions. Look at any customer feedback forms or comment sections you have. These internal sources are goldmines for understanding immediate concerns and common issues specific to your business.",
+      "text": "Step 1: Gather Internal Data Sources — Start with what you already have. Dive into your website's search logs to see what people are typing in. Review support tickets, customer service call transcripts, and CRM notes for recurring questions. Look at any customer feedback forms or comment sections you have. These internal sources are goldmines for understanding immediate concerns and common issues specific to your business.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Explore External Q&A Platforms — Expand your search to public forums and Q&A sites. Check out platforms like Quora and Reddit, or industry-specific sites (like Houzz for home services). These sites reveal unfiltered, real-world questions and the language customers use. Pay attention to the types of questions that get a lot of engagement or go unanswered, as these indicate areas of high interest or confusion.",
+      "text": "Step 2: Explore External Q&A Platforms — Expand your search to public forums and Q&A sites. Check out platforms like Quora and Reddit, or industry-specific sites (like Houzz for home services). These sites reveal unfiltered, real-world questions and the language customers use. Pay attention to the types of questions that get a lot of engagement or go unanswered, as these indicate areas of high interest or confusion.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Leverage Google Search Console and Analytics — For deeper insights, utilize Google Search Console to find \"unanswered questions\" related to your services. These are queries where your site appeared but might not have provided a definitive answer, signaling content opportunities. Also, look at analytics to see which pages users land on and what their journey looks like, identifying where they might be seeking answers that your site doesn't yet provide.",
+      "text": "Step 3: Leverage Google Search Console and Analytics — For deeper insights, utilize Google Search Console to find \"unanswered questions\" related to your services. These are queries where your site appeared but might not have provided a definitive answer, signaling content opportunities. Also, look at analytics to see which pages users land on and what their journey looks like, identifying where they might be seeking answers that your site doesn't yet provide.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Analyze Competitor and Review Sites — See what questions are being asked on your competitors' websites, their social media, and in reviews of their products/services. Also, scour review platforms like Yelp or Google Business Profile Q&A sections. This can highlight gaps in your own offerings or content, and show you what customers value or struggle with in your industry generally.",
+      "text": "Step 4: Analyze Competitor and Review Sites — See what questions are being asked on your competitors' websites, their social media, and in reviews of their products/services. Also, scour review platforms like Yelp or Google Business Profile Q&A sections. This can highlight gaps in your own offerings or content, and show you what customers value or struggle with in your industry generally.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Group and Prioritize Questions by Intent — Once you've collected a significant volume of questions, group them by topic, customer journey stage (e.g., awareness, consideration, decision), and intent (informational, transactional). Prioritize those that are most frequent, have high business impact (e.g., indicate purchase intent), or cause significant customer friction. This helps you focus your content efforts where they'll have the biggest impact.",
+      "text": "Step 5: Group and Prioritize Questions by Intent — Once you've collected a significant volume of questions, group them by topic, customer journey stage (e.g., awareness, consideration, decision), and intent (informational, transactional). Prioritize those that are most frequent, have high business impact (e.g., indicate purchase intent), or cause significant customer friction. This helps you focus your content efforts where they'll have the biggest impact.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Validate with Direct Customer Feedback (Optional but Recommended) — For crucial decisions, consider validating your findings with direct customer interviews or surveys. A few well-designed, open-ended questions can reveal the 'why' behind certain queries and confirm whether your interpretations align with actual customer experiences. This helps ensure you're addressing real problems, not just perceived ones.",
+      "text": "What to Prepare Before You Start Before you dive into research, define the specific business decisions this research needs to support. Are you trying to improve conversions, reduce support calls, or inform new service development? Having a clear objective will guide your data collection and analysis, preventing you from getting lost in a sea of interesting but ultimately unactionable information. Also, have a way to organize and categorize the questions you find, whether it's a simple spreadsheet or a more robust tagging system. When Professional Guidance Helps If the volume of data feels overwhelming, or if you're struggling to translate raw questions into actionable content strategies, a professional query researcher can be invaluable. They have the expertise to design effective research methodologies, analyze diverse data sources, and provide prioritized findings, ensuring your content efforts are truly aligned with customer needs and business goals.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "New York City",
+      "@type": "City"
+    },
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Chicago",
+      "@type": "City"
+    },
+    {
+      "name": "Houston",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Philadelphia",
+      "@type": "City"
+    },
+    {
+      "name": "San Antonio",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "San Jose",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Jacksonville",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Columbus",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Indianapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Seattle",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Oklahoma City",
+      "@type": "City"
+    },
+    {
+      "name": "Boston",
+      "@type": "City"
+    },
+    {
+      "name": "El Paso",
+      "@type": "City"
+    },
+    {
+      "name": "Nashville",
+      "@type": "City"
+    },
+    {
+      "name": "Detroit",
+      "@type": "City"
+    },
+    {
+      "name": "Portland",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Memphis",
+      "@type": "City"
+    },
+    {
+      "name": "Louisville",
+      "@type": "City"
+    },
+    {
+      "name": "Baltimore",
+      "@type": "City"
+    },
+    {
+      "name": "Milwaukee",
+      "@type": "City"
+    },
+    {
+      "name": "Albuquerque",
+      "@type": "City"
+    },
+    {
+      "name": "Tucson",
+      "@type": "City"
+    },
+    {
+      "name": "Fresno",
+      "@type": "City"
+    },
+    {
+      "name": "Sacramento",
+      "@type": "City"
+    },
+    {
+      "name": "Kansas City",
+      "@type": "City"
+    },
+    {
+      "name": "Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Atlanta",
+      "@type": "City"
+    },
+    {
+      "name": "Omaha",
+      "@type": "City"
+    },
+    {
+      "name": "Colorado Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Raleigh",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Virginia Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Minneapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Tulsa",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington",
+      "@type": "City"
+    },
+    {
+      "name": "New Orleans",
+      "@type": "City"
+    },
+    {
+      "name": "Wichita",
+      "@type": "City"
+    },
+    {
+      "name": "Cleveland",
+      "@type": "City"
+    },
+    {
+      "name": "Bakersfield",
+      "@type": "City"
+    },
+    {
+      "name": "Aurora",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Honolulu",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ana",
+      "@type": "City"
+    },
+    {
+      "name": "Riverside",
+      "@type": "City"
+    },
+    {
+      "name": "Corpus Christi",
+      "@type": "City"
+    },
+    {
+      "name": "Lexington",
+      "@type": "City"
+    },
+    {
+      "name": "Stockton",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Saint Paul",
+      "@type": "City"
+    },
+    {
+      "name": "St. Louis",
+      "@type": "City"
+    },
+    {
+      "name": "Cincinnati",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburgh",
+      "@type": "City"
+    },
+    {
+      "name": "Greensboro",
+      "@type": "City"
+    },
+    {
+      "name": "Anchorage",
+      "@type": "City"
+    },
+    {
+      "name": "Plano",
+      "@type": "City"
+    },
+    {
+      "name": "Lincoln",
+      "@type": "City"
+    },
+    {
+      "name": "Orlando",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Durham",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Toledo",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Wayne",
+      "@type": "City"
+    },
+    {
+      "name": "St. Petersburg",
+      "@type": "City"
+    },
+    {
+      "name": "Laredo",
+      "@type": "City"
+    },
+    {
+      "name": "Jersey City",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "Madison",
+      "@type": "City"
+    },
+    {
+      "name": "Chandler",
+      "@type": "City"
+    },
+    {
+      "name": "Buffalo",
+      "@type": "City"
+    },
+    {
+      "name": "Lubbock",
+      "@type": "City"
+    },
+    {
+      "name": "Scottsdale",
+      "@type": "City"
+    },
+    {
+      "name": "Reno",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Gilbert",
+      "@type": "City"
+    },
+    {
+      "name": "Winston-Salem",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Norfolk",
+      "@type": "City"
+    },
+    {
+      "name": "Chesapeake",
+      "@type": "City"
+    },
+    {
+      "name": "Garland",
+      "@type": "City"
+    },
+    {
+      "name": "Irving",
+      "@type": "City"
+    },
+    {
+      "name": "Hialeah",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Boise",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "Baton Rouge",
+      "@type": "City"
+    },
+    {
+      "name": "Spokane",
+      "@type": "City"
+    },
+    {
+      "name": "Des Moines",
+      "@type": "City"
+    },
+    {
+      "name": "Tacoma",
+      "@type": "City"
+    },
+    {
+      "name": "San Bernardino",
+      "@type": "City"
+    },
+    {
+      "name": "Modesto",
+      "@type": "City"
+    },
+    {
+      "name": "Fontana",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Gather Internal Data Sources — Start with what you already have. Dive into your website's search logs to see what people are typing in. Review support tickets, customer service call transcript"
+}
