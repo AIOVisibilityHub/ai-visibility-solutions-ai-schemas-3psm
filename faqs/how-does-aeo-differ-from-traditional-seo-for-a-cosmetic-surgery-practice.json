@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does AEO differ from traditional SEO for a cosmetic surgery practice?",
-  "description": "Traditional SEO focuses on website ranking, while AEO optimizes content to provide direct answers in search snippets and via voice assistants for cosmetic surge",
   "url": "aiovisibility.com/faq/how-does-aeo-differ-from-traditional-seo-for-a-cosmetic-surgery-practice",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does AEO differ from traditional SEO for a cosmetic surgery practice?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While traditional SEO focuses on ranking your website for keywords, AEO targets direct answers in search. Traditional SEO aims for high search result placement, often linking to a page. AEO aims for your content to *be* the answer displayed directly in snippets, knowledge panels, or read aloud by voice assistants. For cosmetic surgery, this means structuring content to satisfy specific patient queries about procedures, recovery, or costs, rather than just ranking a service page. AEO is a refinement of SEO, tailored for the evolving landscape of conversational search.",
-        "description": "Traditional SEO focuses on website ranking, while AEO optimizes content to provide direct answers in search snippets and via voice assistants for cosmetic surgery queries."
-      }
-    }
-  ],
+  "name": "How does AEO differ from traditional SEO for a cosmetic surgery practice?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does AEO differ from traditional SEO for a cosmetic surgery practice?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While traditional SEO focuses on ranking your website for keywords, AEO targets direct answers in search. Traditional SEO aims for high search result placement, often linking to a page. AEO aims for your content to *be* the answer displayed directly in snippets, knowledge panels, or read aloud by voice assistants. For cosmetic surgery, this means structuring content to satisfy specific patient queries about procedures, recovery, or costs, rather than just ranking a service page. AEO is a refinement of SEO, tailored for the evolving landscape of conversational search.",
+        "@type": "Answer",
+        "description": "Traditional SEO focuses on website ranking, while AEO optimizes content to provide direct answers in search snippets and via voice assistants for cosmetic surgery queries."
+      }
+    }
+  ],
+  "description": "Traditional SEO focuses on website ranking, while AEO optimizes content to provide direct answers in search snippets and via voice assistants for cosmetic surge"
 }

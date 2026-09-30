@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I measure the success of AEO for my pediatric practice?",
-  "description": "Measure AEO success by tracking featured snippets, voice search impressions, click-through rates from 'People Also Ask,' and the increase in new patient inquiri",
   "url": "aiovisibility.com/faq/how-do-i-measure-the-success-of-aeo-for-my-pediatric-practice",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I measure the success of AEO for my pediatric practice?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Measuring AEO success involves tracking several key metrics beyond traditional website traffic. Look at the number of featured snippets your content appears in, voice search impressions, and the click-through rate from 'People Also Ask' sections. Monitor branded and non-branded search queries that trigger direct answers featuring your practice. Increased visibility in these answer engine elements, coupled with higher engagement metrics on optimized pages, and ultimately, an increase in new patient inquiries or appointments, are strong indicators of successful AEO implementation.",
-        "description": "Measure AEO success by tracking featured snippets, voice search impressions, click-through rates from 'People Also Ask,' and the increase in new patient inquiries."
-      }
-    }
-  ],
+  "name": "How do I measure the success of AEO for my pediatric practice?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I measure the success of AEO for my pediatric practice?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Measuring AEO success involves tracking several key metrics beyond traditional website traffic. Look at the number of featured snippets your content appears in, voice search impressions, and the click-through rate from 'People Also Ask' sections. Monitor branded and non-branded search queries that trigger direct answers featuring your practice. Increased visibility in these answer engine elements, coupled with higher engagement metrics on optimized pages, and ultimately, an increase in new patient inquiries or appointments, are strong indicators of successful AEO implementation.",
+        "@type": "Answer",
+        "description": "Measure AEO success by tracking featured snippets, voice search impressions, click-through rates from 'People Also Ask,' and the increase in new patient inquiries."
+      }
+    }
+  ],
+  "description": "Measure AEO success by tracking featured snippets, voice search impressions, click-through rates from 'People Also Ask,' and the increase in new patient inquiri"
 }

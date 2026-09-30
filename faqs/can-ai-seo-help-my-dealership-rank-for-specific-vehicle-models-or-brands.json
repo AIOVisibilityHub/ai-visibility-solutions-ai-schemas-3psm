@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can AI SEO help my dealership rank for specific vehicle models or brands?",
-  "description": "Yes, AI SEO helps dealerships rank for specific vehicle models or brands by analyzing search intent and optimizing product pages and content for relevant keywor",
   "url": "aiovisibility.com/faq/can-ai-seo-help-my-dealership-rank-for-specific-vehicle-models-or-brands",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can AI SEO help my dealership rank for specific vehicle models or brands?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, AI SEO is highly effective in helping dealerships rank for specific vehicle models or brands. AI tools can analyze search intent for queries like 'new Honda Civic for sale New York City' or 'used Toyota Tacoma,' identifying optimal keywords and content strategies. It can also help create detailed, optimized product pages for each model, ensuring all relevant specifications, features, and imagery are present and discoverable by search engines. This targeted optimization ensures that when potential buyers search for a particular vehicle, your dealership's relevant inventory and information appear prominently.",
-        "description": "Yes, AI SEO helps dealerships rank for specific vehicle models or brands by analyzing search intent and optimizing product pages and content for relevant keywords."
-      }
-    }
-  ],
+  "name": "Can AI SEO help my dealership rank for specific vehicle models or brands?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can AI SEO help my dealership rank for specific vehicle models or brands?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, AI SEO is highly effective in helping dealerships rank for specific vehicle models or brands. AI tools can analyze search intent for queries like 'new Honda Civic for sale New York City' or 'used Toyota Tacoma,' identifying optimal keywords and content strategies. It can also help create detailed, optimized product pages for each model, ensuring all relevant specifications, features, and imagery are present and discoverable by search engines. This targeted optimization ensures that when potential buyers search for a particular vehicle, your dealership's relevant inventory and information appear prominently.",
+        "@type": "Answer",
+        "description": "Yes, AI SEO helps dealerships rank for specific vehicle models or brands by analyzing search intent and optimizing product pages and content for relevant keywords."
+      }
+    }
+  ],
+  "description": "Yes, AI SEO helps dealerships rank for specific vehicle models or brands by analyzing search intent and optimizing product pages and content for relevant keywor"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should a pediatrician consider investing in AI SEO services?",
-  "description": "Pediatricians should consider AI SEO when seeking significant practice growth, new patient acquisition, or improved online visibility in competitive markets.",
   "url": "aiovisibility.com/faq/when-should-a-pediatrician-consider-investing-in-ai-seo-services",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should a pediatrician consider investing in AI SEO services?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A pediatrician should consider investing in AI SEO services if they are looking to significantly grow their practice, increase new patient acquisition, or improve their online visibility in a competitive market. It's especially beneficial if your current marketing efforts aren't yielding desired results, or if you want to leverage advanced technology to stay ahead of competitors. Practices aiming for long-term sustainable growth and a strong digital footprint will find AI SEO a valuable investment.",
-        "description": "Pediatricians should consider AI SEO when seeking significant practice growth, new patient acquisition, or improved online visibility in competitive markets."
-      }
-    }
-  ],
+  "name": "When should a pediatrician consider investing in AI SEO services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should a pediatrician consider investing in AI SEO services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pediatrician should consider investing in AI SEO services if they are looking to significantly grow their practice, increase new patient acquisition, or improve their online visibility in a competitive market. It's especially beneficial if your current marketing efforts aren't yielding desired results, or if you want to leverage advanced technology to stay ahead of competitors. Practices aiming for long-term sustainable growth and a strong digital footprint will find AI SEO a valuable investment.",
+        "@type": "Answer",
+        "description": "Pediatricians should consider AI SEO when seeking significant practice growth, new patient acquisition, or improved online visibility in competitive markets."
+      }
+    }
+  ],
+  "description": "Pediatricians should consider AI SEO when seeking significant practice growth, new patient acquisition, or improved online visibility in competitive markets."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can generative AI create local SEO content for my specific city, like Phoenix?",
-  "description": "Yes, generative AI excels at creating local SEO content for specific cities like Phoenix, optimizing service pages, blog posts, and Google Business Profiles for",
   "url": "aiovisibility.com/faq/can-generative-ai-create-local-seo-content-for-my-specific-city-like-phoenix",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can generative AI create local SEO content for my specific city, like Phoenix?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely. Generative AI is highly effective at creating localized content, which is crucial for optometrists. It can produce city-specific service pages, blog posts addressing local concerns, and optimize your Google Business Profile with relevant local keywords and descriptions. For instance, it can generate content highlighting 'eye exam services in Phoenix' or 'best optometrist near downtown Phoenix.' This hyper-local approach ensures your practice appears in local pack results and map searches, directly targeting patients in your immediate service area.",
-        "description": "Yes, generative AI excels at creating local SEO content for specific cities like Phoenix, optimizing service pages, blog posts, and Google Business Profiles for local searches."
-      }
-    }
-  ],
+  "name": "Can generative AI create local SEO content for my specific city, like Phoenix?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can generative AI create local SEO content for my specific city, like Phoenix?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Generative AI is highly effective at creating localized content, which is crucial for optometrists. It can produce city-specific service pages, blog posts addressing local concerns, and optimize your Google Business Profile with relevant local keywords and descriptions. For instance, it can generate content highlighting 'eye exam services in Phoenix' or 'best optometrist near downtown Phoenix.' This hyper-local approach ensures your practice appears in local pack results and map searches, directly targeting patients in your immediate service area.",
+        "@type": "Answer",
+        "description": "Yes, generative AI excels at creating local SEO content for specific cities like Phoenix, optimizing service pages, blog posts, and Google Business Profiles for local searches."
+      }
+    }
+  ],
+  "description": "Yes, generative AI excels at creating local SEO content for specific cities like Phoenix, optimizing service pages, blog posts, and Google Business Profiles for"
 }

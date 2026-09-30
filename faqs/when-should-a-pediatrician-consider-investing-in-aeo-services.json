@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should a pediatrician consider investing in AEO services?",
-  "description": "Pediatricians should invest in AEO to grow their patient base, enhance online reputation, or maintain competitiveness, especially if new, relocating, or facing",
   "url": "aiovisibility.com/faq/when-should-a-pediatrician-consider-investing-in-aeo-services",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should a pediatrician consider investing in AEO services?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A pediatrician should consider investing in AEO services when they want to increase their patient base, improve their online reputation, or maintain a competitive edge in their local market. It's particularly beneficial if your practice is new, relocating, or experiencing a decline in new patient inquiries. Investing in AEO is a strategic decision for any practice looking to ensure long-term digital visibility and sustained growth in an increasingly online world.",
-        "description": "Pediatricians should invest in AEO to grow their patient base, enhance online reputation, or maintain competitiveness, especially if new, relocating, or facing declining inquiries."
-      }
-    }
-  ],
+  "name": "When should a pediatrician consider investing in AEO services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should a pediatrician consider investing in AEO services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pediatrician should consider investing in AEO services when they want to increase their patient base, improve their online reputation, or maintain a competitive edge in their local market. It's particularly beneficial if your practice is new, relocating, or experiencing a decline in new patient inquiries. Investing in AEO is a strategic decision for any practice looking to ensure long-term digital visibility and sustained growth in an increasingly online world.",
+        "@type": "Answer",
+        "description": "Pediatricians should invest in AEO to grow their patient base, enhance online reputation, or maintain competitiveness, especially if new, relocating, or facing declining inquiries."
+      }
+    }
+  ],
+  "description": "Pediatricians should invest in AEO to grow their patient base, enhance online reputation, or maintain competitiveness, especially if new, relocating, or facing"
 }

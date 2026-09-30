@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost of website optimization services for a pediatrician?",
-  "description": "Costs for pediatrician website optimization vary, generally from a few hundred to several thousand dollars monthly, depending on service scope and provider.",
   "url": "aiovisibility.com/faq/what-is-the-typical-cost-of-website-optimization-services-for-a-pediatrician",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost of website optimization services for a pediatrician?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of website optimization services for a pediatrician can vary widely based on the scope of work, the provider's experience, and the desired outcomes. Basic SEO and performance optimization packages might start from a few hundred dollars per month, while comprehensive strategies including content creation, local SEO, and technical audits could range into several thousands. A reputable provider will offer transparent pricing and tailored solutions after assessing your practice's specific needs and goals.",
-        "description": "Costs for pediatrician website optimization vary, generally from a few hundred to several thousand dollars monthly, depending on service scope and provider."
-      }
-    }
-  ],
+  "name": "What is the typical cost of website optimization services for a pediatrician?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of website optimization services for a pediatrician?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of website optimization services for a pediatrician can vary widely based on the scope of work, the provider's experience, and the desired outcomes. Basic SEO and performance optimization packages might start from a few hundred dollars per month, while comprehensive strategies including content creation, local SEO, and technical audits could range into several thousands. A reputable provider will offer transparent pricing and tailored solutions after assessing your practice's specific needs and goals.",
+        "@type": "Answer",
+        "description": "Costs for pediatrician website optimization vary, generally from a few hundred to several thousand dollars monthly, depending on service scope and provider."
+      }
+    }
+  ],
+  "description": "Costs for pediatrician website optimization vary, generally from a few hundred to several thousand dollars monthly, depending on service scope and provider."
 }

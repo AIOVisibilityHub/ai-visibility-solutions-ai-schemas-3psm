@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When is the right time for an optometry practice to invest in AEO services?",
-  "description": "An optometry practice should invest in AEO when aiming to grow its patient base, expand services, or improve its competitive online standing.",
   "url": "aiovisibility.com/faq/when-is-the-right-time-for-an-optometry-practice-to-invest-in-aeo-services",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When is the right time for an optometry practice to invest in AEO services?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The ideal time for an optometry practice to invest in AEO services is typically when they are looking to grow their patient base, expand services, or improve their competitive standing. It's particularly beneficial if current patient acquisition methods are plateauing or if the practice's online visibility is lagging behind competitors. Early adoption can establish a strong digital foundation, while established practices can use AEO to refresh strategies and achieve new growth targets.",
-        "description": "An optometry practice should invest in AEO when aiming to grow its patient base, expand services, or improve its competitive online standing."
-      }
-    }
-  ],
+  "name": "When is the right time for an optometry practice to invest in AEO services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When is the right time for an optometry practice to invest in AEO services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ideal time for an optometry practice to invest in AEO services is typically when they are looking to grow their patient base, expand services, or improve their competitive standing. It's particularly beneficial if current patient acquisition methods are plateauing or if the practice's online visibility is lagging behind competitors. Early adoption can establish a strong digital foundation, while established practices can use AEO to refresh strategies and achieve new growth targets.",
+        "@type": "Answer",
+        "description": "An optometry practice should invest in AEO when aiming to grow its patient base, expand services, or improve its competitive online standing."
+      }
+    }
+  ],
+  "description": "An optometry practice should invest in AEO when aiming to grow its patient base, expand services, or improve its competitive online standing."
 }

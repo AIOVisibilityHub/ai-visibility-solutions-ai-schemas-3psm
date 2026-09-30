@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why is mobile responsiveness crucial for a cosmetic surgeon's website?",
-  "description": "Mobile responsiveness ensures a positive user experience on all devices, which is critical as many potential patients browse on mobile, impacting search ranking",
   "url": "aiovisibility.com/faq/why-is-mobile-responsiveness-crucial-for-a-cosmetic-surgeon-s-website",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why is mobile responsiveness crucial for a cosmetic surgeon's website?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Mobile responsiveness is crucial because a significant portion of potential patients browse websites on smartphones and tablets. A mobile-friendly website automatically adjusts its layout to fit different screen sizes, ensuring a seamless and positive user experience. If your website isn't mobile-responsive, visitors on mobile devices may encounter slow loading times, difficult navigation, and unreadable text, leading to frustration and them leaving your site for a competitor. This negatively impacts your search rankings and patient acquisition efforts.",
-        "description": "Mobile responsiveness ensures a positive user experience on all devices, which is critical as many potential patients browse on mobile, impacting search rankings and patient acquisition."
-      }
-    }
-  ],
+  "name": "Why is mobile responsiveness crucial for a cosmetic surgeon's website?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why is mobile responsiveness crucial for a cosmetic surgeon's website?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mobile responsiveness is crucial because a significant portion of potential patients browse websites on smartphones and tablets. A mobile-friendly website automatically adjusts its layout to fit different screen sizes, ensuring a seamless and positive user experience. If your website isn't mobile-responsive, visitors on mobile devices may encounter slow loading times, difficult navigation, and unreadable text, leading to frustration and them leaving your site for a competitor. This negatively impacts your search rankings and patient acquisition efforts.",
+        "@type": "Answer",
+        "description": "Mobile responsiveness ensures a positive user experience on all devices, which is critical as many potential patients browse on mobile, impacting search rankings and patient acquisition."
+      }
+    }
+  ],
+  "description": "Mobile responsiveness ensures a positive user experience on all devices, which is critical as many potential patients browse on mobile, impacting search ranking"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is AI SEO a one-time setup, or is ongoing maintenance required?",
-  "description": "AI SEO is an ongoing process, not a one-time setup, requiring continuous monitoring and adjustments to adapt to algorithm changes and competitor actions.",
   "url": "aiovisibility.com/faq/is-ai-seo-a-one-time-setup-or-is-ongoing-maintenance-required",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is AI SEO a one-time setup, or is ongoing maintenance required?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AI SEO is not a one-time setup; it requires continuous monitoring, analysis, and adjustments. Search engine algorithms are constantly evolving, and competitor strategies change. AI tools continuously track these shifts, identify new opportunities, and flag potential issues. Ongoing maintenance involves regularly updating content, optimizing new pages, refining keyword targeting, and addressing technical SEO concerns to maintain and improve your search rankings. This adaptive approach ensures your pool contracting business stays ahead in search results.",
-        "description": "AI SEO is an ongoing process, not a one-time setup, requiring continuous monitoring and adjustments to adapt to algorithm changes and competitor actions."
-      }
-    }
-  ],
+  "name": "Is AI SEO a one-time setup, or is ongoing maintenance required?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is AI SEO a one-time setup, or is ongoing maintenance required?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI SEO is not a one-time setup; it requires continuous monitoring, analysis, and adjustments. Search engine algorithms are constantly evolving, and competitor strategies change. AI tools continuously track these shifts, identify new opportunities, and flag potential issues. Ongoing maintenance involves regularly updating content, optimizing new pages, refining keyword targeting, and addressing technical SEO concerns to maintain and improve your search rankings. This adaptive approach ensures your pool contracting business stays ahead in search results.",
+        "@type": "Answer",
+        "description": "AI SEO is an ongoing process, not a one-time setup, requiring continuous monitoring and adjustments to adapt to algorithm changes and competitor actions."
+      }
+    }
+  ],
+  "description": "AI SEO is an ongoing process, not a one-time setup, requiring continuous monitoring and adjustments to adapt to algorithm changes and competitor actions."
 }

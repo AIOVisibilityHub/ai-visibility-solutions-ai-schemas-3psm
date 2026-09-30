@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of content can GEO create for my cosmetic surgery practice?",
-  "description": "GEO can create blog posts, service descriptions, social media content, FAQs, and ad copy for cosmetic surgeons, all optimized for search and patient engagement.",
   "url": "aiovisibility.com/faq/what-kind-of-content-can-geo-create-for-my-cosmetic-surgery-practice",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of content can GEO create for my cosmetic surgery practice?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "GEO can generate a wide range of content tailored for cosmetic surgeons. This includes blog posts discussing specific procedures, service page descriptions, patient testimonials, social media updates, and FAQ sections. It can also assist in drafting email newsletters, video scripts, and ad campaign text. The content is designed to be informative, engaging, and optimized for search engines to attract individuals researching cosmetic treatments.",
-        "description": "GEO can create blog posts, service descriptions, social media content, FAQs, and ad copy for cosmetic surgeons, all optimized for search and patient engagement."
-      }
-    }
-  ],
+  "name": "What kind of content can GEO create for my cosmetic surgery practice?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of content can GEO create for my cosmetic surgery practice?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "GEO can generate a wide range of content tailored for cosmetic surgeons. This includes blog posts discussing specific procedures, service page descriptions, patient testimonials, social media updates, and FAQ sections. It can also assist in drafting email newsletters, video scripts, and ad campaign text. The content is designed to be informative, engaging, and optimized for search engines to attract individuals researching cosmetic treatments.",
+        "@type": "Answer",
+        "description": "GEO can create blog posts, service descriptions, social media content, FAQs, and ad copy for cosmetic surgeons, all optimized for search and patient engagement."
+      }
+    }
+  ],
+  "description": "GEO can create blog posts, service descriptions, social media content, FAQs, and ad copy for cosmetic surgeons, all optimized for search and patient engagement."
 }
