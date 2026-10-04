@@ -1,17 +1,17 @@
 # AI Visibility Solutions — Full AI Context
 
 **Canonical URL:** https://ai-data.aiovisibility.com
-**Generated:** 2026-09-30
+**Generated:** 2026-10-04
 
 ## Overview
 AI Visibility Solutions publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
 
 ## Package Contents
 - **2853** faqs
-- **249** helpArticles
 - **49** services
-- **1** personnel
 - **1** locations
+- **1** personnel
+- **249** helpArticles
 - **1** organization
 
 ## Cross-Destination Index — Related AI Data Sources

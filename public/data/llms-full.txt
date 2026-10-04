@@ -1,16 +1,16 @@
 AI Visibility Solutions — Extended AI Context
 
 Canonical: https://ai-data.aiovisibility.com
-Generated: 2026-09-30
+Generated: 2026-10-04
 
 AI Visibility Solutions maintains a canonical AI Data Package designed so AI systems (ChatGPT, Perplexity, Claude, Google AI) can find the entity reliably, understand its services and team, and trust its citations and structured data.
 
 Package contents:
 - 2853 faqs
-- 249 helpArticles
 - 49 services
-- 1 personnel
 - 1 locations
+- 1 personnel
+- 249 helpArticles
 - 1 organization
 
 ## Cross-Destination Index — Related AI Data Sources
