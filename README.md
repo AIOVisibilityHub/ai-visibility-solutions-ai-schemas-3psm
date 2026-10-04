@@ -10,10 +10,10 @@ Canonical AI Data Package for AI Visibility Solutions.
 
 ## Stats
 - 2853 faqs
-- 249 helpArticles
 - 49 services
-- 1 personnel
 - 1 locations
+- 1 personnel
+- 249 helpArticles
 - 1 organization
 - **3449** total
 
