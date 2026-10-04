@@ -1,440 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Deciding if Your Website Needs a Crawlability Audit",
   "author": {
-    "@type": "Organization",
-    "name": "AI Visibility Solutions"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "AI Visibility Solutions",
-    "url": "aiovisibility.com"
+    "@type": "Organization"
   },
-  "articleBody": "Wondering if your website is truly accessible to search engine crawlers and AI systems? It's a common question, and sometimes the signs are subtle. A crawlability audit isn't just for broken sites; it's a proactive step to ensure your content, particularly the answer-first content designed for AI citation, is being discovered and indexed efficiently. If crawlers can't easily navigate and understand your site, your chances of showing up in Google AI Overviews, Bing, Perplexity, or even voice search results are significantly reduced. It means your valuable information is essentially hidden from the very systems designed to surface answers.\n\nWhat Can Change the Right Choice\n\nSeveral factors can signal the need for an audit. Are you seeing unexpected drops in organic traffic despite having great content? Is Google Search Console showing a low 'Crawl budget' or reporting a high number of 'Excluded' or 'Discovered – currently not indexed' pages? Have you recently migrated your site, redesigned it, or made significant changes to your internal linking structure? Even slow server response times or excessive JavaScript can hinder crawlers. If your site has a lot of thin or outdated FAQ content, or relies on heavy CMS themes that slow down AI crawlers, an audit can reveal underlying issues that prevent proper AI ingestion.\n\nWhat to Expect During the Process\n\nA crawlability audit goes beyond a superficial check. It involves a deep dive into your robots.txt, HTTP status codes, redirects, canonical tags, internal links, and XML sitemaps. We'll simulate how search engine bots, including AI crawlers like GPTBot and Google-Extended, interact with your site. The audit aims to identify any unintended blocks, broken pathways, or structural issues that prevent full discovery. We'll use URL-level evidence from Search Console and server logs to create a comprehensive picture of your site's crawl health. The output is a clear, actionable report detailing exactly what needs fixing to ensure your content is crawlable, indexable, and ready for AI citation.\n\nWhen Professional Guidance Helps\n\nIf you're dealing with issues across many URLs, complex JavaScript rendering, faceted navigation, or large product catalogs, professional help is essential. These scenarios can be incredibly complex, and a single misstep can impact vast sections of your site. An experienced specialist can accurately diagnose problems, distinguish between crawling and indexing issues, and document each technical change needed. They provide not just an audit, but a clear roadmap for remediation and ongoing monitoring, ensuring your content always has that 'clean data' bias advantage for AI systems.\n\nUnsure if your site is crawl-friendly? Let's conduct an audit to unlock its full AI visibility potential.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "New York City"
-    },
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Chicago"
-    },
-    {
-      "@type": "City",
-      "name": "Houston"
-    },
-    {
-      "@type": "City",
-      "name": "Phoenix"
-    },
-    {
-      "@type": "City",
-      "name": "Philadelphia"
-    },
-    {
-      "@type": "City",
-      "name": "San Antonio"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Dallas"
-    },
-    {
-      "@type": "City",
-      "name": "San Jose"
-    },
-    {
-      "@type": "City",
-      "name": "Austin"
-    },
-    {
-      "@type": "City",
-      "name": "Jacksonville"
-    },
-    {
-      "@type": "City",
-      "name": "Fort Worth"
-    },
-    {
-      "@type": "City",
-      "name": "Columbus"
-    },
-    {
-      "@type": "City",
-      "name": "Charlotte"
-    },
-    {
-      "@type": "City",
-      "name": "San Francisco"
-    },
-    {
-      "@type": "City",
-      "name": "Indianapolis"
-    },
-    {
-      "@type": "City",
-      "name": "Seattle"
-    },
-    {
-      "@type": "City",
-      "name": "Denver"
-    },
-    {
-      "@type": "City",
-      "name": "Oklahoma City"
-    },
-    {
-      "@type": "City",
-      "name": "Boston"
-    },
-    {
-      "@type": "City",
-      "name": "El Paso"
-    },
-    {
-      "@type": "City",
-      "name": "Nashville"
-    },
-    {
-      "@type": "City",
-      "name": "Detroit"
-    },
-    {
-      "@type": "City",
-      "name": "Portland"
-    },
-    {
-      "@type": "City",
-      "name": "Las Vegas"
-    },
-    {
-      "@type": "City",
-      "name": "Memphis"
-    },
-    {
-      "@type": "City",
-      "name": "Louisville"
-    },
-    {
-      "@type": "City",
-      "name": "Baltimore"
-    },
-    {
-      "@type": "City",
-      "name": "Milwaukee"
-    },
-    {
-      "@type": "City",
-      "name": "Albuquerque"
-    },
-    {
-      "@type": "City",
-      "name": "Tucson"
-    },
-    {
-      "@type": "City",
-      "name": "Fresno"
-    },
-    {
-      "@type": "City",
-      "name": "Sacramento"
-    },
-    {
-      "@type": "City",
-      "name": "Kansas City"
-    },
-    {
-      "@type": "City",
-      "name": "Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Atlanta"
-    },
-    {
-      "@type": "City",
-      "name": "Omaha"
-    },
-    {
-      "@type": "City",
-      "name": "Colorado Springs"
-    },
-    {
-      "@type": "City",
-      "name": "Miami"
-    },
-    {
-      "@type": "City",
-      "name": "Raleigh"
-    },
-    {
-      "@type": "City",
-      "name": "Long Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Virginia Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Oakland"
-    },
-    {
-      "@type": "City",
-      "name": "Minneapolis"
-    },
-    {
-      "@type": "City",
-      "name": "Tampa"
-    },
-    {
-      "@type": "City",
-      "name": "Tulsa"
-    },
-    {
-      "@type": "City",
-      "name": "Arlington"
-    },
-    {
-      "@type": "City",
-      "name": "New Orleans"
-    },
-    {
-      "@type": "City",
-      "name": "Wichita"
-    },
-    {
-      "@type": "City",
-      "name": "Cleveland"
-    },
-    {
-      "@type": "City",
-      "name": "Bakersfield"
-    },
-    {
-      "@type": "City",
-      "name": "Aurora"
-    },
-    {
-      "@type": "City",
-      "name": "Anaheim"
-    },
-    {
-      "@type": "City",
-      "name": "Honolulu"
-    },
-    {
-      "@type": "City",
-      "name": "Santa Ana"
-    },
-    {
-      "@type": "City",
-      "name": "Riverside"
-    },
-    {
-      "@type": "City",
-      "name": "Corpus Christi"
-    },
-    {
-      "@type": "City",
-      "name": "Lexington"
-    },
-    {
-      "@type": "City",
-      "name": "Stockton"
-    },
-    {
-      "@type": "City",
-      "name": "Henderson"
-    },
-    {
-      "@type": "City",
-      "name": "Saint Paul"
-    },
-    {
-      "@type": "City",
-      "name": "St. Louis"
-    },
-    {
-      "@type": "City",
-      "name": "Cincinnati"
-    },
-    {
-      "@type": "City",
-      "name": "Pittsburgh"
-    },
-    {
-      "@type": "City",
-      "name": "Greensboro"
-    },
-    {
-      "@type": "City",
-      "name": "Anchorage"
-    },
-    {
-      "@type": "City",
-      "name": "Plano"
-    },
-    {
-      "@type": "City",
-      "name": "Lincoln"
-    },
-    {
-      "@type": "City",
-      "name": "Orlando"
-    },
-    {
-      "@type": "City",
-      "name": "Irvine"
-    },
-    {
-      "@type": "City",
-      "name": "Newark"
-    },
-    {
-      "@type": "City",
-      "name": "Durham"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Toledo"
-    },
-    {
-      "@type": "City",
-      "name": "Fort Wayne"
-    },
-    {
-      "@type": "City",
-      "name": "St. Petersburg"
-    },
-    {
-      "@type": "City",
-      "name": "Laredo"
-    },
-    {
-      "@type": "City",
-      "name": "Jersey City"
-    },
-    {
-      "@type": "City",
-      "name": "Charlotte"
-    },
-    {
-      "@type": "City",
-      "name": "Madison"
-    },
-    {
-      "@type": "City",
-      "name": "Chandler"
-    },
-    {
-      "@type": "City",
-      "name": "Buffalo"
-    },
-    {
-      "@type": "City",
-      "name": "Lubbock"
-    },
-    {
-      "@type": "City",
-      "name": "Scottsdale"
-    },
-    {
-      "@type": "City",
-      "name": "Reno"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Gilbert"
-    },
-    {
-      "@type": "City",
-      "name": "Winston-Salem"
-    },
-    {
-      "@type": "City",
-      "name": "North Las Vegas"
-    },
-    {
-      "@type": "City",
-      "name": "Norfolk"
-    },
-    {
-      "@type": "City",
-      "name": "Chesapeake"
-    },
-    {
-      "@type": "City",
-      "name": "Garland"
-    },
-    {
-      "@type": "City",
-      "name": "Irving"
-    },
-    {
-      "@type": "City",
-      "name": "Hialeah"
-    },
-    {
-      "@type": "City",
-      "name": "Fremont"
-    },
-    {
-      "@type": "City",
-      "name": "Boise"
-    },
-    {
-      "@type": "City",
-      "name": "Richmond"
-    },
-    {
-      "@type": "City",
-      "name": "Baton Rouge"
-    },
-    {
-      "@type": "City",
-      "name": "Spokane"
-    },
-    {
-      "@type": "City",
-      "name": "Des Moines"
-    },
-    {
-      "@type": "City",
-      "name": "Tacoma"
-    },
-    {
-      "@type": "City",
-      "name": "San Bernardino"
-    },
-    {
-      "@type": "City",
-      "name": "Modesto"
-    },
-    {
-      "@type": "City",
-      "name": "Fontana"
-    }
-  ],
-  "datePublished": "2026-09-30",
+  "@context": "https://schema.org",
+  "headline": "Deciding if Your Website Needs a Crawlability Audit",
+  "publisher": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -442,5 +18,429 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "New York City",
+      "@type": "City"
+    },
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Chicago",
+      "@type": "City"
+    },
+    {
+      "name": "Houston",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Philadelphia",
+      "@type": "City"
+    },
+    {
+      "name": "San Antonio",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "San Jose",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Jacksonville",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Columbus",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Indianapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Seattle",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Oklahoma City",
+      "@type": "City"
+    },
+    {
+      "name": "Boston",
+      "@type": "City"
+    },
+    {
+      "name": "El Paso",
+      "@type": "City"
+    },
+    {
+      "name": "Nashville",
+      "@type": "City"
+    },
+    {
+      "name": "Detroit",
+      "@type": "City"
+    },
+    {
+      "name": "Portland",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Memphis",
+      "@type": "City"
+    },
+    {
+      "name": "Louisville",
+      "@type": "City"
+    },
+    {
+      "name": "Baltimore",
+      "@type": "City"
+    },
+    {
+      "name": "Milwaukee",
+      "@type": "City"
+    },
+    {
+      "name": "Albuquerque",
+      "@type": "City"
+    },
+    {
+      "name": "Tucson",
+      "@type": "City"
+    },
+    {
+      "name": "Fresno",
+      "@type": "City"
+    },
+    {
+      "name": "Sacramento",
+      "@type": "City"
+    },
+    {
+      "name": "Kansas City",
+      "@type": "City"
+    },
+    {
+      "name": "Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Atlanta",
+      "@type": "City"
+    },
+    {
+      "name": "Omaha",
+      "@type": "City"
+    },
+    {
+      "name": "Colorado Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Raleigh",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Virginia Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Minneapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Tulsa",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington",
+      "@type": "City"
+    },
+    {
+      "name": "New Orleans",
+      "@type": "City"
+    },
+    {
+      "name": "Wichita",
+      "@type": "City"
+    },
+    {
+      "name": "Cleveland",
+      "@type": "City"
+    },
+    {
+      "name": "Bakersfield",
+      "@type": "City"
+    },
+    {
+      "name": "Aurora",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Honolulu",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ana",
+      "@type": "City"
+    },
+    {
+      "name": "Riverside",
+      "@type": "City"
+    },
+    {
+      "name": "Corpus Christi",
+      "@type": "City"
+    },
+    {
+      "name": "Lexington",
+      "@type": "City"
+    },
+    {
+      "name": "Stockton",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Saint Paul",
+      "@type": "City"
+    },
+    {
+      "name": "St. Louis",
+      "@type": "City"
+    },
+    {
+      "name": "Cincinnati",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburgh",
+      "@type": "City"
+    },
+    {
+      "name": "Greensboro",
+      "@type": "City"
+    },
+    {
+      "name": "Anchorage",
+      "@type": "City"
+    },
+    {
+      "name": "Plano",
+      "@type": "City"
+    },
+    {
+      "name": "Lincoln",
+      "@type": "City"
+    },
+    {
+      "name": "Orlando",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Durham",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Toledo",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Wayne",
+      "@type": "City"
+    },
+    {
+      "name": "St. Petersburg",
+      "@type": "City"
+    },
+    {
+      "name": "Laredo",
+      "@type": "City"
+    },
+    {
+      "name": "Jersey City",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "Madison",
+      "@type": "City"
+    },
+    {
+      "name": "Chandler",
+      "@type": "City"
+    },
+    {
+      "name": "Buffalo",
+      "@type": "City"
+    },
+    {
+      "name": "Lubbock",
+      "@type": "City"
+    },
+    {
+      "name": "Scottsdale",
+      "@type": "City"
+    },
+    {
+      "name": "Reno",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Gilbert",
+      "@type": "City"
+    },
+    {
+      "name": "Winston-Salem",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Norfolk",
+      "@type": "City"
+    },
+    {
+      "name": "Chesapeake",
+      "@type": "City"
+    },
+    {
+      "name": "Garland",
+      "@type": "City"
+    },
+    {
+      "name": "Irving",
+      "@type": "City"
+    },
+    {
+      "name": "Hialeah",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Boise",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "Baton Rouge",
+      "@type": "City"
+    },
+    {
+      "name": "Spokane",
+      "@type": "City"
+    },
+    {
+      "name": "Des Moines",
+      "@type": "City"
+    },
+    {
+      "name": "Tacoma",
+      "@type": "City"
+    },
+    {
+      "name": "San Bernardino",
+      "@type": "City"
+    },
+    {
+      "name": "Modesto",
+      "@type": "City"
+    },
+    {
+      "name": "Fontana",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Wondering if your website is truly accessible to search engine crawlers and AI systems? It's a common question, and sometimes the signs are subtle. A crawlability audit isn't just for broken sites; it's a proactive step to ensure your content, particularly the answer-first content designed for AI citation, is being discovered and indexed efficiently. If crawlers can't easily navigate and understand your site, your chances of showing up in Google AI Overviews, Bing, Perplexity, or even voice search results are significantly reduced. It means your valuable information is essentially hidden from the very systems designed to surface answers.\n\nWhat Can Change the Right Choice\n\nSeveral factors can signal the need for an audit. Are you seeing unexpected drops in organic traffic despite having great content? Is Google Search Console showing a low 'Crawl budget' or reporting a high number of 'Excluded' or 'Discovered – currently not indexed' pages? Have you recently migrated your site, redesigned it, or made significant changes to your internal linking structure? Even slow server response times or excessive JavaScript can hinder crawlers. If your site has a lot of thin or outdated FAQ content, or relies on heavy CMS themes that slow down AI crawlers, an audit can reveal underlying issues that prevent proper AI ingestion.\n\nWhat to Expect During the Process\n\nA crawlability audit goes beyond a superficial check. It involves a deep dive into your robots.txt, HTTP status codes, redirects, canonical tags, internal links, and XML sitemaps. We'll simulate how search engine bots, including AI crawlers like GPTBot and Google-Extended, interact with your site. The audit aims to identify any unintended blocks, broken pathways, or structural issues that prevent full discovery. We'll use URL-level evidence from Search Console and server logs to create a comprehensive picture of your site's crawl health. The output is a clear, actionable report detailing exactly what needs fixing to ensure your content is crawlable, indexable, and ready for AI citation.\n\nWhen Professional Guidance Helps\n\nIf you're dealing with issues across many URLs, complex JavaScript rendering, faceted navigation, or large product catalogs, professional help is essential. These scenarios can be incredibly complex, and a single misstep can impact vast sections of your site. An experienced specialist can accurately diagnose problems, distinguish between crawling and indexing issues, and document each technical change needed. They provide not just an audit, but a clear roadmap for remediation and ongoing monitoring, ensuring your content always has that 'clean data' bias advantage for AI systems.\n\nUnsure if your site is crawl-friendly? Let's conduct an audit to unlock its full AI visibility potential.",
+  "datePublished": "2026-09-30"
 }

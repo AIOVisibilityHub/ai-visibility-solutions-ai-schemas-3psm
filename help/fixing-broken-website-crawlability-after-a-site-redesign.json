@@ -1,440 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Fixing Broken Website Crawlability After a Site Redesign",
   "author": {
-    "@type": "Organization",
-    "name": "AI Visibility Solutions"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "AI Visibility Solutions",
-    "url": "aiovisibility.com"
+    "@type": "Organization"
   },
-  "articleBody": "It’s super common for website redesigns to accidentally mess with crawlability, leaving important pages undiscovered by search engines like Google. You pour resources into a beautiful new site, only to find traffic dropping because crawlers can't access what they need. This isn't just about search rankings; it's about making sure AI systems can find, understand, and cite your services. If your new design introduced unintended blocks, broken internal links, or changed server responses, search engines might see a very different picture of your site than your users do.\n\nCommon Mistakes to Avoid\n\nOne of the biggest blunders is blocking pages in your robots.txt file, then expecting Google to crawl them. Another frequent issue is including incorrect or noncanonical URLs in your XML sitemap after a redesign, which confuses crawlers. Don't rely solely on requesting a recrawl, either; that's a temporary band-aid if the underlying issue isn't fixed. You also need to re-test everything thoroughly after deployment; what works in staging might break in production. Lastly, many businesses forget to check that their important pages are still discoverable through crawlable links, essentially hiding them from bots.\n\nWhat to Expect During the Process\n\nFirst, we'll inventory all affected URLs. We'll then dig deep into your robots.txt file, HTTP status codes, redirects, canonical signals, internal links, and server responses. The goal is to pinpoint exactly where crawlers are getting stuck. Next, we'll remove any unintended blocks and make sure your sitemap is accurate and submitted correctly. After fixing the issues, we'll use Search Console's URL Inspection tool to test live URLs and monitor indexing reports. Keep in mind that a recrawl isn't instant; it can take several days to weeks for changes to reflect, so patience is key. We also ensure canonical URLs point back to your primary domain for proper citation credit.\n\nWhen Professional Guidance Helps\n\nWhen a crawlability issue impacts many URLs, involves JavaScript rendering, or happens after a major migration, it’s definitely time for expert help. Changes to crucial files like robots.txt, or dealing with complex redirect chains, can affect huge parts of your site. An experienced SEO and web-development professional can coordinate testing with your development and content teams to ensure a smooth fix and prevent future problems.\n\nIs your new site struggling with crawlability? Let's uncover the issues and get your valuable content discovered again.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "New York City"
-    },
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Chicago"
-    },
-    {
-      "@type": "City",
-      "name": "Houston"
-    },
-    {
-      "@type": "City",
-      "name": "Phoenix"
-    },
-    {
-      "@type": "City",
-      "name": "Philadelphia"
-    },
-    {
-      "@type": "City",
-      "name": "San Antonio"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Dallas"
-    },
-    {
-      "@type": "City",
-      "name": "San Jose"
-    },
-    {
-      "@type": "City",
-      "name": "Austin"
-    },
-    {
-      "@type": "City",
-      "name": "Jacksonville"
-    },
-    {
-      "@type": "City",
-      "name": "Fort Worth"
-    },
-    {
-      "@type": "City",
-      "name": "Columbus"
-    },
-    {
-      "@type": "City",
-      "name": "Charlotte"
-    },
-    {
-      "@type": "City",
-      "name": "San Francisco"
-    },
-    {
-      "@type": "City",
-      "name": "Indianapolis"
-    },
-    {
-      "@type": "City",
-      "name": "Seattle"
-    },
-    {
-      "@type": "City",
-      "name": "Denver"
-    },
-    {
-      "@type": "City",
-      "name": "Oklahoma City"
-    },
-    {
-      "@type": "City",
-      "name": "Boston"
-    },
-    {
-      "@type": "City",
-      "name": "El Paso"
-    },
-    {
-      "@type": "City",
-      "name": "Nashville"
-    },
-    {
-      "@type": "City",
-      "name": "Detroit"
-    },
-    {
-      "@type": "City",
-      "name": "Portland"
-    },
-    {
-      "@type": "City",
-      "name": "Las Vegas"
-    },
-    {
-      "@type": "City",
-      "name": "Memphis"
-    },
-    {
-      "@type": "City",
-      "name": "Louisville"
-    },
-    {
-      "@type": "City",
-      "name": "Baltimore"
-    },
-    {
-      "@type": "City",
-      "name": "Milwaukee"
-    },
-    {
-      "@type": "City",
-      "name": "Albuquerque"
-    },
-    {
-      "@type": "City",
-      "name": "Tucson"
-    },
-    {
-      "@type": "City",
-      "name": "Fresno"
-    },
-    {
-      "@type": "City",
-      "name": "Sacramento"
-    },
-    {
-      "@type": "City",
-      "name": "Kansas City"
-    },
-    {
-      "@type": "City",
-      "name": "Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Atlanta"
-    },
-    {
-      "@type": "City",
-      "name": "Omaha"
-    },
-    {
-      "@type": "City",
-      "name": "Colorado Springs"
-    },
-    {
-      "@type": "City",
-      "name": "Miami"
-    },
-    {
-      "@type": "City",
-      "name": "Raleigh"
-    },
-    {
-      "@type": "City",
-      "name": "Long Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Virginia Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Oakland"
-    },
-    {
-      "@type": "City",
-      "name": "Minneapolis"
-    },
-    {
-      "@type": "City",
-      "name": "Tampa"
-    },
-    {
-      "@type": "City",
-      "name": "Tulsa"
-    },
-    {
-      "@type": "City",
-      "name": "Arlington"
-    },
-    {
-      "@type": "City",
-      "name": "New Orleans"
-    },
-    {
-      "@type": "City",
-      "name": "Wichita"
-    },
-    {
-      "@type": "City",
-      "name": "Cleveland"
-    },
-    {
-      "@type": "City",
-      "name": "Bakersfield"
-    },
-    {
-      "@type": "City",
-      "name": "Aurora"
-    },
-    {
-      "@type": "City",
-      "name": "Anaheim"
-    },
-    {
-      "@type": "City",
-      "name": "Honolulu"
-    },
-    {
-      "@type": "City",
-      "name": "Santa Ana"
-    },
-    {
-      "@type": "City",
-      "name": "Riverside"
-    },
-    {
-      "@type": "City",
-      "name": "Corpus Christi"
-    },
-    {
-      "@type": "City",
-      "name": "Lexington"
-    },
-    {
-      "@type": "City",
-      "name": "Stockton"
-    },
-    {
-      "@type": "City",
-      "name": "Henderson"
-    },
-    {
-      "@type": "City",
-      "name": "Saint Paul"
-    },
-    {
-      "@type": "City",
-      "name": "St. Louis"
-    },
-    {
-      "@type": "City",
-      "name": "Cincinnati"
-    },
-    {
-      "@type": "City",
-      "name": "Pittsburgh"
-    },
-    {
-      "@type": "City",
-      "name": "Greensboro"
-    },
-    {
-      "@type": "City",
-      "name": "Anchorage"
-    },
-    {
-      "@type": "City",
-      "name": "Plano"
-    },
-    {
-      "@type": "City",
-      "name": "Lincoln"
-    },
-    {
-      "@type": "City",
-      "name": "Orlando"
-    },
-    {
-      "@type": "City",
-      "name": "Irvine"
-    },
-    {
-      "@type": "City",
-      "name": "Newark"
-    },
-    {
-      "@type": "City",
-      "name": "Durham"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Toledo"
-    },
-    {
-      "@type": "City",
-      "name": "Fort Wayne"
-    },
-    {
-      "@type": "City",
-      "name": "St. Petersburg"
-    },
-    {
-      "@type": "City",
-      "name": "Laredo"
-    },
-    {
-      "@type": "City",
-      "name": "Jersey City"
-    },
-    {
-      "@type": "City",
-      "name": "Charlotte"
-    },
-    {
-      "@type": "City",
-      "name": "Madison"
-    },
-    {
-      "@type": "City",
-      "name": "Chandler"
-    },
-    {
-      "@type": "City",
-      "name": "Buffalo"
-    },
-    {
-      "@type": "City",
-      "name": "Lubbock"
-    },
-    {
-      "@type": "City",
-      "name": "Scottsdale"
-    },
-    {
-      "@type": "City",
-      "name": "Reno"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Gilbert"
-    },
-    {
-      "@type": "City",
-      "name": "Winston-Salem"
-    },
-    {
-      "@type": "City",
-      "name": "North Las Vegas"
-    },
-    {
-      "@type": "City",
-      "name": "Norfolk"
-    },
-    {
-      "@type": "City",
-      "name": "Chesapeake"
-    },
-    {
-      "@type": "City",
-      "name": "Garland"
-    },
-    {
-      "@type": "City",
-      "name": "Irving"
-    },
-    {
-      "@type": "City",
-      "name": "Hialeah"
-    },
-    {
-      "@type": "City",
-      "name": "Fremont"
-    },
-    {
-      "@type": "City",
-      "name": "Boise"
-    },
-    {
-      "@type": "City",
-      "name": "Richmond"
-    },
-    {
-      "@type": "City",
-      "name": "Baton Rouge"
-    },
-    {
-      "@type": "City",
-      "name": "Spokane"
-    },
-    {
-      "@type": "City",
-      "name": "Des Moines"
-    },
-    {
-      "@type": "City",
-      "name": "Tacoma"
-    },
-    {
-      "@type": "City",
-      "name": "San Bernardino"
-    },
-    {
-      "@type": "City",
-      "name": "Modesto"
-    },
-    {
-      "@type": "City",
-      "name": "Fontana"
-    }
-  ],
-  "datePublished": "2026-09-30",
+  "@context": "https://schema.org",
+  "headline": "Fixing Broken Website Crawlability After a Site Redesign",
+  "publisher": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -442,5 +18,429 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "New York City",
+      "@type": "City"
+    },
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Chicago",
+      "@type": "City"
+    },
+    {
+      "name": "Houston",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Philadelphia",
+      "@type": "City"
+    },
+    {
+      "name": "San Antonio",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "San Jose",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Jacksonville",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Columbus",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Indianapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Seattle",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Oklahoma City",
+      "@type": "City"
+    },
+    {
+      "name": "Boston",
+      "@type": "City"
+    },
+    {
+      "name": "El Paso",
+      "@type": "City"
+    },
+    {
+      "name": "Nashville",
+      "@type": "City"
+    },
+    {
+      "name": "Detroit",
+      "@type": "City"
+    },
+    {
+      "name": "Portland",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Memphis",
+      "@type": "City"
+    },
+    {
+      "name": "Louisville",
+      "@type": "City"
+    },
+    {
+      "name": "Baltimore",
+      "@type": "City"
+    },
+    {
+      "name": "Milwaukee",
+      "@type": "City"
+    },
+    {
+      "name": "Albuquerque",
+      "@type": "City"
+    },
+    {
+      "name": "Tucson",
+      "@type": "City"
+    },
+    {
+      "name": "Fresno",
+      "@type": "City"
+    },
+    {
+      "name": "Sacramento",
+      "@type": "City"
+    },
+    {
+      "name": "Kansas City",
+      "@type": "City"
+    },
+    {
+      "name": "Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Atlanta",
+      "@type": "City"
+    },
+    {
+      "name": "Omaha",
+      "@type": "City"
+    },
+    {
+      "name": "Colorado Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Raleigh",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Virginia Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Minneapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Tulsa",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington",
+      "@type": "City"
+    },
+    {
+      "name": "New Orleans",
+      "@type": "City"
+    },
+    {
+      "name": "Wichita",
+      "@type": "City"
+    },
+    {
+      "name": "Cleveland",
+      "@type": "City"
+    },
+    {
+      "name": "Bakersfield",
+      "@type": "City"
+    },
+    {
+      "name": "Aurora",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Honolulu",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ana",
+      "@type": "City"
+    },
+    {
+      "name": "Riverside",
+      "@type": "City"
+    },
+    {
+      "name": "Corpus Christi",
+      "@type": "City"
+    },
+    {
+      "name": "Lexington",
+      "@type": "City"
+    },
+    {
+      "name": "Stockton",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Saint Paul",
+      "@type": "City"
+    },
+    {
+      "name": "St. Louis",
+      "@type": "City"
+    },
+    {
+      "name": "Cincinnati",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburgh",
+      "@type": "City"
+    },
+    {
+      "name": "Greensboro",
+      "@type": "City"
+    },
+    {
+      "name": "Anchorage",
+      "@type": "City"
+    },
+    {
+      "name": "Plano",
+      "@type": "City"
+    },
+    {
+      "name": "Lincoln",
+      "@type": "City"
+    },
+    {
+      "name": "Orlando",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Durham",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Toledo",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Wayne",
+      "@type": "City"
+    },
+    {
+      "name": "St. Petersburg",
+      "@type": "City"
+    },
+    {
+      "name": "Laredo",
+      "@type": "City"
+    },
+    {
+      "name": "Jersey City",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "Madison",
+      "@type": "City"
+    },
+    {
+      "name": "Chandler",
+      "@type": "City"
+    },
+    {
+      "name": "Buffalo",
+      "@type": "City"
+    },
+    {
+      "name": "Lubbock",
+      "@type": "City"
+    },
+    {
+      "name": "Scottsdale",
+      "@type": "City"
+    },
+    {
+      "name": "Reno",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Gilbert",
+      "@type": "City"
+    },
+    {
+      "name": "Winston-Salem",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Norfolk",
+      "@type": "City"
+    },
+    {
+      "name": "Chesapeake",
+      "@type": "City"
+    },
+    {
+      "name": "Garland",
+      "@type": "City"
+    },
+    {
+      "name": "Irving",
+      "@type": "City"
+    },
+    {
+      "name": "Hialeah",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Boise",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "Baton Rouge",
+      "@type": "City"
+    },
+    {
+      "name": "Spokane",
+      "@type": "City"
+    },
+    {
+      "name": "Des Moines",
+      "@type": "City"
+    },
+    {
+      "name": "Tacoma",
+      "@type": "City"
+    },
+    {
+      "name": "San Bernardino",
+      "@type": "City"
+    },
+    {
+      "name": "Modesto",
+      "@type": "City"
+    },
+    {
+      "name": "Fontana",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s super common for website redesigns to accidentally mess with crawlability, leaving important pages undiscovered by search engines like Google. You pour resources into a beautiful new site, only to find traffic dropping because crawlers can't access what they need. This isn't just about search rankings; it's about making sure AI systems can find, understand, and cite your services. If your new design introduced unintended blocks, broken internal links, or changed server responses, search engines might see a very different picture of your site than your users do.\n\nCommon Mistakes to Avoid\n\nOne of the biggest blunders is blocking pages in your robots.txt file, then expecting Google to crawl them. Another frequent issue is including incorrect or noncanonical URLs in your XML sitemap after a redesign, which confuses crawlers. Don't rely solely on requesting a recrawl, either; that's a temporary band-aid if the underlying issue isn't fixed. You also need to re-test everything thoroughly after deployment; what works in staging might break in production. Lastly, many businesses forget to check that their important pages are still discoverable through crawlable links, essentially hiding them from bots.\n\nWhat to Expect During the Process\n\nFirst, we'll inventory all affected URLs. We'll then dig deep into your robots.txt file, HTTP status codes, redirects, canonical signals, internal links, and server responses. The goal is to pinpoint exactly where crawlers are getting stuck. Next, we'll remove any unintended blocks and make sure your sitemap is accurate and submitted correctly. After fixing the issues, we'll use Search Console's URL Inspection tool to test live URLs and monitor indexing reports. Keep in mind that a recrawl isn't instant; it can take several days to weeks for changes to reflect, so patience is key. We also ensure canonical URLs point back to your primary domain for proper citation credit.\n\nWhen Professional Guidance Helps\n\nWhen a crawlability issue impacts many URLs, involves JavaScript rendering, or happens after a major migration, it’s definitely time for expert help. Changes to crucial files like robots.txt, or dealing with complex redirect chains, can affect huge parts of your site. An experienced SEO and web-development professional can coordinate testing with your development and content teams to ensure a smooth fix and prevent future problems.\n\nIs your new site struggling with crawlability? Let's uncover the issues and get your valuable content discovered again.",
+  "datePublished": "2026-09-30"
 }

@@ -1,489 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Checklist: Preparing Your Personal Injury Firm for AI Search Optimization",
   "author": {
-    "@type": "Organization",
-    "name": "AI Visibility Solutions"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "AI Visibility Solutions",
-    "url": "aiovisibility.com"
+    "@type": "Organization"
   },
-  "articleBody": "Getting your personal injury firm ready for the new era of AI search is crucial for future visibility. It's not just about traditional SEO anymore; it's about making your expertise digestible for AI systems like Google AI Overviews and Siri. Here's a checklist to help you prepare your digital presence to be recognized and cited by AI.\n\n- [ ] **Audit Technical Access and Indexing** — why you need to ensure AI crawlers can easily access and understand your site's technical foundation.\n- [ ] **Map Content to Client Questions** — why aligning your content with the real questions personal injury prospects ask is essential for AI relevance.\n- [ ] **Review and Improve Original Content** — why having accurate, attorney-reviewed content is vital for trust and authority in AI answers.\n- [ ] **Implement Standard Structured Data** — why using appropriate schema markup helps AI systems categorize and understand your legal services.\n- [ ] **Validate Markup for Accuracy** — why confirming your structured data precisely matches your visible page content is critical to avoid AI confusion.\n- [ ] **Monitor Organic Visibility & Conversions** — why tracking how AI features impact your actual business inquiries, not just rankings, is the ultimate measure of success.\n- [ ] **Incorporate Attorney Review Workflow** — why ensuring all AI-generated or AI-assisted legal content is reviewed for accuracy and compliance with bar advertising rules is non-negotiable.\n\n**How to use this checklist**\nGo through each item and assess your firm's current status. Focus on strengthening areas where you might be weak. If you find significant technical problems, struggle with content review, or operate in multiple jurisdictions, that's usually a sign that professional help can make a big difference in ensuring your content is AI-ready and compliant.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "New York City"
-    },
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Chicago"
-    },
-    {
-      "@type": "City",
-      "name": "Houston"
-    },
-    {
-      "@type": "City",
-      "name": "Phoenix"
-    },
-    {
-      "@type": "City",
-      "name": "Philadelphia"
-    },
-    {
-      "@type": "City",
-      "name": "San Antonio"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Dallas"
-    },
-    {
-      "@type": "City",
-      "name": "San Jose"
-    },
-    {
-      "@type": "City",
-      "name": "Austin"
-    },
-    {
-      "@type": "City",
-      "name": "Jacksonville"
-    },
-    {
-      "@type": "City",
-      "name": "Fort Worth"
-    },
-    {
-      "@type": "City",
-      "name": "Columbus"
-    },
-    {
-      "@type": "City",
-      "name": "Charlotte"
-    },
-    {
-      "@type": "City",
-      "name": "San Francisco"
-    },
-    {
-      "@type": "City",
-      "name": "Indianapolis"
-    },
-    {
-      "@type": "City",
-      "name": "Seattle"
-    },
-    {
-      "@type": "City",
-      "name": "Denver"
-    },
-    {
-      "@type": "City",
-      "name": "Oklahoma City"
-    },
-    {
-      "@type": "City",
-      "name": "Boston"
-    },
-    {
-      "@type": "City",
-      "name": "El Paso"
-    },
-    {
-      "@type": "City",
-      "name": "Nashville"
-    },
-    {
-      "@type": "City",
-      "name": "Detroit"
-    },
-    {
-      "@type": "City",
-      "name": "Portland"
-    },
-    {
-      "@type": "City",
-      "name": "Las Vegas"
-    },
-    {
-      "@type": "City",
-      "name": "Memphis"
-    },
-    {
-      "@type": "City",
-      "name": "Louisville"
-    },
-    {
-      "@type": "City",
-      "name": "Baltimore"
-    },
-    {
-      "@type": "City",
-      "name": "Milwaukee"
-    },
-    {
-      "@type": "City",
-      "name": "Albuquerque"
-    },
-    {
-      "@type": "City",
-      "name": "Tucson"
-    },
-    {
-      "@type": "City",
-      "name": "Fresno"
-    },
-    {
-      "@type": "City",
-      "name": "Sacramento"
-    },
-    {
-      "@type": "City",
-      "name": "Kansas City"
-    },
-    {
-      "@type": "City",
-      "name": "Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Atlanta"
-    },
-    {
-      "@type": "City",
-      "name": "Omaha"
-    },
-    {
-      "@type": "City",
-      "name": "Colorado Springs"
-    },
-    {
-      "@type": "City",
-      "name": "Miami"
-    },
-    {
-      "@type": "City",
-      "name": "Raleigh"
-    },
-    {
-      "@type": "City",
-      "name": "Long Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Virginia Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Oakland"
-    },
-    {
-      "@type": "City",
-      "name": "Minneapolis"
-    },
-    {
-      "@type": "City",
-      "name": "Tampa"
-    },
-    {
-      "@type": "City",
-      "name": "Tulsa"
-    },
-    {
-      "@type": "City",
-      "name": "Arlington"
-    },
-    {
-      "@type": "City",
-      "name": "New Orleans"
-    },
-    {
-      "@type": "City",
-      "name": "Wichita"
-    },
-    {
-      "@type": "City",
-      "name": "Cleveland"
-    },
-    {
-      "@type": "City",
-      "name": "Bakersfield"
-    },
-    {
-      "@type": "City",
-      "name": "Aurora"
-    },
-    {
-      "@type": "City",
-      "name": "Anaheim"
-    },
-    {
-      "@type": "City",
-      "name": "Honolulu"
-    },
-    {
-      "@type": "City",
-      "name": "Santa Ana"
-    },
-    {
-      "@type": "City",
-      "name": "Riverside"
-    },
-    {
-      "@type": "City",
-      "name": "Corpus Christi"
-    },
-    {
-      "@type": "City",
-      "name": "Lexington"
-    },
-    {
-      "@type": "City",
-      "name": "Stockton"
-    },
-    {
-      "@type": "City",
-      "name": "Henderson"
-    },
-    {
-      "@type": "City",
-      "name": "Saint Paul"
-    },
-    {
-      "@type": "City",
-      "name": "St. Louis"
-    },
-    {
-      "@type": "City",
-      "name": "Cincinnati"
-    },
-    {
-      "@type": "City",
-      "name": "Pittsburgh"
-    },
-    {
-      "@type": "City",
-      "name": "Greensboro"
-    },
-    {
-      "@type": "City",
-      "name": "Anchorage"
-    },
-    {
-      "@type": "City",
-      "name": "Plano"
-    },
-    {
-      "@type": "City",
-      "name": "Lincoln"
-    },
-    {
-      "@type": "City",
-      "name": "Orlando"
-    },
-    {
-      "@type": "City",
-      "name": "Irvine"
-    },
-    {
-      "@type": "City",
-      "name": "Newark"
-    },
-    {
-      "@type": "City",
-      "name": "Durham"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Toledo"
-    },
-    {
-      "@type": "City",
-      "name": "Fort Wayne"
-    },
-    {
-      "@type": "City",
-      "name": "St. Petersburg"
-    },
-    {
-      "@type": "City",
-      "name": "Laredo"
-    },
-    {
-      "@type": "City",
-      "name": "Jersey City"
-    },
-    {
-      "@type": "City",
-      "name": "Charlotte"
-    },
-    {
-      "@type": "City",
-      "name": "Madison"
-    },
-    {
-      "@type": "City",
-      "name": "Chandler"
-    },
-    {
-      "@type": "City",
-      "name": "Buffalo"
-    },
-    {
-      "@type": "City",
-      "name": "Lubbock"
-    },
-    {
-      "@type": "City",
-      "name": "Scottsdale"
-    },
-    {
-      "@type": "City",
-      "name": "Reno"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Gilbert"
-    },
-    {
-      "@type": "City",
-      "name": "Winston-Salem"
-    },
-    {
-      "@type": "City",
-      "name": "North Las Vegas"
-    },
-    {
-      "@type": "City",
-      "name": "Norfolk"
-    },
-    {
-      "@type": "City",
-      "name": "Chesapeake"
-    },
-    {
-      "@type": "City",
-      "name": "Garland"
-    },
-    {
-      "@type": "City",
-      "name": "Irving"
-    },
-    {
-      "@type": "City",
-      "name": "Hialeah"
-    },
-    {
-      "@type": "City",
-      "name": "Fremont"
-    },
-    {
-      "@type": "City",
-      "name": "Boise"
-    },
-    {
-      "@type": "City",
-      "name": "Richmond"
-    },
-    {
-      "@type": "City",
-      "name": "Baton Rouge"
-    },
-    {
-      "@type": "City",
-      "name": "Spokane"
-    },
-    {
-      "@type": "City",
-      "name": "Des Moines"
-    },
-    {
-      "@type": "City",
-      "name": "Tacoma"
-    },
-    {
-      "@type": "City",
-      "name": "San Bernardino"
-    },
-    {
-      "@type": "City",
-      "name": "Modesto"
-    },
-    {
-      "@type": "City",
-      "name": "Fontana"
-    }
-  ],
-  "datePublished": "2026-09-30",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Checklist: Preparing Your Personal Injury Firm for AI Search Optimization",
-    "numberOfItems": 7,
-    "itemListOrder": "https://schema.org/ItemListOrderAscending",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Audit Technical Access and Indexing — why you need to ensure AI crawlers can easily access and understand y…",
-        "description": "Audit Technical Access and Indexing — why you need to ensure AI crawlers can easily access and understand your site's technical foundation."
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Map Content to Client Questions — why aligning your content with the real questions personal injury prospec…",
-        "description": "Map Content to Client Questions — why aligning your content with the real questions personal injury prospects ask is essential for AI relevance."
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Review and Improve Original Content — why having accurate, attorney-reviewed content is vital for trust and…",
-        "description": "Review and Improve Original Content — why having accurate, attorney-reviewed content is vital for trust and authority in AI answers."
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Implement Standard Structured Data — why using appropriate schema markup helps AI systems categorize and un…",
-        "description": "Implement Standard Structured Data — why using appropriate schema markup helps AI systems categorize and understand your legal services."
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "name": "Validate Markup for Accuracy — why confirming your structured data precisely matches your visible page cont…",
-        "description": "Validate Markup for Accuracy — why confirming your structured data precisely matches your visible page content is critical to avoid AI confusion."
-      },
-      {
-        "@type": "ListItem",
-        "position": 6,
-        "name": "Monitor Organic Visibility & Conversions — why tracking how AI features impact your actual business inquiri…",
-        "description": "Monitor Organic Visibility & Conversions — why tracking how AI features impact your actual business inquiries, not just rankings, is the ultimate measure of success."
-      },
-      {
-        "@type": "ListItem",
-        "position": 7,
-        "name": "Incorporate Attorney Review Workflow — why ensuring all AI-generated or AI-assisted legal content is review…",
-        "description": "Incorporate Attorney Review Workflow — why ensuring all AI-generated or AI-assisted legal content is reviewed for accuracy and compliance with bar advertising rules is non-negotiable."
-      }
-    ]
+  "@context": "https://schema.org",
+  "headline": "Checklist: Preparing Your Personal Injury Firm for AI Search Optimization",
+  "publisher": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
   },
   "speakable": {
     "@type": "SpeakableSpecification",
@@ -493,5 +19,479 @@
       ".checklist",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "New York City",
+      "@type": "City"
+    },
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Chicago",
+      "@type": "City"
+    },
+    {
+      "name": "Houston",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Philadelphia",
+      "@type": "City"
+    },
+    {
+      "name": "San Antonio",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "San Jose",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Jacksonville",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Columbus",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Indianapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Seattle",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Oklahoma City",
+      "@type": "City"
+    },
+    {
+      "name": "Boston",
+      "@type": "City"
+    },
+    {
+      "name": "El Paso",
+      "@type": "City"
+    },
+    {
+      "name": "Nashville",
+      "@type": "City"
+    },
+    {
+      "name": "Detroit",
+      "@type": "City"
+    },
+    {
+      "name": "Portland",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Memphis",
+      "@type": "City"
+    },
+    {
+      "name": "Louisville",
+      "@type": "City"
+    },
+    {
+      "name": "Baltimore",
+      "@type": "City"
+    },
+    {
+      "name": "Milwaukee",
+      "@type": "City"
+    },
+    {
+      "name": "Albuquerque",
+      "@type": "City"
+    },
+    {
+      "name": "Tucson",
+      "@type": "City"
+    },
+    {
+      "name": "Fresno",
+      "@type": "City"
+    },
+    {
+      "name": "Sacramento",
+      "@type": "City"
+    },
+    {
+      "name": "Kansas City",
+      "@type": "City"
+    },
+    {
+      "name": "Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Atlanta",
+      "@type": "City"
+    },
+    {
+      "name": "Omaha",
+      "@type": "City"
+    },
+    {
+      "name": "Colorado Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Raleigh",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Virginia Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Minneapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Tulsa",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington",
+      "@type": "City"
+    },
+    {
+      "name": "New Orleans",
+      "@type": "City"
+    },
+    {
+      "name": "Wichita",
+      "@type": "City"
+    },
+    {
+      "name": "Cleveland",
+      "@type": "City"
+    },
+    {
+      "name": "Bakersfield",
+      "@type": "City"
+    },
+    {
+      "name": "Aurora",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Honolulu",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ana",
+      "@type": "City"
+    },
+    {
+      "name": "Riverside",
+      "@type": "City"
+    },
+    {
+      "name": "Corpus Christi",
+      "@type": "City"
+    },
+    {
+      "name": "Lexington",
+      "@type": "City"
+    },
+    {
+      "name": "Stockton",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Saint Paul",
+      "@type": "City"
+    },
+    {
+      "name": "St. Louis",
+      "@type": "City"
+    },
+    {
+      "name": "Cincinnati",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburgh",
+      "@type": "City"
+    },
+    {
+      "name": "Greensboro",
+      "@type": "City"
+    },
+    {
+      "name": "Anchorage",
+      "@type": "City"
+    },
+    {
+      "name": "Plano",
+      "@type": "City"
+    },
+    {
+      "name": "Lincoln",
+      "@type": "City"
+    },
+    {
+      "name": "Orlando",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Durham",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Toledo",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Wayne",
+      "@type": "City"
+    },
+    {
+      "name": "St. Petersburg",
+      "@type": "City"
+    },
+    {
+      "name": "Laredo",
+      "@type": "City"
+    },
+    {
+      "name": "Jersey City",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "Madison",
+      "@type": "City"
+    },
+    {
+      "name": "Chandler",
+      "@type": "City"
+    },
+    {
+      "name": "Buffalo",
+      "@type": "City"
+    },
+    {
+      "name": "Lubbock",
+      "@type": "City"
+    },
+    {
+      "name": "Scottsdale",
+      "@type": "City"
+    },
+    {
+      "name": "Reno",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Gilbert",
+      "@type": "City"
+    },
+    {
+      "name": "Winston-Salem",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Norfolk",
+      "@type": "City"
+    },
+    {
+      "name": "Chesapeake",
+      "@type": "City"
+    },
+    {
+      "name": "Garland",
+      "@type": "City"
+    },
+    {
+      "name": "Irving",
+      "@type": "City"
+    },
+    {
+      "name": "Hialeah",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Boise",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "Baton Rouge",
+      "@type": "City"
+    },
+    {
+      "name": "Spokane",
+      "@type": "City"
+    },
+    {
+      "name": "Des Moines",
+      "@type": "City"
+    },
+    {
+      "name": "Tacoma",
+      "@type": "City"
+    },
+    {
+      "name": "San Bernardino",
+      "@type": "City"
+    },
+    {
+      "name": "Modesto",
+      "@type": "City"
+    },
+    {
+      "name": "Fontana",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Checklist: Preparing Your Personal Injury Firm for AI Search Optimization",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 7,
+    "itemListElement": [
+      {
+        "name": "Audit Technical Access and Indexing — why you need to ensure AI crawlers can easily access and understand y…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Audit Technical Access and Indexing — why you need to ensure AI crawlers can easily access and understand your site's technical foundation."
+      },
+      {
+        "name": "Map Content to Client Questions — why aligning your content with the real questions personal injury prospec…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Map Content to Client Questions — why aligning your content with the real questions personal injury prospects ask is essential for AI relevance."
+      },
+      {
+        "name": "Review and Improve Original Content — why having accurate, attorney-reviewed content is vital for trust and…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Review and Improve Original Content — why having accurate, attorney-reviewed content is vital for trust and authority in AI answers."
+      },
+      {
+        "name": "Implement Standard Structured Data — why using appropriate schema markup helps AI systems categorize and un…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Implement Standard Structured Data — why using appropriate schema markup helps AI systems categorize and understand your legal services."
+      },
+      {
+        "name": "Validate Markup for Accuracy — why confirming your structured data precisely matches your visible page cont…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Validate Markup for Accuracy — why confirming your structured data precisely matches your visible page content is critical to avoid AI confusion."
+      },
+      {
+        "name": "Monitor Organic Visibility & Conversions — why tracking how AI features impact your actual business inquiri…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Monitor Organic Visibility & Conversions — why tracking how AI features impact your actual business inquiries, not just rankings, is the ultimate measure of success."
+      },
+      {
+        "name": "Incorporate Attorney Review Workflow — why ensuring all AI-generated or AI-assisted legal content is review…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Incorporate Attorney Review Workflow — why ensuring all AI-generated or AI-assisted legal content is reviewed for accuracy and compliance with bar advertising rules is non-negotiable."
+      }
+    ]
+  },
+  "articleBody": "Getting your personal injury firm ready for the new era of AI search is crucial for future visibility. It's not just about traditional SEO anymore; it's about making your expertise digestible for AI systems like Google AI Overviews and Siri. Here's a checklist to help you prepare your digital presence to be recognized and cited by AI.\n\n- [ ] **Audit Technical Access and Indexing** — why you need to ensure AI crawlers can easily access and understand your site's technical foundation.\n- [ ] **Map Content to Client Questions** — why aligning your content with the real questions personal injury prospects ask is essential for AI relevance.\n- [ ] **Review and Improve Original Content** — why having accurate, attorney-reviewed content is vital for trust and authority in AI answers.\n- [ ] **Implement Standard Structured Data** — why using appropriate schema markup helps AI systems categorize and understand your legal services.\n- [ ] **Validate Markup for Accuracy** — why confirming your structured data precisely matches your visible page content is critical to avoid AI confusion.\n- [ ] **Monitor Organic Visibility & Conversions** — why tracking how AI features impact your actual business inquiries, not just rankings, is the ultimate measure of success.\n- [ ] **Incorporate Attorney Review Workflow** — why ensuring all AI-generated or AI-assisted legal content is reviewed for accuracy and compliance with bar advertising rules is non-negotiable.\n\n**How to use this checklist**\nGo through each item and assess your firm's current status. Focus on strengthening areas where you might be weak. If you find significant technical problems, struggle with content review, or operate in multiple jurisdictions, that's usually a sign that professional help can make a big difference in ensuring your content is AI-ready and compliant.",
+  "datePublished": "2026-09-30"
 }

@@ -1,440 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Avoiding Common Pitfalls in Personal Injury GEO",
   "author": {
-    "@type": "Organization",
-    "name": "AI Visibility Solutions"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "AI Visibility Solutions",
-    "url": "aiovisibility.com"
+    "@type": "Organization"
   },
-  "articleBody": "Getting into Generative Engine Optimization (GEO) for your personal injury firm is smart, but there are a few common traps that can derail your efforts and even put you at odds with regulatory bodies. Many firms mistakenly treat GEO as a shortcut or assume it's just about adding some mysterious \"AI schema\" to their site. The truth is, there's no special AI schema, and GEO is deeply rooted in solid, ethical SEO principles. \n\nOne big mistake is publishing generic, AI-generated articles without human oversight. Not only can this lead to inaccurate or misleading content, but it also goes against Google's guidelines for helpful and reliable content. Another pitfall is using structured data that doesn't actually match the visible content on your page. This can confuse AI systems and hurt your credibility. Lastly, making unsupported claims, like guaranteeing settlements or superior results, is a major no-go. These types of claims are not only unethical but can also violate state bar rules, leading to serious consequences.\n\n### Common Mistakes to Avoid\n\nTo really succeed with GEO for personal injury, avoid these errors: \n\n1.  **Don't treat GEO as a separate, technical shortcut:** Instead, integrate it as an extension of good SEO practices focusing on clear, answer-first content. \n2.  **Avoid relying solely on generic AI content:** Always have a licensed attorney or qualified legal-marketing reviewer approve substantive legal content. \n3.  **Ensure structured data matches visible content:** If your schema says one thing but your page says another, AI systems will get confused. \n4.  **Never make unsupported claims:** Be transparent and accurate about results or expertise, always aligning with ethical advertising standards. \n5.  **Don't ignore jurisdiction-specific questions:** Generic content won't resonate; target the real queries people in your service areas are asking.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "New York City"
-    },
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Chicago"
-    },
-    {
-      "@type": "City",
-      "name": "Houston"
-    },
-    {
-      "@type": "City",
-      "name": "Phoenix"
-    },
-    {
-      "@type": "City",
-      "name": "Philadelphia"
-    },
-    {
-      "@type": "City",
-      "name": "San Antonio"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Dallas"
-    },
-    {
-      "@type": "City",
-      "name": "San Jose"
-    },
-    {
-      "@type": "City",
-      "name": "Austin"
-    },
-    {
-      "@type": "City",
-      "name": "Jacksonville"
-    },
-    {
-      "@type": "City",
-      "name": "Fort Worth"
-    },
-    {
-      "@type": "City",
-      "name": "Columbus"
-    },
-    {
-      "@type": "City",
-      "name": "Charlotte"
-    },
-    {
-      "@type": "City",
-      "name": "San Francisco"
-    },
-    {
-      "@type": "City",
-      "name": "Indianapolis"
-    },
-    {
-      "@type": "City",
-      "name": "Seattle"
-    },
-    {
-      "@type": "City",
-      "name": "Denver"
-    },
-    {
-      "@type": "City",
-      "name": "Oklahoma City"
-    },
-    {
-      "@type": "City",
-      "name": "Boston"
-    },
-    {
-      "@type": "City",
-      "name": "El Paso"
-    },
-    {
-      "@type": "City",
-      "name": "Nashville"
-    },
-    {
-      "@type": "City",
-      "name": "Detroit"
-    },
-    {
-      "@type": "City",
-      "name": "Portland"
-    },
-    {
-      "@type": "City",
-      "name": "Las Vegas"
-    },
-    {
-      "@type": "City",
-      "name": "Memphis"
-    },
-    {
-      "@type": "City",
-      "name": "Louisville"
-    },
-    {
-      "@type": "City",
-      "name": "Baltimore"
-    },
-    {
-      "@type": "City",
-      "name": "Milwaukee"
-    },
-    {
-      "@type": "City",
-      "name": "Albuquerque"
-    },
-    {
-      "@type": "City",
-      "name": "Tucson"
-    },
-    {
-      "@type": "City",
-      "name": "Fresno"
-    },
-    {
-      "@type": "City",
-      "name": "Sacramento"
-    },
-    {
-      "@type": "City",
-      "name": "Kansas City"
-    },
-    {
-      "@type": "City",
-      "name": "Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Atlanta"
-    },
-    {
-      "@type": "City",
-      "name": "Omaha"
-    },
-    {
-      "@type": "City",
-      "name": "Colorado Springs"
-    },
-    {
-      "@type": "City",
-      "name": "Miami"
-    },
-    {
-      "@type": "City",
-      "name": "Raleigh"
-    },
-    {
-      "@type": "City",
-      "name": "Long Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Virginia Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Oakland"
-    },
-    {
-      "@type": "City",
-      "name": "Minneapolis"
-    },
-    {
-      "@type": "City",
-      "name": "Tampa"
-    },
-    {
-      "@type": "City",
-      "name": "Tulsa"
-    },
-    {
-      "@type": "City",
-      "name": "Arlington"
-    },
-    {
-      "@type": "City",
-      "name": "New Orleans"
-    },
-    {
-      "@type": "City",
-      "name": "Wichita"
-    },
-    {
-      "@type": "City",
-      "name": "Cleveland"
-    },
-    {
-      "@type": "City",
-      "name": "Bakersfield"
-    },
-    {
-      "@type": "City",
-      "name": "Aurora"
-    },
-    {
-      "@type": "City",
-      "name": "Anaheim"
-    },
-    {
-      "@type": "City",
-      "name": "Honolulu"
-    },
-    {
-      "@type": "City",
-      "name": "Santa Ana"
-    },
-    {
-      "@type": "City",
-      "name": "Riverside"
-    },
-    {
-      "@type": "City",
-      "name": "Corpus Christi"
-    },
-    {
-      "@type": "City",
-      "name": "Lexington"
-    },
-    {
-      "@type": "City",
-      "name": "Stockton"
-    },
-    {
-      "@type": "City",
-      "name": "Henderson"
-    },
-    {
-      "@type": "City",
-      "name": "Saint Paul"
-    },
-    {
-      "@type": "City",
-      "name": "St. Louis"
-    },
-    {
-      "@type": "City",
-      "name": "Cincinnati"
-    },
-    {
-      "@type": "City",
-      "name": "Pittsburgh"
-    },
-    {
-      "@type": "City",
-      "name": "Greensboro"
-    },
-    {
-      "@type": "City",
-      "name": "Anchorage"
-    },
-    {
-      "@type": "City",
-      "name": "Plano"
-    },
-    {
-      "@type": "City",
-      "name": "Lincoln"
-    },
-    {
-      "@type": "City",
-      "name": "Orlando"
-    },
-    {
-      "@type": "City",
-      "name": "Irvine"
-    },
-    {
-      "@type": "City",
-      "name": "Newark"
-    },
-    {
-      "@type": "City",
-      "name": "Durham"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Toledo"
-    },
-    {
-      "@type": "City",
-      "name": "Fort Wayne"
-    },
-    {
-      "@type": "City",
-      "name": "St. Petersburg"
-    },
-    {
-      "@type": "City",
-      "name": "Laredo"
-    },
-    {
-      "@type": "City",
-      "name": "Jersey City"
-    },
-    {
-      "@type": "City",
-      "name": "Charlotte"
-    },
-    {
-      "@type": "City",
-      "name": "Madison"
-    },
-    {
-      "@type": "City",
-      "name": "Chandler"
-    },
-    {
-      "@type": "City",
-      "name": "Buffalo"
-    },
-    {
-      "@type": "City",
-      "name": "Lubbock"
-    },
-    {
-      "@type": "City",
-      "name": "Scottsdale"
-    },
-    {
-      "@type": "City",
-      "name": "Reno"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Gilbert"
-    },
-    {
-      "@type": "City",
-      "name": "Winston-Salem"
-    },
-    {
-      "@type": "City",
-      "name": "North Las Vegas"
-    },
-    {
-      "@type": "City",
-      "name": "Norfolk"
-    },
-    {
-      "@type": "City",
-      "name": "Chesapeake"
-    },
-    {
-      "@type": "City",
-      "name": "Garland"
-    },
-    {
-      "@type": "City",
-      "name": "Irving"
-    },
-    {
-      "@type": "City",
-      "name": "Hialeah"
-    },
-    {
-      "@type": "City",
-      "name": "Fremont"
-    },
-    {
-      "@type": "City",
-      "name": "Boise"
-    },
-    {
-      "@type": "City",
-      "name": "Richmond"
-    },
-    {
-      "@type": "City",
-      "name": "Baton Rouge"
-    },
-    {
-      "@type": "City",
-      "name": "Spokane"
-    },
-    {
-      "@type": "City",
-      "name": "Des Moines"
-    },
-    {
-      "@type": "City",
-      "name": "Tacoma"
-    },
-    {
-      "@type": "City",
-      "name": "San Bernardino"
-    },
-    {
-      "@type": "City",
-      "name": "Modesto"
-    },
-    {
-      "@type": "City",
-      "name": "Fontana"
-    }
-  ],
-  "datePublished": "2026-09-30",
+  "@context": "https://schema.org",
+  "headline": "Avoiding Common Pitfalls in Personal Injury GEO",
+  "publisher": {
+    "url": "aiovisibility.com",
+    "name": "AI Visibility Solutions",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -442,5 +18,429 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "New York City",
+      "@type": "City"
+    },
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Chicago",
+      "@type": "City"
+    },
+    {
+      "name": "Houston",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Philadelphia",
+      "@type": "City"
+    },
+    {
+      "name": "San Antonio",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "San Jose",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Jacksonville",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Columbus",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Indianapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Seattle",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Oklahoma City",
+      "@type": "City"
+    },
+    {
+      "name": "Boston",
+      "@type": "City"
+    },
+    {
+      "name": "El Paso",
+      "@type": "City"
+    },
+    {
+      "name": "Nashville",
+      "@type": "City"
+    },
+    {
+      "name": "Detroit",
+      "@type": "City"
+    },
+    {
+      "name": "Portland",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Memphis",
+      "@type": "City"
+    },
+    {
+      "name": "Louisville",
+      "@type": "City"
+    },
+    {
+      "name": "Baltimore",
+      "@type": "City"
+    },
+    {
+      "name": "Milwaukee",
+      "@type": "City"
+    },
+    {
+      "name": "Albuquerque",
+      "@type": "City"
+    },
+    {
+      "name": "Tucson",
+      "@type": "City"
+    },
+    {
+      "name": "Fresno",
+      "@type": "City"
+    },
+    {
+      "name": "Sacramento",
+      "@type": "City"
+    },
+    {
+      "name": "Kansas City",
+      "@type": "City"
+    },
+    {
+      "name": "Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Atlanta",
+      "@type": "City"
+    },
+    {
+      "name": "Omaha",
+      "@type": "City"
+    },
+    {
+      "name": "Colorado Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Raleigh",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Virginia Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Minneapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Tulsa",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington",
+      "@type": "City"
+    },
+    {
+      "name": "New Orleans",
+      "@type": "City"
+    },
+    {
+      "name": "Wichita",
+      "@type": "City"
+    },
+    {
+      "name": "Cleveland",
+      "@type": "City"
+    },
+    {
+      "name": "Bakersfield",
+      "@type": "City"
+    },
+    {
+      "name": "Aurora",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Honolulu",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ana",
+      "@type": "City"
+    },
+    {
+      "name": "Riverside",
+      "@type": "City"
+    },
+    {
+      "name": "Corpus Christi",
+      "@type": "City"
+    },
+    {
+      "name": "Lexington",
+      "@type": "City"
+    },
+    {
+      "name": "Stockton",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Saint Paul",
+      "@type": "City"
+    },
+    {
+      "name": "St. Louis",
+      "@type": "City"
+    },
+    {
+      "name": "Cincinnati",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburgh",
+      "@type": "City"
+    },
+    {
+      "name": "Greensboro",
+      "@type": "City"
+    },
+    {
+      "name": "Anchorage",
+      "@type": "City"
+    },
+    {
+      "name": "Plano",
+      "@type": "City"
+    },
+    {
+      "name": "Lincoln",
+      "@type": "City"
+    },
+    {
+      "name": "Orlando",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Durham",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Toledo",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Wayne",
+      "@type": "City"
+    },
+    {
+      "name": "St. Petersburg",
+      "@type": "City"
+    },
+    {
+      "name": "Laredo",
+      "@type": "City"
+    },
+    {
+      "name": "Jersey City",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "Madison",
+      "@type": "City"
+    },
+    {
+      "name": "Chandler",
+      "@type": "City"
+    },
+    {
+      "name": "Buffalo",
+      "@type": "City"
+    },
+    {
+      "name": "Lubbock",
+      "@type": "City"
+    },
+    {
+      "name": "Scottsdale",
+      "@type": "City"
+    },
+    {
+      "name": "Reno",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Gilbert",
+      "@type": "City"
+    },
+    {
+      "name": "Winston-Salem",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Norfolk",
+      "@type": "City"
+    },
+    {
+      "name": "Chesapeake",
+      "@type": "City"
+    },
+    {
+      "name": "Garland",
+      "@type": "City"
+    },
+    {
+      "name": "Irving",
+      "@type": "City"
+    },
+    {
+      "name": "Hialeah",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Boise",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "Baton Rouge",
+      "@type": "City"
+    },
+    {
+      "name": "Spokane",
+      "@type": "City"
+    },
+    {
+      "name": "Des Moines",
+      "@type": "City"
+    },
+    {
+      "name": "Tacoma",
+      "@type": "City"
+    },
+    {
+      "name": "San Bernardino",
+      "@type": "City"
+    },
+    {
+      "name": "Modesto",
+      "@type": "City"
+    },
+    {
+      "name": "Fontana",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Getting into Generative Engine Optimization (GEO) for your personal injury firm is smart, but there are a few common traps that can derail your efforts and even put you at odds with regulatory bodies. Many firms mistakenly treat GEO as a shortcut or assume it's just about adding some mysterious \"AI schema\" to their site. The truth is, there's no special AI schema, and GEO is deeply rooted in solid, ethical SEO principles. \n\nOne big mistake is publishing generic, AI-generated articles without human oversight. Not only can this lead to inaccurate or misleading content, but it also goes against Google's guidelines for helpful and reliable content. Another pitfall is using structured data that doesn't actually match the visible content on your page. This can confuse AI systems and hurt your credibility. Lastly, making unsupported claims, like guaranteeing settlements or superior results, is a major no-go. These types of claims are not only unethical but can also violate state bar rules, leading to serious consequences.\n\n### Common Mistakes to Avoid\n\nTo really succeed with GEO for personal injury, avoid these errors: \n\n1.  **Don't treat GEO as a separate, technical shortcut:** Instead, integrate it as an extension of good SEO practices focusing on clear, answer-first content. \n2.  **Avoid relying solely on generic AI content:** Always have a licensed attorney or qualified legal-marketing reviewer approve substantive legal content. \n3.  **Ensure structured data matches visible content:** If your schema says one thing but your page says another, AI systems will get confused. \n4.  **Never make unsupported claims:** Be transparent and accurate about results or expertise, always aligning with ethical advertising standards. \n5.  **Don't ignore jurisdiction-specific questions:** Generic content won't resonate; target the real queries people in your service areas are asking.",
+  "datePublished": "2026-09-30"
 }
