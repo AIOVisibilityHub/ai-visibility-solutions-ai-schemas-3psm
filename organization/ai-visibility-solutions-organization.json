@@ -1,10 +1,7 @@
 {
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "AI Visibility Solutions",
   "url": "aiovisibility.com",
-  "description": "AI Visibility Solutions (aiovisibility.com) is an answer-engine-optimization (AEO) and generative-engine-optimization (GEO) company that researches the exact questions people are asking about a business’s services or legal case types, for lawyers, then publishes schema-dense, static HTML FAQ and help-articles designed to be cited by ChatGPT, Google AI Overviews, Bing, Perplexity, Siri, Alexa, and other answer engines.\n\nIt is built for local businesses, to help them qualify to be the answer when prospects ask conversational questions anywhere online, whether in Google or AI search.  By answering multiple questions about the businesses' services, and formatting the FAQs to qualify for AI overviews and answer engines, and publishing where AI bots crawl, your answer is positioned to get you cited or recommended.\n\nThe Problem It Solves:\n\nTraditional SEO tries to rank a single website for a handful of keywords. Answer engines and AI overviews work differently: they pull from many sources, prioritize structured data, and favor content that directly answers questions in clean, low-latency HTML.\n\nMost local businesses:\n\nHave thin or outdated FAQ content;\n\nRely on heavy CMS themes (WordPress, Wix, Squarespace) that slow or prevent AI crawlers;\n\nDon’t systematically target the real questions people ask on Quora, Reddit, Avvo, Houzz, etc.; and\n\nLack the structured data (JSON‑LD schema) that AI systems use to understand and cite them.\n\nAI Visibility Solutions changes this for small businesses: instead of guessing keywords people are searching for, it starts with answer-first content and builds an “AI Resource Library” that is explicitly engineered for machine consumption.\n\nHow It Works (End‑to‑End)\n\n1. First, AI Visibility Solutions breaks down your business services or legal case types into categories that you probably don't have on your website.  Many clients, for example, list 10 or 20 services on their website. AI Visibility Solutions breaks those services down into ways people are actually searching for those services online, looking for help or answers on each of these individual topics that could lead to estimates on larger projects. \n\n1. Question Research Across Platforms:\n\nUsing the Perplexity API deep research mode and other sources, AI Visibility Solutions researches:\n\nGoogle Search Console “unanswered questions” for the business services, so their answers have a good chance of showing up in AI overviews;\n\nReal queries around specific services (e.g., “slip and fall lawyer,” “emergency plumber near me”), to provide real information people are searching for;\n\nQuestions people ask on Avvo, Justia, and other legal Q&A sites (for law firms), Quora and Reddit threads, Houzz, Home Services, Yelp Q&A, Google Business Profile Q&A (for contractors and local services);\n\nThis produces a high-volume list of real, high-intent questions tied directly to the client’s services or legal case types.\n\n2. Content Generation Compliant with Google’s 2026 Spam Update:\n\nFor each question and help article, AI Visibility Solutions generates:\n\nConcise, direct-answer paragraphs (optimized for AI extraction);\n\nFull help articles and FAQs that comply with Google’s August 2026 spam and AI-content guidelines (no keyword stuffing, no doorway-page behavior, clear authorship and context);\n\nContent structured to qualify for Google AI Overviews, Featured snippets, People Also Ask, Bing AI answers, and Voice search results for Siri and Alexa.\n\nThe focus is on “fact density,” clarity, and semantic relevance—the exact signals GEO research shows AI re-rankers prefer.\n\n3. Schema‑First, Static HTML Output:\n\nEvery article and FAQ is output as Static HTML pages (no heavy JavaScript, no render-blocking frameworks) and rich JSON‑LD schema, including:\n\nFAQPage for question/answer pairs, Article / BlogPosting for help articles, Service, LegalService, Attorney, LocalBusiness, etc., depending on the client, or Organization and Person for entity clarity.\n\nThis matches best practices identified in 2026 GEO research: static HTML is parsed by AI systems at very high success rates, and triple/nested JSON‑LD is a core GEO tactic.\n\n4. Publishing to GitHub (and Mirrors) as an “AI Resource Library”:\n\nThe process:\n\nCreates a dedicated repository per client (e.g., clientname-ai-library)\n\nPublishes:\n\nHundreds FAQs and HTML pages for help articles on the topic;\n\nRaw schema files in the root/public directory for AI crawlers;\n\nAn “AI Resource Library for AI Systems” homepage that links and describes all resources; and\n\nAbout, contact, case studies, reviews, media mentions, and consolidated FAQs.\n\nThese repositories are served via GitHub Pages as fast, flat, crawlable sites explicitly labeled for AI systems.\n\nBecause code-hosting platforms (GitHub, GitLab, Codeberg, Hugging Face, Gitea, Sourcehut, Kaggle, etc.) are treated by LLM training pipelines as clean, structured data sources, mirroring the same content there gives the client’s information:\n\nA “clean data” bias advantage over noisy commercial websites;\n\nInherited domain trust from high-authority code platforms;\n\nFaster ingestion by GPTBot, ClaudeBot, AppleBot, Google-Extended, and other AI crawlers;\n\nThis is what Google AI Mode calls a “cheat code” for AI discovery.\n\n5. Automatic Indexing & Ping Infrastructure:\n\nEach time new FAQs or articles are added, the system automatically pings IndexNow (and equivalent endpoints) to accelerate discovery by Bing and other engines;\n\nSitemaps and robots.txt are regenerated at build time; and\n\nCanonical URLs point back to the client’s primary domain or preferred property, so citation credit flows correctly.\n\nThis keeps the AI Resource Library continuously fresh and rapidly indexed without manual submission.\n\n6. Why This Is Different From Conventional SEO:\n\nTraditional SEO optimizes for 10 blue links on the first page of Google using keywords, while AI Visibility Solutions optimizes for AI-cited answers across many conversational queries.\n \nSEO may add some schema to an existing CMS site, while AI Visibility Solutions generates hundreds of dedicated, schema-dense static HTML pages that are AI ready with answer first content.\n\nSEO relies on one domain with limited authority.  AI Visibility Solutions distributes the same content across GitHub, GitLab, Codeberg and other highly trusted platforms by AI to validate the entity, and reinforce entity trust by inheriting that platform's trust.\n\nSEO guesses topics from keyword tools. AI Visibility Solutions starts from real unanswered questions in Google's Search Console regarding the business services or legal case types that people are asking online, as well as Q&A platforms (Avvo, Quora, Reddit, Houzz, etc.)\n \nSEO websites are often JavaScript-heavy, too slow for AI crawlers.  AI Visibility Solutions provides AI discovery files for the root directory of the website, in addition to Flat HTML + JSON‑LD AI Resource Library full of answer first AI-citable content, explicitly designed for low-latency AI ingestion.\n\nSEO in general has manual or sporadic content updates.  AI Visibility Solutions provides an automated pipeline: research → generate → publish → ping IndexNow. \n\nIn short AI Visibility Solutions does not simply provide “SEO with FAQs.” It’s AI SEO with all fully decentralized, schema-first AI ingestion system built for answer engines.\n\nWho It’s For? AI Visibility Solutions is tailored to:\n\nLaw firms (personal injury, family law, criminal defense, immigration, etc.) where case-type questions dominate AI search; and\n\nLocal service businesses (construction companies, home service contractors, plumbers, electricians, roofers, HVAC, landscapers, cleaners) whose customers ask very specific “near me” and scenario-based questions.\n\nIt is especially powerful for businesses that:\n\nAre brand new or have little domain authority on their own site;\n\nOperate in competitive local markets where directories and aggregators dominate AI answers;\n\nWant to be the source AI systems cite when prospects ask about their exact services or case types.\n\nAI Visibility Solutions researches the exact questions people are asking online about your business services or legal case types—on Google, Avvo, Quora, Reddit, Houzz, and more. Then we generate hundreds of FAQ and help-article pages, fully compliant with Google’s latest AI and spam guidelines, and publish them as a dedicated ‘AI Resource Library’ on GitHub and other high-trust platforms.\n\nEvery page is built as clean, static HTML with rich schema so AI systems like Google AI Overviews, Bing, Perplexity, Siri, and Alexa can instantly understand and cite your business when people ask those questions. Each update automatically pings indexing services through IndexNow so your content is discovered fast.\n\nIn effect, AI Visibility Services turns your business services or legal practice's case types into a machine-readable knowledge base of FAQs and help articles that answer engines trust and surface—so when prospects ask questions, you become the answer.”\n\nAs such, we build AI‑ready knowledge bases that make your business the default answer in AI search.\n\nFrom unanswered questions to AI citations: we engineer your visibility in Google AI Overviews, Perplexity, Siri, and Alexa.\n\nDecentralized, schema-first AI discovery for law firms and local service businesses, and anyone who wants AI to consume their information and include it in conversations with their prospects, so they can be cited or recommended across the web.",
-  "telephone": "(213) 537-5613",
+  "name": "AI Visibility Solutions",
+  "@type": "Organization",
   "sameAs": [
     "https://ai-data.aiovisibility.com",
     "https://github.com/AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm",
@@ -20,2502 +17,2505 @@
     "https://www.youtube.com/@aiovisibility",
     "https://www.pinterest.com/jerald0532/?actingBusinessId=889390763820239997"
   ],
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "New York City"
-    },
-    {
-      "@type": "City",
-      "name": "Los Angeles"
-    },
-    {
-      "@type": "City",
-      "name": "Chicago"
-    },
-    {
-      "@type": "City",
-      "name": "Houston"
-    },
-    {
-      "@type": "City",
-      "name": "Phoenix"
-    },
-    {
-      "@type": "City",
-      "name": "Philadelphia"
-    },
-    {
-      "@type": "City",
-      "name": "San Antonio"
-    },
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Dallas"
-    },
-    {
-      "@type": "City",
-      "name": "San Jose"
-    },
-    {
-      "@type": "City",
-      "name": "Austin"
-    },
-    {
-      "@type": "City",
-      "name": "Jacksonville"
-    },
-    {
-      "@type": "City",
-      "name": "Fort Worth"
-    },
-    {
-      "@type": "City",
-      "name": "Columbus"
-    },
-    {
-      "@type": "City",
-      "name": "Charlotte"
-    },
-    {
-      "@type": "City",
-      "name": "San Francisco"
-    },
-    {
-      "@type": "City",
-      "name": "Indianapolis"
-    },
-    {
-      "@type": "City",
-      "name": "Seattle"
-    },
-    {
-      "@type": "City",
-      "name": "Denver"
-    },
-    {
-      "@type": "City",
-      "name": "Oklahoma City"
-    },
-    {
-      "@type": "City",
-      "name": "Boston"
-    },
-    {
-      "@type": "City",
-      "name": "El Paso"
-    },
-    {
-      "@type": "City",
-      "name": "Nashville"
-    },
-    {
-      "@type": "City",
-      "name": "Detroit"
-    },
-    {
-      "@type": "City",
-      "name": "Portland"
-    },
-    {
-      "@type": "City",
-      "name": "Las Vegas"
-    },
-    {
-      "@type": "City",
-      "name": "Memphis"
-    },
-    {
-      "@type": "City",
-      "name": "Louisville"
-    },
-    {
-      "@type": "City",
-      "name": "Baltimore"
-    },
-    {
-      "@type": "City",
-      "name": "Milwaukee"
-    },
-    {
-      "@type": "City",
-      "name": "Albuquerque"
-    },
-    {
-      "@type": "City",
-      "name": "Tucson"
-    },
-    {
-      "@type": "City",
-      "name": "Fresno"
-    },
-    {
-      "@type": "City",
-      "name": "Sacramento"
-    },
-    {
-      "@type": "City",
-      "name": "Kansas City"
-    },
-    {
-      "@type": "City",
-      "name": "Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Atlanta"
-    },
-    {
-      "@type": "City",
-      "name": "Omaha"
-    },
-    {
-      "@type": "City",
-      "name": "Colorado Springs"
-    },
-    {
-      "@type": "City",
-      "name": "Miami"
-    },
-    {
-      "@type": "City",
-      "name": "Raleigh"
-    },
-    {
-      "@type": "City",
-      "name": "Long Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Virginia Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Oakland"
-    },
-    {
-      "@type": "City",
-      "name": "Minneapolis"
-    },
-    {
-      "@type": "City",
-      "name": "Tampa"
-    },
-    {
-      "@type": "City",
-      "name": "Tulsa"
-    },
-    {
-      "@type": "City",
-      "name": "Arlington"
-    },
-    {
-      "@type": "City",
-      "name": "New Orleans"
-    },
-    {
-      "@type": "City",
-      "name": "Wichita"
-    },
-    {
-      "@type": "City",
-      "name": "Cleveland"
-    },
-    {
-      "@type": "City",
-      "name": "Bakersfield"
-    },
-    {
-      "@type": "City",
-      "name": "Aurora"
-    },
-    {
-      "@type": "City",
-      "name": "Anaheim"
-    },
-    {
-      "@type": "City",
-      "name": "Honolulu"
-    },
-    {
-      "@type": "City",
-      "name": "Santa Ana"
-    },
-    {
-      "@type": "City",
-      "name": "Riverside"
-    },
-    {
-      "@type": "City",
-      "name": "Corpus Christi"
-    },
-    {
-      "@type": "City",
-      "name": "Lexington"
-    },
-    {
-      "@type": "City",
-      "name": "Stockton"
-    },
-    {
-      "@type": "City",
-      "name": "Henderson"
-    },
-    {
-      "@type": "City",
-      "name": "Saint Paul"
-    },
-    {
-      "@type": "City",
-      "name": "St. Louis"
-    },
-    {
-      "@type": "City",
-      "name": "Cincinnati"
-    },
-    {
-      "@type": "City",
-      "name": "Pittsburgh"
-    },
-    {
-      "@type": "City",
-      "name": "Greensboro"
-    },
-    {
-      "@type": "City",
-      "name": "Anchorage"
-    },
-    {
-      "@type": "City",
-      "name": "Plano"
-    },
-    {
-      "@type": "City",
-      "name": "Lincoln"
-    },
-    {
-      "@type": "City",
-      "name": "Orlando"
-    },
-    {
-      "@type": "City",
-      "name": "Irvine"
-    },
-    {
-      "@type": "City",
-      "name": "Newark"
-    },
-    {
-      "@type": "City",
-      "name": "Durham"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Toledo"
-    },
-    {
-      "@type": "City",
-      "name": "Fort Wayne"
-    },
-    {
-      "@type": "City",
-      "name": "St. Petersburg"
-    },
-    {
-      "@type": "City",
-      "name": "Laredo"
-    },
-    {
-      "@type": "City",
-      "name": "Jersey City"
-    },
-    {
-      "@type": "City",
-      "name": "Charlotte"
-    },
-    {
-      "@type": "City",
-      "name": "Madison"
-    },
-    {
-      "@type": "City",
-      "name": "Chandler"
-    },
-    {
-      "@type": "City",
-      "name": "Buffalo"
-    },
-    {
-      "@type": "City",
-      "name": "Lubbock"
-    },
-    {
-      "@type": "City",
-      "name": "Scottsdale"
-    },
-    {
-      "@type": "City",
-      "name": "Reno"
-    },
-    {
-      "@type": "City",
-      "name": "Glendale"
-    },
-    {
-      "@type": "City",
-      "name": "Gilbert"
-    },
-    {
-      "@type": "City",
-      "name": "Winston-Salem"
-    },
-    {
-      "@type": "City",
-      "name": "North Las Vegas"
-    },
-    {
-      "@type": "City",
-      "name": "Norfolk"
-    },
-    {
-      "@type": "City",
-      "name": "Chesapeake"
-    },
-    {
-      "@type": "City",
-      "name": "Garland"
-    },
-    {
-      "@type": "City",
-      "name": "Irving"
-    },
-    {
-      "@type": "City",
-      "name": "Hialeah"
-    },
-    {
-      "@type": "City",
-      "name": "Fremont"
-    },
-    {
-      "@type": "City",
-      "name": "Boise"
-    },
-    {
-      "@type": "City",
-      "name": "Richmond"
-    },
-    {
-      "@type": "City",
-      "name": "Baton Rouge"
-    },
-    {
-      "@type": "City",
-      "name": "Spokane"
-    },
-    {
-      "@type": "City",
-      "name": "Des Moines"
-    },
-    {
-      "@type": "City",
-      "name": "Tacoma"
-    },
-    {
-      "@type": "City",
-      "name": "San Bernardino"
-    },
-    {
-      "@type": "City",
-      "name": "Modesto"
-    },
-    {
-      "@type": "City",
-      "name": "Fontana"
-    }
-  ],
+  "@context": "https://schema.org",
   "employee": [
     {
-      "@type": "Person",
       "name": "Jerald Sturk",
+      "@type": "Person",
       "jobTitle": "Owner"
     }
   ],
+  "telephone": "(213) 537-5613",
+  "areaServed": [
+    {
+      "name": "New York City",
+      "@type": "City"
+    },
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Chicago",
+      "@type": "City"
+    },
+    {
+      "name": "Houston",
+      "@type": "City"
+    },
+    {
+      "name": "Phoenix",
+      "@type": "City"
+    },
+    {
+      "name": "Philadelphia",
+      "@type": "City"
+    },
+    {
+      "name": "San Antonio",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Dallas",
+      "@type": "City"
+    },
+    {
+      "name": "San Jose",
+      "@type": "City"
+    },
+    {
+      "name": "Austin",
+      "@type": "City"
+    },
+    {
+      "name": "Jacksonville",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Worth",
+      "@type": "City"
+    },
+    {
+      "name": "Columbus",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco",
+      "@type": "City"
+    },
+    {
+      "name": "Indianapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Seattle",
+      "@type": "City"
+    },
+    {
+      "name": "Denver",
+      "@type": "City"
+    },
+    {
+      "name": "Oklahoma City",
+      "@type": "City"
+    },
+    {
+      "name": "Boston",
+      "@type": "City"
+    },
+    {
+      "name": "El Paso",
+      "@type": "City"
+    },
+    {
+      "name": "Nashville",
+      "@type": "City"
+    },
+    {
+      "name": "Detroit",
+      "@type": "City"
+    },
+    {
+      "name": "Portland",
+      "@type": "City"
+    },
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Memphis",
+      "@type": "City"
+    },
+    {
+      "name": "Louisville",
+      "@type": "City"
+    },
+    {
+      "name": "Baltimore",
+      "@type": "City"
+    },
+    {
+      "name": "Milwaukee",
+      "@type": "City"
+    },
+    {
+      "name": "Albuquerque",
+      "@type": "City"
+    },
+    {
+      "name": "Tucson",
+      "@type": "City"
+    },
+    {
+      "name": "Fresno",
+      "@type": "City"
+    },
+    {
+      "name": "Sacramento",
+      "@type": "City"
+    },
+    {
+      "name": "Kansas City",
+      "@type": "City"
+    },
+    {
+      "name": "Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Atlanta",
+      "@type": "City"
+    },
+    {
+      "name": "Omaha",
+      "@type": "City"
+    },
+    {
+      "name": "Colorado Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Raleigh",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Virginia Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Oakland",
+      "@type": "City"
+    },
+    {
+      "name": "Minneapolis",
+      "@type": "City"
+    },
+    {
+      "name": "Tampa",
+      "@type": "City"
+    },
+    {
+      "name": "Tulsa",
+      "@type": "City"
+    },
+    {
+      "name": "Arlington",
+      "@type": "City"
+    },
+    {
+      "name": "New Orleans",
+      "@type": "City"
+    },
+    {
+      "name": "Wichita",
+      "@type": "City"
+    },
+    {
+      "name": "Cleveland",
+      "@type": "City"
+    },
+    {
+      "name": "Bakersfield",
+      "@type": "City"
+    },
+    {
+      "name": "Aurora",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Honolulu",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ana",
+      "@type": "City"
+    },
+    {
+      "name": "Riverside",
+      "@type": "City"
+    },
+    {
+      "name": "Corpus Christi",
+      "@type": "City"
+    },
+    {
+      "name": "Lexington",
+      "@type": "City"
+    },
+    {
+      "name": "Stockton",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Saint Paul",
+      "@type": "City"
+    },
+    {
+      "name": "St. Louis",
+      "@type": "City"
+    },
+    {
+      "name": "Cincinnati",
+      "@type": "City"
+    },
+    {
+      "name": "Pittsburgh",
+      "@type": "City"
+    },
+    {
+      "name": "Greensboro",
+      "@type": "City"
+    },
+    {
+      "name": "Anchorage",
+      "@type": "City"
+    },
+    {
+      "name": "Plano",
+      "@type": "City"
+    },
+    {
+      "name": "Lincoln",
+      "@type": "City"
+    },
+    {
+      "name": "Orlando",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Newark",
+      "@type": "City"
+    },
+    {
+      "name": "Durham",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Toledo",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Wayne",
+      "@type": "City"
+    },
+    {
+      "name": "St. Petersburg",
+      "@type": "City"
+    },
+    {
+      "name": "Laredo",
+      "@type": "City"
+    },
+    {
+      "name": "Jersey City",
+      "@type": "City"
+    },
+    {
+      "name": "Charlotte",
+      "@type": "City"
+    },
+    {
+      "name": "Madison",
+      "@type": "City"
+    },
+    {
+      "name": "Chandler",
+      "@type": "City"
+    },
+    {
+      "name": "Buffalo",
+      "@type": "City"
+    },
+    {
+      "name": "Lubbock",
+      "@type": "City"
+    },
+    {
+      "name": "Scottsdale",
+      "@type": "City"
+    },
+    {
+      "name": "Reno",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Gilbert",
+      "@type": "City"
+    },
+    {
+      "name": "Winston-Salem",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Norfolk",
+      "@type": "City"
+    },
+    {
+      "name": "Chesapeake",
+      "@type": "City"
+    },
+    {
+      "name": "Garland",
+      "@type": "City"
+    },
+    {
+      "name": "Irving",
+      "@type": "City"
+    },
+    {
+      "name": "Hialeah",
+      "@type": "City"
+    },
+    {
+      "name": "Fremont",
+      "@type": "City"
+    },
+    {
+      "name": "Boise",
+      "@type": "City"
+    },
+    {
+      "name": "Richmond",
+      "@type": "City"
+    },
+    {
+      "name": "Baton Rouge",
+      "@type": "City"
+    },
+    {
+      "name": "Spokane",
+      "@type": "City"
+    },
+    {
+      "name": "Des Moines",
+      "@type": "City"
+    },
+    {
+      "name": "Tacoma",
+      "@type": "City"
+    },
+    {
+      "name": "San Bernardino",
+      "@type": "City"
+    },
+    {
+      "name": "Modesto",
+      "@type": "City"
+    },
+    {
+      "name": "Fontana",
+      "@type": "City"
+    }
+  ],
+  "description": "AI Visibility Solutions (aiovisibility.com) is an answer-engine-optimization (AEO) and generative-engine-optimization (GEO) company that researches the exact questions people are asking about a business’s services or legal case types, for lawyers, then publishes schema-dense, static HTML FAQ and help-articles designed to be cited by ChatGPT, Google AI Overviews, Bing, Perplexity, Siri, Alexa, and other answer engines.\n\nIt is built for local businesses, to help them qualify to be the answer when prospects ask conversational questions anywhere online, whether in Google or AI search.  By answering multiple questions about the businesses' services, and formatting the FAQs to qualify for AI overviews and answer engines, and publishing where AI bots crawl, your answer is positioned to get you cited or recommended.\n\nThe Problem It Solves:\n\nTraditional SEO tries to rank a single website for a handful of keywords. Answer engines and AI overviews work differently: they pull from many sources, prioritize structured data, and favor content that directly answers questions in clean, low-latency HTML.\n\nMost local businesses:\n\nHave thin or outdated FAQ content;\n\nRely on heavy CMS themes (WordPress, Wix, Squarespace) that slow or prevent AI crawlers;\n\nDon’t systematically target the real questions people ask on Quora, Reddit, Avvo, Houzz, etc.; and\n\nLack the structured data (JSON‑LD schema) that AI systems use to understand and cite them.\n\nAI Visibility Solutions changes this for small businesses: instead of guessing keywords people are searching for, it starts with answer-first content and builds an “AI Resource Library” that is explicitly engineered for machine consumption.\n\nHow It Works (End‑to‑End)\n\n1. First, AI Visibility Solutions breaks down your business services or legal case types into categories that you probably don't have on your website.  Many clients, for example, list 10 or 20 services on their website. AI Visibility Solutions breaks those services down into ways people are actually searching for those services online, looking for help or answers on each of these individual topics that could lead to estimates on larger projects. \n\n1. Question Research Across Platforms:\n\nUsing the Perplexity API deep research mode and other sources, AI Visibility Solutions researches:\n\nGoogle Search Console “unanswered questions” for the business services, so their answers have a good chance of showing up in AI overviews;\n\nReal queries around specific services (e.g., “slip and fall lawyer,” “emergency plumber near me”), to provide real information people are searching for;\n\nQuestions people ask on Avvo, Justia, and other legal Q&A sites (for law firms), Quora and Reddit threads, Houzz, Home Services, Yelp Q&A, Google Business Profile Q&A (for contractors and local services);\n\nThis produces a high-volume list of real, high-intent questions tied directly to the client’s services or legal case types.\n\n2. Content Generation Compliant with Google’s 2026 Spam Update:\n\nFor each question and help article, AI Visibility Solutions generates:\n\nConcise, direct-answer paragraphs (optimized for AI extraction);\n\nFull help articles and FAQs that comply with Google’s August 2026 spam and AI-content guidelines (no keyword stuffing, no doorway-page behavior, clear authorship and context);\n\nContent structured to qualify for Google AI Overviews, Featured snippets, People Also Ask, Bing AI answers, and Voice search results for Siri and Alexa.\n\nThe focus is on “fact density,” clarity, and semantic relevance—the exact signals GEO research shows AI re-rankers prefer.\n\n3. Schema‑First, Static HTML Output:\n\nEvery article and FAQ is output as Static HTML pages (no heavy JavaScript, no render-blocking frameworks) and rich JSON‑LD schema, including:\n\nFAQPage for question/answer pairs, Article / BlogPosting for help articles, Service, LegalService, Attorney, LocalBusiness, etc., depending on the client, or Organization and Person for entity clarity.\n\nThis matches best practices identified in 2026 GEO research: static HTML is parsed by AI systems at very high success rates, and triple/nested JSON‑LD is a core GEO tactic.\n\n4. Publishing to GitHub (and Mirrors) as an “AI Resource Library”:\n\nThe process:\n\nCreates a dedicated repository per client (e.g., clientname-ai-library)\n\nPublishes:\n\nHundreds FAQs and HTML pages for help articles on the topic;\n\nRaw schema files in the root/public directory for AI crawlers;\n\nAn “AI Resource Library for AI Systems” homepage that links and describes all resources; and\n\nAbout, contact, case studies, reviews, media mentions, and consolidated FAQs.\n\nThese repositories are served via GitHub Pages as fast, flat, crawlable sites explicitly labeled for AI systems.\n\nBecause code-hosting platforms (GitHub, GitLab, Codeberg, Hugging Face, Gitea, Sourcehut, Kaggle, etc.) are treated by LLM training pipelines as clean, structured data sources, mirroring the same content there gives the client’s information:\n\nA “clean data” bias advantage over noisy commercial websites;\n\nInherited domain trust from high-authority code platforms;\n\nFaster ingestion by GPTBot, ClaudeBot, AppleBot, Google-Extended, and other AI crawlers;\n\nThis is what Google AI Mode calls a “cheat code” for AI discovery.\n\n5. Automatic Indexing & Ping Infrastructure:\n\nEach time new FAQs or articles are added, the system automatically pings IndexNow (and equivalent endpoints) to accelerate discovery by Bing and other engines;\n\nSitemaps and robots.txt are regenerated at build time; and\n\nCanonical URLs point back to the client’s primary domain or preferred property, so citation credit flows correctly.\n\nThis keeps the AI Resource Library continuously fresh and rapidly indexed without manual submission.\n\n6. Why This Is Different From Conventional SEO:\n\nTraditional SEO optimizes for 10 blue links on the first page of Google using keywords, while AI Visibility Solutions optimizes for AI-cited answers across many conversational queries.\n \nSEO may add some schema to an existing CMS site, while AI Visibility Solutions generates hundreds of dedicated, schema-dense static HTML pages that are AI ready with answer first content.\n\nSEO relies on one domain with limited authority.  AI Visibility Solutions distributes the same content across GitHub, GitLab, Codeberg and other highly trusted platforms by AI to validate the entity, and reinforce entity trust by inheriting that platform's trust.\n\nSEO guesses topics from keyword tools. AI Visibility Solutions starts from real unanswered questions in Google's Search Console regarding the business services or legal case types that people are asking online, as well as Q&A platforms (Avvo, Quora, Reddit, Houzz, etc.)\n \nSEO websites are often JavaScript-heavy, too slow for AI crawlers.  AI Visibility Solutions provides AI discovery files for the root directory of the website, in addition to Flat HTML + JSON‑LD AI Resource Library full of answer first AI-citable content, explicitly designed for low-latency AI ingestion.\n\nSEO in general has manual or sporadic content updates.  AI Visibility Solutions provides an automated pipeline: research → generate → publish → ping IndexNow. \n\nIn short AI Visibility Solutions does not simply provide “SEO with FAQs.” It’s AI SEO with all fully decentralized, schema-first AI ingestion system built for answer engines.\n\nWho It’s For? AI Visibility Solutions is tailored to:\n\nLaw firms (personal injury, family law, criminal defense, immigration, etc.) where case-type questions dominate AI search; and\n\nLocal service businesses (construction companies, home service contractors, plumbers, electricians, roofers, HVAC, landscapers, cleaners) whose customers ask very specific “near me” and scenario-based questions.\n\nIt is especially powerful for businesses that:\n\nAre brand new or have little domain authority on their own site;\n\nOperate in competitive local markets where directories and aggregators dominate AI answers;\n\nWant to be the source AI systems cite when prospects ask about their exact services or case types.\n\nAI Visibility Solutions researches the exact questions people are asking online about your business services or legal case types—on Google, Avvo, Quora, Reddit, Houzz, and more. Then we generate hundreds of FAQ and help-article pages, fully compliant with Google’s latest AI and spam guidelines, and publish them as a dedicated ‘AI Resource Library’ on GitHub and other high-trust platforms.\n\nEvery page is built as clean, static HTML with rich schema so AI systems like Google AI Overviews, Bing, Perplexity, Siri, and Alexa can instantly understand and cite your business when people ask those questions. Each update automatically pings indexing services through IndexNow so your content is discovered fast.\n\nIn effect, AI Visibility Services turns your business services or legal practice's case types into a machine-readable knowledge base of FAQs and help articles that answer engines trust and surface—so when prospects ask questions, you become the answer.”\n\nAs such, we build AI‑ready knowledge bases that make your business the default answer in AI search.\n\nFrom unanswered questions to AI citations: we engineer your visibility in Google AI Overviews, Perplexity, Siri, and Alexa.\n\nDecentralized, schema-first AI discovery for law firms and local service businesses, and anyone who wants AI to consume their information and include it in conversations with their prospects, so they can be cited or recommended across the web.",
   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
     "name": "AI Visibility Solutions Services",
+    "@type": "OfferCatalog",
     "itemListElement": [
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Website Audit for AI Search"
+          "name": "Website Audit for AI Search",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Website Optimization for AI Visibility"
+          "name": "Website Optimization for AI Visibility",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI-Optimized Website"
+          "name": "AI-Optimized Website",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Search Optimization"
+          "name": "AI Search Optimization",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Search Visibility"
+          "name": "AI Search Visibility",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Answer Engine Optimization for small business"
+          "name": "Answer Engine Optimization for small business",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Search Content Strategy"
+          "name": "AI Search Content Strategy",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Website Optimization"
+          "name": "AI Website Optimization",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Search Content Writing"
+          "name": "AI Search Content Writing",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Customer Query Research"
+          "name": "Customer Query Research",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "People Also Ask Content Creation"
+          "name": "People Also Ask Content Creation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Topic Cluster Creation"
+          "name": "Topic Cluster Creation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Schema Markup Implementation"
+          "name": "Schema Markup Implementation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Website Crawlability Fixes"
+          "name": "Website Crawlability Fixes",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Website AI Discovery Files"
+          "name": "Website AI Discovery Files",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Website Entity Optimization"
+          "name": "Website Entity Optimization",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI-Ready Website"
+          "name": "AI-Ready Website",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Business Website Optimization"
+          "name": "Business Website Optimization",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Local AI Optimization"
+          "name": "Local AI Optimization",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Google Business Profile Optimization"
+          "name": "Google Business Profile Optimization",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Google Maps Optimization"
+          "name": "Google Maps Optimization",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Service Area Optimization"
+          "name": "Service Area Optimization",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for Law Firms"
+          "name": "AI SEO for Law Firms",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Law Firm AI Audit"
+          "name": "Law Firm AI Audit",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Law Firm Schema Markup"
+          "name": "Law Firm Schema Markup",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Personal Injury Lawyer AI SEO"
+          "name": "Personal Injury Lawyer AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for personal injury lawyers"
+          "name": "AEO for personal injury lawyers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for personal injury lawyers"
+          "name": "GEO for personal injury lawyers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Family Law AI SEO"
+          "name": "Family Law AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for family law attorneys"
+          "name": "AEO for family law attorneys",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for family law lawyers"
+          "name": "GEO for family law lawyers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Criminal Defense Lawyer AI SEO"
+          "name": "Criminal Defense Lawyer AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for criminal defense attorney"
+          "name": "AEO for criminal defense attorney",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for criminal defense lawyers"
+          "name": "GEO for criminal defense lawyers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Employment Lawyer AI SEO"
+          "name": "Employment Lawyer AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Business Lawyer AI SEO"
+          "name": "Business Lawyer AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for Contractors"
+          "name": "AI SEO for Contractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Contractor AI SEO"
+          "name": "Contractor AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for Contractors"
+          "name": "AEO for Contractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for contractors"
+          "name": "GEO for contractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Search for Contractors"
+          "name": "AI Search for Contractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for Construction Companies"
+          "name": "AEO for Construction Companies",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for construction companies"
+          "name": "GEO for construction companies",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for Construction Companies"
+          "name": "AI SEO for Construction Companies",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for construction companies"
+          "name": "answer engine optimization for construction companies",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Plumber AI SEO"
+          "name": "Plumber AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for Plumbers"
+          "name": "AEO for Plumbers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for Plumbers"
+          "name": "GEO for Plumbers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for plumbers"
+          "name": "answer engine optimization for plumbers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Remodeling Contractor AI SEO"
+          "name": "Remodeling Contractor AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for Remodelers"
+          "name": "AEO for Remodelers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GOE for contractors"
+          "name": "GOE for contractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for contractors"
+          "name": "answer engine optimization for contractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "General Contractor AI SEO"
+          "name": "General Contractor AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for general contractors"
+          "name": "AEO for general contractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for general contractors"
+          "name": "GEO for general contractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Answer engine optimization for general contractors"
+          "name": "Answer engine optimization for general contractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Restoration Company AI SEO"
+          "name": "Restoration Company AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for Restoration Company"
+          "name": "AEO for Restoration Company",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for restoration companies"
+          "name": "answer engine optimization for restoration companies",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for dentists"
+          "name": "GEO for dentists",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for dentists"
+          "name": "AEO for dentists",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for dentists"
+          "name": "answer engine optimization for dentists",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "generative engine optimization for dentists"
+          "name": "generative engine optimization for dentists",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for Dentists"
+          "name": "AI SEO for Dentists",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for Medical Practices"
+          "name": "AI SEO for Medical Practices",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for medical practice"
+          "name": "AEO for medical practice",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for medical practices"
+          "name": "GEO for medical practices",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Website Optimization for AI"
+          "name": "Website Optimization for AI",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Answer Engine Optimization"
+          "name": "Answer Engine Optimization",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "generative engine optimization"
+          "name": "generative engine optimization",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for Small Businesses"
+          "name": "AEO for Small Businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for small businesses"
+          "name": "answer engine optimization for small businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "generative engine optimization for small businesses"
+          "name": "generative engine optimization for small businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI search optimization for small businesses"
+          "name": "AI search optimization for small businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for Law Firms"
+          "name": "AEO for Law Firms",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for law firms"
+          "name": "answer engine optimization for law firms",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "generative engine optimization for law firms"
+          "name": "generative engine optimization for law firms",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Search optimization for law firms"
+          "name": "AI Search optimization for law firms",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for lawyers"
+          "name": "AEO for lawyers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for lawyers"
+          "name": "answer engine optimization for lawyers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "generative engine optimization for lawyers"
+          "name": "generative engine optimization for lawyers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI search optimization for lawyers"
+          "name": "AI search optimization for lawyers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for Home Service Businesses"
+          "name": "AEO for Home Service Businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for home service businesses"
+          "name": "answer engine optimization for home service businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for Medical Practices"
+          "name": "AEO for Medical Practices",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for medical practices"
+          "name": "answer engine optimization for medical practices",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for plastic surgeons"
+          "name": "AEO for plastic surgeons",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for plastic surgeons"
+          "name": "GEO for plastic surgeons",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for plastic surgeons"
+          "name": "answer engine optimization for plastic surgeons",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for plastic surgeons"
+          "name": "AI SEO for plastic surgeons",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI overviews optimization for plastic surgeons"
+          "name": "AI overviews optimization for plastic surgeons",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for Dental Practices"
+          "name": "AEO for Dental Practices",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for dental practices"
+          "name": "GEO for dental practices",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for dental practices"
+          "name": "answer engine optimization for dental practices",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for dental practices"
+          "name": "AI SEO for dental practices",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for Real Estate Agents"
+          "name": "AEO for Real Estate Agents",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for real estate agents"
+          "name": "GEO for real estate agents",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for real estate brokers"
+          "name": "AEO for real estate brokers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for real estate agents"
+          "name": "answer engine optimization for real estate agents",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for real estate agents"
+          "name": "AI SEO for real estate agents",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for Financial Advisors"
+          "name": "AEO for Financial Advisors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for financial advisors"
+          "name": "GEO for financial advisors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for financial advisors"
+          "name": "answer engine optimization for financial advisors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for financial advisors"
+          "name": "AI SEO for financial advisors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for Med Spas"
+          "name": "AEO for Med Spas",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for Beauty Spas"
+          "name": "AEO for Beauty Spas",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for Med Spas"
+          "name": "GEO for Med Spas",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for med spas"
+          "name": "answer engine optimization for med spas",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for med spas"
+          "name": "AI SEO for med spas",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for Accountants"
+          "name": "AEO for Accountants",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for CPAs"
+          "name": "AEO for CPAs",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for accountants"
+          "name": "GEO for accountants",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for CPAs"
+          "name": "GEO for CPAs",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for accountants"
+          "name": "answer engine optimization for accountants",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for CPAs"
+          "name": "answer engine optimization for CPAs",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for accountants"
+          "name": "AI SEO for accountants",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for cpas"
+          "name": "AI SEO for cpas",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for Insurance Agencies"
+          "name": "AEO for Insurance Agencies",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for insurance agents"
+          "name": "AEO for insurance agents",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for insurance agencies"
+          "name": "GEO for insurance agencies",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for insurance agents"
+          "name": "GEO for insurance agents",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for insurance agents"
+          "name": "answer engine optimization for insurance agents",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for insurance agencies"
+          "name": "AI SEO for insurance agencies",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for insurance agents"
+          "name": "AI SEO for insurance agents",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO Website Audit"
+          "name": "AEO Website Audit",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO website audit"
+          "name": "GEO website audit",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO website audit"
+          "name": "AI SEO website audit",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO Content Strategy"
+          "name": "AEO Content Strategy",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO content strategy"
+          "name": "GEO content strategy",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO content strategy"
+          "name": "AI SEO content strategy",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO Implementation"
+          "name": "AEO Implementation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization content strategy"
+          "name": "answer engine optimization content strategy",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for Local Businesses"
+          "name": "AEO for Local Businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for local businesses"
+          "name": "answer engine optimization for local businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "generative engine optimization for local businesses"
+          "name": "generative engine optimization for local businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for local businesses"
+          "name": "AI SEO for local businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI overviews optimization for local businesses"
+          "name": "AI overviews optimization for local businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "website optimization for local businesses"
+          "name": "website optimization for local businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for Multi-Location Businesses"
+          "name": "AEO for Multi-Location Businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for Small Businesses"
+          "name": "GEO for Small Businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for Law Firms"
+          "name": "GEO for Law Firms",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for Home Service Businesses"
+          "name": "GEO for Home Service Businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO Implementation"
+          "name": "GEO Implementation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for Service Pages"
+          "name": "GEO for Service Pages",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for Practice Area Pages"
+          "name": "GEO for Practice Area Pages",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for FAQ Pages"
+          "name": "GEO for FAQ Pages",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for Help Articles"
+          "name": "GEO for Help Articles",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for Knowledge Bases"
+          "name": "GEO for Knowledge Bases",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for Local Businesses"
+          "name": "GEO for Local Businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "GEO for Multi-Location Businesses"
+          "name": "GEO for Multi-Location Businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Citation Optimization"
+          "name": "AI Citation Optimization",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "FAQ Content for AI"
+          "name": "FAQ Content for AI",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "ai citable content"
+          "name": "ai citable content",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Technical Audit"
+          "name": "AI Technical Audit",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI-Ready Website Build"
+          "name": "AI-Ready Website Build",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "ai ready website optimization"
+          "name": "ai ready website optimization",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Business Website Creation"
+          "name": "Business Website Creation",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "business website optimization for AI"
+          "name": "business website optimization for AI",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for remodelers"
+          "name": "answer engine optimization for remodelers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "generative engine optimization for remodelers"
+          "name": "generative engine optimization for remodelers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for remodelers"
+          "name": "AI SEO for remodelers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI overviews optimization for remodelers"
+          "name": "AI overviews optimization for remodelers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "website optimization for remodelers"
+          "name": "website optimization for remodelers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for roofers"
+          "name": "AEO for roofers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for roofers"
+          "name": "answer engine optimization for roofers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "generative engine optimization for roofers"
+          "name": "generative engine optimization for roofers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for roofers"
+          "name": "AI SEO for roofers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "website optimization for roofers"
+          "name": "website optimization for roofers",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for roofing contractors"
+          "name": "AEO for roofing contractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for roofing contractors"
+          "name": "answer engine optimization for roofing contractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "generative engine optimization for roofing contractors"
+          "name": "generative engine optimization for roofing contractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for roofing contractors"
+          "name": "AI SEO for roofing contractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "website optimization for roofing contractors"
+          "name": "website optimization for roofing contractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for chiropractors"
+          "name": "AEO for chiropractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for chiropractors"
+          "name": "answer engine optimization for chiropractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "generative engine optimization for chiropractors"
+          "name": "generative engine optimization for chiropractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for chiropractors"
+          "name": "AI SEO for chiropractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "website optimization for chiropractors"
+          "name": "website optimization for chiropractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for veterinarians"
+          "name": "AEO for veterinarians",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for veterinarians"
+          "name": "answer engine optimization for veterinarians",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "generative engine optimization for veterinarians"
+          "name": "generative engine optimization for veterinarians",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for veterinarians"
+          "name": "AI SEO for veterinarians",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "website optimization for veterinarians"
+          "name": "website optimization for veterinarians",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for local marketing agencies"
+          "name": "AEO for local marketing agencies",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for local marketing agencies"
+          "name": "answer engine optimization for local marketing agencies",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "generative engine optimization for local marketing agencies"
+          "name": "generative engine optimization for local marketing agencies",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for local marketing agencies"
+          "name": "AI SEO for local marketing agencies",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "website optimization for local marketing agencies"
+          "name": "website optimization for local marketing agencies",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for automotive dealerships"
+          "name": "AEO for automotive dealerships",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for automotive dealerships"
+          "name": "answer engine optimization for automotive dealerships",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "generative engine optimization for automotive dealerships"
+          "name": "generative engine optimization for automotive dealerships",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for automotive dealerships"
+          "name": "AI SEO for automotive dealerships",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "website optimization for automotive dealerships"
+          "name": "website optimization for automotive dealerships",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for pediatricians"
+          "name": "AEO for pediatricians",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for pediatricians"
+          "name": "answer engine optimization for pediatricians",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "generative engine optimization for pediatricians"
+          "name": "generative engine optimization for pediatricians",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for pediatricians"
+          "name": "AI SEO for pediatricians",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "website optimization for pediatricians"
+          "name": "website optimization for pediatricians",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for pool contractors"
+          "name": "AEO for pool contractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for pool contractors"
+          "name": "answer engine optimization for pool contractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "generative engine optimization for pool contractors"
+          "name": "generative engine optimization for pool contractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for pool contractors"
+          "name": "AI SEO for pool contractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "website optimization for pool contractors"
+          "name": "website optimization for pool contractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for optometrists"
+          "name": "AEO for optometrists",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for optometrists"
+          "name": "answer engine optimization for optometrists",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "generative engine optimization for optometrists"
+          "name": "generative engine optimization for optometrists",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for optometrists"
+          "name": "AI SEO for optometrists",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI overviews optimization for optometrists"
+          "name": "AI overviews optimization for optometrists",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "website optimization for optometrists"
+          "name": "website optimization for optometrists",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for cosmetic surgeons"
+          "name": "AEO for cosmetic surgeons",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for cosmetic surgeons"
+          "name": "answer engine optimization for cosmetic surgeons",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "generative engine optimization for cosmetic surgeons"
+          "name": "generative engine optimization for cosmetic surgeons",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for cosmetic surgeons"
+          "name": "AI SEO for cosmetic surgeons",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "website optimization for cosmetic surgeons"
+          "name": "website optimization for cosmetic surgeons",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for electricians"
+          "name": "AEO for electricians",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for electricians"
+          "name": "answer engine optimization for electricians",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "generative engine optimization for electricians"
+          "name": "generative engine optimization for electricians",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for electricians"
+          "name": "AI SEO for electricians",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "website optimization for electricians"
+          "name": "website optimization for electricians",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for pest control"
+          "name": "AEO for pest control",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for pest control"
+          "name": "answer engine optimization for pest control",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "generative engine optimization for pest control"
+          "name": "generative engine optimization for pest control",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for pest control"
+          "name": "AI SEO for pest control",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "website optimization for pest control"
+          "name": "website optimization for pest control",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AEO for weight loss clinics"
+          "name": "AEO for weight loss clinics",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "answer engine optimization for weight loss clinics"
+          "name": "answer engine optimization for weight loss clinics",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "generative engine optimization for weight loss clinics"
+          "name": "generative engine optimization for weight loss clinics",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for weight loss clinics"
+          "name": "AI SEO for weight loss clinics",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI overviews optimization for weight loss clinics"
+          "name": "AI overviews optimization for weight loss clinics",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "website optimization for weight loss clinics"
+          "name": "website optimization for weight loss clinics",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Electrician AI SEO"
+          "name": "Electrician AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "HVAC AI SEO"
+          "name": "HVAC AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Roofer AI SEO"
+          "name": "Roofer AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Landscaper AI SEO"
+          "name": "Landscaper AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Pest Control AI SEO"
+          "name": "Pest Control AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Garage Door Company AI SEO"
+          "name": "Garage Door Company AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Website Audit for AEO"
+          "name": "Website Audit for AEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Website Audit for GEO"
+          "name": "Website Audit for GEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Website Audit for AI SEO"
+          "name": "Website Audit for AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Website Audit for Google AI Overviews"
+          "name": "Website Audit for Google AI Overviews",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Website Optimization for AEO"
+          "name": "Website Optimization for AEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Website Optimization for GEO"
+          "name": "Website Optimization for GEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Website Optimization for AI SEO"
+          "name": "Website Optimization for AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Website Optimization for Google AI Overviews"
+          "name": "Website Optimization for Google AI Overviews",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI-Optimized Website for AEO"
+          "name": "AI-Optimized Website for AEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI-Optimized Website for GEO"
+          "name": "AI-Optimized Website for GEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI-Optimized Website for AI SEO"
+          "name": "AI-Optimized Website for AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Search Optimization for AEO"
+          "name": "AI Search Optimization for AEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Search Optimization for GEO"
+          "name": "AI Search Optimization for GEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Search Optimization for AI SEO"
+          "name": "AI Search Optimization for AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Generative Engine Optimization for Contractors"
+          "name": "Generative Engine Optimization for Contractors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Generative Engine Optimization for Home Service Businesses"
+          "name": "Generative Engine Optimization for Home Service Businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Generative Engine Optimization for Medical Practices"
+          "name": "Generative Engine Optimization for Medical Practices",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Generative Engine Optimization for Dental Practices"
+          "name": "Generative Engine Optimization for Dental Practices",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Generative Engine Optimization for Real Estate Agents"
+          "name": "Generative Engine Optimization for Real Estate Agents",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Generative Engine Optimization for Financial Advisors"
+          "name": "Generative Engine Optimization for Financial Advisors",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Generative Engine Optimization for Med Spas"
+          "name": "Generative Engine Optimization for Med Spas",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Generative Engine Optimization for Accountants"
+          "name": "Generative Engine Optimization for Accountants",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Generative Engine Optimization for Insurance Agencies"
+          "name": "Generative Engine Optimization for Insurance Agencies",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for Small Businesses"
+          "name": "AI SEO for Small Businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI SEO for Home Service Businesses"
+          "name": "AI SEO for Home Service Businesses",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Search Content Strategy for AEO"
+          "name": "AI Search Content Strategy for AEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Search Content Strategy for GEO"
+          "name": "AI Search Content Strategy for GEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Search Content Strategy for AI SEO"
+          "name": "AI Search Content Strategy for AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Website Optimization for AEO"
+          "name": "AI Website Optimization for AEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Website Optimization for GEO"
+          "name": "AI Website Optimization for GEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Website Optimization for AI SEO"
+          "name": "AI Website Optimization for AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "FAQ Content Writing for AI"
+          "name": "FAQ Content Writing for AI",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "FAQ Content Writing for AEO"
+          "name": "FAQ Content Writing for AEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "FAQ Content Writing for GEO"
+          "name": "FAQ Content Writing for GEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "FAQ Content Writing for AI SEO"
+          "name": "FAQ Content Writing for AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Search Content Writing for AEO"
+          "name": "AI Search Content Writing for AEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Search Content Writing for GEO"
+          "name": "AI Search Content Writing for GEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "AI Search Content Writing for AI SEO"
+          "name": "AI Search Content Writing for AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Customer Query Research for AEO"
+          "name": "Customer Query Research for AEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Customer Query Research for GEO"
+          "name": "Customer Query Research for GEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Customer Query Research for AI SEO"
+          "name": "Customer Query Research for AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "People Also Ask Content Creation for AEO"
+          "name": "People Also Ask Content Creation for AEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "People Also Ask Content Creation for GEO"
+          "name": "People Also Ask Content Creation for GEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "People Also Ask Content Creation for AI SEO"
+          "name": "People Also Ask Content Creation for AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Topic Cluster Creation for AI"
+          "name": "Topic Cluster Creation for AI",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Topic Cluster Creation for AEO"
+          "name": "Topic Cluster Creation for AEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Topic Cluster Creation for GEO"
+          "name": "Topic Cluster Creation for GEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Topic Cluster Creation for AI SEO"
+          "name": "Topic Cluster Creation for AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Schema Markup Implementation for AEO"
+          "name": "Schema Markup Implementation for AEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Schema Markup Implementation for GEO"
+          "name": "Schema Markup Implementation for GEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Schema Markup Implementation for AI SEO"
+          "name": "Schema Markup Implementation for AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Website Entity Optimization for AI"
+          "name": "Website Entity Optimization for AI",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Website Entity Optimization for AEO"
+          "name": "Website Entity Optimization for AEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Website Entity Optimization for GEO"
+          "name": "Website Entity Optimization for GEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Website Entity Optimization for AI SEO"
+          "name": "Website Entity Optimization for AI SEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Local AI Optimization for AEO"
+          "name": "Local AI Optimization for AEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Local AI Optimization for GEO"
+          "name": "Local AI Optimization for GEO",
+          "@type": "Service"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
-          "@type": "Service",
-          "name": "Local AI Optimization for AI SEO"
+          "name": "Local AI Optimization for AI SEO",
+          "@type": "Service"
         }
       }
     ]
