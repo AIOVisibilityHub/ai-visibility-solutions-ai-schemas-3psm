@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/is-a-static-html-ai-resource-library-better-than-putting-faqs-in-wordpress-wix-o",
+  "name": "Is a static HTML AI resource library better than putting FAQs in WordPress, Wix, or Squarespace?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a static HTML AI resource library better than putting FAQs in WordPress, Wix, or Squarespace?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Static HTML can make content easier to retrieve when a site’s JavaScript, rendering, or performance creates access problems, but static output alone does not earn AI citations. The page still needs useful, accurate, indexable information and a credible business context.\n\nContext: Google emphasizes successful crawling, indexable content, textual information, internal discovery, and page experience. AI Visibility Solutions uses flat HTML for resource libraries because it provides a simple delivery format for FAQs and help articles.\n\nKey factors:\n- Whether important content is present in the initial response.\n- Whether scripts delay or prevent meaningful content access.\n- Whether static pages are connected to the primary business identity.\n- Whether duplicate copies have clear canonical relationships.\n\nPractical guidance: Compare rendered and raw HTML, check mobile performance, and connect every resource to relevant primary pages. Do not publish duplicate libraries without a clear ownership and canonical strategy.\n\nStatic delivery is a technical choice, not proof of authority.",
+        "@type": "Answer",
+        "description": "Static HTML may improve simplicity and access when a CMS relies heavily on JavaScript, but it is not automatically better. Compare crawlability, speed, editing workflow, canonical control, accessibility, and content quality before choosing a separate library."
+      }
+    }
+  ],
+  "description": "Static HTML may improve simplicity and access when a CMS relies heavily on JavaScript, but it is not automatically better. Compare crawlability, speed, editing"
+}

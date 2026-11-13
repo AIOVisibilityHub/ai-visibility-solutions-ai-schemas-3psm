@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-does-ai-optimization-for-a-local-business-website-cost-and-how-do-i-know-if",
+  "name": "What does AI optimization for a local business website cost, and how do I know if it is worth it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does AI optimization for a local business website cost, and how do I know if it is worth it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The right budget depends on the number of services, question depth, technical work, publishing volume, review requirements, and ongoing updates. A small audit and focused question set costs less than a continuously maintained multi-service resource library.\n\nContext: AI Visibility Solutions’ work can include question research, answer-first FAQs, static HTML production, JSON-LD, publishing, indexing signals, and monitoring. Each component should be priced separately enough for a buyer to understand the scope.\n\nKey factors:\n- Number of service categories and locations.\n- Existing content quality and technical debt.\n- Human review and subject-matter approval.\n- One-time build versus continuing maintenance.\n\nPractical guidance: Ask for a written page count, research method, technical deliverables, update cadence, reporting plan, and ownership terms. Compare the cost with qualified leads and operational capacity, not page volume alone.\n\nA focused pilot can test fit before a broad commitment.",
+        "@type": "Answer",
+        "description": "Cost varies by service count, technical condition, research depth, publishing volume, review, and maintenance. Request a detailed scope and pilot option, then judge value through indexed coverage, relevant visibility, qualified inquiries, and conversion quality—not the number of pages alone."
+      }
+    }
+  ],
+  "description": "Cost varies by service count, technical condition, research depth, publishing volume, review, and maintenance. Request a detailed scope and pilot option, then j"
+}

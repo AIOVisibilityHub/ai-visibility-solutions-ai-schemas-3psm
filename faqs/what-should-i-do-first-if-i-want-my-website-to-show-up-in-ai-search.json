@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-should-i-do-first-if-i-want-my-website-to-show-up-in-ai-search",
+  "name": "What should I do first if I want my website to show up in AI search?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want my website to show up in AI search?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start with technical accessibility and a list of real customer questions—not with a large batch of AI-written pages. Google recommends ensuring important content is crawlable, indexable, available as text, internally discoverable, and supported by a good page experience.\n\nContext: For a local company, the first content should address service, location, urgency, cost, eligibility, and outcome questions. AI Visibility Solutions begins by breaking broad services into the specific questions prospects ask across search and community platforms.\n\nKey factors:\n- Services and customer scenarios that produce qualified inquiries.\n- Pages blocked by noindex, robots.txt, or JavaScript rendering.\n- Accurate business identity and service-area information.\n\nPractical guidance: Audit access first, then build a prioritized question map and publish concise answers with supporting detail. Track indexed pages and query impressions before expanding production.\n\nA smaller, accurate knowledge base is usually a better starting point than a thin library of generic pages.",
+        "@type": "Answer",
+        "description": "Check crawling, indexing, visible text, internal links, and page speed first. Then identify real questions tied to your services and create accurate answer-first pages for the highest-value topics before scaling content production."
+      }
+    }
+  ],
+  "description": "Check crawling, indexing, visible text, internal links, and page speed first. Then identify real questions tied to your services and create accurate answer-firs"
+}

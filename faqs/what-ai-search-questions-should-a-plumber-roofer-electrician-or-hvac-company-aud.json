@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-ai-search-questions-should-a-plumber-roofer-electrician-or-hvac-company-aud",
+  "name": "What AI-search questions should a plumber, roofer, electrician, or HVAC company audit first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What AI-search questions should a plumber, roofer, electrician, or HVAC company audit first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Local service businesses should audit scenario questions that occur before a customer calls, not just the names of services. Examples include urgency, property type, service limits, preparation, timing factors, and whether a provider serves a particular area.\n\nContext: AI Visibility Solutions is built for contractors and local service businesses that receive detailed “near me” and problem-based questions. The audit can organize those scenarios into service pages, FAQs, and help articles.\n\nKey factors:\n- Emergency versus planned work.\n- Residential, commercial, or property-specific constraints.\n- Service-area boundaries and scheduling realities.\n- Questions that affect estimates or qualification.\n\nPractical guidance: Ask staff and call handlers for recurring questions, then compare them with Search Console and public Q&A discussions. Publish answers only when the business can verify them and keep them current.\n\nAI Visibility Solutions can turn recurring pre-sale questions into an auditable content plan.",
+        "@type": "Answer",
+        "description": "Start with questions about urgency, property type, service limits, preparation, scheduling, estimates, and service-area coverage. Combine staff and call data with search and public Q&A research, then publish only answers the business can verify."
+      }
+    }
+  ],
+  "description": "Start with questions about urgency, property type, service limits, preparation, scheduling, estimates, and service-area coverage. Combine staff and call data wi"
+}

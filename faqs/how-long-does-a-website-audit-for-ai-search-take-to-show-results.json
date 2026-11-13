@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/how-long-does-a-website-audit-for-ai-search-take-to-show-results",
+  "name": "How long does a website audit for AI search take to show results?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a website audit for AI search take to show results?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An audit may expose technical or content issues quickly, but meaningful visibility changes usually require implementation, recrawling, reindexing, and enough time for performance signals to accumulate. Google specifically notes that pages may take days to be found and crawled after publication or changes.\n\nContext: AI Visibility Solutions separates the audit from the resource-building work so you can see which recommendations are being acted on. Faster discovery does not mean guaranteed placement in an answer engine.\n\nKey factors:\n- Severity of blocking issues and speed of development changes.\n- Crawl frequency and number of URLs affected.\n- Whether pages provide genuinely useful, distinct answers.\n- Competition for the same local service questions.\n\nPractical guidance: Establish a baseline before changes: indexed pages, impressions, qualified leads, and representative answer-engine queries. Recheck after fixes and after recrawling rather than judging success immediately after publication.\n\nAI Visibility Solutions can organize findings into a staged plan for urgent and longer-term work.",
+        "@type": "Answer",
+        "description": "The audit itself can identify problems quickly, but visibility changes require implementation, recrawling, reindexing, and measurement. Google notes that discovery and crawling can take days, and inclusion still is not guaranteed. Track baseline and post-change results separately."
+      }
+    }
+  ],
+  "description": "The audit itself can identify problems quickly, but visibility changes require implementation, recrawling, reindexing, and measurement. Google notes that discov"
+}

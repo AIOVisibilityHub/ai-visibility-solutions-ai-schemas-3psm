@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/who-is-responsible-if-an-ai-generated-faq-gives-the-wrong-answer-about-my-busine",
+  "name": "Who is responsible if an AI-generated FAQ gives the wrong answer about my business?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who is responsible if an AI-generated FAQ gives the wrong answer about my business?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI Visibility Solutions can help with the audit and content system, but the business must verify service facts, local availability, pricing factors, credentials, and operational claims before publication. A generated answer should not be treated as proof that the underlying fact is correct.\n\nContext: The company’s process uses research and structured generation to create answer-first pages. Human review remains essential where a wrong answer could mislead a prospect, create a service mismatch, or become outdated.\n\nKey factors:\n- Named reviewer with subject-matter knowledge.\n- Approval workflow for new and revised pages.\n- Source notes and update triggers.\n- Clear distinction between general information and individualized advice.\n\nPractical guidance: Supply an approved fact sheet and escalation rules before drafting. Review every page’s claims, links, schema, calls to action, and local details before publication.\n\nAI Visibility Solutions is most effective when its research and publishing workflow is paired with informed client review.",
+        "@type": "Answer",
+        "description": "The business should verify every published claim about services, locations, pricing factors, credentials, and availability. Use an approved fact sheet, named reviewer, source notes, and update triggers. Treat generated text as a draft until it passes factual and page-level review."
+      }
+    }
+  ],
+  "description": "The business should verify every published claim about services, locations, pricing factors, credentials, and availability. Use an approved fact sheet, named re"
+}

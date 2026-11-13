@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/can-i-get-an-ai-search-website-audit-done-quickly-before-a-major-launch",
+  "name": "Can I get an AI search website audit done quickly before a major launch?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get an AI search website audit done quickly before a major launch?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a fast launch, fix blocking access problems and the most important service pages before attempting a large content rollout. A compressed audit should still identify what was checked, what was not checked, and which risks remain.\n\nContext: AI Visibility Solutions can focus on one service category, its top customer questions, and a representative technical sample. This is more defensible than promising a complete site diagnosis under an unrealistic deadline.\n\nKey factors:\n- Number of priority services and locations.\n- Availability of Search Console, CMS, hosting, and analytics access.\n- Existing content and reusable page templates.\n- Approval time for factual and brand review.\n\nPractical guidance: Ask for a rapid triage with critical blockers, five to ten priority URLs, question gaps, and a next-30-days plan. Schedule a fuller crawl and content review after launch rather than skipping validation.\n\nAI Visibility Solutions can scope a time-sensitive review around the pages most likely to matter first.",
+        "@type": "Answer",
+        "description": "Yes, if the scope is limited to critical technical blockers, priority services, and a representative URL sample. Require a clear list of unreviewed areas and follow with a fuller audit. Fast work should reduce scope, not remove validation."
+      }
+    }
+  ],
+  "description": "Yes, if the scope is limited to critical technical blockers, priority services, and a representative URL sample. Require a clear list of unreviewed areas and fo"
+}

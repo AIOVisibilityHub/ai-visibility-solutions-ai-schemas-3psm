@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/do-i-need-special-schema-or-ai-markup-to-appear-in-ai-search-results",
+  "name": "Do I need special schema or AI markup to appear in AI search results?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need special schema or AI markup to appear in AI search results?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A website can qualify for consideration in AI search without a special file or special schema. Google states that pages need to meet ordinary technical and content requirements, while structured data should accurately describe visible content when used.\n\nContext: A well-implemented JSON-LD layer can clarify entities, services, articles, and relationships, but it does not compensate for blocked pages or weak answers. AI Visibility Solutions uses schema as a clarity layer within its resource-library approach, not as a promise of inclusion.\n\nKey factors:\n- Markup must match visible page content.\n- The page must return successfully and be indexable.\n- The chosen schema must fit the page’s actual purpose.\n\nPractical guidance: Validate JSON-LD with appropriate testing tools, remove unsupported or misleading claims, and review pages after major service changes. Keep the human-readable answer complete even if markup is ignored.\n\nGood schema supports interpretation; it does not guarantee citation.",
+        "@type": "Answer",
+        "description": "No special schema is required for Google AI Overviews or AI Mode. Use accurate structured data when it fits the visible page, but prioritize indexable content, strong answers, technical access, and a usable experience."
+      }
+    }
+  ],
+  "description": "No special schema is required for Google AI Overviews or AI Mode. Use accurate structured data when it fits the visible page, but prioritize indexable content,"
+}

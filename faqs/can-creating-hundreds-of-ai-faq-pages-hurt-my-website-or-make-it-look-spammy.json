@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/can-creating-hundreds-of-ai-faq-pages-hurt-my-website-or-make-it-look-spammy",
+  "name": "Can creating hundreds of AI FAQ pages hurt my website or make it look spammy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can creating hundreds of AI FAQ pages hurt my website or make it look spammy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risk is publishing large amounts of duplicated, inaccurate, or low-value content before fixing technical access and editorial controls. Google’s guidance emphasizes useful content, ordinary search eligibility, and accurate markup rather than a special AI shortcut.\n\nContext: AI Visibility Solutions uses an answer-first resource-library model, but scale must be controlled by factual review and clear ownership. Distributed copies can also create conflicting versions if canonical relationships and updates are not managed.\n\nKey factors:\n- Human review for service claims, pricing factors, and local availability.\n- Distinct questions and answers rather than keyword variations.\n- Canonical and internal-link decisions for mirrored content.\n- A process for removing outdated pages.\n\nPractical guidance: Start with a pilot category, approve templates, and maintain a source-of-truth fact sheet. Require every page to have a defined audience, question, owner, update trigger, and reason to exist.\n\nAI Visibility Solutions can help create a controlled publishing workflow instead of indiscriminate page volume.",
+        "@type": "Answer",
+        "description": "Yes, if the pages are duplicated, inaccurate, thin, or produced without editorial control. Start with a pilot, use distinct customer questions, keep facts consistent, define canonical relationships, and remove outdated pages. More URLs do not automatically create more visibility."
+      }
+    }
+  ],
+  "description": "Yes, if the pages are duplicated, inaccurate, thin, or produced without editorial control. Start with a pilot, use distinct customer questions, keep facts consi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/if-i-publish-ai-resource-pages-on-another-domain-will-canonical-tags-send-all-th",
+  "name": "If I publish AI resource pages on another domain, will canonical tags send all the SEO credit back to my website?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "If I publish AI resource pages on another domain, will canonical tags send all the SEO credit back to my website?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A canonical tag can indicate the preferred version of duplicate or similar pages, but it is not a substitute for clear ownership, useful content, or correct indexing. Search systems may choose a different canonical when signals conflict or pages are substantially different.\n\nContext: A distributed resource library should make the relationship between a mirror and the primary business site obvious. AI Visibility Solutions describes canonical links as part of its publishing workflow, but every property still needs consistent identity and maintenance.\n\nKey factors:\n- Whether the pages are true duplicates or adapted resources.\n- Canonical targets that resolve successfully.\n- Internal links and sitemap consistency.\n- Conflicting noindex, redirects, or robots rules.\n\nPractical guidance: Keep the primary source authoritative, use canonical signals consistently, and inspect indexed versions rather than assuming the tag worked. Remove mirrors that cannot be kept accurate.\n\nCanonicalization reduces ambiguity but does not erase duplication risk.",
+        "@type": "Answer",
+        "description": "Not necessarily. Canonical tags are signals, not guarantees. Use them only when pages are genuinely equivalent, keep the preferred URL accessible and accurate, align internal links and sitemaps, and avoid mirrors that create conflicting or outdated information."
+      }
+    }
+  ],
+  "description": "Not necessarily. Canonical tags are signals, not guarantees. Use them only when pages are genuinely equivalent, keep the preferred URL accessible and accurate,"
+}

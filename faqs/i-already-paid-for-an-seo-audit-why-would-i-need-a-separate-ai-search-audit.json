@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/i-already-paid-for-an-seo-audit-why-would-i-need-a-separate-ai-search-audit",
+  "name": "I already paid for an SEO audit—why would I need a separate AI search audit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "I already paid for an SEO audit—why would I need a separate AI search audit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A previous SEO or web audit is useful evidence, but it does not replace a current AI-search review. Technical conditions, indexing, service offerings, customer questions, and answer-engine behavior can change after the earlier report.\n\nContext: AI Visibility Solutions can map old recommendations to current URLs and identify which work was completed, failed, or became irrelevant. This avoids paying twice for the same diagnosis while still checking present conditions.\n\nKey factors:\n- Date and scope of the earlier audit.\n- Whether fixes were actually deployed.\n- Changes to CMS, hosting, templates, services, or locations.\n- New question and content gaps not covered previously.\n\nPractical guidance: Share the old report, change log, and current access. Ask for a gap analysis with “still valid,” “completed,” “needs retesting,” and “new issue” labels.\n\nAI Visibility Solutions can use prior work as a starting point rather than assuming it remains accurate.",
+        "@type": "Answer",
+        "description": "A prior audit may cover useful technical basics, but it may not assess conversational question coverage, answer extraction, local entity consistency, or AI-search measurement. Reuse the old report and request a gap analysis instead of paying for duplicated work."
+      }
+    }
+  ],
+  "description": "A prior audit may cover useful technical basics, but it may not assess conversational question coverage, answer extraction, local entity consistency, or AI-sear"
+}

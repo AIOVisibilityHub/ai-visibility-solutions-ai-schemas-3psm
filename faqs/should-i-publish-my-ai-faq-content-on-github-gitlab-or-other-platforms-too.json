@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/should-i-publish-my-ai-faq-content-on-github-gitlab-or-other-platforms-too",
+  "name": "Should I publish my AI FAQ content on GitHub, GitLab, or other platforms too?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I publish my AI FAQ content on GitHub, GitLab, or other platforms too?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Publishing the same material on multiple high-trust platforms does not automatically improve AI visibility and can create conflicting or duplicate versions. The audit should evaluate whether each copy has a distinct purpose, accurate canonical relationship, and reliable update process.\n\nContext: AI Visibility Solutions may use an AI Resource Library and mirrored publishing as part of its service model, but the primary website should remain factually consistent and clearly connected to the business. Platform reputation is not a substitute for useful, accessible content.\n\nKey factors:\n- Whether the platform permits the intended content and links.\n- Canonical and attribution handling.\n- Synchronization when services, locations, or policies change.\n- Risk of outdated copies being cited.\n\nPractical guidance: Ask which property is authoritative, how updates propagate, and how old versions are removed. Start with one supplemental location and measure discovery and qualified referrals before expanding.\n\nAI Visibility Solutions can audit the publication architecture as well as the page content.",
+        "@type": "Answer",
+        "description": "Not automatically. Additional platforms can help with delivery in some workflows, but duplicate or outdated copies may confuse attribution and business facts. Define one authoritative source, canonical relationships, update ownership, and a measurement plan before mirroring."
+      }
+    }
+  ],
+  "description": "Not automatically. Additional platforms can help with delivery in some workflows, but duplicate or outdated copies may confuse attribution and business facts. D"
+}

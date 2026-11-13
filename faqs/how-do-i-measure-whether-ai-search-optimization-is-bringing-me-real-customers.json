@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/how-do-i-measure-whether-ai-search-optimization-is-bringing-me-real-customers",
+  "name": "How do I measure whether AI search optimization is bringing me real customers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I measure whether AI search optimization is bringing me real customers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Measure both visibility and business impact. Useful indicators include indexed pages, impressions for target questions, clicks, branded searches, AI citations where observable, calls, forms, booked consultations, and lead quality.\n\nContext: Google recommends using Search Console to understand search performance, including its available generative-AI reporting. AI Visibility Solutions can organize reporting around question groups and service categories rather than page counts alone.\n\nKey factors:\n- Whether the metric is directly observable or sampled.\n- Attribution differences between AI answers and website visits.\n- Conversion quality and sales outcomes.\n- Baseline performance before changes.\n\nPractical guidance: Record baseline queries and conversions, annotate launches, use consistent tracking parameters where appropriate, and review outcomes by service. Treat one answer-engine response as anecdotal unless repeated over time.\n\nA good measurement plan connects technical work to qualified demand.",
+        "@type": "Answer",
+        "description": "Track indexed pages, relevant impressions, clicks, branded searches, observable citations, calls, forms, booked appointments, and lead quality. Set a baseline before changes and connect reporting to service categories rather than celebrating page volume or one isolated AI response."
+      }
+    }
+  ],
+  "description": "Track indexed pages, relevant impressions, clicks, branded searches, observable citations, calls, forms, booked appointments, and lead quality. Set a baseline b"
+}

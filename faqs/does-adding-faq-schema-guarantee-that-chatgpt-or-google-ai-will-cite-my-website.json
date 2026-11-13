@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/does-adding-faq-schema-guarantee-that-chatgpt-or-google-ai-will-cite-my-website",
+  "name": "Does adding FAQ schema guarantee that ChatGPT or Google AI will cite my website?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does adding FAQ schema guarantee that ChatGPT or Google AI will cite my website?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structured data can help search systems interpret eligible content, but it is not a secret mechanism for appearing in AI answers. Google says there is no special schema required for generative AI features, and markup must match visible page content.\n\nContext: AI Visibility Solutions checks schema as part of a broader audit that includes answer clarity and crawlability. A page with perfect JSON-LD but inaccessible, thin, or contradictory visible content remains a weak candidate.\n\nKey factors:\n- Correct type and required properties for the actual page.\n- Exact agreement between markup and what users can see.\n- Valid syntax and absence of misleading claims.\n- Clear organization of services, people, locations, and articles.\n\nPractical guidance: Validate a small set of representative templates before applying changes sitewide. Do not add FAQ or business claims that are not displayed, accurate, and supported by the page.\n\nAI Visibility Solutions can pair schema review with answer-first page recommendations instead of selling markup in isolation.",
+        "@type": "Answer",
+        "description": "No. FAQ schema does not guarantee AI citations. Google says no special schema is required for generative AI features; pages still need to be crawlable, indexed, snippet-eligible, and useful. Markup must accurately match visible content."
+      }
+    }
+  ],
+  "description": "No. FAQ schema does not guarantee AI citations. Google says no special schema is required for generative AI features; pages still need to be crawlable, indexed,"
+}

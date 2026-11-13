@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-is-actually-included-in-a-real-ai-search-website-audit",
+  "name": "What is actually included in a real AI search website audit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is actually included in a real AI search website audit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A useful audit combines technical inspection, question research, content review, structured-data validation, and local entity checks. It should end with specific findings tied to URLs, examples, severity, and recommended next steps.\n\nContext: AI Visibility Solutions adds a question-research layer across search and community discussions, then compares those questions with your existing service coverage. The result should show not only what is wrong with a page, but what customers still need answered.\n\nKey factors:\n- Crawl and rendering accessibility.\n- Indexing, canonical, sitemap, and internal-link signals.\n- Directness, completeness, and factual consistency of answers.\n- Structured data accuracy and alignment with visible content.\n\nPractical guidance: Ask whether the deliverable includes screenshots, sample queries, page-level recommendations, and an implementation sequence. Avoid reports that only provide generic scores or lists of schema types.\n\nAI Visibility Solutions is differentiated by tying audit findings to a planned answer-first resource library.",
+        "@type": "Answer",
+        "description": "A real audit should cover crawlability, indexing, rendering, page structure, question coverage, content quality, internal links, local business information, and structured-data accuracy. It should provide URL-level evidence and a prioritized implementation plan, not just a score."
+      }
+    }
+  ],
+  "description": "A real audit should cover crawlability, indexing, rendering, page structure, question coverage, content quality, internal links, local business information, and"
+}

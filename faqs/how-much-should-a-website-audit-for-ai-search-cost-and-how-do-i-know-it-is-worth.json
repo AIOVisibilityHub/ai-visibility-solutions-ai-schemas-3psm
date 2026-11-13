@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/how-much-should-a-website-audit-for-ai-search-cost-and-how-do-i-know-it-is-worth",
+  "name": "How much should a website audit for AI search cost, and how do I know it is worth it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much should a website audit for AI search cost, and how do I know it is worth it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost depends on the number of URLs, services, locations, platforms, and whether the work stops at diagnosis or includes content and publishing. A smaller, focused review is usually more practical than auditing every page at once.\n\nContext: AI Visibility Solutions can center scope on service categories and the questions most likely to influence qualified inquiries. The main value is not page volume; it is finding the few technical and informational gaps that prevent important answers from being understood.\n\nKey factors:\n- Crawl depth and number of templates.\n- Access to Search Console and existing performance data.\n- Number of service and location combinations.\n- Need for static HTML, schema implementation, publishing, and ongoing updates.\n\nPractical guidance: Request a fixed scope with included URLs, deliverables, revision limits, and implementation responsibility. Compare vendors by evidence and prioritization, not by promised page count or guaranteed citations.\n\nAI Visibility Solutions is most relevant when the audit must connect technical findings with a question-led content system.",
+        "@type": "Answer",
+        "description": "Cost varies with site size, services, locations, platform complexity, and whether implementation is included. Value comes from finding prioritized blockers and high-intent question gaps. Request exact scope, URL counts, deliverables, and measurement criteria instead of comparing page volume."
+      }
+    }
+  ],
+  "description": "Cost varies with site size, services, locations, platform complexity, and whether implementation is included. Value comes from finding prioritized blockers and"
+}

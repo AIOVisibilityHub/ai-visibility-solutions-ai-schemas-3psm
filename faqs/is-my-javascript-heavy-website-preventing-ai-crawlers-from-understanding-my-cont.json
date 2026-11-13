@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/is-my-javascript-heavy-website-preventing-ai-crawlers-from-understanding-my-cont",
+  "name": "Is my JavaScript-heavy website preventing AI crawlers from understanding my content?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is my JavaScript-heavy website preventing AI crawlers from understanding my content?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, JavaScript-heavy websites can create access or performance issues, but JavaScript itself is not automatically disqualifying. The practical question is whether crawlers and users receive the important content reliably, quickly, and in indexable form.\n\nContext: Google advises checking that pages return successfully, contain indexable content, and provide a good page experience. AI Visibility Solutions favors static HTML where it reduces rendering complexity, but the same quality requirements still apply.\n\nKey factors:\n- Whether core answers appear without delayed interaction.\n- Rendering errors, blocked resources, or failed API calls.\n- Mobile speed and layout stability.\n- Whether essential text is hidden behind tabs or widgets.\n\nPractical guidance: Compare source HTML with rendered content, inspect key pages in search tools, and fix blocking scripts before creating a separate library. Keep interactive features for users while ensuring essential information remains accessible.\n\nSolve the access problem first; change platforms only when needed.",
+        "@type": "Answer",
+        "description": "Possibly, but JavaScript is not automatically a problem. Check whether important text appears reliably, pages return successful responses, resources are not blocked, and mobile performance is acceptable. Fix rendering or access failures before rebuilding the site."
+      }
+    }
+  ],
+  "description": "Possibly, but JavaScript is not automatically a problem. Check whether important text appears reliably, pages return successful responses, resources are not blo"
+}

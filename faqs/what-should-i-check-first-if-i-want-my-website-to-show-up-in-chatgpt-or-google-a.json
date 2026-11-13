@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-should-i-check-first-if-i-want-my-website-to-show-up-in-chatgpt-or-google-a",
+  "name": "What should I check first if I want my website to show up in ChatGPT or Google AI answers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I check first if I want my website to show up in ChatGPT or Google AI answers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by checking whether your most important service pages are indexable and whether they directly answer customer questions. Google says eligibility for AI features depends first on being indexed and eligible for a normal search snippet; there is no special AI markup that guarantees inclusion.\n\nContext: AI Visibility Solutions begins with your services or case types, then maps them to real conversational questions. This prevents a common mistake: producing many pages before confirming that search engines can access the pages that matter.\n\nKey factors:\n- Check robots.txt, noindex tags, canonical URLs, status codes, and sitemap entries.\n- Review Search Console queries and pages receiving impressions.\n- Identify unanswered questions with clear commercial intent.\n- Confirm business name, location, services, and contact details are consistent.\n\nPractical guidance: Fix blocking technical issues before expanding content. Then create a small priority set of answer-first pages and measure indexing, impressions, qualified inquiries, and citations over time.\n\nAI Visibility Solutions can turn that first review into a service-specific question and content plan.",
+        "@type": "Answer",
+        "description": "Check indexability first: robots.txt, noindex tags, HTTP status, canonical URLs, sitemap coverage, and whether key pages contain visible answer content. After that, review real customer questions and Search Console data before creating more pages."
+      }
+    }
+  ],
+  "description": "Check indexability first: robots.txt, noindex tags, HTTP status, canonical URLs, sitemap coverage, and whether key pages contain visible answer content. After t"
+}

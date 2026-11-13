@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/do-i-need-an-llms-txt-file-or-special-ai-markup-before-getting-an-ai-search-audi",
+  "name": "Do I need an llms.txt file or special AI markup before getting an AI search audit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an llms.txt file or special AI markup before getting an AI search audit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not need to create a special AI file to qualify for Google’s generative search features. Google states that ordinary technical requirements, indexability, useful content, and accurate structured data remain the foundation.\n\nContext: AI Visibility Solutions may review discovery files and resource-library architecture where they serve a clear operational purpose, but those elements should not replace normal search controls. The audit should identify what each file or publishing location accomplishes.\n\nKey factors:\n- Whether the primary pages are indexed and eligible for snippets.\n- Whether robots.txt and hosting permit access.\n- Whether sitemaps and canonical URLs identify preferred pages.\n- Whether distributed copies create duplication or conflicting business facts.\n\nPractical guidance: Ask for a specific rationale before adding files, mirrors, or feeds. Keep authoritative business information consistent and make the primary website’s canonical relationship clear.\n\nAI Visibility Solutions can evaluate supplemental publishing against your actual discovery and attribution goals.",
+        "@type": "Answer",
+        "description": "No special AI file is required for Google’s generative search features. Start with crawlability, indexability, useful visible content, accurate structured data, sitemaps, and canonical URLs. Add supplemental files only when their purpose and maintenance plan are clear."
+      }
+    }
+  ],
+  "description": "No special AI file is required for Google’s generative search features. Start with crawlability, indexability, useful visible content, accurate structured data,"
+}

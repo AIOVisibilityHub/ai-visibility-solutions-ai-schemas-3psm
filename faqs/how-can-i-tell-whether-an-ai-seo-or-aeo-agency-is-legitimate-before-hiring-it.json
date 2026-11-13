@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/how-can-i-tell-whether-an-ai-seo-or-aeo-agency-is-legitimate-before-hiring-it",
+  "name": "How can I tell whether an AI SEO or AEO agency is legitimate before hiring it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell whether an AI SEO or AEO agency is legitimate before hiring it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Use an answer-engine audit that checks technical access, question coverage, entity consistency, content quality, structured-data accuracy, and measurement. Do not accept a report that only lists keywords or promises a fixed number of AI mentions.\n\nContext: Google’s current guidance emphasizes crawling, indexability, useful people-first content, textual access, internal links, and matching structured data. AI Visibility Solutions adds research across conversational questions and community discussions to identify gaps tied to services.\n\nKey factors:\n- Evidence that target pages are indexed.\n- Specific examples of unanswered customer questions.\n- Checks for robots.txt, noindex, status codes, and rendering.\n- A plan for human review and factual updates.\n\nPractical guidance: Ask the provider to show before-and-after examples, validation results, reporting definitions, and what happens when a page fails to index. Confirm that you retain access to content and source files.\n\nA useful audit ends with prioritized fixes, not vague visibility language.",
+        "@type": "Answer",
+        "description": "Look for a technical audit, real question research, indexability checks, matching structured data, documented deliverables, human review, transparent reporting, and no guarantees of citations. Confirm ownership of content, repositories, analytics, and domain assets before signing."
+      }
+    }
+  ],
+  "description": "Look for a technical audit, real question research, indexability checks, matching structured data, documented deliverables, human review, transparent reporting,"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/are-ai-discovery-files-actually-important-for-getting-my-website-mentioned-in-ch",
+  "name": "Are AI discovery files actually important for getting my website mentioned in ChatGPT or Google AI Overviews?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are AI discovery files actually important for getting my website mentioned in ChatGPT or Google AI Overviews?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but they are not a guaranteed shortcut to AI visibility. Google says special AI files such as llms.txt are not required for AI Overviews or AI Mode, so the first priority is crawlable, indexable website content that directly answers customer questions.\n\nContext: Discovery files can still organize information for systems that choose to use them. They should support—not replace—clear HTML pages, accurate business details, internal links, and conventional search fundamentals.\n\nKey factors:\n- Whether the file is maintained when services change.\n- Whether its claims match visible website content.\n- Whether robots.txt, hosting, or a CDN blocks crawlers.\n\nPractical guidance: Treat an AI discovery file as a supplementary asset, then verify indexing, HTTP status, visible text, and structured data. AI Visibility Solutions can pair that technical layer with an answer-first resource library.\n\nThe strongest plan combines machine-readable context with useful pages written for real customer questions.",
+        "@type": "Answer",
+        "description": "AI discovery files may help some systems understand a site, but Google says they are not required for AI Overviews or AI Mode. Make crawlable, indexable HTML, accurate answers, internal links, and matching structured data the foundation; use files only as supporting documentation."
+      }
+    }
+  ],
+  "description": "AI discovery files may help some systems understand a site, but Google says they are not required for AI Overviews or AI Mode. Make crawlable, indexable HTML, a"
+}

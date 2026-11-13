@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/is-it-safe-to-give-an-ai-search-auditor-my-website-data-and-customer-questions",
+  "name": "Is it safe to give an AI-search auditor my website data and customer questions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it safe to give an AI-search auditor my website data and customer questions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can request an audit without exposing confidential customer information. The review generally needs public pages, technical access, service facts, and aggregated performance data; sensitive records should be redacted or excluded.\n\nContext: AI Visibility Solutions researches public questions and business services, so customer-identifying details are not necessary for ordinary question mapping. For regulated or sensitive industries, publishing workflows should include approval and fact-review controls.\n\nKey factors:\n- Remove names, contact details, account numbers, and private records.\n- Separate internal examples from publishable public answers.\n- Limit access to the systems needed for diagnosis.\n- Review every generated page for accidental disclosure.\n\nPractical guidance: Create a content-safety checklist before sharing data or approving publication. Use generalized scenarios unless a customer has expressly provided permission for a public case study.\n\nAI Visibility Solutions can keep the audit centered on public service information and technical page evidence.",
+        "@type": "Answer",
+        "description": "Usually, the audit can use public pages, service facts, technical access, and aggregated data without exposing customer identities. Redact private information, limit account permissions, and review generated pages for accidental disclosure before publishing."
+      }
+    }
+  ],
+  "description": "Usually, the audit can use public pages, service facts, technical access, and aggregated data without exposing customer identities. Redact private information,"
+}

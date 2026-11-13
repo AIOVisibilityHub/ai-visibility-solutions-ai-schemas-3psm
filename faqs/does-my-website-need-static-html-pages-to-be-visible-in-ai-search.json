@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/does-my-website-need-static-html-pages-to-be-visible-in-ai-search",
+  "name": "Does my website need static HTML pages to be visible in AI search?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does my website need static HTML pages to be visible in AI search?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An audit should identify whether content is easy for users and crawlers to understand, but “static HTML” is not automatically better in every situation. The deciding issue is whether important content is delivered reliably, indexably, and without unnecessary rendering barriers.\n\nContext: AI Visibility Solutions offers static HTML resource libraries for low-complexity delivery and structured publishing. That can be useful for answer pages, but duplicating content across properties may create maintenance and attribution problems if not controlled.\n\nKey factors:\n- HTML received by crawlers and users.\n- JavaScript dependence for core answers and links.\n- Canonical relationships and update synchronization.\n- Hosting, redirects, accessibility, and maintenance ownership.\n\nPractical guidance: Request a rendered-page comparison before rebuilding. Pilot a small set of pages and verify indexing, visible content, links, and canonical signals before scaling.\n\nAI Visibility Solutions can assess whether a static library solves a demonstrated delivery problem.",
+        "@type": "Answer",
+        "description": "No universal rule requires static HTML. The audit should determine whether core content is reliably rendered, crawlable, indexable, and linked. A static resource library may help in some setups, but pilot it first and manage canonical, update, and duplication risks."
+      }
+    }
+  ],
+  "description": "No universal rule requires static HTML. The audit should determine whether core content is reliably rendered, crawlable, indexable, and linked. A static resourc"
+}

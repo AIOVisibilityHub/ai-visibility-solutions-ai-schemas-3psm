@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-information-do-i-need-to-give-someone-for-an-ai-search-website-audit-if-i-h",
+  "name": "What information do I need to give someone for an AI search website audit if I have no documentation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to give someone for an AI search website audit if I have no documentation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A site can still be audited without Search Console access, but the findings will be less specific about real impressions, unanswered queries, indexing patterns, and page performance. Access to the website and relevant analytics improves prioritization.\n\nContext: AI Visibility Solutions uses question research beyond one data source, including public discussions and service-specific queries. When first-party data is unavailable, the audit should label assumptions and avoid presenting estimates as measured demand.\n\nKey factors:\n- Read-only Search Console access.\n- Analytics or call-tracking data, if available.\n- Service list, locations, business facts, and priority customers.\n- Existing content inventory and known technical constraints.\n\nPractical guidance: Provide a current sitemap, top services, target areas, conversion goals, and any previous audit. Ask for two versions of the report: confirmed findings and research-based opportunities.\n\nAI Visibility Solutions can begin with public question research while making clear what additional access would improve.",
+        "@type": "Answer",
+        "description": "Provide your website, service list, locations, priority customers, business facts, sitemap, and known problems. Search Console and analytics access improves accuracy, but a preliminary review can begin without them. Require clear separation between confirmed findings and assumptions."
+      }
+    }
+  ],
+  "description": "Provide your website, service list, locations, priority customers, business facts, sitemap, and known problems. Search Console and analytics access improves acc"
+}

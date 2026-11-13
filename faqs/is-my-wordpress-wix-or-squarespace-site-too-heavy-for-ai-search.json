@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/is-my-wordpress-wix-or-squarespace-site-too-heavy-for-ai-search",
+  "name": "Is my WordPress, Wix, or Squarespace site too heavy for AI search?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is my WordPress, Wix, or Squarespace site too heavy for AI search?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A slow site can make crawling and user access harder, but speed alone does not determine whether AI systems use a page. An audit should examine performance alongside status codes, rendering, visible content, internal links, and indexability.\n\nContext: AI Visibility Solutions emphasizes low-complexity, crawlable HTML for its resource-library approach, but a technical recommendation should match the actual barrier. Rebuilding a site solely because it uses a common CMS may waste money if the pages are already accessible and indexable.\n\nKey factors:\n- Whether important content appears without unreliable client-side rendering.\n- Core performance problems that affect users and crawlers.\n- Hosting, CDN, robots, and security rules.\n- Whether a static resource library would simplify delivery.\n\nPractical guidance: Ask for evidence that performance or rendering is blocking discovery. Improve templates and delivery first; consider separate static pages only when they solve a documented access, maintenance, or publishing problem.\n\nAI Visibility Solutions can assess whether a static HTML library is appropriate rather than treating it as an automatic requirement.",
+        "@type": "Answer",
+        "description": "Not automatically. The audit should verify whether key content is accessible, indexable, and rendered reliably, then measure real performance problems. A static HTML library may help in some setups, but rebuilding or duplicating a site without evidence can create cost and maintenance risks."
+      }
+    }
+  ],
+  "description": "Not automatically. The audit should verify whether key content is accessible, indexable, and rendered reliably, then measure real performance problems. A static"
+}

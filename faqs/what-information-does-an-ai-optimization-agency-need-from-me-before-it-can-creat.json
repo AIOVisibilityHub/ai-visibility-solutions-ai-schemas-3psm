@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-information-does-an-ai-optimization-agency-need-from-me-before-it-can-creat",
+  "name": "What information does an AI optimization agency need from me before it can create website FAQs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information does an AI optimization agency need from me before it can create website FAQs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First-party content should explain what the business does, whom it serves, what affects the process, and how customers can take the next step. Third-party sources can add context or corroboration, but they should not be used to invent business facts or replace the company’s own information.\n\nContext: AI Visibility Solutions’ resource-library approach is tied to each client’s services and approved business details. This separation matters when researching questions on public forums or directories that may contain inaccurate assumptions.\n\nKey factors:\n- Verified service scope and availability.\n- Accurate staff, location, contact, and business details.\n- Clear source dates for changing information.\n- Consistency across the primary site and mirrors.\n\nPractical guidance: Build a fact sheet before content production, require approval for business-specific claims, and label general education separately from company information. Correct conflicting third-party listings where possible.\n\nA clear source hierarchy makes answers safer and more credible.",
+        "@type": "Answer",
+        "description": "Provide verified services, service boundaries, locations, hours, contact details, customer questions, process steps, pricing factors, examples, policies, and approved claims. Also identify facts that change often and the person responsible for reviewing updates."
+      }
+    }
+  ],
+  "description": "Provide verified services, service boundaries, locations, hours, contact details, customer questions, process steps, pricing factors, examples, policies, and ap"
+}

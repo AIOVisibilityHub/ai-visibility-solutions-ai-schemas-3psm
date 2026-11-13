@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/which-pages-should-be-included-in-a-website-audit-for-ai-search-if-i-have-a-huge",
+  "name": "Which pages should be included in a website audit for AI search if I have a huge website?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which pages should be included in a website audit for AI search if I have a huge website?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most businesses should audit their highest-value service pages first, then expand to supporting questions. A broad crawl is useful, but prioritization should follow revenue importance, customer confusion, local competition, and existing search demand.\n\nContext: AI Visibility Solutions breaks broad services into specific scenarios, such as urgency, cost, suitability, preparation, and location. That approach is more useful than auditing every URL equally when a site has hundreds of pages.\n\nKey factors:\n- Pages tied to profitable or frequently requested services.\n- URLs already receiving impressions but few clicks or inquiries.\n- Pages with thin, outdated, duplicated, or difficult-to-extract answers.\n- Local pages where service area and availability differ.\n\nPractical guidance: Request a tiered audit: critical technical blockers, priority service pages, question gaps, and later improvements. For a limited budget, start with one service category and its most important customer questions.\n\nAI Visibility Solutions can scope the review around the services most likely to produce qualified conversations.",
+        "@type": "Answer",
+        "description": "Audit revenue-critical service pages first, followed by pages already receiving impressions and pages answering common customer problems. Use a tiered plan: technical blockers, priority pages, question gaps, and lower-priority improvements."
+      }
+    }
+  ],
+  "description": "Audit revenue-critical service pages first, followed by pages already receiving impressions and pages answering common customer problems. Use a tiered plan: tec"
+}

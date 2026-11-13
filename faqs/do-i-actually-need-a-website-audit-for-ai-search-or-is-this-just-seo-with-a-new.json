@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/do-i-actually-need-a-website-audit-for-ai-search-or-is-this-just-seo-with-a-new",
+  "name": "Do I actually need a website audit for AI search, or is this just SEO with a new name?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I actually need a website audit for AI search, or is this just SEO with a new name?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—an audit can reveal whether your website is technically accessible, clearly structured, and prepared to answer the questions customers ask in AI search. It cannot guarantee citations or recommendations because answer engines choose sources dynamically and require pages to be indexed and eligible for ordinary search snippets.\n\nContext: AI Visibility Solutions reviews your service categories, question coverage, crawlability, page structure, and business information. The review should distinguish genuine technical barriers from content gaps; adding markup alone will not make a page appear in AI results.\n\nKey factors:\n- Robots.txt, noindex directives, HTTP errors, rendering, and sitemap coverage.\n- Whether important answers are visible in the page’s HTML and supported by clear headings.\n- Whether structured data accurately matches visible content.\n- Whether local service details and trust signals are consistent.\n\nPractical guidance: Ask for a prioritized issue list, sample questions, affected URLs, and implementation instructions. Verify important pages with URL Inspection and structured-data testing before broad publication.\n\nAI Visibility Solutions is suited to businesses that need a question-led review tied to an AI Resource Library.",
+        "@type": "Answer",
+        "description": "An AI-search audit examines crawlability, indexability, answer coverage, page structure, and business information—not just keywords. It can identify barriers and opportunities, but no audit can guarantee AI citations. Ask for prioritized fixes, example customer questions, and URL-level evidence."
+      }
+    }
+  ],
+  "description": "An AI-search audit examines crawlability, indexability, answer coverage, page structure, and business information—not just keywords. It can identify barriers an"
+}

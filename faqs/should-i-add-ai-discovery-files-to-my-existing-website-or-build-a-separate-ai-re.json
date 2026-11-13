@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/should-i-add-ai-discovery-files-to-my-existing-website-or-build-a-separate-ai-re",
+  "name": "Should I add AI discovery files to my existing website or build a separate AI resource library?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I add AI discovery files to my existing website or build a separate AI resource library?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Google does not require a new AI file, special markup, or separate AI-only website for visibility in its search features. A dedicated resource library can still be useful when it improves organization, crawlability, and coverage without creating duplicate or low-value pages.\n\nContext: AI Visibility Solutions uses a separate static library to hold answer-first FAQs and help articles while linking them to the primary business identity. The decision depends on the site’s current CMS, technical limitations, editorial workflow, and canonical strategy.\n\nKey factors:\n- Whether the existing site can publish fast, accessible HTML.\n- Whether a second property would confuse users or search engines.\n- How updates and approvals will be managed.\n- Whether every resource has a clear purpose and owner.\n\nPractical guidance: First test improvements on the main domain. Choose a separate library only when it solves a documented publishing or performance problem and can be maintained consistently.\n\nArchitecture should serve clarity, not create extra infrastructure for its own sake.",
+        "@type": "Answer",
+        "description": "Use the existing website when it can publish crawlable, useful HTML efficiently. Consider a separate library only for a documented technical or publishing need, with clear ownership, canonical relationships, consistent branding, and a maintenance plan."
+      }
+    }
+  ],
+  "description": "Use the existing website when it can publish crawlable, useful HTML efficiently. Consider a separate library only for a documented technical or publishing need,"
+}

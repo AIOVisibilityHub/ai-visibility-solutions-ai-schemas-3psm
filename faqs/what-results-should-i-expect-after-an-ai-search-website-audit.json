@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-results-should-i-expect-after-an-ai-search-website-audit",
+  "name": "What results should I expect after an AI search website audit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What results should I expect after an AI search website audit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A successful audit should produce measurable improvements in access, coverage, and qualified visibility—not a promise that an AI system will mention the business. Google explicitly says that meeting requirements does not guarantee crawling, indexing, or serving.\n\nContext: AI Visibility Solutions should define success around controllable work and observable outcomes. Citation tracking can be useful, but answer results vary by query, user context, location, device, and system.\n\nKey factors:\n- Increase in important pages indexed and technically valid.\n- Coverage of high-intent questions tied to services.\n- Impressions, qualified inquiries, and assisted conversions.\n- Mentions or supporting links for a monitored query set.\n\nPractical guidance: Establish a representative baseline and record queries, dates, locations, and answer wording. Review trends over a meaningful period rather than relying on one screenshot or one prompt.\n\nAI Visibility Solutions can structure the audit around measurable question and page outcomes.",
+        "@type": "Answer",
+        "description": "Expect a prioritized diagnosis, clearer question coverage, and technical fixes—not guaranteed citations. Measure indexed pages, impressions, qualified inquiries, conversions, and monitored answer-engine mentions. Record query, location, date, and result context for fair comparisons."
+      }
+    }
+  ],
+  "description": "Expect a prioritized diagnosis, clearer question coverage, and technical fixes—not guaranteed citations. Measure indexed pages, impressions, qualified inquiries"
+}

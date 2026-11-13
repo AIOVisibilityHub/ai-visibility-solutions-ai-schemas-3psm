@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/can-i-audit-my-website-for-ai-search-myself-or-do-i-need-to-hire-someone",
+  "name": "Can I audit my website for AI search myself, or do I need to hire someone?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I audit my website for AI search myself, or do I need to hire someone?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A small business can perform a useful first audit without an agency, especially for basic crawl and indexing checks. Professional help becomes more valuable when the site has many locations, JavaScript rendering issues, mixed platforms, duplicate pages, or unclear service coverage.\n\nContext: Google provides tools for checking how its crawler receives a page and recommends confirming that structured data matches visible content. DIY review can identify obvious problems, but it may miss business-question gaps across multiple platforms.\n\nKey factors:\n- Technical skill and access to Search Console, analytics, hosting, and the CMS.\n- Number of services, locations, and templates.\n- Ability to validate changes without creating duplicate or inaccurate pages.\n- Need for research beyond your own keyword list.\n\nPractical guidance: Begin with ten priority URLs and document their status, indexability, main questions, and conversion paths. Bring in help when findings affect templates, server configuration, schema, or a large content system.\n\nAI Visibility Solutions can provide a focused audit when internal teams need question research and implementation direction.",
+        "@type": "Answer",
+        "description": "You can inspect basic indexability, page content, links, and structured data yourself. Professional support is more useful for large or JavaScript-heavy sites, multiple locations, complex templates, or question research across communities and search data."
+      }
+    }
+  ],
+  "description": "You can inspect basic indexability, page content, links, and structured data yourself. Professional support is more useful for large or JavaScript-heavy sites,"
+}

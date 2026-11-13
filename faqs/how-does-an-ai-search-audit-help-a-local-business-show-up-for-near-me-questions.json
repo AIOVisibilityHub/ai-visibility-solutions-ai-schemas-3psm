@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/how-does-an-ai-search-audit-help-a-local-business-show-up-for-near-me-questions",
+  "name": "How does an AI search audit help a local business show up for near-me questions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does an AI search audit help a local business show up for near-me questions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An audit should test whether the same business facts are consistent across your website, business profiles, directories, and published resource pages. Conflicting names, addresses, phone numbers, service areas, or hours can make the business entity harder to interpret.\n\nContext: AI Visibility Solutions is designed for local businesses whose prospects ask service and location questions conversationally. The review should also separate genuinely different service areas from artificial city-swapped pages.\n\nKey factors:\n- Consistent business identity and contact details.\n- Accurate service-area and location language.\n- Distinct, useful content for each legitimate location.\n- Links and references that connect the business to its services.\n\nPractical guidance: Prepare a current business-information sheet and list every active profile. For New York City, Los Angeles, Chicago, Houston, or Phoenix, document neighborhood and service-area differences only when they affect availability or customer decisions.\n\nAI Visibility Solutions can include local entity consistency in a question-led audit.",
+        "@type": "Answer",
+        "description": "It checks whether your business identity, services, location details, and customer answers are consistent and crawlable across important properties. For major cities, document real service-area differences rather than publishing thin pages that merely swap city names."
+      }
+    }
+  ],
+  "description": "It checks whether your business identity, services, location details, and customer answers are consistent and crawlable across important properties. For major c"
+}

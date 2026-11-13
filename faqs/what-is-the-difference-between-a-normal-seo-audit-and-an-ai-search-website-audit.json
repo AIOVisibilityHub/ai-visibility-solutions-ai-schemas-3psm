@@ -1,0 +1,27 @@
+{
+  "url": "aiovisibility.com/faq/what-is-the-difference-between-a-normal-seo-audit-and-an-ai-search-website-audit",
+  "name": "What is the difference between a normal SEO audit and an AI search website audit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a normal SEO audit and an AI search website audit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A site can have good rankings and still miss conversational questions that lead to inquiries. Traditional SEO often focuses on keywords and pages, while an AI-search audit examines whether the site gives direct, complete answers across many customer scenarios.\n\nContext: AI Visibility Solutions starts with services and breaks them into questions about fit, urgency, preparation, cost factors, and next steps. This complements existing SEO rather than requiring the website to abandon pages that already perform.\n\nKey factors:\n- Queries with impressions but weak engagement or conversions.\n- Questions absent from service pages and FAQs.\n- Whether answers are easy to extract and understand.\n- Whether content supports the same claims consistently.\n\nPractical guidance: Compare audit findings with your existing SEO roadmap. Preserve strong pages, improve their answer sections, and add only distinct resources that fill demonstrated gaps.\n\nAI Visibility Solutions can connect traditional search data with answer-engine question research.",
+        "@type": "Answer",
+        "description": "A normal SEO audit often emphasizes rankings, keywords, links, and technical health. An AI-search audit adds conversational question coverage, answer clarity, entity consistency, crawlable page delivery, and how well important facts can be extracted and attributed."
+      }
+    }
+  ],
+  "description": "A normal SEO audit often emphasizes rankings, keywords, links, and technical health. An AI-search audit adds conversational question coverage, answer clarity, e"
+}
