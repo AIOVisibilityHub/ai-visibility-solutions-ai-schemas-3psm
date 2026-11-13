@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-13T01:19:00.094Z",
+  "generatedAt": "2026-11-13T18:43:47.017Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -24,7 +24,10 @@
       "https://aiovisibilityhub.codeberg.page/ai-visibility-solutions-ai-schemas",
       "https://codeberg.org/aiovisibilityhub/ai-visibility-solutions-ai-schemas",
       "https://zenodo.org/records/22884409",
-      "https://www.linkedin.com/company/ai-visibility-solutions"
+      "https://www.linkedin.com/company/ai-visibility-solutions",
+      "https://x.com/AIOVisibility",
+      "https://www.youtube.com/@aiovisibility",
+      "https://www.pinterest.com/jerald0532/?actingBusinessId=889390763820239997"
     ]
   },
   "related": [
@@ -89,6 +92,21 @@
       "role": "same-as",
       "label": "AI Visibility Solutions on linkedin.com",
       "url": "https://www.linkedin.com/company/ai-visibility-solutions"
+    },
+    {
+      "role": "same-as",
+      "label": "AI Visibility Solutions on x.com",
+      "url": "https://x.com/AIOVisibility"
+    },
+    {
+      "role": "same-as",
+      "label": "AI Visibility Solutions on youtube.com",
+      "url": "https://www.youtube.com/@aiovisibility"
+    },
+    {
+      "role": "same-as",
+      "label": "AI Visibility Solutions on pinterest.com",
+      "url": "https://www.pinterest.com/jerald0532/?actingBusinessId=889390763820239997"
     }
   ],
   "destinations": {
