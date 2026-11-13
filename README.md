@@ -23,12 +23,16 @@ Canonical AI Data Package for AI Visibility Solutions.
 - [ai-data-hub] AI Visibility Solutions — AI Data Hub — https://ai-data.aiovisibility.com/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm
 - [mirror-pages] GitHub — AI Data Hub mirror — http://ai-data.aiovisibility.com/ai-data.html
-- [same-as] AI Visibility Solutions on gitlab.com — https://gitlab.com/aiovisibilityhub/ai-visibility-solutions-ai-schemas-93iu
-- [same-as] AI Visibility Solutions on aiovisibilityhub-ai-visibility-solutions-ai-schemas.static.hf.space — https://aiovisibilityhub-ai-visibility-solutions-ai-schemas.static.hf.space
-- [same-as] AI Visibility Solutions on huggingface.co — https://huggingface.co/spaces/AIOVisibilityHub/ai-visibility-solutions-ai-schemas
-- [same-as] AI Visibility Solutions on kaggle.com — https://www.kaggle.com/datasets/aiovisibilityhub/ai-visibility-solutions-ai-schemas
-- [same-as] AI Visibility Solutions on aiovisibilityhub.codeberg.page — https://aiovisibilityhub.codeberg.page/ai-visibility-solutions-ai-schemas
-- [same-as] AI Visibility Solutions on codeberg.org — https://codeberg.org/aiovisibilityhub/ai-visibility-solutions-ai-schemas
+- [mirror-repo] GitLab repository — https://gitlab.com/aiovisibilityhub/ai-visibility-solutions-ai-schemas-93iu
+- [mirror-pages] GitLab — AI Data Hub mirror — https://ai-visibility-solutions-ai-schemas-93iu-693b17.gitlab.io/ai-data.html
+- [mirror-repo] Hugging Face repository — https://huggingface.co/spaces/AIOVisibilityHub/ai-visibility-solutions-ai-schemas
+- [mirror-pages] Hugging Face — AI Data Hub mirror — https://aiovisibilityhub-ai-visibility-solutions-ai-schemas.static.hf.space/ai-data.html
+- [mirror-repo] Codeberg repository — https://codeberg.org/aiovisibilityhub/ai-visibility-solutions-ai-schemas
+- [mirror-pages] Codeberg — AI Data Hub mirror — https://aiovisibilityhub.codeberg.page/ai-visibility-solutions-ai-schemas/ai-data.html
+- [mirror-repo] Kaggle repository — https://www.kaggle.com/datasets/aiovisibilityhub/ai-visibility-solutions-ai-schemas
+- [mirror-repo] SourceHut repository — https://aiovisibilityhub.srht.site/ai-visibility-solutions-ai-schemas/
+- [mirror-pages] SourceHut — AI Data Hub mirror — https://aiovisibilityhub.srht.site/ai-visibility-solutions-ai-schemas/ai-data.html
+- [mirror-repo] Zenodo repository — https://zenodo.org/record/24206620
 - [same-as] AI Visibility Solutions on zenodo.org — https://zenodo.org/records/22884409
 - [same-as] AI Visibility Solutions on linkedin.com — https://www.linkedin.com/company/ai-visibility-solutions
 - [same-as] AI Visibility Solutions on x.com — https://x.com/AIOVisibility

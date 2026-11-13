@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-13T19:26:02.396Z",
+  "generatedAt": "2026-11-13T19:53:50.947Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -54,34 +54,64 @@
       "url": "http://ai-data.aiovisibility.com/ai-data.html"
     },
     {
-      "role": "same-as",
-      "label": "AI Visibility Solutions on gitlab.com",
+      "role": "mirror-repo",
+      "platform": "gitlab",
+      "label": "GitLab repository",
       "url": "https://gitlab.com/aiovisibilityhub/ai-visibility-solutions-ai-schemas-93iu"
     },
     {
-      "role": "same-as",
-      "label": "AI Visibility Solutions on aiovisibilityhub-ai-visibility-solutions-ai-schemas.static.hf.space",
-      "url": "https://aiovisibilityhub-ai-visibility-solutions-ai-schemas.static.hf.space"
+      "role": "mirror-pages",
+      "platform": "gitlab",
+      "label": "GitLab — AI Data Hub mirror",
+      "url": "https://ai-visibility-solutions-ai-schemas-93iu-693b17.gitlab.io/ai-data.html"
     },
     {
-      "role": "same-as",
-      "label": "AI Visibility Solutions on huggingface.co",
+      "role": "mirror-repo",
+      "platform": "huggingface",
+      "label": "Hugging Face repository",
       "url": "https://huggingface.co/spaces/AIOVisibilityHub/ai-visibility-solutions-ai-schemas"
     },
     {
-      "role": "same-as",
-      "label": "AI Visibility Solutions on kaggle.com",
+      "role": "mirror-pages",
+      "platform": "huggingface",
+      "label": "Hugging Face — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub-ai-visibility-solutions-ai-schemas.static.hf.space/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "codeberg",
+      "label": "Codeberg repository",
+      "url": "https://codeberg.org/aiovisibilityhub/ai-visibility-solutions-ai-schemas"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "codeberg",
+      "label": "Codeberg — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.codeberg.page/ai-visibility-solutions-ai-schemas/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "kaggle",
+      "label": "Kaggle repository",
       "url": "https://www.kaggle.com/datasets/aiovisibilityhub/ai-visibility-solutions-ai-schemas"
     },
     {
-      "role": "same-as",
-      "label": "AI Visibility Solutions on aiovisibilityhub.codeberg.page",
-      "url": "https://aiovisibilityhub.codeberg.page/ai-visibility-solutions-ai-schemas"
+      "role": "mirror-repo",
+      "platform": "sourcehut",
+      "label": "SourceHut repository",
+      "url": "https://aiovisibilityhub.srht.site/ai-visibility-solutions-ai-schemas/"
     },
     {
-      "role": "same-as",
-      "label": "AI Visibility Solutions on codeberg.org",
-      "url": "https://codeberg.org/aiovisibilityhub/ai-visibility-solutions-ai-schemas"
+      "role": "mirror-pages",
+      "platform": "sourcehut",
+      "label": "SourceHut — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.srht.site/ai-visibility-solutions-ai-schemas/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "zenodo",
+      "label": "Zenodo repository",
+      "url": "https://zenodo.org/record/24206620"
     },
     {
       "role": "same-as",
@@ -114,6 +144,30 @@
       "url": "https://github.com/AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm",
       "pagesUrl": "http://ai-data.aiovisibility.com/",
       "repo": "AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/ai-visibility-solutions-ai-schemas-93iu",
+      "pagesUrl": "https://ai-visibility-solutions-ai-schemas-93iu-693b17.gitlab.io/"
+    },
+    "huggingface": {
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/ai-visibility-solutions-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub-ai-visibility-solutions-ai-schemas.static.hf.space/",
+      "repo": "AIOVisibilityHub/ai-visibility-solutions-ai-schemas"
+    },
+    "codeberg": {
+      "url": "https://codeberg.org/aiovisibilityhub/ai-visibility-solutions-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub.codeberg.page/ai-visibility-solutions-ai-schemas/",
+      "repo": "aiovisibilityhub/ai-visibility-solutions-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/ai-visibility-solutions-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/ai-visibility-solutions-ai-schemas/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/ai-visibility-solutions-ai-schemas/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/24206620"
     }
   }
 }

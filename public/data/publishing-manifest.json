@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-13T19:26:02.473Z",
+  "generatedAt": "2026-11-13T19:53:51.008Z",
   "client": {
     "name": "AI Visibility Solutions",
     "canonicalUrl": "https://ai-data.aiovisibility.com",
@@ -416,7 +416,7 @@
   },
   "package": {
     "totalFiles": 3529,
-    "totalBytes": 13288969,
+    "totalBytes": 13293608,
     "stats": {
       "faqs": 2903,
       "helpArticles": 249,
@@ -18047,7 +18047,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 13998,
+        "bytes": 14338,
         "purpose": "LLM hint"
       },
       {
@@ -18067,32 +18067,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 4536,
+        "bytes": 6566,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1646133,
+        "bytes": 1647042,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 440599,
+        "bytes": 440939,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 440599,
+        "bytes": 440939,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 14031,
+        "bytes": 14371,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 594253,
+        "bytes": 594593,
         "purpose": "Repository README"
       },
       {
@@ -18112,6 +18112,30 @@
       "url": "https://github.com/AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm",
       "pagesUrl": "http://ai-data.aiovisibility.com/",
       "repo": "AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/ai-visibility-solutions-ai-schemas-93iu",
+      "pagesUrl": "https://ai-visibility-solutions-ai-schemas-93iu-693b17.gitlab.io/"
+    },
+    "huggingface": {
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/ai-visibility-solutions-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub-ai-visibility-solutions-ai-schemas.static.hf.space/",
+      "repo": "AIOVisibilityHub/ai-visibility-solutions-ai-schemas"
+    },
+    "codeberg": {
+      "url": "https://codeberg.org/aiovisibilityhub/ai-visibility-solutions-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub.codeberg.page/ai-visibility-solutions-ai-schemas/",
+      "repo": "aiovisibilityhub/ai-visibility-solutions-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/ai-visibility-solutions-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/ai-visibility-solutions-ai-schemas/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/ai-visibility-solutions-ai-schemas/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/24206620"
     }
   }
 }
