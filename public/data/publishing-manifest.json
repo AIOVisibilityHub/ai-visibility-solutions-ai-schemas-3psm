@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-13T18:44:24.379Z",
+  "generatedAt": "2026-11-13T19:25:20.603Z",
   "client": {
     "name": "AI Visibility Solutions",
     "canonicalUrl": "https://ai-data.aiovisibility.com",
@@ -415,13 +415,13 @@
     ]
   },
   "package": {
-    "totalFiles": 3233,
-    "totalBytes": 12799282,
+    "totalFiles": 3529,
+    "totalBytes": 13368098,
     "stats": {
       "faqs": 2903,
       "helpArticles": 249,
       "services": 49,
-      "webpages": 0,
+      "webpages": 295,
       "personnel": 1,
       "products": 0,
       "locations": 1,
@@ -16483,77 +16483,1559 @@
         "purpose": "schema"
       }
     ],
+    "webpages": [
+      {
+        "path": "webpages/website-audit-for-ai-search-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-ai-visibility-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-optimized-website-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-search-optimization-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-search-visibility-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-small-business-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-search-content-strategy-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-website-optimization-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-search-content-writing-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/customer-query-research-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/people-also-ask-content-creation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/topic-cluster-creation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/schema-markup-implementation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-crawlability-fixes-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-ai-discovery-files-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-entity-optimization-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-ready-website-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/business-website-optimization-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/local-ai-optimization-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/google-business-profile-optimization-ai-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/google-maps-optimization-ai-visibility-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/service-area-optimization-ai-search-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-law-firms-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/law-firm-ai-audit-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/law-firm-schema-markup-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/personal-injury-team-members-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-personal-injury-team-members-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-personal-injury-team-members-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/family-law-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-family-law-team-members-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-family-law-team-members-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/criminal-defense-team-members-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-criminal-defense-team-members-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-criminal-defense-team-members-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/employment-team-members-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/business-team-members-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-contractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/contractor-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-contractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-contractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-search-for-contractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-construction-companies-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-construction-companies-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-construction-companies-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-construction-companies-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/plumber-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-plumbers-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-plumbers-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-plumbers-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/remodeling-contractor-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-remodelers-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/goe-for-contractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-contractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/general-contractor-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-general-contractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-general-contractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-general-contractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/restoration-company-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-restoration-company-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-restoration-companies-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-dentists-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-dentists-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-dentists-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-dentists-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-dentists-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-medical-practices-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-medical-practice-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-medical-practices-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-ai-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-small-businesses-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-small-businesses-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-small-businesses-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-search-optimization-for-small-businesses-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-law-firms-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-law-firms-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-law-firms-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-search-optimization-for-law-firms-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-team-members-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-team-members-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-team-members-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-search-optimization-for-team-members-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-home-service-businesses-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-home-service-businesses-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-medical-practices-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-medical-practices-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-plastic-surgeons-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-plastic-surgeons-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-plastic-surgeons-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-plastic-surgeons-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-overviews-optimization-for-plastic-surgeons-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-dental-practices-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-dental-practices-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-dental-practices-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-dental-practices-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-real-estate-agents-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-real-estate-agents-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-real-estate-brokers-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-real-estate-agents-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-real-estate-agents-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-financial-advisors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-financial-advisors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-financial-advisors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-financial-advisors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-med-spas-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-beauty-spas-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-med-spas-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-med-spas-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-med-spas-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-accountants-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-cpas-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-accountants-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-cpas-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-accountants-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-cpas-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-accountants-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-cpas-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-insurance-agencies-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-insurance-agents-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-insurance-agencies-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-insurance-agents-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-insurance-agents-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-insurance-agencies-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-insurance-agents-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-website-audit-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-website-audit-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-website-audit-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-content-strategy-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-content-strategy-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-content-strategy-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-implementation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-content-strategy-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-local-businesses-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-local-businesses-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-local-businesses-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-local-businesses-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-overviews-optimization-for-local-businesses-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-local-businesses-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-multi-location-businesses-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-small-businesses-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-law-firms-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-home-service-businesses-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-implementation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-service-pages-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-practice-area-pages-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-faq-pages-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-help-articles-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-knowledge-bases-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-local-businesses-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/geo-for-multi-location-businesses-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-citation-optimization-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/faq-content-for-ai-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-citable-content-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-technical-audit-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-ready-website-build-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-ready-website-optimization-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/business-website-creation-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/business-website-optimization-for-ai-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-remodelers-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-remodelers-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-remodelers-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-overviews-optimization-for-remodelers-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-remodelers-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-roofers-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-roofers-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-roofers-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-roofers-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-roofers-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-roofing-contractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-roofing-contractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-roofing-contractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-roofing-contractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-roofing-contractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-chiropractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-chiropractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-chiropractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-chiropractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-chiropractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-veterinarians-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-veterinarians-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-veterinarians-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-veterinarians-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-veterinarians-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-local-marketing-agencies-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-local-marketing-agencies-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-local-marketing-agencies-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-local-marketing-agencies-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-local-marketing-agencies-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-automotive-dealerships-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-automotive-dealerships-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-automotive-dealerships-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-automotive-dealerships-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-automotive-dealerships-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-pediatricians-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-pediatricians-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-pediatricians-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-pediatricians-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-pediatricians-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-pool-contractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-pool-contractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-pool-contractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-pool-contractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-pool-contractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-optometrists-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-optometrists-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-optometrists-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-optometrists-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-overviews-optimization-for-optometrists-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-optometrists-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-cosmetic-surgeons-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-cosmetic-surgeons-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-cosmetic-surgeons-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-cosmetic-surgeons-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-cosmetic-surgeons-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-electricians-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-electricians-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-electricians-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-electricians-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-electricians-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-pest-control-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-pest-control-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-pest-control-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-pest-control-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-pest-control-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aeo-for-weight-loss-clinics-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/answer-engine-optimization-for-weight-loss-clinics-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-weight-loss-clinics-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-weight-loss-clinics-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-overviews-optimization-for-weight-loss-clinics-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-weight-loss-clinics-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/electrician-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/hvac-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/roofer-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/landscaper-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/pest-control-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/garage-door-company-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-audit-for-aeo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-audit-for-geo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-audit-for-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-audit-for-google-ai-overviews-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-aeo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-geo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-optimization-for-google-ai-overviews-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-optimized-website-for-aeo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-optimized-website-for-geo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-optimized-website-for-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-search-optimization-for-aeo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-search-optimization-for-geo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-search-optimization-for-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-contractors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-home-service-businesses-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-medical-practices-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-dental-practices-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-real-estate-agents-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-financial-advisors-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-med-spas-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-accountants-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/generative-engine-optimization-for-insurance-agencies-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-small-businesses-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-seo-for-home-service-businesses-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-search-content-strategy-for-aeo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-search-content-strategy-for-geo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-search-content-strategy-for-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-website-optimization-for-aeo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-website-optimization-for-geo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-website-optimization-for-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/faq-content-writing-for-ai-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/faq-content-writing-for-aeo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/faq-content-writing-for-geo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/faq-content-writing-for-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-search-content-writing-for-aeo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-search-content-writing-for-geo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/ai-search-content-writing-for-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/customer-query-research-for-aeo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/customer-query-research-for-geo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/customer-query-research-for-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/people-also-ask-content-creation-for-aeo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/people-also-ask-content-creation-for-geo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/people-also-ask-content-creation-for-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/topic-cluster-creation-for-ai-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/topic-cluster-creation-for-aeo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/topic-cluster-creation-for-geo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/topic-cluster-creation-for-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/schema-markup-implementation-for-aeo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/schema-markup-implementation-for-geo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/schema-markup-implementation-for-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-entity-optimization-for-ai-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-entity-optimization-for-aeo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-entity-optimization-for-geo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/website-entity-optimization-for-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/local-ai-optimization-for-aeo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/local-ai-optimization-for-geo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/local-ai-optimization-for-ai-seo-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      }
+    ],
     "webpages-publishing-plan.json": [
       {
         "path": "webpages-publishing-plan.json",
-        "bytes": 25259,
+        "bytes": 41759,
         "purpose": "schema"
       }
     ],
     "public": [
       {
         "path": "index.html",
-        "bytes": 21264,
+        "bytes": 27298,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 106362,
+        "bytes": 112080,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 262735,
+        "bytes": 332830,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 20613,
+        "bytes": 26220,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2168893,
+        "bytes": 2174511,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 22614,
+        "bytes": 28230,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 26807,
+        "bytes": 32376,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "web-pages.html",
+        "bytes": 177157,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 416450,
+        "bytes": 422152,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 215508,
+        "bytes": 221280,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 129368,
+        "bytes": 135111,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 20704,
+        "bytes": 26483,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 36125,
+        "bytes": 41798,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 23662,
+        "bytes": 29443,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -16590,37 +18072,37 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 1536640,
+        "bytes": 1646133,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 411356,
+        "bytes": 440599,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 411356,
+        "bytes": 440599,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 14012,
+        "bytes": 14031,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 558021,
+        "bytes": 594253,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 432781,
+        "bytes": 464930,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1389,
+        "bytes": 1462,
         "purpose": "Standard sitemap"
       }
     ]
