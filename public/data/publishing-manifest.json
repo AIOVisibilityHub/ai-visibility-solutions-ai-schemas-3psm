@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-13T01:19:00.155Z",
+  "generatedAt": "2026-11-13T18:43:47.074Z",
   "client": {
     "name": "AI Visibility Solutions",
     "canonicalUrl": "https://ai-data.aiovisibility.com",
@@ -416,7 +416,7 @@
   },
   "package": {
     "totalFiles": 3233,
-    "totalBytes": 12808799,
+    "totalBytes": 12872803,
     "stats": {
       "faqs": 2903,
       "helpArticles": 249,
@@ -1955,7 +1955,7 @@
     "organization": [
       {
         "path": "organization/ai-visibility-solutions-organization.json",
-        "bytes": 42080,
+        "bytes": 42227,
         "purpose": "schema"
       }
     ],
@@ -16493,67 +16493,67 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 21264,
+        "bytes": 27091,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 106200,
+        "bytes": 112041,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 275356,
+        "bytes": 268484,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 20613,
+        "bytes": 26181,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2168893,
+        "bytes": 2174472,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 22614,
+        "bytes": 28191,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 26807,
+        "bytes": 32337,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 416450,
+        "bytes": 422079,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 215508,
+        "bytes": 221207,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 129368,
+        "bytes": 135038,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 20704,
+        "bytes": 26410,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 36125,
+        "bytes": 41725,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 23662,
+        "bytes": 29370,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -16565,7 +16565,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 13696,
+        "bytes": 13998,
         "purpose": "LLM hint"
       },
       {
@@ -16585,32 +16585,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 3901,
+        "bytes": 4536,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1535990,
+        "bytes": 1536640,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 411054,
+        "bytes": 411356,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 411054,
+        "bytes": 411356,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 13710,
+        "bytes": 14012,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 557719,
+        "bytes": 558021,
         "purpose": "Repository README"
       },
       {
