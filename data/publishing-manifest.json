@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-13T00:44:31.971Z",
+  "generatedAt": "2026-11-13T01:15:27.038Z",
   "client": {
     "name": "AI Visibility Solutions",
     "canonicalUrl": "https://ai-data.aiovisibility.com",
@@ -415,10 +415,10 @@
     ]
   },
   "package": {
-    "totalFiles": 3183,
-    "totalBytes": 12465436,
+    "totalFiles": 3233,
+    "totalBytes": 12882362,
     "stats": {
-      "faqs": 2853,
+      "faqs": 2903,
       "helpArticles": 249,
       "services": 49,
       "webpages": 0,
@@ -432,7 +432,7 @@
       "reviews": 0,
       "qna": 0,
       "research": 0,
-      "total": 3449
+      "total": 3499
     }
   },
   "entrypoints": {
@@ -1955,7 +1955,7 @@
     "organization": [
       {
         "path": "organization/ai-visibility-solutions-organization.json",
-        "bytes": 1749,
+        "bytes": 42080,
         "purpose": "schema"
       }
     ],
@@ -16231,6 +16231,256 @@
         "path": "faqs/can-local-ai-optimization-help-my-business-with-voice-search-in-cities-like-chic.json",
         "bytes": 1496,
         "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-actually-need-a-website-audit-for-ai-search-or-is-this-just-seo-with-a-new.json",
+        "bytes": 2331,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-check-first-if-i-want-my-website-to-show-up-in-chatgpt-or-google-a.json",
+        "bytes": 2195,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-pages-should-be-included-in-a-website-audit-for-ai-search-if-i-have-a-huge.json",
+        "bytes": 2130,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-actually-included-in-a-real-ai-search-website-audit.json",
+        "bytes": 2051,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-audit-my-website-for-ai-search-myself-or-do-i-need-to-hire-someone.json",
+        "bytes": 2162,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-website-audit-for-ai-search-take-to-show-results.json",
+        "bytes": 2098,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-should-a-website-audit-for-ai-search-cost-and-how-do-i-know-it-is-worth.json",
+        "bytes": 2167,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-my-wordpress-wix-or-squarespace-site-too-heavy-for-ai-search.json",
+        "bytes": 2172,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-adding-faq-schema-guarantee-that-chatgpt-or-google-ai-will-cite-my-website.json",
+        "bytes": 2050,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-an-llms-txt-file-or-special-ai-markup-before-getting-an-ai-search-audi.json",
+        "bytes": 2140,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-an-ai-search-audit-help-a-local-business-show-up-for-near-me-questions.json",
+        "bytes": 2125,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-create-separate-ai-search-pages-for-new-york-los-angeles-chicago-housto.json",
+        "bytes": 2127,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-a-normal-seo-audit-and-an-ai-search-website-audit.json",
+        "bytes": 2065,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-results-should-i-expect-after-an-ai-search-website-audit.json",
+        "bytes": 2024,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-creating-hundreds-of-ai-faq-pages-hurt-my-website-or-make-it-look-spammy.json",
+        "bytes": 2151,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-do-i-need-to-give-someone-for-an-ai-search-website-audit-if-i-h.json",
+        "bytes": 2158,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-already-paid-for-an-seo-audit-why-would-i-need-a-separate-ai-search-audit.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-ai-search-questions-should-a-plumber-roofer-electrician-or-hvac-company-aud.json",
+        "bytes": 2050,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-website-audit-help-my-business-get-recommended-by-siri-or-alexa.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-an-ai-search-audit-useful-for-a-brand-new-business-with-almost-no-website-aut.json",
+        "bytes": 2098,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-safe-to-give-an-ai-search-auditor-my-website-data-and-customer-questions.json",
+        "bytes": 2094,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-get-an-ai-search-website-audit-done-quickly-before-a-major-launch.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-my-website-need-static-html-pages-to-be-visible-in-ai-search.json",
+        "bytes": 2047,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-publish-my-ai-faq-content-on-github-gitlab-or-other-platforms-too.json",
+        "bytes": 2125,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-is-responsible-if-an-ai-generated-faq-gives-the-wrong-answer-about-my-busine.json",
+        "bytes": 2100,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-ai-discovery-files-actually-important-for-getting-my-website-mentioned-in-ch.json",
+        "bytes": 2108,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-my-website-to-show-up-in-ai-search.json",
+        "bytes": 2016,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-ai-optimization-for-a-website-actually-involve.json",
+        "bytes": 2059,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-special-schema-or-ai-markup-to-appear-in-ai-search-results.json",
+        "bytes": 1947,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-a-static-html-ai-resource-library-better-than-putting-faqs-in-wordpress-wix-o.json",
+        "bytes": 2142,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/could-publishing-my-website-content-on-github-or-other-ai-friendly-platforms-hur.json",
+        "bytes": 2082,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-an-ai-optimization-company-guarantee-that-my-business-will-be-recommended-by.json",
+        "bytes": 2112,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-for-ai-optimization-changes-to-start-working.json",
+        "bytes": 2020,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-ai-optimization-for-a-local-business-website-cost-and-how-do-i-know-if.json",
+        "bytes": 2091,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-tell-whether-an-ai-seo-or-aeo-agency-is-legitimate-before-hiring-it.json",
+        "bytes": 2092,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-optimization-help-if-my-small-business-barely-has-any-website-content.json",
+        "bytes": 2058,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-add-ai-discovery-files-to-my-existing-website-or-build-a-separate-ai-re.json",
+        "bytes": 2121,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-write-website-content-that-ai-systems-can-understand-and-quote-accurate.json",
+        "bytes": 2052,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-my-javascript-heavy-website-preventing-ai-crawlers-from-understanding-my-cont.json",
+        "bytes": 2094,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-separate-ai-optimized-pages-for-new-york-city-los-angeles-chicago-hous.json",
+        "bytes": 2120,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-a-local-business-appear-when-people-ask-ai-tools-for-a-service-near-them.json",
+        "bytes": 2155,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-safe-to-publish-ai-generated-faqs-about-my-services-without-a-human-review.json",
+        "bytes": 2102,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-measure-whether-ai-search-optimization-is-bringing-me-real-customers.json",
+        "bytes": 2046,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-reddit-quora-google-business-profile-questions-and-search-console-useful-for.json",
+        "bytes": 2136,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-publishing-hundreds-of-faqs-automatically-improve-my-ai-search-visibility.json",
+        "bytes": 1983,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/if-i-publish-ai-resource-pages-on-another-domain-will-canonical-tags-send-all-th.json",
+        "bytes": 2136,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-indexnow-make-ai-search-engines-index-my-new-faq-pages-faster.json",
+        "bytes": 2005,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-optimizing-my-website-for-ai-make-it-sound-robotic-or-hurt-my-normal-seo.json",
+        "bytes": 2037,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-does-an-ai-optimization-agency-need-from-me-before-it-can-creat.json",
+        "bytes": 2114,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-lowest-risk-way-to-start-ai-optimization-if-i-have-a-limited-budget.json",
+        "bytes": 1972,
+        "purpose": "schema"
       }
     ],
     "webpages-publishing-plan.json": [
@@ -16243,67 +16493,67 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 21264,
+        "bytes": 27091,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 43893,
+        "bytes": 111879,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 262735,
+        "bytes": 281147,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 20613,
+        "bytes": 26181,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2109056,
+        "bytes": 2174472,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 22614,
+        "bytes": 28191,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 26807,
+        "bytes": 32337,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 416450,
+        "bytes": 422079,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 215508,
+        "bytes": 221207,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 129368,
+        "bytes": 135038,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 20704,
+        "bytes": 26410,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 36125,
+        "bytes": 41725,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 23662,
+        "bytes": 29370,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -16315,7 +16565,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 12832,
+        "bytes": 13696,
         "purpose": "LLM hint"
       },
       {
@@ -16335,37 +16585,37 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 2068,
+        "bytes": 3901,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1508521,
+        "bytes": 1535990,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 403519,
+        "bytes": 411054,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 403519,
+        "bytes": 411054,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 12846,
+        "bytes": 13710,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 547213,
+        "bytes": 557719,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 425560,
+        "bytes": 432781,
         "purpose": "AI sitemap"
       },
       {

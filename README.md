@@ -9,21 +9,27 @@ Canonical AI Data Package for AI Visibility Solutions.
 - LLM hint: [llms.txt](./llms.txt)
 
 ## Stats
-- 2853 faqs
+- 2903 faqs
 - 249 helpArticles
 - 49 services
 - 1 personnel
 - 1 locations
 - 1 organization
-- **3449** total
+- **3499** total
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] AI Visibility Solutions — canonical website — https://ai-data.aiovisibility.com
 - [ai-data-hub] AI Visibility Solutions — AI Data Hub — https://ai-data.aiovisibility.com/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/ai-visibility-solutions-ai-schemas-3psm
 - [mirror-pages] GitHub — AI Data Hub mirror — http://ai-data.aiovisibility.com/ai-data.html
-- [same-as] AI Visibility Solutions on youtube.com — https://www.youtube.com/watch?v=7j0RyhGKwMg
-- [same-as] AI Visibility Solutions on youtube.com — https://www.youtube.com/channel/UCy1j-Cdj_-o07udzrh17UFw
+- [same-as] AI Visibility Solutions on gitlab.com — https://gitlab.com/aiovisibilityhub/ai-visibility-solutions-ai-schemas-93iu
+- [same-as] AI Visibility Solutions on aiovisibilityhub-ai-visibility-solutions-ai-schemas.static.hf.space — https://aiovisibilityhub-ai-visibility-solutions-ai-schemas.static.hf.space
+- [same-as] AI Visibility Solutions on huggingface.co — https://huggingface.co/spaces/AIOVisibilityHub/ai-visibility-solutions-ai-schemas
+- [same-as] AI Visibility Solutions on kaggle.com — https://www.kaggle.com/datasets/aiovisibilityhub/ai-visibility-solutions-ai-schemas
+- [same-as] AI Visibility Solutions on aiovisibilityhub.codeberg.page — https://aiovisibilityhub.codeberg.page/ai-visibility-solutions-ai-schemas
+- [same-as] AI Visibility Solutions on codeberg.org — https://codeberg.org/aiovisibilityhub/ai-visibility-solutions-ai-schemas
+- [same-as] AI Visibility Solutions on zenodo.org — https://zenodo.org/records/22884409
+- [same-as] AI Visibility Solutions on linkedin.com — https://www.linkedin.com/company/ai-visibility-solutions
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
@@ -100,15 +106,18 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 ### Team Members (1)
 - [`team/jerald-sturk-profile.json`](./team/jerald-sturk-profile.json) — schema
 
-### FAQs (2853)
+### FAQs (2903)
+- [`faqs/are-ai-discovery-files-actually-important-for-getting-my-website-mentioned-in-ch.json`](./faqs/are-ai-discovery-files-actually-important-for-getting-my-website-mentioned-in-ch.json) — schema
 - [`faqs/are-ai-ready-website-builds-available-for-businesses-in-los-angeles.json`](./faqs/are-ai-ready-website-builds-available-for-businesses-in-los-angeles.json) — schema
 - [`faqs/are-online-reviews-important-for-a-med-spa-s-geo-marketing-in-a-city-like-los-an.json`](./faqs/are-online-reviews-important-for-a-med-spa-s-geo-marketing-in-a-city-like-los-an.json) — schema
+- [`faqs/are-reddit-quora-google-business-profile-questions-and-search-console-useful-for.json`](./faqs/are-reddit-quora-google-business-profile-questions-and-search-console-useful-for.json) — schema
 - [`faqs/are-there-specific-aeo-considerations-for-plastic-surgeons-in-new-york-city.json`](./faqs/are-there-specific-aeo-considerations-for-plastic-surgeons-in-new-york-city.json) — schema
 - [`faqs/are-your-google-business-profile-optimization-services-available-in-new-york-cit.json`](./faqs/are-your-google-business-profile-optimization-services-available-in-new-york-cit.json) — schema
 - [`faqs/can-a-geo-content-strategy-benefit-an-online-only-business-without-a-physical-lo.json`](./faqs/can-a-geo-content-strategy-benefit-an-online-only-business-without-a-physical-lo.json) — schema
 - [`faqs/can-a-geo-website-audit-help-my-business-if-i-don-t-have-a-physical-storefront.json`](./faqs/can-a-geo-website-audit-help-my-business-if-i-don-t-have-a-physical-storefront.json) — schema
 - [`faqs/can-a-geo-website-audit-help-my-business-in-new-york-city-and-los-angeles.json`](./faqs/can-a-geo-website-audit-help-my-business-in-new-york-city-and-los-angeles.json) — schema
 - [`faqs/can-a-medical-practice-manage-geo-internally-or-should-they-hire-an-agency.json`](./faqs/can-a-medical-practice-manage-geo-internally-or-should-they-hire-an-agency.json) — schema
+- [`faqs/can-a-website-audit-help-my-business-get-recommended-by-siri-or-alexa.json`](./faqs/can-a-website-audit-help-my-business-get-recommended-by-siri-or-alexa.json) — schema
 - [`faqs/can-aeo-certification-help-reduce-supply-chain-costs.json`](./faqs/can-aeo-certification-help-reduce-supply-chain-costs.json) — schema
 - [`faqs/can-aeo-content-strategy-benefit-small-businesses-or-local-service-providers.json`](./faqs/can-aeo-content-strategy-benefit-small-businesses-or-local-service-providers.json) — schema
 - [`faqs/can-aeo-help-an-insurance-agency-attract-local-clients-in-los-angeles.json`](./faqs/can-aeo-help-an-insurance-agency-attract-local-clients-in-los-angeles.json) — schema
@@ -179,6 +188,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/can-ai-generated-faqs-be-customized-for-specific-industries-or-services.json`](./faqs/can-ai-generated-faqs-be-customized-for-specific-industries-or-services.json) — schema
 - [`faqs/can-ai-geo-content-writing-help-with-google-my-business-optimization.json`](./faqs/can-ai-geo-content-writing-help-with-google-my-business-optimization.json) — schema
 - [`faqs/can-ai-help-with-content-for-multiple-locations-like-new-york-city-and-los-angel.json`](./faqs/can-ai-help-with-content-for-multiple-locations-like-new-york-city-and-los-angel.json) — schema
+- [`faqs/can-ai-optimization-help-if-my-small-business-barely-has-any-website-content.json`](./faqs/can-ai-optimization-help-if-my-small-business-barely-has-any-website-content.json) — schema
 - [`faqs/can-ai-optimization-integrate-with-my-existing-crm-and-marketing-platforms.json`](./faqs/can-ai-optimization-integrate-with-my-existing-crm-and-marketing-platforms.json) — schema
 - [`faqs/can-ai-optimized-websites-target-multiple-geographic-locations-simultaneously.json`](./faqs/can-ai-optimized-websites-target-multiple-geographic-locations-simultaneously.json) — schema
 - [`faqs/can-ai-or-llms-automatically-generate-knowledge-graphs-and-entity-files-without.json`](./faqs/can-ai-or-llms-automatically-generate-knowledge-graphs-and-entity-files-without.json) — schema
@@ -231,11 +241,13 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/can-ai-website-optimization-personalize-user-experience.json`](./faqs/can-ai-website-optimization-personalize-user-experience.json) — schema
 - [`faqs/can-an-aeo-audit-help-with-voice-search-optimization.json`](./faqs/can-an-aeo-audit-help-with-voice-search-optimization.json) — schema
 - [`faqs/can-an-aeo-website-audit-help-with-voice-search-optimization.json`](./faqs/can-an-aeo-website-audit-help-with-voice-search-optimization.json) — schema
+- [`faqs/can-an-ai-optimization-company-guarantee-that-my-business-will-be-recommended-by.json`](./faqs/can-an-ai-optimization-company-guarantee-that-my-business-will-be-recommended-by.json) — schema
 - [`faqs/can-an-ai-search-audit-benefit-a-small-business-or-local-service-provider.json`](./faqs/can-an-ai-search-audit-benefit-a-small-business-or-local-service-provider.json) — schema
 - [`faqs/can-an-ai-seo-audit-help-with-voice-search-optimization.json`](./faqs/can-an-ai-seo-audit-help-with-voice-search-optimization.json) — schema
 - [`faqs/can-answer-engine-optimization-help-my-small-business-in-specific-cities-like-ne.json`](./faqs/can-answer-engine-optimization-help-my-small-business-in-specific-cities-like-ne.json) — schema
 - [`faqs/can-answer-engine-optimization-help-with-local-insurance-searches.json`](./faqs/can-answer-engine-optimization-help-with-local-insurance-searches.json) — schema
 - [`faqs/can-crawlability-issues-affect-my-local-search-rankings-in-new-york-city.json`](./faqs/can-crawlability-issues-affect-my-local-search-rankings-in-new-york-city.json) — schema
+- [`faqs/can-creating-hundreds-of-ai-faq-pages-hurt-my-website-or-make-it-look-spammy.json`](./faqs/can-creating-hundreds-of-ai-faq-pages-hurt-my-website-or-make-it-look-spammy.json) — schema
 - [`faqs/can-customer-query-research-for-geo-identify-new-market-opportunities.json`](./faqs/can-customer-query-research-for-geo-identify-new-market-opportunities.json) — schema
 - [`faqs/can-customer-query-research-help-with-local-seo-in-new-york-city.json`](./faqs/can-customer-query-research-help-with-local-seo-in-new-york-city.json) — schema
 - [`faqs/can-customer-query-research-help-with-voice-search-optimization.json`](./faqs/can-customer-query-research-help-with-voice-search-optimization.json) — schema
@@ -288,7 +300,9 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/can-geo-visibility-help-my-dental-practice-in-a-competitive-market-like-new-york.json`](./faqs/can-geo-visibility-help-my-dental-practice-in-a-competitive-market-like-new-york.json) — schema
 - [`faqs/can-goe-help-contractors-specializing-in-niche-services-like-historic-home-resto.json`](./faqs/can-goe-help-contractors-specializing-in-niche-services-like-historic-home-resto.json) — schema
 - [`faqs/can-i-add-faqpage-json-ld-schema-to-individual-pages-instead-of-just-one-faq-pag.json`](./faqs/can-i-add-faqpage-json-ld-schema-to-individual-pages-instead-of-just-one-faq-pag.json) — schema
+- [`faqs/can-i-audit-my-website-for-ai-search-myself-or-do-i-need-to-hire-someone.json`](./faqs/can-i-audit-my-website-for-ai-search-myself-or-do-i-need-to-hire-someone.json) — schema
 - [`faqs/can-i-combine-geo-for-faq-pages-with-other-local-seo-strategies.json`](./faqs/can-i-combine-geo-for-faq-pages-with-other-local-seo-strategies.json) — schema
+- [`faqs/can-i-get-an-ai-search-website-audit-done-quickly-before-a-major-launch.json`](./faqs/can-i-get-an-ai-search-website-audit-done-quickly-before-a-major-launch.json) — schema
 - [`faqs/can-i-implement-ai-entity-optimization-myself-or-do-i-need-an-expert.json`](./faqs/can-i-implement-ai-entity-optimization-myself-or-do-i-need-an-expert.json) — schema
 - [`faqs/can-i-implement-geo-schema-markup-myself-or-do-i-need-a-specialist.json`](./faqs/can-i-implement-geo-schema-markup-myself-or-do-i-need-a-specialist.json) — schema
 - [`faqs/can-i-implement-geo-specific-topic-clusters-if-my-business-only-serves-one-city.json`](./faqs/can-i-implement-geo-specific-topic-clusters-if-my-business-only-serves-one-city.json) — schema
@@ -320,8 +334,10 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/can-website-optimization-help-my-chiropractic-practice-attract-more-patients-in.json`](./faqs/can-website-optimization-help-my-chiropractic-practice-attract-more-patients-in.json) — schema
 - [`faqs/can-website-optimization-help-my-pediatric-practice-attract-new-patients-from-ou.json`](./faqs/can-website-optimization-help-my-pediatric-practice-attract-new-patients-from-ou.json) — schema
 - [`faqs/can-website-optimization-help-my-remodeling-business-get-more-project-leads-in-l.json`](./faqs/can-website-optimization-help-my-remodeling-business-get-more-project-leads-in-l.json) — schema
+- [`faqs/could-publishing-my-website-content-on-github-or-other-ai-friendly-platforms-hur.json`](./faqs/could-publishing-my-website-content-on-github-or-other-ai-friendly-platforms-hur.json) — schema
 - [`faqs/do-ai-seo-services-include-local-seo-optimization-for-weight-loss-clinics-in-spe.json`](./faqs/do-ai-seo-services-include-local-seo-optimization-for-weight-loss-clinics-in-spe.json) — schema
 - [`faqs/do-all-law-firms-need-schema-markup.json`](./faqs/do-all-law-firms-need-schema-markup.json) — schema
+- [`faqs/do-i-actually-need-a-website-audit-for-ai-search-or-is-this-just-seo-with-a-new.json`](./faqs/do-i-actually-need-a-website-audit-for-ai-search-or-is-this-just-seo-with-a-new.json) — schema
 - [`faqs/do-i-need-a-developer-to-use-ae-optimizer.json`](./faqs/do-i-need-a-developer-to-use-ae-optimizer.json) — schema
 - [`faqs/do-i-need-a-new-website-for-ai-overviews-optimization.json`](./faqs/do-i-need-a-new-website-for-ai-overviews-optimization.json) — schema
 - [`faqs/do-i-need-a-new-website-if-my-current-veterinary-site-isn-t-optimized.json`](./faqs/do-i-need-a-new-website-if-my-current-veterinary-site-isn-t-optimized.json) — schema
@@ -330,13 +346,16 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/do-i-need-aeo-if-my-construction-website-already-ranks-well-for-keywords.json`](./faqs/do-i-need-aeo-if-my-construction-website-already-ranks-well-for-keywords.json) — schema
 - [`faqs/do-i-need-an-ai-optimized-website-for-aeo-if-i-already-have-good-seo.json`](./faqs/do-i-need-an-ai-optimized-website-for-aeo-if-i-already-have-good-seo.json) — schema
 - [`faqs/do-i-need-an-ai-ready-website-if-my-business-operates-primarily-in-new-york-city.json`](./faqs/do-i-need-an-ai-ready-website-if-my-business-operates-primarily-in-new-york-city.json) — schema
+- [`faqs/do-i-need-an-llms-txt-file-or-special-ai-markup-before-getting-an-ai-search-audi.json`](./faqs/do-i-need-an-llms-txt-file-or-special-ai-markup-before-getting-an-ai-search-audi.json) — schema
 - [`faqs/do-i-need-generative-engine-optimization-if-my-business-already-ranks-well-local.json`](./faqs/do-i-need-generative-engine-optimization-if-my-business-already-ranks-well-local.json) — schema
 - [`faqs/do-i-need-generative-engine-optimization-if-my-practice-already-has-a-website.json`](./faqs/do-i-need-generative-engine-optimization-if-my-practice-already-has-a-website.json) — schema
 - [`faqs/do-i-need-geo-services-if-my-accounting-firm-only-serves-clients-remotely.json`](./faqs/do-i-need-geo-services-if-my-accounting-firm-only-serves-clients-remotely.json) — schema
 - [`faqs/do-i-need-google-maps-optimization-if-my-business-doesn-t-have-a-physical-storef.json`](./faqs/do-i-need-google-maps-optimization-if-my-business-doesn-t-have-a-physical-storef.json) — schema
 - [`faqs/do-i-need-json-ld-schema-on-every-page-of-my-website-or-just-the-homepage.json`](./faqs/do-i-need-json-ld-schema-on-every-page-of-my-website-or-just-the-homepage.json) — schema
 - [`faqs/do-i-need-schema-markup-if-my-website-already-ranks-well-in-search-engines.json`](./faqs/do-i-need-schema-markup-if-my-website-already-ranks-well-in-search-engines.json) — schema
+- [`faqs/do-i-need-separate-ai-optimized-pages-for-new-york-city-los-angeles-chicago-hous.json`](./faqs/do-i-need-separate-ai-optimized-pages-for-new-york-city-los-angeles-chicago-hous.json) — schema
 - [`faqs/do-i-need-separate-practice-area-pages-for-each-city-i-serve.json`](./faqs/do-i-need-separate-practice-area-pages-for-each-city-i-serve.json) — schema
+- [`faqs/do-i-need-special-schema-or-ai-markup-to-appear-in-ai-search-results.json`](./faqs/do-i-need-special-schema-or-ai-markup-to-appear-in-ai-search-results.json) — schema
 - [`faqs/do-i-need-to-change-my-entire-website-for-ai-overviews-optimization.json`](./faqs/do-i-need-to-change-my-entire-website-for-ai-overviews-optimization.json) — schema
 - [`faqs/do-i-need-to-change-my-website-content-for-family-law-ai-seo.json`](./faqs/do-i-need-to-change-my-website-content-for-family-law-ai-seo.json) — schema
 - [`faqs/do-i-need-to-change-my-website-to-implement-ai-seo-for-my-pest-control-business.json`](./faqs/do-i-need-to-change-my-website-to-implement-ai-seo-for-my-pest-control-business.json) — schema
@@ -351,6 +370,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/do-i-still-need-traditional-seo-if-i-use-ai-seo-for-my-real-estate-website.json`](./faqs/do-i-still-need-traditional-seo-if-i-use-ai-seo-for-my-real-estate-website.json) — schema
 - [`faqs/do-you-offer-ai-ready-website-optimization-services-in-houston.json`](./faqs/do-you-offer-ai-ready-website-optimization-services-in-houston.json) — schema
 - [`faqs/do-you-perform-ai-technical-audits-for-businesses-specifically-in-new-york-city.json`](./faqs/do-you-perform-ai-technical-audits-for-businesses-specifically-in-new-york-city.json) — schema
+- [`faqs/does-adding-faq-schema-guarantee-that-chatgpt-or-google-ai-will-cite-my-website.json`](./faqs/does-adding-faq-schema-guarantee-that-chatgpt-or-google-ai-will-cite-my-website.json) — schema
 - [`faqs/does-aeo-apply-differently-to-general-contractors-in-new-york-city-compared-to-o.json`](./faqs/does-aeo-apply-differently-to-general-contractors-in-new-york-city-compared-to-o.json) — schema
 - [`faqs/does-aeo-apply-differently-to-local-law-firms-for-example-in-los-angeles.json`](./faqs/does-aeo-apply-differently-to-local-law-firms-for-example-in-los-angeles.json) — schema
 - [`faqs/does-aeo-help-criminal-defense-team-members-with-local-search-visibility-in-citi.json`](./faqs/does-aeo-help-criminal-defense-team-members-with-local-search-visibility-in-citi.json) — schema
@@ -362,9 +382,12 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/does-generative-engine-optimization-geo-replace-the-need-for-human-content-creat.json`](./faqs/does-generative-engine-optimization-geo-replace-the-need-for-human-content-creat.json) — schema
 - [`faqs/does-geo-replace-the-need-for-traditional-marketing-efforts.json`](./faqs/does-geo-replace-the-need-for-traditional-marketing-efforts.json) — schema
 - [`faqs/does-geo-schema-markup-replace-the-need-for-google-business-profile-optimization.json`](./faqs/does-geo-schema-markup-replace-the-need-for-google-business-profile-optimization.json) — schema
+- [`faqs/does-indexnow-make-ai-search-engines-index-my-new-faq-pages-faster.json`](./faqs/does-indexnow-make-ai-search-engines-index-my-new-faq-pages-faster.json) — schema
+- [`faqs/does-my-website-need-static-html-pages-to-be-visible-in-ai-search.json`](./faqs/does-my-website-need-static-html-pages-to-be-visible-in-ai-search.json) — schema
 - [`faqs/does-schema-markup-directly-improve-search-rankings-in-new-york-city-or-los-ange.json`](./faqs/does-schema-markup-directly-improve-search-rankings-in-new-york-city-or-los-ange.json) — schema
 - [`faqs/does-website-entity-optimization-improve-local-search-visibility-in-new-york-cit.json`](./faqs/does-website-entity-optimization-improve-local-search-visibility-in-new-york-cit.json) — schema
 - [`faqs/how-can-a-general-contractor-improve-their-aeo.json`](./faqs/how-can-a-general-contractor-improve-their-aeo.json) — schema
+- [`faqs/how-can-a-local-business-appear-when-people-ask-ai-tools-for-a-service-near-them.json`](./faqs/how-can-a-local-business-appear-when-people-ask-ai-tools-for-a-service-near-them.json) — schema
 - [`faqs/how-can-a-local-business-measure-the-success-of-its-answer-engine-optimization-e.json`](./faqs/how-can-a-local-business-measure-the-success-of-its-answer-engine-optimization-e.json) — schema
 - [`faqs/how-can-a-medical-practice-measure-the-success-of-its-aeo-efforts.json`](./faqs/how-can-a-medical-practice-measure-the-success-of-its-aeo-efforts.json) — schema
 - [`faqs/how-can-aeo-benefit-my-business-website.json`](./faqs/how-can-aeo-benefit-my-business-website.json) — schema
@@ -436,6 +459,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/how-can-i-measure-the-roi-of-ai-seo-services-for-my-roofing-business.json`](./faqs/how-can-i-measure-the-roi-of-ai-seo-services-for-my-roofing-business.json) — schema
 - [`faqs/how-can-i-measure-the-success-of-a-generative-engine-optimization-strategy-for-m.json`](./faqs/how-can-i-measure-the-success-of-a-generative-engine-optimization-strategy-for-m.json) — schema
 - [`faqs/how-can-i-measure-the-success-of-ai-overviews-optimization-for-my-optometry-prac.json`](./faqs/how-can-i-measure-the-success-of-ai-overviews-optimization-for-my-optometry-prac.json) — schema
+- [`faqs/how-can-i-tell-whether-an-ai-seo-or-aeo-agency-is-legitimate-before-hiring-it.json`](./faqs/how-can-i-tell-whether-an-ai-seo-or-aeo-agency-is-legitimate-before-hiring-it.json) — schema
 - [`faqs/how-can-local-businesses-benefit-from-geo-for-help-articles.json`](./faqs/how-can-local-businesses-benefit-from-geo-for-help-articles.json) — schema
 - [`faqs/how-can-local-seo-benefit-my-personal-injury-law-firm.json`](./faqs/how-can-local-seo-benefit-my-personal-injury-law-firm.json) — schema
 - [`faqs/how-can-local-seo-for-insurance-agencies-help-attract-more-clients-in-competitiv.json`](./faqs/how-can-local-seo-for-insurance-agencies-help-attract-more-clients-in-competitiv.json) — schema
@@ -600,6 +624,8 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/how-do-i-measure-the-success-of-aeo-for-my-roofing-business.json`](./faqs/how-do-i-measure-the-success-of-aeo-for-my-roofing-business.json) — schema
 - [`faqs/how-do-i-measure-the-success-of-my-geo-for-knowledge-bases-efforts.json`](./faqs/how-do-i-measure-the-success-of-my-geo-for-knowledge-bases-efforts.json) — schema
 - [`faqs/how-do-i-measure-the-success-of-my-schema-markup-implementation.json`](./faqs/how-do-i-measure-the-success-of-my-schema-markup-implementation.json) — schema
+- [`faqs/how-do-i-measure-whether-ai-search-optimization-is-bringing-me-real-customers.json`](./faqs/how-do-i-measure-whether-ai-search-optimization-is-bringing-me-real-customers.json) — schema
+- [`faqs/how-do-i-write-website-content-that-ai-systems-can-understand-and-quote-accurate.json`](./faqs/how-do-i-write-website-content-that-ai-systems-can-understand-and-quote-accurate.json) — schema
 - [`faqs/how-do-insurance-agencies-measure-the-success-of-their-aeo-efforts.json`](./faqs/how-do-insurance-agencies-measure-the-success-of-their-aeo-efforts.json) — schema
 - [`faqs/how-do-med-spas-in-new-york-city-specifically-benefit-from-geo.json`](./faqs/how-do-med-spas-in-new-york-city-specifically-benefit-from-geo.json) — schema
 - [`faqs/how-do-online-reviews-impact-an-insurance-agency-s-geo-visibility.json`](./faqs/how-do-online-reviews-impact-an-insurance-agency-s-geo-visibility.json) — schema
@@ -839,6 +865,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/how-does-an-ai-ready-website-improve-my-digital-marketing-efforts.json`](./faqs/how-does-an-ai-ready-website-improve-my-digital-marketing-efforts.json) — schema
 - [`faqs/how-does-an-ai-ready-website-improve-seo-and-search-visibility.json`](./faqs/how-does-an-ai-ready-website-improve-seo-and-search-visibility.json) — schema
 - [`faqs/how-does-an-ai-search-audit-differ-from-a-traditional-seo-audit.json`](./faqs/how-does-an-ai-search-audit-differ-from-a-traditional-seo-audit.json) — schema
+- [`faqs/how-does-an-ai-search-audit-help-a-local-business-show-up-for-near-me-questions.json`](./faqs/how-does-an-ai-search-audit-help-a-local-business-show-up-for-near-me-questions.json) — schema
 - [`faqs/how-does-an-ai-search-content-strategy-differ-from-standard-keyword-research.json`](./faqs/how-does-an-ai-search-content-strategy-differ-from-standard-keyword-research.json) — schema
 - [`faqs/how-does-an-ai-seo-audit-differ-from-a-traditional-seo-audit.json`](./faqs/how-does-an-ai-seo-audit-differ-from-a-traditional-seo-audit.json) — schema
 - [`faqs/how-does-an-ai-seo-content-strategy-impact-content-quality-and-originality.json`](./faqs/how-does-an-ai-seo-content-strategy-impact-content-quality-and-originality.json) — schema
@@ -962,10 +989,12 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/how-is-the-success-of-generative-engine-optimization-measured.json`](./faqs/how-is-the-success-of-generative-engine-optimization-measured.json) — schema
 - [`faqs/how-long-does-a-typical-geo-website-audit-take.json`](./faqs/how-long-does-a-typical-geo-website-audit-take.json) — schema
 - [`faqs/how-long-does-a-typical-law-firm-ai-audit-take.json`](./faqs/how-long-does-a-typical-law-firm-ai-audit-take.json) — schema
+- [`faqs/how-long-does-a-website-audit-for-ai-search-take-to-show-results.json`](./faqs/how-long-does-a-website-audit-for-ai-search-take-to-show-results.json) — schema
 - [`faqs/how-long-does-an-aeo-website-audit-take.json`](./faqs/how-long-does-an-aeo-website-audit-take.json) — schema
 - [`faqs/how-long-does-an-ai-seo-website-audit-take.json`](./faqs/how-long-does-an-ai-seo-website-audit-take.json) — schema
 - [`faqs/how-long-does-an-ai-seo-website-audit-typically-take.json`](./faqs/how-long-does-an-ai-seo-website-audit-typically-take.json) — schema
 - [`faqs/how-long-does-an-ai-technical-audit-typically-take-to-complete.json`](./faqs/how-long-does-an-ai-technical-audit-typically-take-to-complete.json) — schema
+- [`faqs/how-long-does-it-take-for-ai-optimization-changes-to-start-working.json`](./faqs/how-long-does-it-take-for-ai-optimization-changes-to-start-working.json) — schema
 - [`faqs/how-long-does-it-take-for-schema-markup-to-show-results-in-search-engines.json`](./faqs/how-long-does-it-take-for-schema-markup-to-show-results-in-search-engines.json) — schema
 - [`faqs/how-long-does-it-take-to-build-a-new-business-website.json`](./faqs/how-long-does-it-take-to-build-a-new-business-website.json) — schema
 - [`faqs/how-long-does-it-take-to-complete-an-ai-search-website-audit.json`](./faqs/how-long-does-it-take-to-complete-an-ai-search-website-audit.json) — schema
@@ -1285,12 +1314,16 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/how-much-does-website-optimization-for-a-roofing-company-cost.json`](./faqs/how-much-does-website-optimization-for-a-roofing-company-cost.json) — schema
 - [`faqs/how-much-does-website-optimization-for-a-veterinary-practice-cost.json`](./faqs/how-much-does-website-optimization-for-a-veterinary-practice-cost.json) — schema
 - [`faqs/how-much-does-website-optimization-for-remodeling-contractors-typically-cost.json`](./faqs/how-much-does-website-optimization-for-remodeling-contractors-typically-cost.json) — schema
+- [`faqs/how-much-should-a-website-audit-for-ai-search-cost-and-how-do-i-know-it-is-worth.json`](./faqs/how-much-should-a-website-audit-for-ai-search-cost-and-how-do-i-know-it-is-worth.json) — schema
 - [`faqs/how-often-should-a-roofing-website-be-updated-or-optimized.json`](./faqs/how-often-should-a-roofing-website-be-updated-or-optimized.json) — schema
 - [`faqs/how-often-should-i-audit-my-website-for-crawlability-issues.json`](./faqs/how-often-should-i-audit-my-website-for-crawlability-issues.json) — schema
 - [`faqs/how-quickly-can-i-expect-to-see-results-from-ai-seo-for-my-pest-control-company.json`](./faqs/how-quickly-can-i-expect-to-see-results-from-ai-seo-for-my-pest-control-company.json) — schema
 - [`faqs/how-quickly-can-i-expect-to-see-results-from-generative-engine-optimization.json`](./faqs/how-quickly-can-i-expect-to-see-results-from-generative-engine-optimization.json) — schema
 - [`faqs/how-quickly-can-i-expect-to-see-results-from-geo-for-my-roofing-website.json`](./faqs/how-quickly-can-i-expect-to-see-results-from-geo-for-my-roofing-website.json) — schema
 - [`faqs/how-quickly-will-i-see-results-from-a-website-audit-for-google-ai-overviews.json`](./faqs/how-quickly-will-i-see-results-from-a-website-audit-for-google-ai-overviews.json) — schema
+- [`faqs/i-already-paid-for-an-seo-audit-why-would-i-need-a-separate-ai-search-audit.json`](./faqs/i-already-paid-for-an-seo-audit-why-would-i-need-a-separate-ai-search-audit.json) — schema
+- [`faqs/if-i-publish-ai-resource-pages-on-another-domain-will-canonical-tags-send-all-th.json`](./faqs/if-i-publish-ai-resource-pages-on-another-domain-will-canonical-tags-send-all-th.json) — schema
+- [`faqs/is-a-static-html-ai-resource-library-better-than-putting-faqs-in-wordpress-wix-o.json`](./faqs/is-a-static-html-ai-resource-library-better-than-putting-faqs-in-wordpress-wix-o.json) — schema
 - [`faqs/is-ae-optimizer-a-one-time-purchase-or-subscription.json`](./faqs/is-ae-optimizer-a-one-time-purchase-or-subscription.json) — schema
 - [`faqs/is-aeo-a-replacement-for-traditional-seo-or-does-it-work-alongside-it-for-pest-c.json`](./faqs/is-aeo-a-replacement-for-traditional-seo-or-does-it-work-alongside-it-for-pest-c.json) — schema
 - [`faqs/is-aeo-an-ongoing-process-or-is-it-a-one-time-setup-for-roofing-contractors.json`](./faqs/is-aeo-an-ongoing-process-or-is-it-a-one-time-setup-for-roofing-contractors.json) — schema
@@ -1344,6 +1377,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/is-ai-seo-only-for-large-roofing-companies-or-can-small-businesses-benefit-too.json`](./faqs/is-ai-seo-only-for-large-roofing-companies-or-can-small-businesses-benefit-too.json) — schema
 - [`faqs/is-ai-seo-suitable-for-small-local-construction-contractors.json`](./faqs/is-ai-seo-suitable-for-small-local-construction-contractors.json) — schema
 - [`faqs/is-ai-visibility-optimization-more-expensive-than-traditional-seo-services.json`](./faqs/is-ai-visibility-optimization-more-expensive-than-traditional-seo-services.json) — schema
+- [`faqs/is-an-ai-search-audit-useful-for-a-brand-new-business-with-almost-no-website-aut.json`](./faqs/is-an-ai-search-audit-useful-for-a-brand-new-business-with-almost-no-website-aut.json) — schema
 - [`faqs/is-an-ai-seo-audit-suitable-for-small-businesses-and-local-companies-in-new-york.json`](./faqs/is-an-ai-seo-audit-suitable-for-small-businesses-and-local-companies-in-new-york.json) — schema
 - [`faqs/is-an-ai-seo-content-strategy-suitable-for-all-types-of-businesses-and-industrie.json`](./faqs/is-an-ai-seo-content-strategy-suitable-for-all-types-of-businesses-and-industrie.json) — schema
 - [`faqs/is-customer-query-research-necessary-for-businesses-in-new-york-city.json`](./faqs/is-customer-query-research-necessary-for-businesses-in-new-york-city.json) — schema
@@ -1371,9 +1405,13 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/is-geo-for-service-pages-suitable-for-all-types-of-businesses.json`](./faqs/is-geo-for-service-pages-suitable-for-all-types-of-businesses.json) — schema
 - [`faqs/is-geo-specific-topic-clustering-different-from-standard-local-seo.json`](./faqs/is-geo-specific-topic-clustering-different-from-standard-local-seo.json) — schema
 - [`faqs/is-geo-targeting-more-effective-for-criminal-defense-firms-in-large-cities-like.json`](./faqs/is-geo-targeting-more-effective-for-criminal-defense-firms-in-large-cities-like.json) — schema
+- [`faqs/is-it-safe-to-give-an-ai-search-auditor-my-website-data-and-customer-questions.json`](./faqs/is-it-safe-to-give-an-ai-search-auditor-my-website-data-and-customer-questions.json) — schema
+- [`faqs/is-it-safe-to-publish-ai-generated-faqs-about-my-services-without-a-human-review.json`](./faqs/is-it-safe-to-publish-ai-generated-faqs-about-my-services-without-a-human-review.json) — schema
 - [`faqs/is-law-firm-schema-markup-different-from-general-local-business-schema.json`](./faqs/is-law-firm-schema-markup-different-from-general-local-business-schema.json) — schema
 - [`faqs/is-local-ai-optimization-expensive-compared-to-other-digital-marketing-strategie.json`](./faqs/is-local-ai-optimization-expensive-compared-to-other-digital-marketing-strategie.json) — schema
 - [`faqs/is-local-ai-optimization-expensive.json`](./faqs/is-local-ai-optimization-expensive.json) — schema
+- [`faqs/is-my-javascript-heavy-website-preventing-ai-crawlers-from-understanding-my-cont.json`](./faqs/is-my-javascript-heavy-website-preventing-ai-crawlers-from-understanding-my-cont.json) — schema
+- [`faqs/is-my-wordpress-wix-or-squarespace-site-too-heavy-for-ai-search.json`](./faqs/is-my-wordpress-wix-or-squarespace-site-too-heavy-for-ai-search.json) — schema
 - [`faqs/is-paa-content-creation-a-one-time-effort-or-ongoing.json`](./faqs/is-paa-content-creation-a-one-time-effort-or-ongoing.json) — schema
 - [`faqs/is-paa-content-creation-different-from-traditional-blog-content.json`](./faqs/is-paa-content-creation-different-from-traditional-blog-content.json) — schema
 - [`faqs/is-paa-content-more-effective-than-traditional-blog-posts-for-ai-seo.json`](./faqs/is-paa-content-more-effective-than-traditional-blog-posts-for-ai-seo.json) — schema
@@ -1393,9 +1431,12 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/should-an-electrician-prioritize-seo-or-ppc-advertising-for-online-visibility.json`](./faqs/should-an-electrician-prioritize-seo-or-ppc-advertising-for-online-visibility.json) — schema
 - [`faqs/should-an-insurance-agency-prioritize-aeo-over-traditional-seo.json`](./faqs/should-an-insurance-agency-prioritize-aeo-over-traditional-seo.json) — schema
 - [`faqs/should-an-insurance-agent-focus-on-aeo-or-paid-ads-for-quicker-results.json`](./faqs/should-an-insurance-agent-focus-on-aeo-or-paid-ads-for-quicker-results.json) — schema
+- [`faqs/should-i-add-ai-discovery-files-to-my-existing-website-or-build-a-separate-ai-re.json`](./faqs/should-i-add-ai-discovery-files-to-my-existing-website-or-build-a-separate-ai-re.json) — schema
+- [`faqs/should-i-create-separate-ai-search-pages-for-new-york-los-angeles-chicago-housto.json`](./faqs/should-i-create-separate-ai-search-pages-for-new-york-los-angeles-chicago-housto.json) — schema
 - [`faqs/should-i-focus-on-multiple-cities-at-once-or-one-city-at-a-time-for-geo-content.json`](./faqs/should-i-focus-on-multiple-cities-at-once-or-one-city-at-a-time-for-geo-content.json) — schema
 - [`faqs/should-i-focus-on-seo-or-paid-advertising-for-my-remodeling-company-s-website.json`](./faqs/should-i-focus-on-seo-or-paid-advertising-for-my-remodeling-company-s-website.json) — schema
 - [`faqs/should-i-manually-generate-json-ld-for-each-page-or-use-an-automated-tool-for-my.json`](./faqs/should-i-manually-generate-json-ld-for-each-page-or-use-an-automated-tool-for-my.json) — schema
+- [`faqs/should-i-publish-my-ai-faq-content-on-github-gitlab-or-other-platforms-too.json`](./faqs/should-i-publish-my-ai-faq-content-on-github-gitlab-or-other-platforms-too.json) — schema
 - [`faqs/should-i-update-my-old-content-for-ai-seo-or-create-new-content.json`](./faqs/should-i-update-my-old-content-for-ai-seo-or-create-new-content.json) — schema
 - [`faqs/should-i-use-ppc-pay-per-click-ads-or-seo-for-my-pest-control-website.json`](./faqs/should-i-use-ppc-pay-per-click-ads-or-seo-for-my-pest-control-website.json) — schema
 - [`faqs/should-local-businesses-prioritize-google-business-profile-or-website-content-fo.json`](./faqs/should-local-businesses-prioritize-google-business-profile-or-website-content-fo.json) — schema
@@ -1414,6 +1455,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/should-my-roofing-website-have-a-dedicated-faq-section-for-aeo.json`](./faqs/should-my-roofing-website-have-a-dedicated-faq-section-for-aeo.json) — schema
 - [`faqs/should-my-veterinary-practice-prioritize-aeo-over-traditional-seo.json`](./faqs/should-my-veterinary-practice-prioritize-aeo-over-traditional-seo.json) — schema
 - [`faqs/should-my-weight-loss-clinic-focus-on-local-seo-national-seo-or-both.json`](./faqs/should-my-weight-loss-clinic-focus-on-local-seo-national-seo-or-both.json) — schema
+- [`faqs/what-ai-search-questions-should-a-plumber-roofer-electrician-or-hvac-company-aud.json`](./faqs/what-ai-search-questions-should-a-plumber-roofer-electrician-or-hvac-company-aud.json) — schema
 - [`faqs/what-are-ai-overviews-and-how-do-they-benefit-a-weight-loss-clinic.json`](./faqs/what-are-ai-overviews-and-how-do-they-benefit-a-weight-loss-clinic.json) — schema
 - [`faqs/what-are-ai-overviews-and-how-do-they-impact-local-businesses.json`](./faqs/what-are-ai-overviews-and-how-do-they-impact-local-businesses.json) — schema
 - [`faqs/what-are-ai-overviews-and-how-do-they-impact-optometry-practices.json`](./faqs/what-are-ai-overviews-and-how-do-they-impact-optometry-practices.json) — schema
@@ -1603,6 +1645,8 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-do-i-need-to-do-first-to-generate-a-knowledge-graph-and-entity-file-for-my.json`](./faqs/what-do-i-need-to-do-first-to-generate-a-knowledge-graph-and-entity-file-for-my.json) — schema
 - [`faqs/what-do-i-need-to-do-first-to-make-my-website-crawlable-by-ai-bots.json`](./faqs/what-do-i-need-to-do-first-to-make-my-website-crawlable-by-ai-bots.json) — schema
 - [`faqs/what-does-aeo-optimization-cost-for-a-dental-practice.json`](./faqs/what-does-aeo-optimization-cost-for-a-dental-practice.json) — schema
+- [`faqs/what-does-ai-optimization-for-a-local-business-website-cost-and-how-do-i-know-if.json`](./faqs/what-does-ai-optimization-for-a-local-business-website-cost-and-how-do-i-know-if.json) — schema
+- [`faqs/what-does-ai-optimization-for-a-website-actually-involve.json`](./faqs/what-does-ai-optimization-for-a-website-actually-involve.json) — schema
 - [`faqs/what-does-an-ai-audit-process-for-a-law-firm-involve.json`](./faqs/what-does-an-ai-audit-process-for-a-law-firm-involve.json) — schema
 - [`faqs/what-exactly-does-answer-engine-optimization-aeo-software-do-for-my-business.json`](./faqs/what-exactly-does-answer-engine-optimization-aeo-software-do-for-my-business.json) — schema
 - [`faqs/what-exactly-is-structured-data-generation-and-how-does-it-actually-work-for-my.json`](./faqs/what-exactly-is-structured-data-generation-and-how-does-it-actually-work-for-my.json) — schema
@@ -1619,6 +1663,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-features-should-i-look-for-when-comparing-aeo-software-vendors.json`](./faqs/what-features-should-i-look-for-when-comparing-aeo-software-vendors.json) — schema
 - [`faqs/what-happens-if-i-use-ai-generated-citations-without-checking-them-first.json`](./faqs/what-happens-if-i-use-ai-generated-citations-without-checking-them-first.json) — schema
 - [`faqs/what-if-my-law-firm-serves-multiple-cities-like-chicago-and-houston.json`](./faqs/what-if-my-law-firm-serves-multiple-cities-like-chicago-and-houston.json) — schema
+- [`faqs/what-information-do-i-need-to-give-someone-for-an-ai-search-website-audit-if-i-h.json`](./faqs/what-information-do-i-need-to-give-someone-for-an-ai-search-website-audit-if-i-h.json) — schema
 - [`faqs/what-information-do-i-need-to-provide-for-ai-visibility-solutions-to-start-geo-f.json`](./faqs/what-information-do-i-need-to-provide-for-ai-visibility-solutions-to-start-geo-f.json) — schema
 - [`faqs/what-information-do-i-need-to-provide-for-successful-geo-implementation.json`](./faqs/what-information-do-i-need-to-provide-for-successful-geo-implementation.json) — schema
 - [`faqs/what-information-do-i-need-to-provide-to-an-ai-seo-agency-for-my-hvac-company.json`](./faqs/what-information-do-i-need-to-provide-to-an-ai-seo-agency-for-my-hvac-company.json) — schema
@@ -1644,6 +1689,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-information-does-a-geo-service-typically-need-from-a-med-spa-to-start.json`](./faqs/what-information-does-a-geo-service-typically-need-from-a-med-spa-to-start.json) — schema
 - [`faqs/what-information-does-a-pediatrician-need-to-provide-to-start-with-ai-seo-servic.json`](./faqs/what-information-does-a-pediatrician-need-to-provide-to-start-with-ai-seo-servic.json) — schema
 - [`faqs/what-information-does-an-aeo-provider-typically-need-from-a-veterinary-practice.json`](./faqs/what-information-does-an-aeo-provider-typically-need-from-a-veterinary-practice.json) — schema
+- [`faqs/what-information-does-an-ai-optimization-agency-need-from-me-before-it-can-creat.json`](./faqs/what-information-does-an-ai-optimization-agency-need-from-me-before-it-can-creat.json) — schema
 - [`faqs/what-information-does-an-ai-overview-typically-include-for-a-remodeler.json`](./faqs/what-information-does-an-ai-overview-typically-include-for-a-remodeler.json) — schema
 - [`faqs/what-information-does-an-ai-seo-provider-need-from-my-cosmetic-surgery-practice.json`](./faqs/what-information-does-an-ai-seo-provider-need-from-my-cosmetic-surgery-practice.json) — schema
 - [`faqs/what-information-does-an-ai-seo-provider-need-from-my-law-firm-to-start.json`](./faqs/what-information-does-an-ai-seo-provider-need-from-my-law-firm-to-start.json) — schema
@@ -1665,6 +1711,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-is-a-topic-cluster-in-the-context-of-ai-seo.json`](./faqs/what-is-a-topic-cluster-in-the-context-of-ai-seo.json) — schema
 - [`faqs/what-is-a-website-audit-for-ai-search.json`](./faqs/what-is-a-website-audit-for-ai-search.json) — schema
 - [`faqs/what-is-a-website-audit-for-google-ai-overviews.json`](./faqs/what-is-a-website-audit-for-google-ai-overviews.json) — schema
+- [`faqs/what-is-actually-included-in-a-real-ai-search-website-audit.json`](./faqs/what-is-actually-included-in-a-real-ai-search-website-audit.json) — schema
 - [`faqs/what-is-aeo-and-how-can-it-benefit-my-beauty-spa.json`](./faqs/what-is-aeo-and-how-can-it-benefit-my-beauty-spa.json) — schema
 - [`faqs/what-is-aeo-and-how-can-it-help-my-roofing-business.json`](./faqs/what-is-aeo-and-how-can-it-help-my-roofing-business.json) — schema
 - [`faqs/what-is-aeo-and-how-can-it-help-my-small-business.json`](./faqs/what-is-aeo-and-how-can-it-help-my-small-business.json) — schema
@@ -1960,6 +2007,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-is-the-cost-of-implementing-geo-strategies-for-a-medical-practice.json`](./faqs/what-is-the-cost-of-implementing-geo-strategies-for-a-medical-practice.json) — schema
 - [`faqs/what-is-the-cost-structure-for-ai-seo-services-for-a-pediatric-practice.json`](./faqs/what-is-the-cost-structure-for-ai-seo-services-for-a-pediatric-practice.json) — schema
 - [`faqs/what-is-the-cost-structure-for-paa-content-creation-services.json`](./faqs/what-is-the-cost-structure-for-paa-content-creation-services.json) — schema
+- [`faqs/what-is-the-difference-between-a-normal-seo-audit-and-an-ai-search-website-audit.json`](./faqs/what-is-the-difference-between-a-normal-seo-audit-and-an-ai-search-website-audit.json) — schema
 - [`faqs/what-is-the-difference-between-a-website-builder-and-a-custom-built-website.json`](./faqs/what-is-the-difference-between-a-website-builder-and-a-custom-built-website.json) — schema
 - [`faqs/what-is-the-difference-between-aeo-and-traditional-seo-for-plumbers.json`](./faqs/what-is-the-difference-between-aeo-and-traditional-seo-for-plumbers.json) — schema
 - [`faqs/what-is-the-difference-between-aeo-c-and-aeo-s-certification.json`](./faqs/what-is-the-difference-between-aeo-c-and-aeo-s-certification.json) — schema
@@ -2016,6 +2064,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-is-the-importance-of-google-my-business-in-geo-optimization.json`](./faqs/what-is-the-importance-of-google-my-business-in-geo-optimization.json) — schema
 - [`faqs/what-is-the-key-benefit-of-customer-query-research-for-geo-in-competitive-market.json`](./faqs/what-is-the-key-benefit-of-customer-query-research-for-geo-in-competitive-market.json) — schema
 - [`faqs/what-is-the-key-difference-between-paa-content-and-traditional-faq-pages.json`](./faqs/what-is-the-key-difference-between-paa-content-and-traditional-faq-pages.json) — schema
+- [`faqs/what-is-the-lowest-risk-way-to-start-ai-optimization-if-i-have-a-limited-budget.json`](./faqs/what-is-the-lowest-risk-way-to-start-ai-optimization-if-i-have-a-limited-budget.json) — schema
 - [`faqs/what-is-the-process-for-ai-optimizing-a-website.json`](./faqs/what-is-the-process-for-ai-optimizing-a-website.json) — schema
 - [`faqs/what-is-the-process-for-an-aeo-website-audit.json`](./faqs/what-is-the-process-for-an-aeo-website-audit.json) — schema
 - [`faqs/what-is-the-process-for-conducting-an-ai-search-website-audit.json`](./faqs/what-is-the-process-for-conducting-an-ai-search-website-audit.json) — schema
@@ -2498,6 +2547,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-results-can-i-expect-after-implementing-the-recommendations-from-an-ai-over.json`](./faqs/what-results-can-i-expect-after-implementing-the-recommendations-from-an-ai-over.json) — schema
 - [`faqs/what-results-can-i-expect-from-implementing-aeo-for-my-real-estate-business.json`](./faqs/what-results-can-i-expect-from-implementing-aeo-for-my-real-estate-business.json) — schema
 - [`faqs/what-results-can-i-expect-from-implementing-an-ai-geo-content-strategy.json`](./faqs/what-results-can-i-expect-from-implementing-an-ai-geo-content-strategy.json) — schema
+- [`faqs/what-results-should-i-expect-after-an-ai-search-website-audit.json`](./faqs/what-results-should-i-expect-after-an-ai-search-website-audit.json) — schema
 - [`faqs/what-role-do-customer-reviews-play-in-roofing-website-optimization.json`](./faqs/what-role-do-customer-reviews-play-in-roofing-website-optimization.json) — schema
 - [`faqs/what-role-do-customer-reviews-play-in-service-area-optimization.json`](./faqs/what-role-do-customer-reviews-play-in-service-area-optimization.json) — schema
 - [`faqs/what-role-do-human-experts-play-in-ai-search-content-writing-for-aeo.json`](./faqs/what-role-do-human-experts-play-in-ai-search-content-writing-for-aeo.json) — schema
@@ -2549,7 +2599,9 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-should-a-general-contractor-look-for-in-an-ai-seo-provider.json`](./faqs/what-should-a-general-contractor-look-for-in-an-ai-seo-provider.json) — schema
 - [`faqs/what-should-an-accounting-firm-look-for-in-a-geo-marketing-provider.json`](./faqs/what-should-an-accounting-firm-look-for-in-a-geo-marketing-provider.json) — schema
 - [`faqs/what-should-an-insurance-agency-look-for-when-choosing-a-geo-marketing-provider.json`](./faqs/what-should-an-insurance-agency-look-for-when-choosing-a-geo-marketing-provider.json) — schema
+- [`faqs/what-should-i-check-first-if-i-want-my-website-to-show-up-in-chatgpt-or-google-a.json`](./faqs/what-should-i-check-first-if-i-want-my-website-to-show-up-in-chatgpt-or-google-a.json) — schema
 - [`faqs/what-should-i-consider-when-choosing-an-ai-seo-provider-for-my-plastic-surgery-p.json`](./faqs/what-should-i-consider-when-choosing-an-ai-seo-provider-for-my-plastic-surgery-p.json) — schema
+- [`faqs/what-should-i-do-first-if-i-want-my-website-to-show-up-in-ai-search.json`](./faqs/what-should-i-do-first-if-i-want-my-website-to-show-up-in-ai-search.json) — schema
 - [`faqs/what-should-i-do-first-to-make-my-website-visible-to-ai-search-engines.json`](./faqs/what-should-i-do-first-to-make-my-website-visible-to-ai-search-engines.json) — schema
 - [`faqs/what-should-i-look-for-in-a-website-optimization-agency-for-my-weight-loss-clini.json`](./faqs/what-should-i-look-for-in-a-website-optimization-agency-for-my-weight-loss-clini.json) — schema
 - [`faqs/what-should-i-look-for-in-an-aeo-provider-for-my-weight-loss-clinic.json`](./faqs/what-should-i-look-for-in-an-aeo-provider-for-my-weight-loss-clinic.json) — schema
@@ -2806,8 +2858,10 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/when-should-my-multi-location-business-consider-investing-in-a-geo-strategy.json`](./faqs/when-should-my-multi-location-business-consider-investing-in-a-geo-strategy.json) — schema
 - [`faqs/when-should-my-veterinary-practice-consider-implementing-ai-seo.json`](./faqs/when-should-my-veterinary-practice-consider-implementing-ai-seo.json) — schema
 - [`faqs/when-should-my-weight-loss-clinic-consider-investing-in-ai-seo.json`](./faqs/when-should-my-weight-loss-clinic-consider-investing-in-ai-seo.json) — schema
+- [`faqs/which-pages-should-be-included-in-a-website-audit-for-ai-search-if-i-have-a-huge.json`](./faqs/which-pages-should-be-included-in-a-website-audit-for-ai-search-if-i-have-a-huge.json) — schema
 - [`faqs/which-structured-data-format-should-i-use-json-ld-microdata-or-rdfa.json`](./faqs/which-structured-data-format-should-i-use-json-ld-microdata-or-rdfa.json) — schema
 - [`faqs/which-technical-settings-or-files-do-i-need-to-add-for-ai-visibility-optimizatio.json`](./faqs/which-technical-settings-or-files-do-i-need-to-add-for-ai-visibility-optimizatio.json) — schema
+- [`faqs/who-is-responsible-if-an-ai-generated-faq-gives-the-wrong-answer-about-my-busine.json`](./faqs/who-is-responsible-if-an-ai-generated-faq-gives-the-wrong-answer-about-my-busine.json) — schema
 - [`faqs/why-choose-ai-website-optimization-for-a-business-in-los-angeles.json`](./faqs/why-choose-ai-website-optimization-for-a-business-in-los-angeles.json) — schema
 - [`faqs/why-choose-an-ai-visibility-solutions-provider-in-new-york-city-for-an-ai-search.json`](./faqs/why-choose-an-ai-visibility-solutions-provider-in-new-york-city-for-an-ai-search.json) — schema
 - [`faqs/why-do-i-need-aeo-if-i-already-do-seo.json`](./faqs/why-do-i-need-aeo-if-i-already-do-seo.json) — schema
@@ -2952,6 +3006,8 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/will-generative-engine-optimization-replace-the-need-for-human-content-writers.json`](./faqs/will-generative-engine-optimization-replace-the-need-for-human-content-writers.json) — schema
 - [`faqs/will-local-ai-optimization-replace-my-existing-local-seo-efforts.json`](./faqs/will-local-ai-optimization-replace-my-existing-local-seo-efforts.json) — schema
 - [`faqs/will-optimizing-for-ai-seo-mean-i-no-longer-need-to-consider-traditional-seo-pra.json`](./faqs/will-optimizing-for-ai-seo-mean-i-no-longer-need-to-consider-traditional-seo-pra.json) — schema
+- [`faqs/will-optimizing-my-website-for-ai-make-it-sound-robotic-or-hurt-my-normal-seo.json`](./faqs/will-optimizing-my-website-for-ai-make-it-sound-robotic-or-hurt-my-normal-seo.json) — schema
+- [`faqs/will-publishing-hundreds-of-faqs-automatically-improve-my-ai-search-visibility.json`](./faqs/will-publishing-hundreds-of-faqs-automatically-improve-my-ai-search-visibility.json) — schema
 - [`faqs/will-website-ai-discovery-files-help-with-voice-search-optimization.json`](./faqs/will-website-ai-discovery-files-help-with-voice-search-optimization.json) — schema
 - [`faqs/will-website-optimization-help-my-optometry-practice-rank-higher-in-local-search.json`](./faqs/will-website-optimization-help-my-optometry-practice-rank-higher-in-local-search.json) — schema
 
