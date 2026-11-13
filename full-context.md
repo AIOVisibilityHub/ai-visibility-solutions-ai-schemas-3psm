@@ -10,6 +10,7 @@ AI Visibility Solutions publishes a structured AI Data Package designed for high
 - **2903** faqs
 - **249** helpArticles
 - **49** services
+- **295** webpages
 - **1** personnel
 - **1** locations
 - **1** organization
