@@ -1,1186 +1,1481 @@
 {
   "version": 1,
-  "approved": [],
-  "noindex": [
+  "approved": [
     {
       "path": "webpages/website-audit-for-ai-search-hub.html",
-      "status": "needs_review"
+      "title": "Website Audit for AI Search",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-ai-visibility-hub.html",
-      "status": "needs_review"
+      "title": "Website Optimization for AI Visibility",
+      "summary": ""
     },
     {
       "path": "webpages/ai-optimized-website-hub.html",
-      "status": "needs_review"
+      "title": "AI-Optimized Website",
+      "summary": ""
     },
     {
       "path": "webpages/ai-search-optimization-hub.html",
-      "status": "needs_review"
+      "title": "AI Search Optimization",
+      "summary": ""
     },
     {
       "path": "webpages/ai-search-visibility-hub.html",
-      "status": "needs_review"
+      "title": "AI Search Visibility",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-small-business-hub.html",
-      "status": "needs_review"
+      "title": "AEO for Small Business",
+      "summary": ""
     },
     {
       "path": "webpages/ai-search-content-strategy-hub.html",
-      "status": "needs_review"
+      "title": "AI Search Content Strategy | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-website-optimization-hub.html",
-      "status": "needs_review"
+      "title": "AI Website Optimization | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-search-content-writing-hub.html",
-      "status": "needs_review"
+      "title": "AI Search Content Writing",
+      "summary": ""
     },
     {
       "path": "webpages/customer-query-research-hub.html",
-      "status": "needs_review"
+      "title": "Customer Query Research",
+      "summary": ""
     },
     {
       "path": "webpages/people-also-ask-content-creation-hub.html",
-      "status": "needs_review"
+      "title": "People Also Ask Content Creation",
+      "summary": ""
     },
     {
       "path": "webpages/topic-cluster-creation-hub.html",
-      "status": "needs_review"
+      "title": "Topic Cluster Creation",
+      "summary": ""
     },
     {
       "path": "webpages/schema-markup-implementation-hub.html",
-      "status": "needs_review"
+      "title": "Schema Markup Implementation for AI Visibility",
+      "summary": ""
     },
     {
       "path": "webpages/website-crawlability-fixes-hub.html",
-      "status": "needs_review"
+      "title": "Website Crawlability Fixes for AI Search",
+      "summary": ""
     },
     {
       "path": "webpages/website-ai-discovery-files-hub.html",
-      "status": "needs_review"
+      "title": "Website AI Discovery Files and llms.txt Implementation",
+      "summary": ""
     },
     {
       "path": "webpages/website-entity-optimization-hub.html",
-      "status": "needs_review"
+      "title": "Website Entity Optimization for AI Trust",
+      "summary": ""
     },
     {
       "path": "webpages/ai-ready-website-hub.html",
-      "status": "needs_review"
+      "title": "AI-Ready Website Build",
+      "summary": ""
     },
     {
       "path": "webpages/business-website-optimization-hub.html",
-      "status": "needs_review"
+      "title": "Business Website Optimization | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/local-ai-optimization-hub.html",
-      "status": "needs_review"
+      "title": "Local AI Optimization",
+      "summary": ""
     },
     {
       "path": "webpages/google-business-profile-optimization-ai-hub.html",
-      "status": "needs_review"
+      "title": "Google Business Profile Optimization for AI",
+      "summary": ""
     },
     {
       "path": "webpages/google-maps-optimization-ai-visibility-hub.html",
-      "status": "needs_review"
+      "title": "Google Maps & Entity Optimization",
+      "summary": ""
     },
     {
       "path": "webpages/service-area-optimization-ai-search-hub.html",
-      "status": "needs_review"
+      "title": "AI Service Area Optimization",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-law-firms-hub.html",
-      "status": "needs_review"
+      "title": "Law Firm AI SEO Services",
+      "summary": ""
     },
     {
       "path": "webpages/law-firm-ai-audit-hub.html",
-      "status": "needs_review"
+      "title": "Law Firm AI Visibility Audit",
+      "summary": ""
     },
     {
       "path": "webpages/law-firm-schema-markup-hub.html",
-      "status": "needs_review"
+      "title": "Law Firm Schema Markup | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/personal-injury-lawyer-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Personal Injury Lawyer AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-personal-injury-lawyers-hub.html",
-      "status": "needs_review"
+      "title": "AEO for personal injury lawyers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-personal-injury-lawyers-hub.html",
-      "status": "needs_review"
+      "title": "GEO for personal injury lawyers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/family-law-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Family Law AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-family-law-attorneys-hub.html",
-      "status": "needs_review"
+      "title": "AEO for family law attorneys | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-family-law-lawyers-hub.html",
-      "status": "needs_review"
+      "title": "GEO for family law lawyers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/criminal-defense-lawyer-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Criminal Defense Lawyer AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-criminal-defense-attorney-hub.html",
-      "status": "needs_review"
+      "title": "AEO for criminal defense attorney | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-criminal-defense-lawyers-hub.html",
-      "status": "needs_review"
+      "title": "GEO for criminal defense lawyers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/employment-lawyer-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Employment Lawyer AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/business-lawyer-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Business Lawyer AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-contractors-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for Contractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/contractor-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Contractor AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-contractors-hub.html",
-      "status": "needs_review"
+      "title": "AEO for Contractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-contractors-hub.html",
-      "status": "needs_review"
+      "title": "GEO for contractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-search-for-contractors-hub.html",
-      "status": "needs_review"
+      "title": "AI Search for Contractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-construction-companies-hub.html",
-      "status": "needs_review"
+      "title": "AEO for Construction Companies | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-construction-companies-hub.html",
-      "status": "needs_review"
+      "title": "GEO for construction companies | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-construction-companies-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for Construction Companies | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-construction-companies-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for construction companies | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/plumber-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Plumber AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-plumbers-hub.html",
-      "status": "needs_review"
+      "title": "AEO for Plumbers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-plumbers-hub.html",
-      "status": "needs_review"
+      "title": "GEO for Plumbers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-plumbers-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for plumbers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/remodeling-contractor-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Remodeling Contractor AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-remodelers-hub.html",
-      "status": "needs_review"
+      "title": "AEO for Remodelers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/goe-for-contractors-hub.html",
-      "status": "needs_review"
+      "title": "GOE for contractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-contractors-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for contractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/general-contractor-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "General Contractor AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-general-contractors-hub.html",
-      "status": "needs_review"
+      "title": "AEO for general contractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-general-contractors-hub.html",
-      "status": "needs_review"
+      "title": "GEO for general contractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-general-contractors-hub.html",
-      "status": "needs_review"
+      "title": "Answer engine optimization for general contractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/restoration-company-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Restoration Company AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-restoration-company-hub.html",
-      "status": "needs_review"
+      "title": "AEO for Restoration Company | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-restoration-companies-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for restoration companies | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-dentists-hub.html",
-      "status": "needs_review"
+      "title": "GEO for dentists | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-dentists-hub.html",
-      "status": "needs_review"
+      "title": "AEO for dentists | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-dentists-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for dentists | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-dentists-hub.html",
-      "status": "needs_review"
+      "title": "generative engine optimization for dentists | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-dentists-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for Dentists | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-medical-practices-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for Medical Practices | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-medical-practice-hub.html",
-      "status": "needs_review"
+      "title": "AEO for medical practice | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-medical-practices-hub.html",
-      "status": "needs_review"
+      "title": "GEO for medical practices | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-ai-hub.html",
-      "status": "needs_review"
+      "title": "Website Optimization for AI | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-hub.html",
-      "status": "needs_review"
+      "title": "Answer Engine Optimization | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-hub.html",
-      "status": "needs_review"
+      "title": "generative engine optimization | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-small-businesses-hub.html",
-      "status": "needs_review"
+      "title": "AEO for Small Businesses | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-small-businesses-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for small businesses | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-small-businesses-hub.html",
-      "status": "needs_review"
+      "title": "generative engine optimization for small businesses | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-search-optimization-for-small-businesses-hub.html",
-      "status": "needs_review"
+      "title": "AI search optimization for small businesses | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-law-firms-hub.html",
-      "status": "needs_review"
+      "title": "AEO for Law Firms | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-law-firms-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for law firms | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-law-firms-hub.html",
-      "status": "needs_review"
+      "title": "generative engine optimization for law firms | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-search-optimization-for-law-firms-hub.html",
-      "status": "needs_review"
+      "title": "AI Search optimization for law firms | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-lawyers-hub.html",
-      "status": "needs_review"
+      "title": "AEO for lawyers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-lawyers-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for lawyers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-lawyers-hub.html",
-      "status": "needs_review"
+      "title": "generative engine optimization for lawyers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-search-optimization-for-lawyers-hub.html",
-      "status": "needs_review"
+      "title": "AI search optimization for lawyers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-home-service-businesses-hub.html",
-      "status": "needs_review"
+      "title": "AEO for Home Service Businesses | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-home-service-businesses-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for home service businesses | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-medical-practices-hub.html",
-      "status": "needs_review"
+      "title": "AEO for Medical Practices | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-medical-practices-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for medical practices | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-plastic-surgeons-hub.html",
-      "status": "needs_review"
+      "title": "AEO for plastic surgeons | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-plastic-surgeons-hub.html",
-      "status": "needs_review"
+      "title": "GEO for plastic surgeons | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-plastic-surgeons-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for plastic surgeons | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-plastic-surgeons-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for plastic surgeons | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-overviews-optimization-for-plastic-surgeons-hub.html",
-      "status": "needs_review"
+      "title": "AI overviews optimization for plastic surgeons | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-dental-practices-hub.html",
-      "status": "needs_review"
+      "title": "AEO for Dental Practices | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-dental-practices-hub.html",
-      "status": "needs_review"
+      "title": "GEO for dental practices | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-dental-practices-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for dental practices | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-dental-practices-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for dental practices | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-real-estate-agents-hub.html",
-      "status": "needs_review"
+      "title": "AEO for Real Estate Agents | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-real-estate-agents-hub.html",
-      "status": "needs_review"
+      "title": "GEO for real estate agents | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-real-estate-brokers-hub.html",
-      "status": "needs_review"
+      "title": "AEO for real estate brokers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-real-estate-agents-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for real estate agents | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-real-estate-agents-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for real estate agents | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-financial-advisors-hub.html",
-      "status": "needs_review"
+      "title": "AEO for Financial Advisors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-financial-advisors-hub.html",
-      "status": "needs_review"
+      "title": "GEO for financial advisors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-financial-advisors-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for financial advisors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-financial-advisors-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for financial advisors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-med-spas-hub.html",
-      "status": "needs_review"
+      "title": "AEO for Med Spas | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-beauty-spas-hub.html",
-      "status": "needs_review"
+      "title": "AEO for Beauty Spas | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-med-spas-hub.html",
-      "status": "needs_review"
+      "title": "GEO for Med Spas | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-med-spas-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for med spas | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-med-spas-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for med spas | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-accountants-hub.html",
-      "status": "needs_review"
+      "title": "AEO for Accountants | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-cpas-hub.html",
-      "status": "needs_review"
+      "title": "AEO for CPAs | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-accountants-hub.html",
-      "status": "needs_review"
+      "title": "GEO for accountants | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-cpas-hub.html",
-      "status": "needs_review"
+      "title": "GEO for CPAs | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-accountants-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for accountants | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-cpas-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for CPAs | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-accountants-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for accountants | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-cpas-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for cpas | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-insurance-agencies-hub.html",
-      "status": "needs_review"
+      "title": "AEO for Insurance Agencies | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-insurance-agents-hub.html",
-      "status": "needs_review"
+      "title": "AEO for insurance agents | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-insurance-agencies-hub.html",
-      "status": "needs_review"
+      "title": "GEO for insurance agencies | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-insurance-agents-hub.html",
-      "status": "needs_review"
+      "title": "GEO for insurance agents | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-insurance-agents-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for insurance agents | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-insurance-agencies-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for insurance agencies | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-insurance-agents-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for insurance agents | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-website-audit-hub.html",
-      "status": "needs_review"
+      "title": "AEO Website Audit | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-website-audit-hub.html",
-      "status": "needs_review"
+      "title": "GEO website audit | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-website-audit-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO website audit | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-content-strategy-hub.html",
-      "status": "needs_review"
+      "title": "AEO Content Strategy | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-content-strategy-hub.html",
-      "status": "needs_review"
+      "title": "GEO content strategy | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-content-strategy-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO content strategy | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-implementation-hub.html",
-      "status": "needs_review"
+      "title": "AEO Implementation | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-content-strategy-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization content strategy | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-local-businesses-hub.html",
-      "status": "needs_review"
+      "title": "AEO for Local Businesses | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-local-businesses-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for local businesses | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-local-businesses-hub.html",
-      "status": "needs_review"
+      "title": "generative engine optimization for local businesses | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-local-businesses-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for local businesses | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-overviews-optimization-for-local-businesses-hub.html",
-      "status": "needs_review"
+      "title": "AI overviews optimization for local businesses | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-local-businesses-hub.html",
-      "status": "needs_review"
+      "title": "website optimization for local businesses | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-multi-location-businesses-hub.html",
-      "status": "needs_review"
+      "title": "AEO for Multi-Location Businesses | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-small-businesses-hub.html",
-      "status": "needs_review"
+      "title": "GEO for Small Businesses | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-law-firms-hub.html",
-      "status": "needs_review"
+      "title": "GEO for Law Firms | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-home-service-businesses-hub.html",
-      "status": "needs_review"
+      "title": "GEO for Home Service Businesses | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-implementation-hub.html",
-      "status": "needs_review"
+      "title": "GEO Implementation | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-service-pages-hub.html",
-      "status": "needs_review"
+      "title": "GEO for Service Pages | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-practice-area-pages-hub.html",
-      "status": "needs_review"
+      "title": "GEO for Practice Area Pages | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-faq-pages-hub.html",
-      "status": "needs_review"
+      "title": "GEO for FAQ Pages | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-help-articles-hub.html",
-      "status": "needs_review"
+      "title": "GEO for Help Articles | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-knowledge-bases-hub.html",
-      "status": "needs_review"
+      "title": "GEO for Knowledge Bases | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-local-businesses-hub.html",
-      "status": "needs_review"
+      "title": "GEO for Local Businesses | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/geo-for-multi-location-businesses-hub.html",
-      "status": "needs_review"
+      "title": "GEO for Multi-Location Businesses | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-citation-optimization-hub.html",
-      "status": "needs_review"
+      "title": "AI Citation Optimization | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/faq-content-for-ai-hub.html",
-      "status": "needs_review"
+      "title": "FAQ Content for AI | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-citable-content-hub.html",
-      "status": "needs_review"
+      "title": "ai citable content | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-technical-audit-hub.html",
-      "status": "needs_review"
+      "title": "AI Technical Audit | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-ready-website-build-hub.html",
-      "status": "needs_review"
+      "title": "AI-Ready Website Build | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-ready-website-optimization-hub.html",
-      "status": "needs_review"
+      "title": "ai ready website optimization | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/business-website-creation-hub.html",
-      "status": "needs_review"
+      "title": "Business Website Creation | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/business-website-optimization-for-ai-hub.html",
-      "status": "needs_review"
+      "title": "business website optimization for AI | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-remodelers-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for remodelers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-remodelers-hub.html",
-      "status": "needs_review"
+      "title": "generative engine optimization for remodelers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-remodelers-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for remodelers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-overviews-optimization-for-remodelers-hub.html",
-      "status": "needs_review"
+      "title": "AI overviews optimization for remodelers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-remodelers-hub.html",
-      "status": "needs_review"
+      "title": "website optimization for remodelers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-roofers-hub.html",
-      "status": "needs_review"
+      "title": "AEO for roofers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-roofers-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for roofers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-roofers-hub.html",
-      "status": "needs_review"
+      "title": "generative engine optimization for roofers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-roofers-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for roofers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-roofers-hub.html",
-      "status": "needs_review"
+      "title": "website optimization for roofers | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-roofing-contractors-hub.html",
-      "status": "needs_review"
+      "title": "AEO for roofing contractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-roofing-contractors-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for roofing contractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-roofing-contractors-hub.html",
-      "status": "needs_review"
+      "title": "generative engine optimization for roofing contractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-roofing-contractors-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for roofing contractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-roofing-contractors-hub.html",
-      "status": "needs_review"
+      "title": "website optimization for roofing contractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-chiropractors-hub.html",
-      "status": "needs_review"
+      "title": "AEO for chiropractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-chiropractors-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for chiropractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-chiropractors-hub.html",
-      "status": "needs_review"
+      "title": "generative engine optimization for chiropractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-chiropractors-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for chiropractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-chiropractors-hub.html",
-      "status": "needs_review"
+      "title": "website optimization for chiropractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-veterinarians-hub.html",
-      "status": "needs_review"
+      "title": "AEO for veterinarians | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-veterinarians-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for veterinarians | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-veterinarians-hub.html",
-      "status": "needs_review"
+      "title": "generative engine optimization for veterinarians | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-veterinarians-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for veterinarians | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-veterinarians-hub.html",
-      "status": "needs_review"
+      "title": "website optimization for veterinarians | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-local-marketing-agencies-hub.html",
-      "status": "needs_review"
+      "title": "AEO for local marketing agencies | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-local-marketing-agencies-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for local marketing agencies | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-local-marketing-agencies-hub.html",
-      "status": "needs_review"
+      "title": "generative engine optimization for local marketing agencies | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-local-marketing-agencies-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for local marketing agencies | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-local-marketing-agencies-hub.html",
-      "status": "needs_review"
+      "title": "website optimization for local marketing agencies | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-automotive-dealerships-hub.html",
-      "status": "needs_review"
+      "title": "AEO for automotive dealerships | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-automotive-dealerships-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for automotive dealerships | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-automotive-dealerships-hub.html",
-      "status": "needs_review"
+      "title": "generative engine optimization for automotive dealerships | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-automotive-dealerships-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for automotive dealerships | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-automotive-dealerships-hub.html",
-      "status": "needs_review"
+      "title": "website optimization for automotive dealerships | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-pediatricians-hub.html",
-      "status": "needs_review"
+      "title": "AEO for pediatricians | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-pediatricians-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for pediatricians | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-pediatricians-hub.html",
-      "status": "needs_review"
+      "title": "generative engine optimization for pediatricians | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-pediatricians-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for pediatricians | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-pediatricians-hub.html",
-      "status": "needs_review"
+      "title": "website optimization for pediatricians | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-pool-contractors-hub.html",
-      "status": "needs_review"
+      "title": "AEO for pool contractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-pool-contractors-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for pool contractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-pool-contractors-hub.html",
-      "status": "needs_review"
+      "title": "generative engine optimization for pool contractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-pool-contractors-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for pool contractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-pool-contractors-hub.html",
-      "status": "needs_review"
+      "title": "website optimization for pool contractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-optometrists-hub.html",
-      "status": "needs_review"
+      "title": "AEO for optometrists | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-optometrists-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for optometrists | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-optometrists-hub.html",
-      "status": "needs_review"
+      "title": "generative engine optimization for optometrists | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-optometrists-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for optometrists | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-overviews-optimization-for-optometrists-hub.html",
-      "status": "needs_review"
+      "title": "AI overviews optimization for optometrists | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-optometrists-hub.html",
-      "status": "needs_review"
+      "title": "website optimization for optometrists | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-cosmetic-surgeons-hub.html",
-      "status": "needs_review"
+      "title": "AEO for cosmetic surgeons | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-cosmetic-surgeons-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for cosmetic surgeons | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-cosmetic-surgeons-hub.html",
-      "status": "needs_review"
+      "title": "generative engine optimization for cosmetic surgeons | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-cosmetic-surgeons-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for cosmetic surgeons | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-cosmetic-surgeons-hub.html",
-      "status": "needs_review"
+      "title": "website optimization for cosmetic surgeons | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-electricians-hub.html",
-      "status": "needs_review"
+      "title": "AEO for electricians | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-electricians-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for electricians | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-electricians-hub.html",
-      "status": "needs_review"
+      "title": "generative engine optimization for electricians | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-electricians-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for electricians | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-electricians-hub.html",
-      "status": "needs_review"
+      "title": "website optimization for electricians | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-pest-control-hub.html",
-      "status": "needs_review"
+      "title": "AEO for pest control | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-pest-control-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for pest control | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-pest-control-hub.html",
-      "status": "needs_review"
+      "title": "generative engine optimization for pest control | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-pest-control-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for pest control | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-pest-control-hub.html",
-      "status": "needs_review"
+      "title": "website optimization for pest control | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/aeo-for-weight-loss-clinics-hub.html",
-      "status": "needs_review"
+      "title": "AEO for weight loss clinics | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/answer-engine-optimization-for-weight-loss-clinics-hub.html",
-      "status": "needs_review"
+      "title": "answer engine optimization for weight loss clinics | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-weight-loss-clinics-hub.html",
-      "status": "needs_review"
+      "title": "generative engine optimization for weight loss clinics | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-weight-loss-clinics-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for weight loss clinics | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-overviews-optimization-for-weight-loss-clinics-hub.html",
-      "status": "needs_review"
+      "title": "AI overviews optimization for weight loss clinics | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-weight-loss-clinics-hub.html",
-      "status": "needs_review"
+      "title": "website optimization for weight loss clinics | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/electrician-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Electrician AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/hvac-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "HVAC AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/roofer-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Roofer AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/landscaper-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Landscaper AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/pest-control-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Pest Control AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/garage-door-company-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Garage Door Company AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-audit-for-aeo-hub.html",
-      "status": "needs_review"
+      "title": "Website Audit for AEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-audit-for-geo-hub.html",
-      "status": "needs_review"
+      "title": "Website Audit for GEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-audit-for-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Website Audit for AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-audit-for-google-ai-overviews-hub.html",
-      "status": "needs_review"
+      "title": "Website Audit for Google AI Overviews | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-aeo-hub.html",
-      "status": "needs_review"
+      "title": "Website Optimization for AEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-geo-hub.html",
-      "status": "needs_review"
+      "title": "Website Optimization for GEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Website Optimization for AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-optimization-for-google-ai-overviews-hub.html",
-      "status": "needs_review"
+      "title": "Website Optimization for Google AI Overviews | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-optimized-website-for-aeo-hub.html",
-      "status": "needs_review"
+      "title": "AI-Optimized Website for AEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-optimized-website-for-geo-hub.html",
-      "status": "needs_review"
+      "title": "AI-Optimized Website for GEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-optimized-website-for-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "AI-Optimized Website for AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-search-optimization-for-aeo-hub.html",
-      "status": "needs_review"
+      "title": "AI Search Optimization for AEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-search-optimization-for-geo-hub.html",
-      "status": "needs_review"
+      "title": "AI Search Optimization for GEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-search-optimization-for-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "AI Search Optimization for AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-contractors-hub.html",
-      "status": "needs_review"
+      "title": "Generative Engine Optimization for Contractors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-home-service-businesses-hub.html",
-      "status": "needs_review"
+      "title": "Generative Engine Optimization for Home Service Businesses | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-medical-practices-hub.html",
-      "status": "needs_review"
+      "title": "Generative Engine Optimization for Medical Practices | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-dental-practices-hub.html",
-      "status": "needs_review"
+      "title": "Generative Engine Optimization for Dental Practices | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-real-estate-agents-hub.html",
-      "status": "needs_review"
+      "title": "Generative Engine Optimization for Real Estate Agents | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-financial-advisors-hub.html",
-      "status": "needs_review"
+      "title": "Generative Engine Optimization for Financial Advisors | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-med-spas-hub.html",
-      "status": "needs_review"
+      "title": "Generative Engine Optimization for Med Spas | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-accountants-hub.html",
-      "status": "needs_review"
+      "title": "Generative Engine Optimization for Accountants | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/generative-engine-optimization-for-insurance-agencies-hub.html",
-      "status": "needs_review"
+      "title": "Generative Engine Optimization for Insurance Agencies | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-small-businesses-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for Small Businesses | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-seo-for-home-service-businesses-hub.html",
-      "status": "needs_review"
+      "title": "AI SEO for Home Service Businesses | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-search-content-strategy-for-aeo-hub.html",
-      "status": "needs_review"
+      "title": "AI Search Content Strategy for AEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-search-content-strategy-for-geo-hub.html",
-      "status": "needs_review"
+      "title": "AI Search Content Strategy for GEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-search-content-strategy-for-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "AI Search Content Strategy for AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-website-optimization-for-aeo-hub.html",
-      "status": "needs_review"
+      "title": "AI Website Optimization for AEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-website-optimization-for-geo-hub.html",
-      "status": "needs_review"
+      "title": "AI Website Optimization for GEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-website-optimization-for-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "AI Website Optimization for AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/faq-content-writing-for-ai-hub.html",
-      "status": "needs_review"
+      "title": "FAQ Content Writing for AI | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/faq-content-writing-for-aeo-hub.html",
-      "status": "needs_review"
+      "title": "FAQ Content Writing for AEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/faq-content-writing-for-geo-hub.html",
-      "status": "needs_review"
+      "title": "FAQ Content Writing for GEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/faq-content-writing-for-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "FAQ Content Writing for AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-search-content-writing-for-aeo-hub.html",
-      "status": "needs_review"
+      "title": "AI Search Content Writing for AEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-search-content-writing-for-geo-hub.html",
-      "status": "needs_review"
+      "title": "AI Search Content Writing for GEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/ai-search-content-writing-for-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "AI Search Content Writing for AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/customer-query-research-for-aeo-hub.html",
-      "status": "needs_review"
+      "title": "Customer Query Research for AEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/customer-query-research-for-geo-hub.html",
-      "status": "needs_review"
+      "title": "Customer Query Research for GEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/customer-query-research-for-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Customer Query Research for AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/people-also-ask-content-creation-for-aeo-hub.html",
-      "status": "needs_review"
+      "title": "People Also Ask Content Creation for AEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/people-also-ask-content-creation-for-geo-hub.html",
-      "status": "needs_review"
+      "title": "People Also Ask Content Creation for GEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/people-also-ask-content-creation-for-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "People Also Ask Content Creation for AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/topic-cluster-creation-for-ai-hub.html",
-      "status": "needs_review"
+      "title": "Topic Cluster Creation for AI | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/topic-cluster-creation-for-aeo-hub.html",
-      "status": "needs_review"
+      "title": "Topic Cluster Creation for AEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/topic-cluster-creation-for-geo-hub.html",
-      "status": "needs_review"
+      "title": "Topic Cluster Creation for GEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/topic-cluster-creation-for-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Topic Cluster Creation for AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/schema-markup-implementation-for-aeo-hub.html",
-      "status": "needs_review"
+      "title": "Schema Markup Implementation for AEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/schema-markup-implementation-for-geo-hub.html",
-      "status": "needs_review"
+      "title": "Schema Markup Implementation for GEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/schema-markup-implementation-for-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Schema Markup Implementation for AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-entity-optimization-for-ai-hub.html",
-      "status": "needs_review"
+      "title": "Website Entity Optimization for AI | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-entity-optimization-for-aeo-hub.html",
-      "status": "needs_review"
+      "title": "Website Entity Optimization for AEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-entity-optimization-for-geo-hub.html",
-      "status": "needs_review"
+      "title": "Website Entity Optimization for GEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/website-entity-optimization-for-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Website Entity Optimization for AI SEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/local-ai-optimization-for-aeo-hub.html",
-      "status": "needs_review"
+      "title": "Local AI Optimization for AEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/local-ai-optimization-for-geo-hub.html",
-      "status": "needs_review"
+      "title": "Local AI Optimization for GEO | AI Visibility Solutions",
+      "summary": ""
     },
     {
       "path": "webpages/local-ai-optimization-for-ai-seo-hub.html",
-      "status": "needs_review"
+      "title": "Local AI Optimization for AI SEO | AI Visibility Solutions",
+      "summary": ""
     }
-  ]
+  ],
+  "noindex": []
 }
