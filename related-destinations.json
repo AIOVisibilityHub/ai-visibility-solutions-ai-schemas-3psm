@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:53:53.771Z",
+  "generatedAt": "2026-11-13T00:43:56.497Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -13,7 +13,11 @@
     "name": "AI Visibility Solutions",
     "canonicalUrl": "https://ai-data.aiovisibility.com",
     "primaryWebsiteUrl": "aiovisibility.com",
-    "aiDataHub": "https://ai-data.aiovisibility.com/ai-data.html"
+    "aiDataHub": "https://ai-data.aiovisibility.com/ai-data.html",
+    "sameAs": [
+      "https://www.youtube.com/watch?v=7j0RyhGKwMg",
+      "https://www.youtube.com/channel/UCy1j-Cdj_-o07udzrh17UFw"
+    ]
   },
   "related": [
     {
@@ -37,6 +41,16 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "http://ai-data.aiovisibility.com/ai-data.html"
+    },
+    {
+      "role": "same-as",
+      "label": "AI Visibility Solutions on youtube.com",
+      "url": "https://www.youtube.com/watch?v=7j0RyhGKwMg"
+    },
+    {
+      "role": "same-as",
+      "label": "AI Visibility Solutions on youtube.com",
+      "url": "https://www.youtube.com/channel/UCy1j-Cdj_-o07udzrh17UFw"
     }
   ],
   "destinations": {

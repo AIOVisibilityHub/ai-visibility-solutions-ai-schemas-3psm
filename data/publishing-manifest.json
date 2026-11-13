@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:53:53.833Z",
+  "generatedAt": "2026-11-13T00:43:56.534Z",
   "client": {
     "name": "AI Visibility Solutions",
     "canonicalUrl": "https://ai-data.aiovisibility.com",
@@ -416,23 +416,23 @@
   },
   "package": {
     "totalFiles": 3183,
-    "totalBytes": 12443344,
+    "totalBytes": 12538957,
     "stats": {
-      "qna": 0,
       "faqs": 2853,
-      "press": 0,
-      "total": 3449,
-      "awards": 0,
-      "reviews": 0,
-      "products": 0,
-      "research": 0,
+      "helpArticles": 249,
       "services": 49,
       "webpages": 0,
-      "locations": 1,
       "personnel": 1,
+      "products": 0,
+      "locations": 1,
+      "awards": 0,
       "caseStudies": 0,
-      "helpArticles": 249,
-      "organization": 1
+      "organization": 1,
+      "press": 0,
+      "reviews": 0,
+      "qna": 0,
+      "research": 0,
+      "total": 3449
     }
   },
   "entrypoints": {
@@ -16243,67 +16243,67 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 21264,
+        "bytes": 27091,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 43319,
+        "bytes": 49572,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 249717,
+        "bytes": 268484,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 20039,
+        "bytes": 26181,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2108482,
+        "bytes": 2114635,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 21247,
+        "bytes": 28191,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 26233,
+        "bytes": 32337,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 415876,
+        "bytes": 422079,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 214934,
+        "bytes": 221207,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 128794,
+        "bytes": 135038,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 20130,
+        "bytes": 26410,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 35551,
+        "bytes": 41725,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 23088,
+        "bytes": 29370,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -16315,7 +16315,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 12621,
+        "bytes": 12832,
         "purpose": "LLM hint"
       },
       {
@@ -16335,32 +16335,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1606,
+        "bytes": 2068,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1508071,
+        "bytes": 1508521,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 403308,
+        "bytes": 403519,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 403308,
+        "bytes": 403519,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 12635,
+        "bytes": 12846,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 547002,
+        "bytes": 547213,
         "purpose": "Repository README"
       },
       {
